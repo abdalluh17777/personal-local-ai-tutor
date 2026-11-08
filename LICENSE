@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-This license covers the source code of Personal Tutor. It does NOT cover:
-
-  * the course materials in the materials/ folder, which keep their original
-    Creative Commons licenses (several are NonCommercial). See
-    materials/README.md for each source, its license and its attribution;
-  * the AI models and tools downloaded by the installer, which are used under
-    their own licenses (listed in README.md).
