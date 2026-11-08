@@ -1,0 +1,31 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+9.4: Factorial Designs (Summary)
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/09%3A_Factorial_Designs/9.04%3A_Factorial_Designs_(Summary)
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform
+
+## Key Takeaways
+- Researchers often include multiple independent variables in their experiments. The most common approach is the factorial design, in which each level of one independent variable is combined with each level of the others to create all possible conditions.
+- Each independent variable can be manipulated between-subjects or within-subjects.
+- Non-manipulated independent variables (gender) can be included in factorial designs, however, they limit the causal conclusions that can be made about the effects of the non-manipulated variable on the dependent variable.
+- In a factorial design, the main effect of an independent variable is its overall effect averaged across all other independent variables. There is one main effect for each independent variable.
+- There is an interaction between two independent variables when the effect of one depends on the level of the other. Some of the most interesting research questions and results in psychology are specifically about interactions.
+- A simple effects analysis provides a means for researchers to break down interactions by examining the effect of each independent variable at each level of the other independent variable.
+## References
+Brown, H. D., Kosslyn, S. M., Delamater, B., Fama, A., & Barsky, A. J. (1999). Perceptual and memory biases for health-related information in hypochondriacal individuals. *Journal of Psychosomatic Research, 47*, 67–78.
+Gilliland, K. (1980). The interactive effect of introversion-extraversion with caffeine induced arousal on verbal performance. *Journal of Research in Personality, 14*, 482–492.
+MacDonald, T. K., & Martineau, A. M. (2002). Self-esteem, mood, and intentions to use condoms: When does low self-esteem lead to risky health behaviors? *Journal of Experimental Social Psychology, 38*, 299–306.
+Schnall, S., Benton, J., & Harvey, S. (2008). With a clean conscience: Cleanliness reduces the severity of moral judgments. *Psychological Science, 19*(12), 1219-1222. doi: 10.1111/j.1467-9280.2008.02227.x
+Schnall, S., Haidt, J., Clore, G. L., & Jordan, A. H. (2008). Disgust as embodied moral judgment. *Personality and Social Psychology Bulletin, 34*, 1096–1109.
+### Exercises
+- Practice: Return to the five article titles presented at the beginning of this section. For each one, identify the independent variables and the dependent variable.
+- Practice: Create a factorial design table for an experiment on the effects of room temperature and noise level on performance on the MCAT. Be sure to indicate whether each independent variable will be manipulated between-subjects or within-subjects and explain why.
+- Practice: Sketch 8 different bar graphs to depict each of the following possible results in a 2 x 2 factorial experiment:
+  - No main effect of A; no main effect of B; no interaction
+  - Main effect of A; no main effect of B; no interaction
+  - No main effect of A; main effect of B; no interaction
+  - Main effect of A; main effect of B; no interaction
+  - Main effect of A; main effect of B; interaction
+  - Main effect of A; no main effect of B; interaction
+  - No main effect of A; main effect of B; interaction
+  - No main effect of A; no main effect of B; interaction
+This page titled 9.4: Factorial Designs (Summary) was last modified on Fri, 11 Nov 2022 07:00:51 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform.

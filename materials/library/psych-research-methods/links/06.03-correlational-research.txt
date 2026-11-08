@@ -1,0 +1,5 @@
+http://rpsychologist.com/d3/correlation/ | http://rpsychologist.com/d3/correlation
+http://www.tylervigen.com | http://www.tylervigen.com
+http://tylervigen.com/spurious-correlations | http://tylervigen.com/spurious-correlations
+http://jonathan.mueller.faculty.noctrl.edu/100/correlation_or_causation.htm | http://jonathan.mueller.faculty.noctrl.edu/100/correlation_or_causation.htm
+source content | https://kpu.pressbooks.pub/psychmethods4e

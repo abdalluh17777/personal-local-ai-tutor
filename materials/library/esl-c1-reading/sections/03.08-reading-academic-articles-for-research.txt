@@ -1,0 +1,64 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+3.8: Reading Academic Articles for Research
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.08%3A_Reading_Academic_Articles_for_Research
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Academic and popular sources
+When Lily started her research, she found many sources. Some were very short and quick to read, and others were extremely difficult. At first she felt overwhelmed trying to figure out which articles she needed to read, and which ones would be most useful for her paper. In order to answer that question for Lily’s research (and yours), it’s useful to think about what kinds of articles you can find in a database. Figure 3.8.1 shows a student doing research online.
+[Image: College student looking at a laptop with a serious expression]
+Figure : "Working Outside" by CollegeDegrees360 is marked with CC BY-SA 2.0.
+As you learned in 3.5: Finding Your Topic and Research Question, there are several kinds of sources in a database. The most common are academic sources and popular sources. Academic sources (also called scholarly sources) contain original research and are written for other academic readers. Popular sources include newspapers and magazines, and are written for a general audience.
+Table 3.8.1 covers the characteristics of scholarly and popular sources
+Table 3.8.1 Comparison of academic and popular sources by authors, readers, purpose, style, peer review, and citations
+| Feature | Academic | Popular |
+| Content | Contains original research data such as scientific studies | Covers popular interest topics or summarizes research done by others |
+| Authors | Expert scholars (professors or researchers with graduate degrees) with their credentials listed | Not experts, often journalists or writers |
+| Readers | Scholars, researchers | General public |
+| Purpose | To share research findings and expand knowledge | To inform or entertain |
+| Style | Straightforward design with complex language | Flashy, eye catching design with accessible language |
+| Citations | Contains citations | Few or no citations |
+| Peer-review | Articles are peer-reviewed. This means that other scholars review the work to make sure that it is accurate. | Articles are not peer-reviewed. |
+Both kinds of sources can be useful in your research. Scholarly sources may have more specific and researched facts about your topic, while popular sources may contain current news and opinions or examples that you can use in your research paper. Check with your instructor to see if there are requirements about what kinds of sources to use for your own assignment.
+## Reading academic articles
+You have already read a lot of popular sources and you already know how to read a general article and find information in it. However, reading academic articles is different. These are long and may feel very difficult at first. This guide will help you to understand the structure of an academic article and decide if it will work for your research question.
+## Parts of an academic journal article
+Popular sources generally have one “story” from the beginning to the end. There may be subheadings to help you organize the main points, but those subheadings will be related to the information from the article.
+Academic articles are different. They have a specific structure and each section is separate. Here are the most common sections that you will find in an academic article in the sciences or social sciences (although not every article will contain each section):
+- Title: a concise and descriptive title. This lets you know what the article is about.
+- Author Information: All authors who contributed to the article are listed. Often their affiliated institutions are included here or as a footnote.
+- Abstract: a short summary of the article. The abstract should share the research findings.
+- Introduction or Background: an overview of the research area that lays the foundation for the article's research.
+- Methods or Methodology: This describes how the research study was performed.
+- Results: a description of the results obtained. It presents the results without providing an interpretation. This often includes figures and tables.
+- Discussion: This section analyses and interprets the results presented in the Results section. New data is never presented.
+- Conclusion: This is a short section that summarizes the findings and significance of the article. The conclusion is omitted in some articles.
+- References: A list of all articles cited in the article. This section is sometimes labeled Bibliography, Works Cited, or Literature Cited.
+## How to read each section
+Now that you know the main parts of an academic article, you may wonder if you need to read each section in the same way, and if you need to read everything slowly and carefully.
+The answer to this question is no! Academic sources can be very long and technical. It is easy to get lost in reading. For that reason, you should have a plan for reading and deciding what to use in an article. Table 3.8.2 gives some ideas of how to read each section.
+Table 3.8.2 How to read each section of an academic article and questions to ask while reading
+| Part of the article | How to read | Questions to ask yourself while you are reading |
+| Title | Carefully | Is this topic related to my research question? |
+| Authors | Quickly | Do they have strong credentials that make them credible authors? |
+| Abstract | Carefully | What is the main point of their research or this article? | Is this related to my research question? | If you use this paper in your research, do not cite from the abstract. Instead, find the relevant part of the article. |
+| Introduction | Somewhat carefully | Why are they doing their research? | How does this connect to my topic? | Can I cite this information to provide background for my own research paper? |
+| Background or Literature Review | Carefully | What have others already said about my topic? | Can I cite this information to support a point in my own research paper? |
+| Methods or Methodology | Very quickly | This information is provided for other researchers who want to do a similar project or for people to evaluate whether or not the research study covered everything it needed to. It may be difficult to understand if you have not studied this field. That’s okay. Just move on to the next section. |
+| Results | Very quickly | This is mostly for other researchers. Just move on to the next section. |
+| Discussion | Carefully | Can I understand and summarize this information? | What did the researchers learn? | Can I cite this information to support a point in my own research paper? |
+| Conclusion | Carefully | Is their summary of the main points of this article the same as mine? | Can I cite this information to support a point in my own research paper? |
+| References | Very quickly | Is there anything else here that I want to read? |
+### Interactive Element
+## Let's try a real article
+Lily found an academic article entitled “Development and Implementation of a Culturally Responsive Mentoring Program for Faculty and Staff of Color” in her library database. We’re going to look at each part of it. As you listen, you can follow along with the article. Downloadable version of the article discussed in the video.
+Watch this video to see how to analyze it.
+[Interactive exercise: https://www.3cmediasolutions.org/privid/373772]
+## Licenses and Attributions
+## Works Cited
+Han, I., and A. J. Onchwari. “Development and Implementation of a Culturally Responsive Mentoring Program for Faculty and Staff of Color”. *Interdisciplinary Journal of Partnership Studies*, vol. 5, no. 2, July 2018, p. Article 3, doi:10.24926/ijps.v5i2.1006.
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Table 3.8.1 was adapted from Scholarly and Popular Sources in *Library Skills for 2nd Year Biological Sciences* by Lauren Stieglitz. License: CC BY NC.
+Bulleted list in "Parts of a Journal Article" was adapted from __Anatomy of a Journal Article__ in *Library Skills for 2nd Year Biological Sciences* by Lauren Stieglitz. License: CC BY NC.
+Article Han and Onchwari's article “Development and Implementation of a Culturally Responsive Mentoring Program for Faculty and Staff of Color” used in the video example is licensed CC BY NC.
+This page titled 3.8: Reading Academic Articles for Research was last modified on Sun, 09 Mar 2025 17:17:29 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

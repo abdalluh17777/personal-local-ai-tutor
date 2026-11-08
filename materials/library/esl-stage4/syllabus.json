@@ -1,0 +1,80 @@
+{
+  "title": "English Stage 4 (C1-C2): English for Psychology",
+  "short_title": "English Stage 4 (Psychology)",
+  "level": "Advanced, C1 to C2 · English for psychology",
+  "description": "English for studying psychology at university: reading about psychology as a science, research ethics, measurement, research designs and statistics, and writing and presenting research in APA style, from an open university textbook.",
+  "books_intro": "Lessons follow an open university textbook of psychology research methods:",
+  "after": "After this stage: read psychology research articles and write in APA style on your own. Keep studying PSYC 110 and read the free OpenStax Psychology 2e textbook.",
+  "books": {
+    "psych-research-methods": {
+      "title": "Research Methods in Psychology (4th American edition)",
+      "author": "Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler and Dana C. Leighton",
+      "license": "CC BY-NC-SA 4.0",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)"
+    }
+  },
+  "units": [
+    {
+      "title": "Unit 1: Psychology as a Science",
+      "lessons": [
+        {"title": "Methods of Knowing and Understanding Science", "kind": "reading", "sources": ["psych-research-methods/sections/01.01-prelude-to-the-science-of-psychology.txt", "psych-research-methods/sections/01.02-methods-of-knowing.txt", "psych-research-methods/sections/01.03-understanding-science.txt"]},
+        {"title": "The Goals of Science; Science and Common Sense", "kind": "reading", "sources": ["psych-research-methods/sections/01.04-goals-of-science.txt", "psych-research-methods/sections/01.05-science-and-common-sense.txt"]},
+        {"title": "Experimental and Clinical Psychologists", "kind": "reading", "sources": ["psych-research-methods/sections/01.06-experimental-and-clinical-psychologists.txt", "psych-research-methods/sections/01.07-the-science-of-psychology-summary.txt"]},
+        {"title": "The Research Cycle and Finding a Research Topic", "kind": "reading and writing", "sources": ["psych-research-methods/sections/02.01-prelude-to-the-scientific-method.txt", "psych-research-methods/sections/02.02-a-model-of-scientific-research-in-psychology.txt", "psych-research-methods/sections/02.03-finding-a-research-topic.txt"]},
+        {"title": "Research Questions and Hypotheses", "kind": "reading and writing", "sources": ["psych-research-methods/sections/02.04-generating-good-research-questions.txt", "psych-research-methods/sections/02.05-developing-a-hypothesis.txt"]},
+        {"title": "Designing a Study, Analyzing Data and Reporting Results", "kind": "reading and writing", "sources": ["psych-research-methods/sections/02.06-designing-a-research-study.txt", "psych-research-methods/sections/02.07-analyzing-the-data.txt", "psych-research-methods/sections/02.08-drawing-conclusions-and-reporting-the-results.txt", "psych-research-methods/sections/02.09-overview-of-the-scientific-method-summary.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 2: Research Ethics and Measurement",
+      "lessons": [
+        {"title": "The Moral Foundations of Ethical Research", "kind": "reading", "sources": ["psych-research-methods/sections/03.01-prelude-to-research-ethics.txt", "psych-research-methods/sections/03.02-moral-foundations-of-ethical-research.txt"]},
+        {"title": "From Moral Principles to Ethics Codes", "kind": "reading", "sources": ["psych-research-methods/sections/03.03-from-moral-principles-to-ethics-codes.txt"]},
+        {"title": "Putting Ethics into Practice", "kind": "reading and writing", "sources": ["psych-research-methods/sections/03.04-putting-ethics-into-practice.txt", "psych-research-methods/sections/03.05-research-ethics-summary.txt"]},
+        {"title": "Understanding Psychological Measurement", "kind": "reading", "sources": ["psych-research-methods/sections/04.01-prelude-to-psychological-measurement.txt", "psych-research-methods/sections/04.02-understanding-psychological-measurement.txt"]},
+        {"title": "Reliability and Validity", "kind": "reading", "sources": ["psych-research-methods/sections/04.03-reliability-and-validity-of-measurement.txt"]},
+        {"title": "Practical Strategies for Psychological Measurement", "kind": "reading and writing", "sources": ["psych-research-methods/sections/04.04-practical-strategies-for-psychological-measurement.txt", "psych-research-methods/sections/04.05-psychological-measurement-summary.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 3: Research Designs",
+      "lessons": [
+        {"title": "Experiment Basics", "kind": "reading", "sources": ["psych-research-methods/sections/05.01-prelude-to-experimental-research.txt", "psych-research-methods/sections/05.02-experiment-basics.txt"]},
+        {"title": "Experimental Design: Between and Within Subjects", "kind": "reading", "sources": ["psych-research-methods/sections/05.03-experimental-design.txt"]},
+        {"title": "Experimentation and Validity", "kind": "reading", "sources": ["psych-research-methods/sections/05.04-experimentation-and-validity.txt"]},
+        {"title": "Practical Considerations in Experiments", "kind": "reading and writing", "sources": ["psych-research-methods/sections/05.05-practical-considerations.txt", "psych-research-methods/sections/05.06-experimental-research-summary.txt"]},
+        {"title": "Non-Experimental and Correlational Research", "kind": "reading", "sources": ["psych-research-methods/sections/06.01-prelude-to-nonexperimental-research.txt", "psych-research-methods/sections/06.02-overview-of-non-experimental-research.txt", "psych-research-methods/sections/06.03-correlational-research.txt"]},
+        {"title": "Complex Correlation", "kind": "reading", "sources": ["psych-research-methods/sections/06.04-complex-correlation.txt"]},
+        {"title": "Qualitative Research", "kind": "reading", "sources": ["psych-research-methods/sections/06.05-qualitative-research.txt"]},
+        {"title": "Observational Research", "kind": "reading and writing", "sources": ["psych-research-methods/sections/06.06-observational-research.txt", "psych-research-methods/sections/06.07-non-experimental-research-summary.txt"]},
+        {"title": "Survey Research: Constructing Surveys", "kind": "reading and writing", "sources": ["psych-research-methods/sections/07.01-prelude-to-survey-research.txt", "psych-research-methods/sections/07.02-overview-of-survey-research.txt", "psych-research-methods/sections/07.03-constructing-surveys.txt"]},
+        {"title": "Conducting Surveys", "kind": "reading", "sources": ["psych-research-methods/sections/07.04-conducting-surveys.txt", "psych-research-methods/sections/07.05-survey-research-summary.txt"]},
+        {"title": "Quasi-Experimental Research", "kind": "reading", "sources": ["psych-research-methods/sections/08.01-prelude-to-quasi-experimental-research.txt", "psych-research-methods/sections/08.02-one-group-designs.txt", "psych-research-methods/sections/08.03-non-equivalent-groups-designs.txt", "psych-research-methods/sections/08.04-quasi-experimental-research-summary.txt"]},
+        {"title": "Factorial Designs", "kind": "reading", "sources": ["psych-research-methods/sections/09.01-factorial-designs.txt", "psych-research-methods/sections/09.02-setting-up-a-factorial-experiment.txt", "psych-research-methods/sections/09.03-interpreting-the-results-of-a-factorial-experiment.txt", "psych-research-methods/sections/09.04-factorial-designs-summary.txt"]},
+        {"title": "Single-Subject Research", "kind": "reading", "sources": ["psych-research-methods/sections/10.01-single-subject-research.txt", "psych-research-methods/sections/10.02-overview-of-single-subject-research.txt", "psych-research-methods/sections/10.03-single-subject-research-designs.txt"]},
+        {"title": "The Single-Subject Versus Group Debate", "kind": "reading and writing", "sources": ["psych-research-methods/sections/10.04-the-single-subject-versus-group-debate.txt", "psych-research-methods/sections/10.05-single-subject-research-summary.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 4: Statistics in Research Reports",
+      "lessons": [
+        {"title": "Describing Single Variables", "kind": "reading", "sources": ["psych-research-methods/sections/12.01-describing-single-variables.txt"]},
+        {"title": "Describing Statistical Relationships", "kind": "reading", "sources": ["psych-research-methods/sections/12.02-describing-statistical-relationships.txt"]},
+        {"title": "Expressing Your Results and Conducting Your Analyses", "kind": "reading and writing", "sources": ["psych-research-methods/sections/12.03-expressing-your-results.txt", "psych-research-methods/sections/12.04-conducting-your-analyses.txt", "psych-research-methods/sections/12.05-descriptive-statistics-summary.txt"]},
+        {"title": "Understanding Null Hypothesis Testing", "kind": "reading", "sources": ["psych-research-methods/sections/13.01-prelude-to-inferential-statistics.txt", "psych-research-methods/sections/13.02-understanding-null-hypothesis-testing.txt"]},
+        {"title": "Some Basic Null Hypothesis Tests", "kind": "reading and writing", "sources": ["psych-research-methods/sections/13.03-some-basic-null-hypothesis-tests.txt"]},
+        {"title": "Additional Considerations, the Replicability Crisis and Open Science", "kind": "reading", "sources": ["psych-research-methods/sections/13.04-additional-considerations.txt", "psych-research-methods/sections/13.05-from-the-replicability-crisis-to-open-science-practices.txt", "psych-research-methods/sections/13.06-inferential-statistics-summary.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 5: Writing and Presenting Research in APA Style",
+      "lessons": [
+        {"title": "APA Style: Its Levels, References and Citations", "kind": "writing", "sources": ["psych-research-methods/sections/11.01-prelude-to-presenting-your-research.txt", "psych-research-methods/sections/11.02-american-psychological-association-apa-style.txt"]},
+        {"title": "The APA Research Report 1: Title Page, Abstract and Introduction", "kind": "writing", "sources": ["psych-research-methods/sections/11.03-writing-a-research-report-in-american-psychological-associat.txt#Sections of a Research Report..Introduction"]},
+        {"title": "The APA Research Report 2: Method, Results, Discussion and References", "kind": "writing", "sources": ["psych-research-methods/sections/11.03-writing-a-research-report-in-american-psychological-associat.txt#Method..Sample APA-Style Research Report"]},
+        {"title": "Posters and Talks", "kind": "speaking and writing", "sources": ["psych-research-methods/sections/11.04-other-presentation-formats.txt", "psych-research-methods/sections/11.05-presenting-your-research-summary.txt"]},
+        {"title": "Final Project: Your Research Proposal in APA Style", "kind": "writing project", "sources": ["psych-research-methods/sections/02.09-overview-of-the-scientific-method-summary.txt", "psych-research-methods/sections/11.05-presenting-your-research-summary.txt"]}
+      ]
+    }
+  ]
+}

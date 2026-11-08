@@ -1,0 +1,52 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.8: "Known to New" Sentence Structure
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.08%3A_Known_to_New_Sentence_Structure
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Sentence structure and cohesion
+How does the structure of your sentences help make it easier for readers to understand your paragraph?
+## Noticing cohesion
+Let's read two paragraphs with the same words in each sentence but different structure.
+Notice this!
+Read these two passages from a summary/response essay. Which is easier for you to understand?
+Passage 1:
+"Did you know that what others assume about you can affect how well you perform on a test? In a chapter in the textbook *The Psychology of Gender* by Kristy McRaney and her colleagues called “Stereotype Threat" they discuss this. When someone is stereotyped, is aware of the stereotype, and is taking part in an activity related to the stereotype that situation is called stereotype threat according to McRaney and her colleagues who discuss a number of studies to explain the phenomenon (par. 1)."
+Passage 2:
+"Did you know that what others assume about you can affect how well you perform on a test? This is just one of the findings reported by Kristy McRaney and her colleagues in “Stereotype Threat,” a chapter in the textbook *The Psychology of Gender.* In this chapter, McRaney and her colleagues discuss a number of studies that examine the phenomenon known as stereotype threat: a situation in which someone is stereotyped, is aware of the stereotype, and is taking part in an activity related to the stereotype (par. 1)."
+## Known to new structure
+Most people will choose the second example because it follows the expectations of sentence order in English. In English, we generally start a sentence with information that a reader or listener always knows, and end the sentence with new information about that topic. We call this the "known new structure". This structure makes it easier for readers or listeners to first understand the general idea and then focus in on what new information is being added. In contrast, the first example is confusing because it jumps around from topic to topic.
+There are two main ways that you can use the known to new structure. The first is the chain and the second is the fork.
+## Chain pattern
+The example of the known to new structure above shows the chain pattern (see Figure 2.8.1 for a picture of a chain). In the chain pattern, the end of one sentence links directly to the next sentence.
+[Image: metal chain with each link connected to the next]
+Figure : "chain" by Mark Deckers is licensed under CC BY-NC-ND 2.0
+Let's take a closer look at the passage. The words in bold in square brackets explain whether the previous phrase is known information or new information.
+"Did you know that what others assume about you can affect how well you perform on a test? This **[known information about assumptions introduced in the last sentence]** is just one of the findings reported by Kristy McRaney and her colleagues in “Stereotype Threat,” a chapter in the textbook The Psychology of Gender **[new information about this assumption]**. In this chapter , McRaney and her colleagues **[known information about the writers introduced in the last sentence]** discuss a number of studies that examine the phenomenon known as stereotype threat: a situation in which someone is stereotyped, is aware of the stereotype, and is taking part in an activity related to the stereotype (par. 1) **[new information on this topic]**."
+Writing with the chain pattern
+See if you can finish this sentences from an article on stereotype threat which were written with the chain pattern.
+Try this!
+What word or words go in the blank?
+"The first main researcher on stereotype threat was Claude Steele, who focused on how it impacted African American university students. __ began to notice racial minorities and women sometimes performed lower than their abilities" (McRaney et al).
+The first sentence starts with the idea of stereotype threat, which is the topic of the article. Towards the end of the sentence we get new information about Clause Steele. The second sentence should start with Steele. Since we have already been introduced to him, he is now a familiar topic. The new information added at the end of the sentence is about Steele's observation.
+## Strategies for linking your sentences
+Here are some strategies you can use to help link your sentences in a chain pattern:
+- Change the structure of a sentence so you start with information that is already known and put new information last.
+- Change one sentence from active to passive (or from active to passive) to keep the topic the same across sentences.
+- Use pronouns and synonyms to connect sentences.
+## Revising sentences with the chain pattern
+Now let's try to use the strategies to revise some sentences.
+Try this!
+Here are some sentences that are weakly connected. How can you use the three strategies for linking your sentences to change them to make a stronger connection?
+Stereotypes are often the result of media exposure. Children see thousands of images of different groups on television, in video games, and in movies over the years. Many images of non-white groups tend to be biased or simplistic.
+## Fork Pattern
+With the fork pattern, each sentence does not connect directly to the one before it. Instead, a topic is introduced at the beginning of a passage and the following sentences offers new information about that one main topic. Figure 2.8.2 shows a fork with a handle (the topic or known information) that branches into four tines (the following sentences that give new information about that topic).
+[Image: metal fork with four tines]
+Figure : Dinner fork ("diner fork вилка" by FoodImage is licensed under CC PDM 1.0)
+Let's examine a passage from an article on stereotype threat. The words in bold in square brackets explain whether the previous phrase is known information or new information.
+With planning, educators can reduce the impacts of stereotype threats **[this is the topic of the passage. Each of the following sentences will refer back to this known information about how educators can reduce the impacts.]** For example, educators can be careful not to frame tests as measures of ability **[this is the first new information on the topic]**. Even more importantly, they should make sure that their classrooms do not trigger stereotypes by showing the accomplishments of only certain groups **[this is the second piece of new information on the topic]**. Lastly, teaching students about stereotype thread can help the students to resist it. **[this is the second piece of new information on the topic]**.
+## **Licenses and Attributions**
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+Examples for "Noticing Cohesion" are adapted from a summary/response essay by Clara Zimmerman, Porterville College, License: CC BY NC.
+## CC Licensed Content: Previously Published
+Sentences on Claude Steele in the activity for "Writing with the chain pattern" is adapted from "Gender Through a Cognitive Psychology Lens", a chapter from *The Psychology of Gender* by Kristy McRaney, Alexis Bridley, and Lee Daffin. License: CC BY NC SA.
+This page titled 2.8: "Known to New" Sentence Structure was last modified on Sun, 09 Mar 2025 17:17:23 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

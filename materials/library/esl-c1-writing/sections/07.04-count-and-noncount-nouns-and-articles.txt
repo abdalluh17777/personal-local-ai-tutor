@@ -1,0 +1,65 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.4: Count and Noncount Nouns and Articles
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.04%3A_Count_and_Noncount_Nouns_and_Articles
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Define and use count and noncount nouns.
+2. Recognize and use definite and indefinite articles.
+Nouns are words that name things, places, people, and ideas. Right now, you may be surrounded by desks, computers, and notebooks. These are called count nouns because you can count the exact number of desks, computers, and notebooks—three desks, one computer, and six notebooks, for example.
+On the other hand, you may be carrying a small amount of money in your wallet and sitting on a piece of furniture. These are called noncount nouns. Although you can count the pieces of furniture or the amount of money, you cannot add a number in front of *money* or *furniture* and simply add -*s* to the end of the noun. Instead, you must use other words and phrases to indicate the quantity of money and furniture.
+**Incorrect:** five moneys, two furnitures, three sugars
+**Correct:** some money, two pieces of furniture, two teaspoons of sugar
+## Count and Noncount Nouns
+A count noun refers to people, places, and things that are separate units. You make count nouns plural by adding -*s*.
+Table : Table of Count Nouns
+| **Count Noun** | **Sentence** |
+| Quarter | It takes six quarters to do my laundry. |
+| Chair | Make sure to push in your chairs before leaving class. |
+| Candidate | The two candidates debated the issue. |
+| Adult | The three adults in the room acted like children. |
+| Comedian | The two comedians made the audience laugh. |
+A noncount noun identifies a whole object that cannot separate and count individually. Noncount nouns may refer to concrete objects or abstract objects. A concrete noun identifies an object you can see, taste, touch, or count. An abstract noun identifies an object that you cannot see, touch, or count. There are some exceptions, but most abstract nouns cannot be made plural, so they are noncount nouns. Examples of abstract nouns include anger, education, melancholy, softness, violence, and conduct.
+Table : Table of Types of Noncount Nouns
+| **Type of Noncount** | **Noun** | **Examples Sentence** |
+| Food | sugar, salt, pepper, lettuce, rice | Add more sugar to my coffee, please. |
+| Solids | concrete, chocolate, silver, soap | The ice cream was covered in creamy chocolate. |
+| Abstract Nouns | peace, warmth, hospitality, information | I need more information about the insurance policy. |
+Exercise :
+On a separate sheet of paper, identify whether the italicized noun in the sentence is a count or noncount noun by writing C or NC above the noun.
+1. The amount of traffic on the way home was terrible.
+2. Forgiveness is an important part of growing up.
+3. I made caramel sauce for the organic apples I bought.
+4. I prefer film cameras instead of digital ones.
+5. My favorite subject is history.
+6. “Freedom is just another word for nothing left to lose.”
+## Definite and Indefinite Articles
+The word *the* is a definite article. It refers to one or more specific things. For example, *the woman* refers to not any woman but a particular woman. The definite article *the* is used before singular and plural count nouns.
+The words *a* and *an* are indefinite articles. They refer to one nonspecific thing. For example, *a woman* refers to any woman, not a specific, particular woman. The indefinite article *a* or *an* is used before a singular count noun.
+Definite Articles (*The*) and Indefinite Articles (*A/An*) with Count Nouns
+I saw **the** concert. (singular, refers to a specific concert)
+I saw **the** concerts. (plural, refers to more than one specific concert)
+I saw **the** U2 concert last night. (singular, refers to a specific concert)
+I saw **a** concert. (singular, refers to any nonspecific concert)
+## Two Article Rules – Reminders
+The following rules will help to determine when and what kind of article needs to beused.
+**Rule 1**: A singular count noun needs an article or a determiner.
+Choose *a* or *an* if the noun is indefinite. Choose *the* if the noun is definite
+**Rule 2**: A plural or non-count noun does not need an article unless it is definite.
+Exercise :
+On a separate sheet of paper, write the correct article in the blank for each of the following sentences. Write OK if the sentence is correct.
+1. (A/An/The) camel can live for days without water. ________
+2. I enjoyed (a/an/the) pastries at the Bar Mitzvah. ________
+3. (A/An/The) politician spoke of many important issues. ________
+4. I really enjoyed (a/an/the) actor’s performance in the play. ________
+5. (A/An/The) goal I have is to run a marathon this year. ________
+Exercise :
+Correct the misused or missing articles and rewrite the paragraph:
+Stars are large balls of spinning hot gas like our sun. The stars look tiny because they are far away. Many of them are much larger than sun. Did you know that a Milky Way galaxy has between two hundred billion and four hundred billion stars in it? Scientists estimate that there may be as many as five hundred billion galaxies in an entire universe! Just like a human being, the star has a life cycle from birth to death, but its lifespan is billions of years long. The star is born in a cloud of cosmic gas and dust called a nebula. Our sun was born in the nebula nearly five billion years ago. Photographs of the star-forming nebulas are astonishing.
+Key Takeaways
+- You can make count nouns plural by adding -s.
+- Count nouns are individual people, places, or things that can be counted, such as politicians, deserts, or candles.
+- Noncount nouns refer to whole things that cannot be made plural, such as salt, peace, or happiness.
+- The is a definite article and is used to refer to a specific person, place, or thing, such as the Queen of England.
+- A and an are indefinite articles, and they refer to nonspecific people, places, or things, such as an apple or a bicycle.
+This page titled 7.4: Count and Noncount Nouns and Articles was last modified on Tue, 01 Sep 2020 19:27:59 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

@@ -1,0 +1,147 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.7: Overview of Verb Forms
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.07%3A_Overview_of_Verb_Forms
+License: CC BY-NC-SA; authored, remixed or curated by LibreTexts
+
+Learning Objectives
+1. Use the correct regular verb forms in basic sentences.
+2. Use the correct irregular verb forms in basic sentences.
+3. Use the correct gerund or infinitive form in sentences.
+## Regular Verb Forms
+Verbs in English can change forms in five basic ways:
+Table : Regular Verbs
+| **BASE** | **PAST** | **PAST PARTICIPLE** | **3rd PERSON SINGULAR** | **PROGRESSIVE** |
+| TALK | TALKED | TALKED | TALKS | TALKING |
+| JUMP | JUMPED | JUMPED | JUMPS | JUMPING |
+Verbs also can indicate actions or states of being in the past, present, or future using tenses. Regular verbs follow regular patterns when shifting from the present to past tense. For example, to form a past-tense or past-participle verb form, add -ed or -d to the end of a verb. You can avoid mistakes by understanding this basic pattern.
+Verb tense identifies the time of action described in a sentence. Verbs take different forms to indicate different tenses. Verb tenses indicate
+- an action or state of being in the present,
+- an action or state of being in the past,
+- an action or state of being in the future.
+Helping verbs, such as be and have, also work to create verb tenses, such as the future tense.
+[Image: 7.7.1.png]
+Figure 
+## Irregular Verb Forms
+The past tense of irregular verbs is not formed using the patterns that regular verbs follow. Study the chart below which lists the most common irregular verbs.
+The best way to learn irregular verbs is to memorize them. With the help of a classmate, create flashcards of irregular verbs and test yourselves until you master them.
+Table : Irregular Verbs
+| **Simple Present** | **Past** | **Simple Present** | **Past** |
+| be | was, were | lose | lost |
+| become | became | make | made |
+| begin | began | mean | meant |
+| blow | blew | meet | met |
+| break | broke | pay | paid |
+| bring | brought | put | put |
+| build | built | quit | quit |
+| burst | burst | read | read |
+| buy | bought | ride | rode |
+| catch | caught | ring | rang |
+| choose | chose | rise | rose |
+| come | came | run | ran |
+| cut | cut | say | said |
+| dive | dove (dived) | see | saw |
+| do | did | seek | sought |
+| draw | drew | sell | sold |
+| drink | drank | send | sent |
+| drive | drove | set | set |
+| eat | ate | shake | shook |
+| fall | fell | shine | shone (shined) |
+| feed | fed | shrink | shrank (shrunk) |
+| feel | felt | sing | sang |
+| fight | fought | sit | sat |
+| find | found | sleep | slept |
+| fly | flew | speak | spoke |
+| forget | forgot | spend | spent |
+| forgive | forgave | spring | sprang |
+| freeze | froze | stand | stood |
+| get | got | steal | stole |
+| give | gave | strike | struck |
+| go | went | swim | swam |
+| grow | grew | swing | swung |
+| have | had | take | took |
+| hear | heard | teach | taught |
+| hide | hid | tear | tore |
+| hold | held | tell | told |
+| hurt | hurt | think | thought |
+| keep | kept | throw | threw |
+| know | knew | understand | understood |
+| lay | laid | wake | woke |
+| lead | led | wear | wore |
+| leave | left | win | won |
+| let | let | wind | wound |
+Here we see the irregular verb in the past tense.
+[Image: 7.7.2.png]
+Figure 
+Exercise :
+Complete the following sentences by selecting the correct form of the irregular verb in simple present, simple past, or simple future tense. Copy the corrected sentence onto your own sheet of paper.
+1. Marina finally (forgived, forgave, will forgive) her sister for snooping around her room.
+2. The house (shook, shaked, shakes) as the airplane rumbled overhead.
+3. I (buyed, bought, buy) several items of clothing at the thrift store on Wednesday.
+4. She (put, putted, puts) the lotion in her shopping basket and proceeded to the checkout line.
+5. The prized goose (layed, laid, lay) several golden eggs last night.
+6. Mr. Batista (teached, taught, taughted) the class how to use correct punctuation.
+7. I (drink, drank, will drink) several glasses of sparkling cider instead of champagne on New Year’s Eve next year.
+8. Although Hector (growed, grew, grows) three inches in one year, we still called him “Little Hector.”
+9. Yesterday our tour guide (lead, led, will lead) us through the maze of people in Times Square.
+10. The rock band (burst, bursted, bursts) onto the music scene with their catchy songs.
+## Gerunds
+A gerund is a form of a verb that is used as a noun. All gerunds end in -ing. Since gerunds function as nouns, they occupy places in a sentence that a noun would, such as the subject, direct object, and object of a preposition.
+You can use a gerund in the following ways:
+1. **Traveling** is Cynthia’s favorite pastime.
+2. I enjoy **jogging**.
+3. The librarian scolded me for **laughing**.
+Often verbs are followed by gerunds. Study for examples.
+Table : Gerunds and Verbs
+| **Gerund Verb** | **Followed by a Gerund** |
+| moving | Delilah **considered moving** to Paris. |
+| cleaning | I **hate cleaning** the bathroom. |
+| winning | Longa **imagines winning** an Oscar one day. |
+| worrying | Mom says she has **stopped worrying**. |
+| taking | She **admitted taking** the pumpkin |
+## Infinitives
+An infinitive is a form of a verb that comes after the word to and acts as a noun, adjective, or adverb.
+to + verb = infinitive
+Examples of infinitives include the following: to move, to sleep, to look, to throw, to read, and to sneeze.
+Often verbs are followed by infinitives.
+Table : Infinitives and Verbs
+| **Infinitive** | **Verb Followed by Infinitive** |
+| to help | Preeti **offered to help** her move. |
+| to arrive | Sonia **expects to arrive** early. |
+| to win | Sunita **wants to win** the writing contest. |
+| to close | He **forgot to close** the curtains. |
+| to eat | She **likes to eat** late. |
+You may wonder which verbs can be followed by gerunds and which verbs can be followed by infinitives. With the following verbs, you can use either a gerund or an infinitive.
+Table : Infinitives and Gerund Verbs
+| **Base Form of Verb** | **Sentences with Verbs Followed by Gerunds and Infinitives** |
+| begin | 1. Juanita **began crying**. |
+| 2. Juanita **began to cry**. |
+| hate | 1. Marie **hated talking** on the phone. |
+| 2. Marie **hated to talk** on the phone. |
+| forget | 1. Wendell **forgot paying** the bills. |
+| 2. Wendell **forgot to pay** the bills. |
+| like | 1. I **liked leaving** messages. |
+| 2. I **liked to leave** messages. |
+| continue | 1. He **continued listening** to the news. |
+| 2. He **continued to listen** to the news. |
+| start | 1. I will **start recycling** immediately. |
+| 2. I will **start to recycle** immediately. |
+| try | 1. Mikhail will **try climbing** the tree. |
+| 2. Mikhail will **try to climb** the tree. |
+| prefer | 1. I **prefer baking**. |
+| 2. I **prefer to bake**. |
+| love | 1. Joshua **loves diving**. |
+| 2. Joshua **loves to dive**. |
+Exercise :
+On your own sheet of paper, complete the following sentences by choosing the correct infinitive or gerund.
+1. I meant ________ (to kiss, kissing) my kids before they left for school.
+2. The children hoped (to go, going) to a restaurant for dinner.
+3. Do you intend ________ (to eat, eating) the entire pie?
+4. Crystal postponed ________ (to get dressed, getting dressed) for the party.
+5. When we finish ________ (to play, playing) this game, we will go home.
+Key Takeaways
+- Regular verbs follow regular patterns when shifting from present to past tense.
+- Irregular verbs do not follow regular, predictable patterns when shifting from present to past tense.
+- Forms of Irregular Verbs must be practiced and memorized.
+Writing Application
+Tell a family story. You likely have several family stories to choose from, but pick the one that you find most interesting to write about. Use as many details as you can in the telling. As you write and proofread, make sure your all your verbs are correct and the tenses are consistent.
+7.7: Overview of Verb Forms is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

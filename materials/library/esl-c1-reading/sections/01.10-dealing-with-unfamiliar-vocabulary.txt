@@ -1,0 +1,113 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+1.10: Dealing with Unfamiliar Vocabulary
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/01%3A_Critical_Reading/1.10%3A_Dealing_with_Unfamiliar_Vocabulary
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What to do when you find unfamiliar words
+When you are reading, you will often find words you do not know. You may want to look all of those words up in a dictionary. However, that will slow down your reading *a lot* and it often does not even make it easier to understand the text or remember the words. Instead, underline the new words and keep reading if you can. You can check all of the underlined words at the end and decide if you want to look them up and study them.
+However, if you come across the same word several times, or if the word is keeping you from understanding the whole text, you can try a vocabulary strategy. We will look practice three vocabulary strategies:
+1. Using context clues
+2. Understanding words through their structure (roots, prefixes, suffixes)
+3. Using a dictionary and other reference tools
+## Context clues
+Context clues are all of the words *around* a word that will help you to figure out the meaning of that word. Three types of context clues are:
+- Brief definition or restatement
+- Synonyms and antonyms
+- Examples
+## Brief definition or restatement
+Sometimes a text directly states the definition or a restatement of the unknown word. The brief definition or restatement is signaled by a word or a punctuation mark. Consider the following example:
+- What does **deportation** mean?
+  - **Deportation,** or the removal from a country, can occur when immigrants lack legal papers.
+- What does **apprehension** mean?
+  - The majority of **apprehensions** or arrests of undocumented immigrants take place on the border.
+## Synonyms and antonyms
+A synonym is a word with the same meaning. An antonym is a word with the opposite meaning (look for the word *but)*.
+- What does **reside** mean?
+  - While more immigrants **reside** in the United States with legal papers (73% of immigrants), about 10.5 million live in the U.S. as undocumented immigrants.
+- What does **reform** mean?
+  - Most U.S. citizens see a need for immigration **reform**, but a small percentage of people want current immigration policies to remain the same.
+## Examples
+Sometimes you can guess the meaning of a word by looking at the examples that are given. What do these examples all show?
+- What does **barrier** mean?
+  - Families who choose to travel to the United States face many **barriers**, including a difficult trip across the border, few resources, and the possibility of deportation,
+- What does **activist** mean?
+  - DACA was made possible by **activists** such as Jose Antonio Vargas and organizations who advocated for social and political change.
+## Understanding words through the word structure
+The English language contains an enormous and ever-growing number of words. Enhancing your vocabulary by learning new words can seem overwhelming, but if you know the common prefixes and suffixes of English, you will understand many more words.
+## Prefixes
+A prefix is a word part added to the beginning of a word to create a new meaning. Study the common prefixes in Table 1.9.1:
+Table 1.9.1 Common prefixes, their meaning, and an example word
+| Prefix | Meaning | Example |
+| dis | not, opposite of | dis + satisfied = dissatisfied |
+| mis | wrongly | mis + spell = misspell |
+| un | not | un + acceptable = unacceptable |
+| re | again | re + election = reelection |
+| inter | between | inter + related = interrelated |
+| pre | before | pre + pay = prepay |
+| non | not | non + sense = nonsense |
+| super | above | super + script = superscript |
+| sub | under | sub + merge = submerge |
+| anti | against, opposing | anti + bacterial = antibacterial |
+## Suffixes
+A suffix is a word part added to the end of a word to create a new meaning. They also indicate the part of speech, for example, is the word a noun, adjective, verb, or adverb?
+### Suffixes that create verbs
+Many suffixes used in academic English create verbs. See Table 1.9.2 for the most common verb suffixes. If you add a verb suffix to a noun or adjective, it becomes a verb. For example, if you add the suffix *-en* to the adjective *short,* you get the verb *shorten*, to become short.
+Table 1.9.2 Common suffixes that create verbs, with examples
+| suffix | meaning | examples |
+| -en | become | shorten, awaken |
+| -ify | make or become | simplify, classify, justify |
+| -ise/ize | become | symbolize, visualize |
+### Suffixes that create nouns
+The following suffixes create nouns. See Table 1.9.3 for the most common noun suffixes. For instance, if you take the verb *demonstrate* and add the noun suffix *-tion,* you get the noun *demonstration.*
+Table 1.9.3 Common suffixes that create nouns, with examples
+| suffix | meaning | examples |
+| -al | action or process of | denial, refusal |
+| -ant/ -ent | performer of an action | assistant, consultant |
+| -cy | state or quality | efficiency, fluency |
+| -ence/ -ance | state or quality of | preference, dependence |
+| -er | person who does an action | teacher, helper |
+| -ity | quality of | ability, similarity |
+| -ment | condition | punishment, development |
+| -ness | state of being | darkness, preparedness |
+| -ship | position held | citizenship, leadership |
+| -tion/ -sion | condition or state of | education, information |
+### Suffixes that create adjectives
+These suffixes create adjectives. See Table 1.9.4 for a list of the most common adjective suffixes. As an example, adding the adjective suffix *-ful* to the noun *peace* gives you an adjective, *peaceful.*
+Table 1.9.4 Common suffixes that create adjectives, with examples
+| suffix | meaning | example |
+| -able | capable of being | fixable, avoidable |
+| -al | having the character of | national, professional |
+| -ent | tending towards | excellent, different |
+| -ful | notable for | beautiful, peaceful |
+| -ive | having the nature of | attractive, effective |
+| -less | without | careless, helpless |
+| -ous | characterized by | dangerous, famous |
+### Suffixes that create adverbs
+A few suffixes create adverbs. See Table 1.9.5 for the most common adverb suffixes. For instance, adding the adverb suffix *-ly* to the adjective *happy* gives you *happily,* an adverb. Or adding *-ward* to the noun *west* gives you the adverb *westward*, in the direction of the *west.*
+Table 1.9.5 Common suffixes that create adverbs, with examples
+| suffix | meaning | examples |
+| ly/ -ily | related to | softly, carefully |
+| -ward/ -wards | direction | towards, afterwards, backwards |
+| -wise | in relation to | otherwise, likewise, clockwise, |
+## Let's try it
+Now let's use these tools to figure out the meaning of some vocabulary.
+Try This
+Read the following passage from *The Conversation’s “* 4 Reasons Why Migrant Children Arriving Alone to the US Create a ‘Border Crisis’” by Ediberto Román.
+- Do any words have a brief definition or restatement, a synonym or antonym, or an example that shows the meaning?
+- Which prefixes and suffixes can you recognize? What do these prefixes and suffixes mean?
+"Undocumented immigrants – and particularly children – are not the constituents of any Washington politician. They have no voice within the U.S. democratic system. While journalists can and do report on immigration problems, and public interest law firms can and do represent these children in immigration proceedings, unaccompanied minors are simply not part of any politician’s voting bloc or reelection strategy."
+## Using reference tools
+Referencing a dictionary or thesaurus can be helpful, too. For more on using a dictionary or thesaurus, visit the Language Toolkit for Chapter 6.
+## Dictionary
+If a vocabulary word seems critical to understanding a reading passage, and you cannot figure out the meaning from the context or the word structure, you may have to look it up in a dictionary.
+## Thesaurus
+Another reference you can use is a thesaurus. It can help you find words with the same or similar meanings. However, the words cannot just replace each other. Be sure to look at the example sentences to see how the words are used.
+## Work Cited
+Román, Ediberto. “ 4 Reasons Why Migrant Children Arriving Alone to the US Create a ‘Border Crisis’.” *The Conversation,* 31 March 2021.
+## Licenses and Attribution
+## CC Licensed Content: Original
+Authored by Marit ter Mate-Martinsen, Santa Barbara City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Prefix Chart is from Rebecca Weaver et al, Writing for Success: Prefixes. License: CC BY.
+Suffix charts are adapted from Yuba College Writing and Language Development Center's Suffixes for English Language Learners. License: CC BY NC.
+This page titled 1.10: Dealing with Unfamiliar Vocabulary was last modified on Sun, 09 Mar 2025 17:17:25 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

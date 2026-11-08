@@ -1,0 +1,41 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+3.5: Research Ethics (Summary)
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics/3.05%3A_Research_Ethics_(Summary)
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform
+
+## Key Takeaways
+- A wide variety of ethical issues arise in psychological research. Thinking them through requires considering how each of four moral principles (weighing risks against benefits, acting responsibly and with integrity, seeking justice, and respecting people’s rights and dignity) applies to each of three groups of people (research participants, science, and society).
+- Ethical conflict in psychological research is unavoidable. Researchers must think through the ethical issues raised by their research, minimize the risks, weigh the risks against the benefits, be able to explain their ethical decisions, seek feedback about these decisions from others, and ultimately take responsibility for them.
+- There are several written ethics codes for research with human participants that provide specific guidance on the ethical issues that arise most frequently. These codes include the Nuremberg Code, the Declaration of Helsinki, the Belmont Report, and the Federal Policy for the Protection of Human Subjects.
+- The APA Ethics Code is the most important ethics code for researchers in psychology. It includes many standards that are relevant mainly to clinical practice, but *Standard 8* concerns informed consent, deception, debriefing, the use of nonhuman animal subjects, and scholarly integrity in research.
+- Research conducted at universities, hospitals, and other institutions that receive support from the federal government must be reviewed by an institutional review board (IRB)—a committee at the institution that reviews research protocols to make sure they conform to ethical standards.
+- Informed consent is the process of obtaining and documenting people’s agreement to participate in a study, having informed them of everything that might reasonably be expected to affect their decision. Although it often involves having them read and sign a consent form, it is not equivalent to reading and signing a consent form.
+- Although some researchers argue that deception of research participants is never ethically justified, the APA Ethics Code allows for its use when the benefits of using it outweigh the risks, participants cannot reasonably be expected to be harmed, there is no way to conduct the study without deception, and participants are informed of the deception as soon as possible.
+- It is your responsibility as a researcher to know and accept your ethical responsibilities.
+- You can take several concrete steps to minimize risks and deception in your research. These include making changes to your research design, prescreening to identify and eliminate high-risk participants, and providing participants with as much information as possible during informed consent and debriefing.
+- Your ethical responsibilities continue beyond IRB approval. You need to monitor participants’ reactions, be alert for potential violations of confidentiality, and maintain scholarly integrity through the publication process.
+## References
+Baumrind, D. (1985). Research using intentional deception: Ethical issues revisited. *American Psychologist, 40*, 165–174.
+Bowd, A. D., & Shapiro, K. J. (1993). The case against animal laboratory research in psychology. *Journal of Social Issues, 49*, 133–142.
+Burger, J. M. (2009). Replicating Milgram: Would people still obey today? *American Psychologist, 64*, 1–11.
+Burns, J. F. (2010, May 24). British medical council bars doctor who linked vaccine to autism. *The New York Times*. Retrieved from:__http://www.nytimes.com/2010/05/25/health/policy/25autism.html__
+Haidt, J., Koller, S. and Dias, M. (1993) Affect, culture, and morality, or is it wrong to eat your dog? *Journal of Personality and Social Psychology, 65*, 613-628. __http://dx.doi.org/10.1037/0022-3514.65.4.613__
+Koocher, G. P. (1977). Bathroom behavior and human dignity. *Journal of Personality and Social Psychology, 35*, 120–121.
+Mann, T. (1994). Informed consent for psychological research: Do subjects comprehend consent forms and understand their legal rights? *Psychological Science, 5*, 140–143.
+Middlemist, R. D., Knowles, E. S., & Matter, C. F. (1976). Personal space invasions in the lavatory: Suggestive evidence for arousal. *Journal of Personality and Social Psychology, 33*, 541–546.
+Middlemist, R. D., Knowles, E. S., & Matter, C. F. (1977). What to do and what to report: A reply to Koocher. *Journal of Personality and Social Psychology, 35*, 122–125.
+Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*, 371–378.
+Miller, N. E. (1985). The value of behavioral research on animals. *American Psychologist, 40*, 423–440.
+Reverby, S. M. (2009). *Examining Tuskegee: The infamous syphilis study and its legacy*. Chapel Hill, NC: University of North Carolina Press.
+Rosenthal, R. M. (1994). Science and ethics in conducting, analyzing, and reporting psychological research. *Psychological Science, 5*, 127–133.
+Sieber, J. E., Iannuzzo, R., & Rodriguez, B. (1995). Deception methods in psychology: Have they changed in 23 years? *Ethics & Behavior, 5*, 67–85.
+### Exercises
+- Practice: Imagine a study testing the effectiveness of a new drug for treating obsessive-compulsive disorder. Give a hypothetical example of an ethical issue from each cell of Table 3.1 “A Framework for Thinking About Ethical Issues in Scientific Research” that could arise in this research.
+- Discussion: It has been argued that researchers are not ethically responsible for the misinterpretation or misuse of their research by others. Do you agree? Why or why not?
+- Practice: Read the Nuremberg Code, the Belmont Report, and *Standard 8* of the APA Ethics Code. List five specific similarities and five specific differences among them.
+- Discussion: In a study on the effects of disgust on moral judgment, participants were asked to judge the morality of disgusting acts, including people eating a dead pet and passionate kissing between a brother and sister (Haidt, Koller, & Dias, 1993).[1] If you were on the IRB that reviewed this protocol, what concerns would you have with it? Refer to the appropriate sections of the APA Ethics Code.
+- Discussion: How could you conduct a study on the extent to which people obey authority in a way that minimizes risks and deception as much as possible? (Note: Such a study would not have to look at all like Milgram’s.)
+- Practice: Find a study in a professional journal and create a consent form for that study. Be sure to include all the information in Standard 8.02.
+## References
+1. Haidt, J., Koller, S. and Dias, M. (1993) Affect, culture, and morality, or is it wrong to eat your dog? Journal of Personality and Social Psychology, 65, 613-628. http://dx.doi.org/10.1037/0022-3514.65.4.613↵
+This page titled 3.5: Research Ethics (Summary) was last modified on Fri, 11 Nov 2022 07:00:53 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform.

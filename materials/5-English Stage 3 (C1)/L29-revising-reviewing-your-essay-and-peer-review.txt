@@ -1,0 +1,170 @@
+Lesson 29 material: Revising: Reviewing Your Essay and Peer Review
+English Stage 3 (C1) · Unit 3: Paragraphs, Essays and Cohesion
+
+=== 5.1: Reviewing Your Essay ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/05%3A_Revising_and_Editing/5.01%3A_Reviewing_Your_Essay
+
+Learning Objectives
+1. Identify major areas of concern in the draft essay during revising and editing.
+2. Use peer reviews and editing checklists to assist revising and editing.
+3. Revise and edit the first draft of your essay and produce a final draft.
+Revising and editing are the two tasks you undertake to significantly improve your essay. Both are very important elements of the writing process. You may think that a completed first draft means little improvement is needed. However, even experienced writers need to improve their drafts and rely on peers during revising and editing. You may know that athletes miss catches, fumble balls, or overshoot goals. Dancers forget steps, turn too slowly, or miss beats. For both athletes and dancers, the more they practice, the stronger their performance will become. Web designers seek better images, a more clever design, or a more appealing background for their web pages. Writing has the same capacity to profit from improvement and revision.
+## Understanding the Purpose of Revising and Editing
+Revising and editing allow you to examine two important aspects of your writing separately, so that you can give each task your undivided attention.
+- When you **revise,** you take a second look at your ideas. You might add, cut, move, or change information in order to make your ideas clearer, more accurate, more interesting, or more convincing.
+- When you **edit**, you take a second look at how you expressed your ideas. You add or change words. You fix any problems in grammar, punctuation, and sentence structure. You improve your writing style. You make your essay into a polished, mature piece of writing, the end product of your best efforts.
+- Many people hear the words *critic*, *critical*, and *criticism* and pick up only negative vibes that provoke feelings that make them blush, grumble, or shout. However, as a writer and a thinker, you need to learn to be critical of yourself in a positive way and have high expectations for your work. You also need to train your eye and trust your ability to fix what needs fixing. For this, you need to teach yourself where to look.
+Tip
+How do you get the best out of your revisions and editing? Here are some strategies that writers have developed to look at their first drafts from a fresh perspective. Try them over the course of this semester; then keep using the ones that bring results.
+- Take a break. You are proud of what you wrote, but you might be too close to it to make changes. Set aside your writing for a few hours or even a day until you can look at it objectively.
+- Ask someone you trust for feedback and constructive criticism.
+- Pretend you are one of your readers. Are you satisfied or dissatisfied? Why?
+- Use the resources that your college provides. Find out where your school’s writing lab is located and ask about the assistance they provide online and in person.
+## The Importance of Unity and Coherence
+Following your outline or other organizational plan closely offers you a reasonable guarantee that your writing will stay on purpose and not drift away from the controlling idea. However, when writers are rushed, are tired, or cannot find the right words, their writing may become less than they want it to be. Their writing may no longer be clear and concise, and they may be adding information that is not needed to develop the main idea.
+When a piece of writing has unity, all the ideas in each paragraph and in the entire essay clearly belong and are arranged in an order that makes logical sense. When the writing has coherence, the ideas flow smoothly. The wording clearly indicates how one idea leads to another within a paragraph and from paragraph to paragraph.
+Tip
+Reading your writing aloud will often help you find problems with unity and coherence. Listen for the clarity and flow of your ideas. Identify places where you find yourself confused, and write a note to yourself about possible fixes.
+## Creating Unity
+Sometimes writers get caught up in the moment and cannot resist a good digression. Even though you might enjoy such detours when you chat with friends, unplanned digressions usually harm a piece of writing.
+Tuyet stayed close to her outline when she drafted the three body paragraphs of her essay she tentatively titled “Digital Technology: The Newest and the Best at What Price?” But a recent shopping trip for an HDTV upset her enough that she digressed from the main topic of her third paragraph and included comments about the sales staff at the electronics store she visited. When she revised her essay, she deleted the off-topic sentences that affected the unity of the paragraph.
+Read the following paragraph twice, the first time without Tuyet’s changes, and the second time with them.
+Figure
+Exercise :
+Answer the following questions about Tuyet’s paragraph:
+1. Do you agree with Tuyet’s decision to make the deletions she made? Did she cut too much, too little, or just enough? Explain.
+2. Is the explanation of what screen resolution means a digression? Or is it audience friendly and essential to understanding the paragraph? Explain.
+3. Is the use of 2nd person, “you,” acceptable in a college paper?
+Tip
+When you reread your writing to find revisions to make, look for each type of problem in a separate sweep. Read it straight through once to locate any problems with unity. Read it straight through a second time to find problems with coherence. You may follow this same practice during many stages of the writing process.
+## Creating Coherence
+Careful writers use transitions to clarify how the ideas in their sentences and paragraphs are related. These words and phrases help the writing flow smoothly. Adding transitions is not the only way to improve coherence, but they are often useful and give a mature feel to your essays. The table below, "Common Transitional Words and Phrases," groups many common transitions according to their purpose.
+Table : Common Transitional Words and Phrases
+| **Transitions That Show Sequence or Time** |
+| After | before | later |
+| afterward | before long | meanwhile |
+| as soon as | finally | next |
+| at first | first, second, third | soon |
+| at last | in the first place | then |
+| **Transitions That Show Position** |
+| Above | across | at the bottom |
+| at the top | behind | below |
+| Beside | beyond | inside |
+| Near | next to | opposite |
+| to the left, to the right, to the side | under | where |
+| **Transitions That Show a Conclusion** |
+| Indeed | hence | all in all |
+| in the final analysis | therefore | thus |
+| **Transitions That Continue a Line of Thought** |
+| consequently | furthermore | additionally |
+| because | besides the fact | following this idea further |
+| in addition | in the same way | moreover |
+| looking further | considering…, it is clear that |
+| **Transitions That Change a Line of Thought** |
+| but | yet | however |
+| nevertheless | on the contrary | on the other hand |
+| **Transitions That Show Importance** |
+| above all | best | especially |
+| in fact | more important | most important |
+| most | worst |
+| **Transitions That Introduce the Final Thoughts in a Paragraph or Essay** |
+| finally | last | in conclusion |
+| most of all | least of all | last of all |
+| **All-Purpose Transitions to Open Paragraphs or to Connect Ideas Inside Paragraphs** |
+| admittedly | at this point | certainly |
+| granted | it is true | generally speaking |
+| in general | in this situation | no doubt |
+| no one denies | obviously | of course |
+| to be sure | undoubtedly | unquestionably |
+| **Transitions that Introduce Examples** |
+| for instance | for example | specifically |
+| **Transitions That Clarify the Order of Events or Steps** |
+| first, second, third | generally, furthermore, finally | in the first place, also, last |
+| in the first place, finally | likewise, lastly | thus, additionally |
+Tip
+Many writers make their revisions on a printed copy and then transfer them to the version on-screen. They conventionally use a small arrow called a caret (^) to show where to insert an addition or correction.
+After Tuyet revised for unity, she next examined her paragraph about televisions to check for coherence. She looked for places where she needed to add a transition or perhaps reword the text to make the flow of ideas clear. In the version that follows, she has already deleted the sentences that were off topic.
+Figure
+Exercise :
+Answer the following questions about Tuyet’s revised paragraph.
+1. Do you agree with the transitions and other changes that Tuyet made to her paragraph? Which would you keep and which were unnecessary? Explain.
+2. What transition words or phrases did Tuyet add to her paragraph? Why did she choose each one?
+3. What effect does adding additional sentences have on the coherence of the paragraph? Explain. When you read both versions aloud, which version has a more logical flow of ideas? Explain.
+## Being Clear and Concise
+Some writers are very methodical and painstaking when they write a first draft. Other writers unleash a lot of words in order to get out all that they feel they need to say. Do either of these composing styles match your style? Or is your composing style somewhere in between? No matter which description best fits you, the first draft of almost every piece of writing, no matter its author, can be made clearer and more concise.
+If you have a tendency to write too much, you will need to look for unnecessary words. If you have a tendency to be vague or imprecise in your wording, you will need to find specific words to replace any overly general language.
+## Identifying Wordiness
+Sometimes writers use too many words when fewer words will appeal more to their audience and better fit their purpose. Here are some common examples of wordiness to look for in your draft. Eliminating wordiness helps all readers, because it makes your ideas clear, direct, and straightforward.
+- **Wordy:** There are two major experiments that the Biology Department sponsors.
+**Revised:** The Biology Department sponsors two major experiments.
+- **Wordy:** Two extremely famous and well-known consumer advocates spoke eloquently in favor of the proposed important legislation.
+**Revised:** Two well-known consumer advocates spoke in favor of the proposed legislation.
+- **Sentences with phrases that add little to the meaning.** Be judicious when you use phrases such as *in terms of*, *with a mind to*, *on the subject of*, *as to whether or not*, *more or less*, *as far as…is concerned*, and similar expressions. You can usually find a more straightforward way to state your point.
+**Wordy:** As a world leader in the field of green technology, the company plans to focus its efforts in the area of geothermal energy.
+A report as to whether or not to use geysers as an energy source is in the process of preparation.
+**Revised:** As a world leader in green technology, the company plans to focus on geothermal energy.
+A report about using geysers as an energy source is in preparation.
+- **Sentences in the passive voice or with forms of the verb** *to be.* Sentences with passive-voice verbs often create confusion, because the subject of the sentence does not perform an action. Sentences are clearer when the subject of the sentence performs the action and is followed by a strong verb. Use strong active-voice verbs in place of forms of *to be*, which can lead to wordiness. Avoid passive voice when you can.
+**Wordy:** It might perhaps be said that using a GPS device is something that is a benefit to drivers who have a poor sense of direction.
+**Revised:** Using a GPS device benefits drivers who have a poor sense of direction.
+- **Wordy:** The e-book reader, which is a recent invention, may become as commonplace as the cell phone.
+**Revised:** The e-book reader, a recent invention, may become as commonplace as the cell phone.
+**Wordy:** My over-sixty uncle bought an e-book reader, and his wife bought an e-book reader, too.
+**Revised:** My over-sixty uncle and his wife both bought e-book readers.
+## Choosing Specific, Appropriate Words
+Most college essays should be written in formal English suitable for an academic situation. Follow these principles to be sure that your word choice is appropriate.
+- **Avoid slang.** Find alternatives to *bummer*, *kids, hanging out*.
+- **Avoid language that is overly casual.** Write about “men and women” rather than “girls and guys” unless you are trying to create a specific effect. A formal tone calls for formal language.
+- **Avoid contractions.** Use *do not* in place of *don’t*, *I am* in place of *I'm*, *have not* in place of *haven’t*, and so on. Contractions are considered casual speech.
+- **Avoid clichés.** Overused expressions such as *green with envy*, *face the music*, *better late than never*, and similar expressions are empty of meaning and may not appeal to your audience.
+- **Be careful when you use words that sound alike but have different meanings.** Some examples are *allusion/illusion*, *complement/compliment*, *council/counsel*, *concurrent/consecutive*, *founder/flounder*, and *historic/historical*. When in doubt, check a dictionary.
+- **Choose words with the connotations you want.** Choosing a word for its connotations is as important in formal essay writing as it is in all kinds of writing. Compare the positive connotations of the word *proud* and the negative connotations of *arrogant* and *conceited*.
+- **Use specific words rather than overly general words.** Find synonyms for *thing*, *people*, *nice*, *good*, *bad*, *interesting*, and other vague words. Or use specific details to make your exact meaning clear.
+Now read the revisions below Tuyet made to make her third paragraph clearer and more concise. She has already incorporated the changes she made to improve unity and coherence.
+Figure
+Exercise :
+Answer the following questions about Tuyet’s revised paragraph:
+1. Read the unrevised and the revised paragraphs aloud. Explain in your own words how changes in word choice have affected Tuyet’s writing.
+2. Do you agree with the changes that Mariah made to her paragraph? Which changes would you keep and which were unnecessary? Explain. What other changes would you have made?
+3. What effect does removing contractions and the pronoun *you* have on the tone of the paragraph? How would you characterize the tone now? Is it more academic? Why?
+
+=== 5.2: Completing a Peer Review ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/05%3A_Revising_and_Editing/5.02%3A_Completing_a_Peer_Review
+
+After working so closely with a piece of writing, writers often need to step back and ask for a more objective reader. What writers most need is feedback from readers who can respond only to the words on the page. When they are ready, writers show their drafts to someone, sometimes a classmate, they respect and who can give an honest response about the essay’s strengths and weaknesses.
+Sooner or later, someone is going to hand you a piece of writing and ask for your opinion. You may be asked to review another student's essay as part of your class work. Perhaps a friend or a younger brother or sister has come to you for help. If you develop a reputation for being a good writer, then the chances are good that even your boss might ask you to look over letters or policy statements and offer your professional opinion. In any case, if you really want to do a good job in these situations, you're going to need reviewing skills. You're going to need to be able to identify problems, suggest alternatives, and, more importantly, support everything you say with reasonable claims. Furthermore, you must do all this in a convincing way that makes the writer want to make the changes you suggest. You must know what's wrong with a document, why it's wrong, and how to fix it.
+You've probably heard the saying, "A writer is his own worst critic." Whoever said this undoubtedly suffered from poor self-reviewing skills. After all, it's easier to spot problems in other people's writing because our own ego (or pride) doesn't get in the way. Another problem is that sometimes we get so caught up in what we want to get across in our writing that we don't pay enough attention to how we're expressing it -- a sentence that makes perfect sense to us might be total gibberish to someone else. Thankfully, these are all problems that can be overcome. You can learn to fairly and accurately review your own work. One way you can get better at self-reviewing is to spend time reviewing other people's work. Eventually, you'll develop a knack for spotting errors that will serve you well as you edit and revise your own work.
+Writers, particularly new writers, often find that letting other writers review their work is tremendously helpful. Most universities have writing centers, where students can have their essays reviewed for free by experienced student writers or tutors. These tutors can work with you one-on-one to help you improve your writing and earn better grades.
+You should realize that reviewing your work, like planning, drafting, or revising, is a recursive process. It is not something a writer does just at the end of his work. For instance, you may want to write an introduction to an essay and have it reviewed by a teacher or classmate before trudging forward. If you're on the wrong track, you'd be better off knowing about it sooner rather than later -- especially if a deadline or due date is looming.
+You, too, can ask a peer to read your draft when it is ready. After evaluating the feedback and assessing what is most helpful, the reader’s feedback will help you when you revise your draft. This process is called **peer review.**
+You can work with a partner in your class and identify specific ways to strengthen each other’s essays. Although you may be uncomfortable sharing your writing at first, remember that each writer is working toward the same goal: a final draft that fits the audience and the purpose. Maintaining a positive attitude when providing feedback will put you and your partner at ease. The box that follows provides a useful framework for the peer review session.
+## Questions for Peer Review
+Figure
+## Another Format for Peer Review
+When you're reviewing your own paper or the paper of a friend or classmate, ask yourself a few questions:
+**ORGANIZATION**
+1. What are your initial thoughts? What strengths and weaknesses does the paper have? What parts confused you, or might be confusing to other readers? What's the most important thing that the writer is trying to say?
+2. How is the paper you're reviewing organized? Again, does it start with the broad and move to specifics? Do all sentences support the paragraph's topic sentence, and do all paragraphs support the thesis? Is there an *Introduction* that draws in the reader, or does it restate the assignment and become redundant? Is the paper organized in a way that will make sense to readers? Does the writer employ transitions effectively? Does the paper flow from beginning to end?
+**FOCUS AND STYLE**
+1. Is the paper focused on the assignment? Does it follow the same thought throughout the paper, or does it jump from subject to subject? Do I feel like I'm still learning about/thinking about the same subject at the end of the paper that I was at the beginning of the paper?
+2. Try to paraphrase the thesis of the paper as a promise: *In this paper, the writer will...* Does the writer fulfill his/her obligation stated in the thesis?
+3. What's the writer's position on the issue? What words does the writer use to indicate his/her position?
+4. In what style is the paper written? Does it *work* for the subject matter and assignment? Will the paper appeal to its intended audience? Is the writing at an appropriate level for the target audience?
+**DEVELOPMENT**
+1. Does the title indicate what the paper is about? Does it catch your interest? Does the opening paragraph draw you in? If not, can you suggest a different approach to catch the readers' attention?
+2. How is the development of the paper carried out? Does it start with a broad subject and then move to something more specific?
+3. Does the concluding sentence draw the argument of the paper to a close by bringing together the main points provided in the paper, or does it just end? Does the writer conclude in a memorable way, or does he/she simply trail off? If the ending is too abrupt or too vague, can you suggest some other way to conclude the paper? Does the ending introduce any new topics?
+**CONVENTIONS**
+1. Are common or appropriate writing conventions followed?
+2. Are grammar, spelling, punctuation and other mechanics observed?
+Exercise :
+Exchange essays with a classmate and complete a peer review of each other’s draft in progress. Remember to give positive feedback and to be courteous, polite, and constructive in your responses. Focus on providing one positive comment and one question for more information to the author.
+## Using Feedback Objectively
+The purpose of peer feedback is to receive constructive criticism of your essay. Your peer reviewer is your first real audience, and you have the opportunity to learn what confuses and delights a reader so that you can improve your work before sharing the final draft with a wider audience (or your intended audience).
+It may not be necessary to incorporate every recommendation your peer reviewer makes. However, if you start to observe a pattern in the responses you receive from peer reviewers, you might want to take that feedback into consideration in future assignments. For example, if you read consistent comments about a need for more attention to how your paper holds together, then you may want to consider reviewing a list of transitions and connectors for this paper as well as in future assignments.
+## Using Feedback from Multiple Sources
+You might get feedback from more than one reader as you share different stages of your revised draft. In this situation, you may receive feedback from readers who do not understand the assignment or who lack your involvement with and enthusiasm for it.
+You need to evaluate the responses you receive according to two important criteria:
+1. Determine if the feedback supports the purpose of the assignment.
+2. Determine if the suggested revisions are appropriate to the audience.
+Then, using these standards, accept or reject revision feedback. *You may also ask your teacher for advice at this point.*

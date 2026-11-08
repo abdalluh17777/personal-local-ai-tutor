@@ -1,0 +1,43 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+4.4: Knowing When to Cite
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.04%3A_Knowing_When_to_Cite
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is citation?
+As an academic writer, you are expected to not just use your own ideas in writing but to also back up your ideas with information from other books, articles, videos, etc. like the multilingual library resources shown in Figure 4.4.1. In addition, you need to show your readers where you got your information from. This process is called *citation* or *citing your sources*. Citation makes you a more credible writer because it shows that you have spent time reading and thinking about other sources and that you have evidence to support your points. Equally importantly, it helps you to avoid plagiarism.
+[Image: Library informational materials in a variety of languages including Spanish, Chinese, Arabic, Indonesian, and German.]
+Figure : "Multilingual Welcome" by Valley Library (Oregon State University) is licensed under CC BY-NC-SA 2.0.
+Citation has two parts: an in-text citation is a reference to the source author's name (or the source title if there is no author) in the sentence with information from that source, and the Works Cited page, which is a more detailed list of references at the end of your paper. You will learn more about these in Formatting Your Paper.
+## Finding citations
+We will Let's look at a body paragraph that a student wrote on preserving native languages.
+Notice this!
+What sentences in this sample paragraph include citations? Why did the writer cite those sentences?
+The most important thing immigrant parents can do is to speak heritage language at home. Using the heritage language to communicate at home is an important way to preserve the values, convictions, culture and identity of the family (Guardado). The transmission of a language happens when the language is spoken and nothing better than parents speaking their home language with their children because it will be an emotional language. Also, when parents talk to their children in their home language, they transmit their culture with stories and family background. In fact, that help families to keep their identity and their cohesion. As an immigrant father explains, “We need to talk about our roots as immigrants. Keeping Korean means keeping our roots ” (qtd. in Brown 33). As this quote shows, immigrant parents believe that without the communication with children in their heritage language, they would probably become disconnected from their past and family identity. While parents may also transmit their culture in their new language, they may be less successful because the home language is so closely tied to emotions.
+## When to cite (or not to cite)
+Some writers are not sure what ideas need to be cited or not. You **must** cite:
+- Any time that you use exact words from a source. These words must be in quotation marks.
+- Any time you paraphrase a source.
+- Any time that you use information or ideas that came from another source, which you did not know before doing your research, you must cite the source of the information.
+Be particularly careful any time you use numbers or statistics from a source. Without a citation, it will look as if you just made this information up!
+However, you do not need to cite:
+- Information that is general knowledge—things that everybody knows.
+- Statements that are obviously true.
+- Anecdotal evidence from your own experience.
+## Deciding if you should cite
+Let's look at some sample sentences from a research paper on preserving native languages:
+Try this!
+Should these sentences be cited? After you decide, check the answers.
+1. More than half of the 6,900 languages in the world will disappear over the next 100 years.
+2. It was easy for my cousins who were born in Switzerland to learn Portuguese because there is a large Portuguese community there. In contrast, my niece is growing up in the United States and I am her only Portuguese speaking relative. Consequently, she understands almost everything, but she cannot speak Portuguese.
+3. Most immigrants feel the need to transmit their language and culture to their children because it is part of their identity.
+4. Children of immigrants who are bilingual have better academic performance than children of immigrants who do not know their parents' native language.
+(To see answers, check 4.12: Integrating Evidence Answer Key)
+## Works Cited
+Brown, Clara Lee. “Maintaining Heritage Language: Perspectives of Korean Parents.” *Multicultural Education*, vol. 19, no. 1, Fall 2011, pp. 31-37. Eric.ed.gov.
+Guardado, Martin. “Language, Identity, and Cultural Awareness in Spanish-Speaking Families.” *Canadian Ethnic Studies*, vol. 40, no. 3, Sept. 2008, pp. 171-181. EBSCO *host.*
+Tesch, Noah. "Why Do Languages Die?". *Encyclopedia Britannica*, Accessed 11 December 2021.
+Tran, Van C. “English Gain Vs. Spanish Loss? Language Assimilation among Second-Generation Latinos in Young Adulthood.” *Social Forces*, vol. 89, no. 1, Sept. 2010, pp. 257-284. EBSCO *host.*
+## Licenses and Attributions
+Authored by Anne Agard and Elizabeth Wadell, Laney College. License: CC BY NC.
+Body paragraph on heritage languages and sentences in "Deciding if you should cite" are from "Heritage Languages: the Language of Emotions", a research paper by Joana Coelho Silverio. License: CC BY.
+This page titled 4.4: Knowing When to Cite was last modified on Sun, 09 Mar 2025 17:17:24 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

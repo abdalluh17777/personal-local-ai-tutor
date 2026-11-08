@@ -1,0 +1,84 @@
+{
+  "title": "English Stage 1 (B1): Speaking, Listening, Pronunciation and Everyday Skills",
+  "short_title": "English Stage 1 (B1)",
+  "level": "Intermediate (B1)",
+  "books_intro": "Lessons combine three open college textbooks from Grossmont College:",
+  "after": "After this stage: Stage 2 (B2), academic grammar and writing; Stage 3 (C1), college writing.",
+  "description": "Intermediate (B1) English from three open college textbooks by Grossmont College, combined by theme: integrated reading, writing and grammar lessons with a speaking, listening and pronunciation course.",
+  "books": {
+    "esl-b1-speaking": {
+      "title": "Speaking, Listening and Pronunciation Projects for ELLs - Intermediate Level",
+      "author": "Brittany Zemlick, Grossmont College",
+      "license": "CC BY 4.0",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Book%3A_Speaking_Listening_and_Pronunciation_Projects_for_ELLs_-_Intermediate_Level_(Zemlick)"
+    },
+    "esl-b1-people-places": {
+      "title": "People and Places - An Intermediate Integrated-Skills Module for English Learners",
+      "author": "Sara Ferguson, Grossmont College",
+      "license": "CC BY-NC-SA 4.0",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/People_and_Places_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)"
+    },
+    "esl-b1-getting-to-know-you": {
+      "title": "Getting to Know You - An Intermediate Integrated-Skills Module for English Learners",
+      "author": "Sara Ferguson, Grossmont College",
+      "license": "CC BY-NC-SA",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)"
+    }
+  },
+  "units": [
+    {
+      "title": "Unit 1: People and Places",
+      "lessons": [
+        {"title": "Listening and Speaking: 25 Things to Do in Berlin", "kind": "listening and speaking", "sources": ["esl-b1-speaking/sections/01.01-listening-and-speaking-25-things-to-do-in-berlin.txt", "esl-b1-speaking/sections/01.02-vocabulary-review.txt"]},
+        {"title": "Pronunciation: Syllables and Word Stress", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/01.03-counting-syllables.txt", "esl-b1-speaking/sections/01.04-syllable-stress.txt"]},
+        {"title": "Pronunciation: Vowels", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/01.05-vowels.txt"]},
+        {"title": "Pronunciation: Consonants and Linking", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/01.06-consonants.txt", "esl-b1-speaking/sections/01.07-linking-consonants-to-vowels.txt"]},
+        {"title": "Project: A Virtual City Tour", "kind": "speaking project", "sources": ["esl-b1-speaking/sections/01.08-unit-project-city-virtual-tour.txt"]},
+        {"title": "Writing a Formal Email", "kind": "writing", "sources": ["esl-b1-people-places/sections/01.01-writing-a-formal-email.txt", "esl-b1-people-places/sections/01.02-traditional-paragraph-structure-and-email-etiquette.txt", "esl-b1-people-places/sections/01.03-assignment-writing-a-formal-email.txt"]},
+        {"title": "Listening: Immigrants; Grammar: Verbs, Simple Sentences, Imperatives", "kind": "listening and grammar", "sources": ["esl-b1-people-places/sections/01.04-videos-the-contributions-of-immigrants.txt", "esl-b1-people-places/sections/01.05-grammar-what-is-a-verb.txt", "esl-b1-people-places/sections/01.06-grammar-simple-sentences.txt", "esl-b1-people-places/sections/01.07-grammar-imperative-mood.txt"]},
+        {"title": "Reading a Tourism Website; Promotional Language", "kind": "reading and writing", "sources": ["esl-b1-people-places/sections/02.01-reading-a-tourism-website-welcome-to-east-county.txt", "esl-b1-people-places/sections/02.02-writing-promotional-language.txt", "esl-b1-people-places/sections/02.03-randall-s-listening-lab-the-four-seasons.txt"]},
+        {"title": "Reading: Festivals, with Reading Strategies", "kind": "reading", "sources": ["esl-b1-people-places/sections/02.04-reading-an-esl-reader-bc-festivals.txt", "esl-b1-people-places/sections/02.05-reading-strategies-bc-festivals.txt"]},
+        {"title": "Grammar: Present Tense, Compound Sentences, Adjectives", "kind": "grammar", "sources": ["esl-b1-people-places/sections/02.06-grammar-present-tense-verbs.txt", "esl-b1-people-places/sections/02.07-grammar-compound-sentences.txt", "esl-b1-people-places/sections/02.08-grammar-descriptive-adjectives.txt"]},
+        {"title": "Writing a Persuasive Email", "kind": "writing", "sources": ["esl-b1-people-places/sections/02.09-assignment-write-a-persuasive-email.txt"]},
+        {"title": "Reading: The Great Migration and Culture Shock", "kind": "reading", "sources": ["esl-b1-people-places/sections/03.01-reading-a-textbook-the-great-migration.txt", "esl-b1-people-places/sections/03.02-reading-culture-shock.txt"]},
+        {"title": "Grammar: Adverbs, Past Tense, Comparatives and Superlatives", "kind": "grammar", "sources": ["esl-b1-people-places/sections/03.03-grammar-adverbs.txt", "esl-b1-people-places/sections/03.04-grammar-identifying-the-past-tense.txt", "esl-b1-people-places/sections/03.05-grammar-comparative-and-superlative-adjectives-and-adverbs.txt"]},
+        {"title": "Unit 1 Review: Listening, Vocabulary and Grammar", "kind": "review", "sources": ["esl-b1-people-places/sections/04.01-randall-s-esl-listening-lab-sightseeing.txt", "esl-b1-people-places/sections/04.02-vocabulary-review.txt", "esl-b1-people-places/sections/04.03-grammar-review.txt", "esl-b1-people-places/sections/04.04-grammar-review-2.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 2: Getting to Know You",
+      "lessons": [
+        {"title": "Listening and Speaking: An Interview About a Job", "kind": "listening and speaking", "sources": ["esl-b1-speaking/sections/02.01-listening-and-speaking-interview-andy-s-job.txt", "esl-b1-speaking/sections/02.02-vocabulary-review.txt"]},
+        {"title": "Pronunciation: Stress Review and Intonation in Statements and Questions", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/02.03-review-counting-syllables-and-identifying-stress.txt", "esl-b1-speaking/sections/02.04-intonation-statements-and-questions.txt"]},
+        {"title": "Reading Profiles 1: An Employee, Reynolds, Student Spotlights", "kind": "reading", "sources": ["esl-b1-getting-to-know-you/sections/01.01-video-amazon-employee-profile.txt", "esl-b1-getting-to-know-you/sections/01.02-reading-profile-reynolds.txt", "esl-b1-getting-to-know-you/sections/01.03-reading-student-spotlights.txt"]},
+        {"title": "Reading Profiles 2: Gibson and Valdez", "kind": "reading", "sources": ["esl-b1-getting-to-know-you/sections/01.04-reading-profile-gibson.txt", "esl-b1-getting-to-know-you/sections/01.05-reading-profile-valdez.txt"]},
+        {"title": "Grammar: Past Tense Verbs and Forming Questions", "kind": "grammar", "sources": ["esl-b1-getting-to-know-you/sections/01.06-grammar-past-tense-verbs.txt", "esl-b1-getting-to-know-you/sections/01.07-grammar-forming-questions.txt", "esl-b1-getting-to-know-you/sections/04.02-past-tense-practice-dictogloss-activity.txt"]},
+        {"title": "Interviews: Better Conversations and Good Questions", "kind": "listening and speaking", "sources": ["esl-b1-getting-to-know-you/sections/02.01-watch-celeste-headlee-ted-talk.txt", "esl-b1-getting-to-know-you/sections/02.02-watch-brandon-stanton-video-mashup.txt", "esl-b1-getting-to-know-you/sections/02.03-question-practice-profile-diana-nyad.txt", "esl-b1-getting-to-know-you/sections/02.04-question-practice-profile-stanton.txt"]},
+        {"title": "Project Part 1: Interview; Vocabulary Review", "kind": "speaking project", "sources": ["esl-b1-speaking/sections/02.05-unit-project-part-1-interview.txt", "esl-b1-getting-to-know-you/sections/02.05-vocabulary-review-getting-to-know-you.txt"]},
+        {"title": "Pronunciation: Voiced and Unvoiced Consonants", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/02.06-voiced-and-unvoiced-consonants.txt"]},
+        {"title": "Pronunciation: -S Endings", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/02.07-s-endings.txt"]},
+        {"title": "Grammar: Gerunds and Infinitives", "kind": "grammar", "sources": ["esl-b1-getting-to-know-you/sections/03.01-grammar-using-gerunds-and-infinitives-for-sentence-variety.txt"]},
+        {"title": "Writing a Profile; Project Part 2: Personal Profile", "kind": "writing and speaking project", "sources": ["esl-b1-getting-to-know-you/sections/03.02-analyze-a-profile.txt", "esl-b1-getting-to-know-you/sections/04.01-analyze-a-profile-key.txt", "esl-b1-getting-to-know-you/sections/03.03-classmate-profile-writing-assignment.txt", "esl-b1-speaking/sections/02.08-unit-project-part-2-personal-profile.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 3: Zero Waste",
+      "lessons": [
+        {"title": "Listening and Speaking: A Zero Waste How-To Video", "kind": "listening and speaking", "sources": ["esl-b1-speaking/sections/03.01-listening-and-speaking-zero-waste-how-to-video.txt", "esl-b1-speaking/sections/03.02-vocabulary-review.txt"]},
+        {"title": "Pronunciation: Review of Consonants and -S Endings; Content Words", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/03.03-review-voiced-and-unvoiced-consonants-and-s-endings.txt", "esl-b1-speaking/sections/03.04-content-words.txt"]},
+        {"title": "Pronunciation: Reduced Words", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/03.05-reduced-words.txt"]},
+        {"title": "Pronunciation: Connected Speech", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/03.06-connected-speech.txt"]},
+        {"title": "Project: Make a How-To Video", "kind": "speaking project", "sources": ["esl-b1-speaking/sections/03.07-unit-project-make-a-how-to-video.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 4: Education and Creativity",
+      "lessons": [
+        {"title": "Listening and Speaking: Schools and Creativity", "kind": "listening and speaking", "sources": ["esl-b1-speaking/sections/04.01-listening-and-speaking-schools-and-creativity.txt", "esl-b1-speaking/sections/04.02-vocabulary-review.txt"]},
+        {"title": "Pronunciation: Reduced Words in Sentences; -Ed Endings", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/04.03-review-reduced-words-in-sentences.txt", "esl-b1-speaking/sections/04.04-ed-endings.txt"]},
+        {"title": "Pronunciation: Thought Groups", "kind": "pronunciation", "sources": ["esl-b1-speaking/sections/04.05-thought-groups.txt"]},
+        {"title": "Project: Tell an Anecdote or a Personal Story", "kind": "speaking project", "sources": ["esl-b1-speaking/sections/04.06-unit-project-option-1-tell-an-anecdote.txt", "esl-b1-speaking/sections/04.07-unit-project-option-2-tell-a-personal-story.txt"]}
+      ]
+    }
+  ]
+}

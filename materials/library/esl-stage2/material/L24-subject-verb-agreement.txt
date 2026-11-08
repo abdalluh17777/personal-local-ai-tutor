@@ -1,0 +1,255 @@
+Lesson 24 material: Subject-Verb Agreement
+English Stage 2 (B2) · Unit 2: Sentences and Paragraph Types · American History
+
+=== Unit 10 Subject-Verb Agreement ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-10subject-verb-agreement/
+
+# Unit 10 Subject-Verb Agreement
+**Learning Objectives**
+1. To understand what subject-verb agreement means
+2. To learn the strategies and ten rules in correctly using subject-verb agreement
+3. To apply the strategies and rules of subject-verb agreement through multiple examples and exercises
+# I. Pretest
+(Picture: snow-covered trees and houses)
+snow-covered trees and houses
+In the following ten sentences are about snow days, some verbs are bold-faced. If the bold-faced part in the sentence is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: Most students **loves** snow days.
+   Options: correct | love
+   Answer: love
+Q: 2. When the weather is too severe due to snow, ice, or extremely low temperatures, schools **are** canceled.
+   Options: correct | is
+   Answer: correct
+Q: 3. When that **happen**, students have a snow day
+   Options: correct | happens
+   Answer: happens
+Q: 4. In Chicago, there **is** a few snow days in most winters.
+   Options: are | correct
+   Answer: are
+Q: 5. Though everyone **have** a day off, some teachers assign extra homework.
+   Options: correct | has
+   Answer: has
+Q: 6. The extra homework, like small projects, **keep** the students safe and productive at home.
+   Options: correct | keeps
+   Answer: keeps
+Q: 7. There **are** superstitions for wishing a snow day.
+   Options: correct | is
+   Answer: correct
+Q: 8. Wearing pajamas inside out and backwards **bring** a snow day. Many students believe this superstition.
+   Options: brings | correct
+   Answer: brings
+Q: 9. Another idea **is** to put a spoon under the pillow.
+   Options: are | correct
+   Answer: correct
+Q: 10. No matter how much students wish for a snow day, nobody **control** the weather!
+   Options: controls | correct
+   Answer: controls
+# II. Meaning of Subject-Verb Agreement
+In English, a subject and its verb must match each other. When the subject is singular, a singular form of the verb is used. When the subject is plural, a plural form of the verb is used.
+The subjects are **boldfaced**, and the verbs are __underlined__ below.
+1. **Most students** __love__ snow days.
+2. When **the weather** __is__ too severe due to snow and ice, **schools** __are canceled__.
+3. When **that** __happens__, **students** __have__ a snow day.
+# III. Strategies for Subject-Verb Agreement
+1. The best way to decide on the correct verb is to look back at the subject. Highlight the subject if necessary, as shown in the above examples.
+2. When a subject looks complicated or unclear to you, turn it into a pronoun to see its singular/plural nature. That will help you decide on the verb.
+- In Chicago, there __are__ usually **a few snow days** in most winters.
+a few snow days → they (plural)
+- Though **everyone** __has__ a day off, **some teachers** __assign__ extra homework.
+everyone → he or she (singular) some teachers → they (plural)
+- **The extra homework**, like small projects, __keeps__ the students busy and safe at home.
+the extra homework → it (singular)
+3. The ten common rules you will be learning in this unit will help you choose the correct verbs in most situations. Some rules may be different from how people speak in informal situations, but here you are focusing on formal, standard English usage.
+- **None** of my classmates __enjoy__ driving in snow. (informal)
+- **None** of my classmates __enjoys__ driving in snow. (formal)
+4. Practice, practice, and practice while enjoying your journey of learning. Be conscious of the verbs you are using. It is fun to learn a different language, and it is empowering[1] to have the assurance[2] that you are using the language correctly in academic writing.
+# IV. Ten Common Rules of Subject-verb Agreement
+### **Rule One. In general, a subject of singular nature takes the singular form of the verb. A subject of plural nature takes the plural form of the verb.**
+1. **We** __like__ outdoors, and **our puppy** __loves__ outdoors, too.
+2. **The cold weather** always __keeps__ us all indoors.
+### **Rule Two. If a compound subject is used, understand it as “they” and use the plural form of the verb.**
+1. **A wool scarf and a pair of earmuffs** __protect__ us from the biting cold.
+2. Besides a warm coat, **gloves and boots** __are__ also essential.
+3. **Both a jumper cable**[3] **and a blanket** __are__ necessary to keep in the car.
+### **Rule Three. When “or”, “either…or…”, or “neither…nor…” is in the subject, look at the part after “or” or “nor” to decide on the verb.**
+1. The GPS navigation or **a detailed map** __is__ very helpful if we are driving to a new location.
+2. The GPS navigation or **printed directions** __are__ very helpful if we are driving to a new location.
+3. Either a blanket or **warm clothes** __keep__ us warm during long-distance driving on a wintery day.
+4. Either warm clothes or **a blanket** __keeps__ us warm during long-distance driving on a wintery day.
+5. Sometimes neither loud music nor **talkative passengers** __are__ able to keep the tired driver awake.
+6. Sometimes neither talkative passengers nor **loud music** __is__ able to keep the tired driver awake.
+**Exercise 1.** The following paragraph is about winter fun in the McCormick Tribune Plaza in Chicago. Choose and highlight the correct verb in each sentence. Look at the subject carefully before you decide on the verb. If necessary, turn the subject into a pronoun to help you. The first one is an example. When you finish the entire exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+(Picture: a person wearing ice skate)
+person wearing ice skate
+[Interactive exercise]
+Task: .
+   Skating in the McCormick Tribune Plaza Many people (has, have ) suggested ways to have fun in Chicago winter. One choice ([is], are) to go ice-skating in the McCormick Tribune Plaza. The place ([welcomes], welcome) over 100,000 skaters annually.Neither your own skates nor an admission fee ([is], are) needed. People (is, [are]) able to rent skates on site. Families and friends always (has, [have]) a good time there. Either a whole day in the skating rink or just a few hours (adds, [add]) fun to a cold day in Chicago.
+### **Rule Four. Many indefinite pronouns are singular. When such a pronoun is the subject, use the singular form of the verb.**
+Common indefinite pronouns include “everybody, everyone, everything, somebody, someone, something, nobody, no one, nothing, either of, neither of, one of, each of, none of”.
+1. **Anyone** in Chicago __understands__ how difficult it is to arrive on campus on time on snowy days.
+2. **One** of my closest friends often __comes__ fifteen minutes late because he is a new driver. “Better safe than sorry!” He always says.
+3. **Each** of our professors __allows__ a few extra minutes for students to arrive at the classroom.
+4. **Neither** of my two courses __counts__ attendance as part of the grade.
+5. One time **everyone** __was__ late except the professor!
+6. Last week, **none** of the students __was__ late. The whole class cheered as the professor started the lesson.
+### **Rule Five. When “some”, “all”, or “most” is in the subject, the subject can be singular or plural. If the noun after these words is singular, use the singular form of the verb. If the noun is plural, use the plural form of the verb.**
+1. **Some of the students** __do not have__ classes early in the morning, so they can sleep in.
+2. There are no accidents on the road today as **some of the snow** __has melted__.
+3. **All of the drivers** __were__ safe at their destination this morning.
+4. **All of the snow** __was__ gone early this morning.
+5. **Most of the professors** __encourage__ extra home study when the classes are canceled due to severe weather.
+6. **Most of the extra work** __is__ optional for students.
+**Exercise 2.** The following paragraph is about taking photos of the Bean in the Millennium Park in Chicago. Choose and highlight the correct verb in each sentence. Look at the subject carefully before you decide on the verb. If necessary, turn the subject into a pronoun to help you. The first sentence is an example. When you finish the entire exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+(Picture: a woman taking photo of the Bean)
+a woman taking photo of the Bean
+[Interactive exercise]
+Task:
+   Taking Photos of the Bean One of the most popular parks for fun ( is , are) the Millennium Park in Chicago . Anyone ([is], are) able to find fun things to do in the Millennium Park in Chicago, even in winter. Every visitor ([likes], like) to have his or her photos taken in front of the Cloud Gate, also called the Bean. While each concert ([draws], draw) thousands of visitors in summer, the snow-dusted Bean ([is], are) a unique sight in this winter wonderland. What makes it a hotspot for photos? One of the reasons ([is], are) that the Bean ([reflects], reflect) the buildings as well as the people around it and from far away. All these buildings and people (ends, [end]) up in the photos!
+### **Rule Six. When a collective noun is used as the subject and is understood as acting together as one unit in the context, it becomes “it” and is followed by a singular form of the verb. If that collective noun focuses on its individual parts, it becomes “they” and is followed by a plural form of the verb.**
+Examples of collective nouns include “family”, “class”, “team”, “crowd”, “committee[4]”, “jury[5]”, “choir[6]“, “audience[7]”, etc.
+1. **The family** __is__ very quiet. The school is announcing a snow day on the radio.
+2. **The family** __are__ excited to be able to spend some time with each other at home.
+3. **Our team** always __works__ hard.
+4. When the game was canceled due to snow, **the team** __were__ not disappointed. They were excited to be able to visit each other’s homes.
+If you are not sure, you can add a word like “members”.
+**Our team members** always __work__ hard. However, when the game was canceled due to snow, **they** __were__ not disappointed. **They** __were__ excited to be able to visit each other’s homes.
+### **Rule Seven. When a gerund or an infinitive is used as a subject, use the singular form of the verb.**
+A gerund: verb + ing (It is not the same as the “verb + ing” in progressive tenses.)
+An infinitive: to + base verb
+1. **Reading** __is__ my main activity on a snow day.
+2. **Postponing** my homework till next week and **dreaming** of another snow day __make__ me feel guilty but happy. (compound subject)
+3. **Finding** a parking spot close to my classroom building __is__ almost impossible as many spaces are covered by snow and become “unparkable”.
+4. **To secure** a good parking space on campus around 10 am __has been__ my struggle this semester.
+### **Rule Eight. In a “There + a form of be” sentence, the verb depends on the noun after “be”.**
+1. There __are__ **many parking spaces** on campus, but the snow blowers usually “park” some of the snow in those spaces.
+2. Some students have no choice but park their cars in the employee parking areas. This happens more frequently when there __is__ **an important exam** starting within ten minutes.
+3. There __have been__ **times** when I am late for an exam just because it takes too long to find parking.
+**Exercise 3.** The following sentences are about winter fun in the Lincoln Park Zoo near Chicago. Choose and type the correct verb in each blank. Look at the subject carefully before you decide on the verb. If necessary, turn the subject into a pronoun to help you. You will get instant feedback on your answer. When you finish the entire exercise, you may retry or see all the answers.
+(Picture: Webpage of Lincoln Park ZooLights)
+Webpage of Lincoln Park ZooLights
+[Interactive exercise]
+Task: .
+   1. For families with children, the Lincoln Park Zoolights is (is, are) another attraction. 2. This annual event [runs] (runs, run) around the holiday season, and there [are] (is, are) one million lights. 3. There [are] (is, are) hundreds of larger-than-life displays, including 3D displays. 4. When there [is] (is, are) snow, the scene [seems] (seem, seems) more magical with all the twinkling lights. 5. Gift shopping [offers] (offers, offer) additional fun to select holiday presents. 6. The entire family [is] (is, are) welcome. 7. To spend an unforgettable night there [is] (is, are) one of the highlights of family fun in the holiday season.
+### **Rule Nine. Some nouns are always singular even though they end with an “s”, and some other nouns are always plural. Use verbs according to the nouns.**
+| Always Singular | Always Plural |
+| **non-count nouns**: air, knowledge, milk, news, politics … | **apparels**: clothes, jeans, pajamas, pants, shorts … |
+| **school subjects**: linguistics, mathematics, physics … | **groups**: people, police … |
+| **countries**: the Netherlands, the Philippines, the United States … | **tools**: glasses, pliers, scissors … |
+1. **Cold air** __is__ fresh and crisp on a winter morning.
+2. **The United States** __is__ a country where I am spending the coldest winter in my life.
+3. **Young people** __like__ to venture out and enjoy skiing.
+4. **Scissors** __are__ indispensable[8] for a snow-day art project. (**A pair** of scissors __is__ indispensable. – Refer to Rule Ten below.)
+**Exercise 4.** The following sentences are about winter fun in the Chicago Botanic Garden. Choose and type the correct verb in each blank. Look at the subject carefully before you decide on the verb. If necessary, turn the subject into a pronoun to help you. You will get instant feedback on your answer. When you finish the entire exercise, you may retry or see all the answers.
+(Picture: Lights in Chicago Botanic Garden)
+Lights in Chicago Botanic Garden
+[Interactive exercise]
+Task: .
+   1. If you crave (craves, crave) for more holiday lights, another place to visit is (is, are) the Chicago Botanic Garden Lightscape. 2. The news about the Lightscape usually [appears] (appears, appear) in the social media months ahead of time. 3. The Lightscape [starts] (starts, start) in mid-December and [ends] (ends, end) in early January every year. 4. Warm clothes [are] (is, are) needed because everything [is] (is, are) outdoors. 5. Boots [are] (is, are) absolutely necessary. 6. Visitors [enjoy] (enjoys, enjoy) themselves in the surrounding of thousands of lights as they [walk] (walks, walk) through the Cathedral of Light and [listen] (listens, listen) to choir of singing trees. 7. The Botanic Garden [suggests] (suggests, suggest) a tour of 45 – 75 minutes for the Lightscape.
+### **Rule Ten. A subject and a verb may not always be side by side. When there is a prepositional phrase between them, cross out that the prepositional phrase.**
+A prepositional phrase is a phrase consisting of a preposition plus a noun, pronoun, etc.
+examples: in the room, from him …
+The prepositional phrases are crossed out below to help you locate the subjects more easily. You can see that the subjects and verbs do not change.
+1. **Many international students** often __find__ Chicago winter intolerably long and cold.
+2. **Many international students** ~~from warm countries~~ often __find__ Chicago winter extremely long and cold.
+3. **A reliable car** __is__ essential on snowy days.
+4. **A reliable car** ~~with good tires~~ __is__ essential on snowy days.
+5. **A car dealership** __installs__ snow tires for customers.
+6. **A car dealership** ~~on Golf Road near Harper campus~~ __installs__ snow tires for customers.
+**Exercise 5.** The following sentences are about winter fun in the Chicago Theatre District. Highlight the correct verb in each sentence. Look at the subject carefully before you decide on the verb. If necessary, turn the subject into a pronoun to help you. The first sentence is an example. When you finish the entire exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+(Picture: rows of red chairs in a theater)
+rows of red chairs in a theater
+[Interactive exercise]
+Task: .
+   1. Besides doing interesting outdoor activities, people in Chicago also (enjoys, enjoy ) many indoor comforts. 2. Many people (does, [do]) not know that there (is, [are]) 250 theaters and 5 Tony Award winning theater companies in Chicago. 3. The Chicago Theater District in different downtown areas ([has], have) over 100 years of history. 4. Arie Crown Theater at the McCormick Place ([has], have) the largest capacity, 4000+ seats. 5. One of the most famous theaters ([is], are) Goodman Theatre. It ([is], are) also the oldest and largest not-for-profit theatre. Goodman Theatre is a recipient of the Special Tony Award for Outstanding Regional Theater. 6. During the winter, many classic shows such as “It’s a Wonderful Life” and “A Christmas Carol” (attracts, [attract]) people from far and near. 7. All the theater lovers in Chicago (is, [are]) lucky to have so many theatric attractions nearby.
+# V. Unit Review Practice
+**Exercise 6.** The following paragraph is about museums in Chicago. There are seven more errors in the use of subject-verb agreement (not including the example). Remember to locate the subject first in each sentence. Then Identify the verb error and correct it. The first one is an example.
+Visiting Chicago Museums in Winter
+(Picture: dinosaur fossil display at Field Museum)
+dinosaur fossil display at Field Museum
+Museums in Chicago **~~*is*~~ *(are)* **famous . There is more than sixty of them ! They provide numerous educational and recreational indoor activities, especially in winter. There are always something for everyone. People of all ages like to go there and have fun. For example, the Field Museum have displays from ancient cultures to the most modern scientific discoveries. One of the most popular exhibits is the largest Tyrannosaurus rex skeleton Sue. The Museum of Science and Industry is another well-known place. Every winter, it have a special exhibit called Christmas around the World and Holidays of Light. This event started in 1942 with one single tree but have expanded into an annual holiday tradition since then. Visitors see a four-story Grand Tree with forty smaller trees around it. The trees represents celebrations from cultures around the world. No doubt, museums in Chicago keep people warm, safe, and entertained during harsh winters.
+**Exercise 7.** The following paragraph about winter fun at home is adapted from a paragraph in an earlier unit. There are six more errors in the use of subject-verb agreement (not including the example). Remember to locate the subjects first. Then identify the verb errors and correct them. The first one is an example.
+(Picture: Zootopia movie in a home theater)
+Zootopia movie in a home theater
+Winter Fun at Home
+Winters in some areas of America ***~~is~~ (are)*** very cold. Many people have to stay home, but they do not need to miss fun. The first interesting thing they can do is to make home a fun zone. For instance, they can set up a simple but comfortable home theatre with just a TV and a couch. A bag of popcorn and a cup of hot chocolate adds to a feeling of warmth and relaxation no matter how heavily it is snowing outside. Second, they can make household chores into a competition. Every week, they have a cleaning game. The older child vacuum the carpet, the younger child dust the furniture, and the parents clean the kitchen appliances. They can rotate being the judge and deciding on the prizes. Children are usually happier to do housework when it is fun. Lastly, they can continue with physical activities at home. If they have a treadmill or stationary bike at home, that will be great. However, it is still fine without it. On the Internet, there is many fitness programs with no required equipment, so everyone can choose what he or she like to do. One person can choose aerobics, and another can do tai chi. Winters can be long, but they do not have to be boring. It depend on the people to find fun things to do at home.
+**Exercise 8.** In the following paragraph about winter dining in Chicago, there are ten more errors in the use of subject-verb agreement (not including the example). Remember to locate the subjects first. Then identify the verb errors and correct them. The first one is an example.
+Winter Dining in Chicago
+(Picture: two igloos)
+two igloos
+As cold as Chicago winters are, there **~~*is*~~ (*are*)** always many fun things to do both indoors and outdoors for everyone. Everyone are able to find activities to his or her liking. Young people loves ice-skating in the McCormick Tribune Plaza and photo shooting in the Millennium Park. Children delight[9] in light gazing in the Lincoln Park Zoo and the Chicago Botanic Garden. Many people like to stay indoors. Watching a play in the Chicago Theater District or visiting Sue in the Field Museum guarantee a warm and safe outing. There are also many restaurants in Chicago. Believe it or not, there are outdoor dining in the deep cold. “From heated[10] igloos[11] to enclosed patios to rooftop bars, there are tons of outdoor dining.” One of the restaurants are Beatrix Fulton Market. It offer covered[12] igloos and heated greenhouses. Each greenhouse hold two to four customers and have a dinning time limit of one and a half hours. The igloo dining booking fee costs $150. Neither the food nor the drinks is included in this fee. Eating there is expensive, but the dining experience will be unforgettable. If anyone are interested, it is important to check for updates at https://www.choosechicago.com/blog/dining/open-patio-rooftops-dining-chicago/.
+*The information about indoor dining, along with the quote, was adapted from the above website. Last accessed on January 15, 2021.*
+**Exercise 9.** Choose two of the topics to write a paragraph each. Pay attention to the subject-verb agreement.
+1. What are different ways you have fun in winter?
+2. What are popular places in your native country where people like to spend the winter?
+3. What safe winter driving tips would you like to share?
+4. What are different ways children enjoy snow days?
+5. Have you had a snow day? If so, what did you do?
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics to write a paragraph each. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the subject-verb agreement in each sentence. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: empowering -> adjective, feeling powerful
+Card: assurance -> noun, the feeling of being sure
+Card: a jumper cable -> noun phrase, a wire to jump start a car when the car battery is not working
+Card: committee -> noun, a group of people selected to work on a special task
+Card: jury -> noun, a group of people in the court to decide whether a person is guilty of a crime
+Card: choir -> noun, an organized group of singers
+Card: audience -> noun, a group of people watching or listening, such as in a movie theater or sport game
+Card: indispensable -> adjective, absolutely necessary, essential
+Card: delight -> verb, enjoy
+Card: heated -> adjective, warm, with heating on
+Card: igloo -> noun, a "house" made of ice and snow
+Card: covered -> adjective, having a roof or lid
+**Summary**
+1. A subject and its verb must match each other.
+2. The following strategies will help you use subject-verb agreement correctly:
+- Identify the subject first.
+- Turn a complicated subject into a pronoun to see its singular/plural nature before deciding on the verb.
+- Understand the rules.
+- Keep practicing.
+3. The following are ten common rules in subject-verb agreement:
+- In general, a subject of singular nature takes the singular form of the verb. A subject of plural nature takes the plural form of the verb.
+- If a compound subject is used, understand it as “they” and use the plural form of the verb.
+- When “or”, “either…or…”, or “neither…nor…” is in the subject, look at the word after “or” or “nor” to decide on the verb.
+- When an indefinite pronoun is the subject, use singular form of the verb.
+- In sentences with “some”, “any”, “all”, or “most” as the subject, if the noun after these words is singular, use the singular form of the verb. If the noun is plural, use the plural form of the verb.
+- When a collective noun is used as the subject and is understood as acting together as one unit in the context, it becomes “it” and is followed by a singular form of the verb. If that collective noun focuses on its individual parts, it becomes “they” and is followed by a plural form of the verb.
+- When a gerund or an infinitive is used as a subject, use the singular form of the verb.
+- In “There + a form of be” sentences, the verb depends on the noun after “be”.
+- Some nouns are always singular, and some are always plural. Use verbs according to the singular or plural nature of the nouns.
+- When there is a prepositional phrase between the subject and the verb, cross out that the prepositional phrase when you look for the subject.
+## Media Attributions
+- snow-covered trees and houses © Photo by Cloris Ying on Unsplash
+- person wearing ice skate © Photo by Kelli McClintock on Unsplash
+- a woman taking photo of the Bean © Photo by Laura Blanshard on Unsplash
+- Webpage of Lincoln Park ZooLights
+- Lights in Chicago Botanic Garden © Photo by Steven Aguilar on Unsplash
+- rows of red chairs in a theater © no available is licensed under a CC0 (Creative Commons Zero) license
+- dinosaur fossil display at Field Museum © Photo by Chris Nguyen on Unsplash
+- Zootopia movie in a home theater © Photo by Chauhan Moniz on Unsplash
+- two igloos © Photo by Aleksandra Sapozhnikova on Unsplash
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. empowering: adjective, feeling powerful ↵
+2. assurance: noun, the feeling of being sure ↵
+3. a jumper cable: noun phrase, a wire to jump start a car when the car battery is not working ↵
+4. committee: noun, a group of people selected to work on a special task ↵
+5. jury: noun, a group of people in the court to decide whether a person is guilty of a crime ↵
+6. choir: noun, an organized group of singers ↵
+7. audience: noun, a group of people watching or listening, such as in a movie theater or sport game ↵
+8. indispensable: adjective, absolutely necessary, essential ↵
+9. delight: verb, enjoy ↵
+10. heated: adjective, warm, with heating on ↵
+11. igloo: noun, a "house" made of ice and snow ↵
+12. covered: adjective, having a roof or lid ↵
+
+Links on this section's web page:
+- Web page (choosechicago.com): https://www.choosechicago.com/blog/dining/open-patio-rooftops-dining-chicago/

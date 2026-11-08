@@ -1,0 +1,16 @@
+# The tutor's base model. num_gpu 999 forces every layer onto the GPU:
+# if VRAM ever runs short, loading fails loudly instead of silently spilling into system RAM.
+FROM qwen3.5:9b
+PARAMETER num_gpu 999
+PARAMETER num_ctx 16384
+
+# Memory-map the weights instead of copying them through RAM while loading.
+# Measured on this PC: the loaded model costs ~1.2 GB of RAM with mmap vs ~2.2 GB without.
+# The ~0.55 GB token-embedding table always stays in RAM: llama.cpp keeps the input lookup on the CPU by design.
+PARAMETER use_mmap true
+
+# Qwen's recommended sampling for non-thinking replies (the base defaults target thinking mode)
+PARAMETER temperature 0.7
+PARAMETER top_p 0.8
+PARAMETER top_k 20
+PARAMETER presence_penalty 1.5

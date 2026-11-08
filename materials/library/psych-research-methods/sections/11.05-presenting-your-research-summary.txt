@@ -1,0 +1,36 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+11.5: Presenting Your Research (Summary)
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research/11.05%3A_Presenting_Your_Research_(Summary)
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform
+
+## Key Takeaways
+- APA style is a set of guidelines for writing in psychology. It is the genre of writing that psychologists use to communicate about their research with other researchers and practitioners.
+- APA style can be seen as having three levels. There is the organization of a research article, the high-level style that includes writing in a formal and straightforward way, and the low-level style that consists of many specific rules of grammar, spelling, formatting of references, and so on.
+- References and reference citations are an important part of APA style. There are specific rules for formatting references and for citing them in the text of an article.
+- An APA-style empirical research report consists of several standard sections. The main ones are the abstract, introduction, method, results, discussion, and references.
+- The introduction consists of an opening that presents the research question, a literature review that describes previous research on the topic, and a closing that restates the research question and comments on the method. The literature review constitutes an argument for why the current study is worth doing.
+- The method section describes the method in enough detail that another researcher could replicate the study. At a minimum, it consists of a participants subsection and a design and procedure subsection.
+- The results section describes the results in an organized fashion. Each primary result is presented in terms of statistical results but also explained in words.
+- The discussion typically summarizes the study, discusses theoretical and practical implications and limitations of the study, and offers suggestions for further research.
+- Research in psychology can be presented in several different formats. In addition to APA-style empirical research reports, there are theoretical and review articles; final manuscripts, including dissertations, theses, and student papers; and talks and posters at professional conferences.
+- Talks and posters at professional conferences follow some APA style guidelines but are considerably less detailed than APA-style research reports. Their function is to present new research to interested researchers and facilitate further interaction among researchers.
+## References
+American Psychological Association, Committee on Lesbian, Gay, and Bisexual Concerns Joint Task Force on Guidelines for Psychotherapy With Lesbian, Gay, and Bisexual Clients. (2000). *Guidelines for psychotherapy with lesbian, gay, and bisexual clients*. Retrieved from __https://www.apa.org/pi/lgbt/resources/guidelines__
+Bem, D. J. (2003). Writing the empirical journal article. In J. M. Darley, M. P. Zanna, & H. R. Roediger III (Eds.), *The complete academic: A practical guide for the beginning social scientist* (2nd ed.). Washington, DC: American Psychological Association.
+Bentley, M., Peerenboom, C. A., Hodge, F. W., Passano, E. B., Warren, H. C., & Washburn, M. F. (1929). Instructions in regard to preparation of manuscript. *Psychological Bulletin, 26*, 57–63.
+Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology, 4*, 377–383.
+Madigan, R., Johnson, S., & Linton, P. (1995). The language of psychology: APA style as epistemology. *American Psychologist, 50*, 428–436.
+Onwuegbuzie, A. J., Combs, J. P., Slate, J. R., & Frels, R. K. (2010). Editorial: Evidence-based guidelines for avoiding the most common APA errors in journal article submissions. *Research in the Schools, 16*, ix–xxxvi.
+American Psychological Association. (2010). *Publication Manual of the American Psychological Association* (6th ed.). Washington, D.C.: American Psychological Association.
+### Exercises
+- Practice: Find a description of a research study in a popular magazine, newspaper, blog, or website. Then identify five specific differences between how that description is written and how it would be written in APA style.
+- Practice: Find and correct the errors in the following fictional APA-style references and citations.
+  - Walters, F. T., and DeLeon, M. (2010). Relationship Between Intrinsic Motivation and Accuracy of Academic Self-Evaluations Among High School Students. Educational Psychology Quarterly, 23, 234–256.
+  - Moore, Lilia S. (2007). Ethics in survey research. In M. Williams & P. L. Lee (eds.), Ethical Issues in Psychology (pp. 120–156), Boston, Psychological Research Press.
+  - Vang, C., Dumont, L. S., and Prescott, M. P. found that left-handed people have a stronger preference for abstract art than right-handed people (2006).
+  - This result has been replicated several times (Williamson, 1998; Pentecost & Garcia, 2006; Armbruster, 2011)
+- Practice: Look through an issue of a general interest professional journal (e.g., *Psychological Science*). Read the opening of the first five articles and rate the effectiveness of each one from 1 (*very ineffective*) to 5 (*very effective*). Write a sentence or two explaining each rating.
+- Practice: Find a recent article in a professional journal and identify where the opening, literature review, and closing of the introduction begin and end.
+- Practice: Find a recent article in a professional journal and highlight in a different color each of the following elements in the discussion: summary, theoretical implications, practical implications, limitations, and suggestions for future research.
+- Discussion: Do an Internet search using search terms such as *psychology* and *poster* to find three examples of posters that have been presented at conferences. Based on information in this chapter, what are the main strengths and main weaknesses of each poster?
+This page titled 11.5: Presenting Your Research (Summary) was last modified on Fri, 11 Nov 2022 07:01:00 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform.

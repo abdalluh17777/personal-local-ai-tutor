@@ -1,0 +1,73 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.5: Identifying and Using Ethos
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.05%3A_Identifying_and_Using_Ethos
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer (ASCCC Open Educational Resources Initiative (OERI))
+
+[Image: black and white icon of a human figure with a badge and a checkmark]
+Figure : **Ethos** "Integrity" by Adrien Coquet from NounProject.com is licensed under CC-BY
+## What is ethos?
+How do we know what is true or what we should decide? Often, we rely on the promises of other people. If a friend tells us about a surprising new cure for a disease, we might ask, “Where did you hear that?” If we are choosing a restaurant in a new city, or a college class, or a pair of shoes, we look at online reviews to get the advice of other people in our same situations.
+An appeal to ethos is all about trust. The word means “character” and is related to ethics, the study of social morals, or how we all decide together what is right and wrong, and who we can trust to tell the truth. One source may have credibility because of their educational, professional, or official status, or like the protestor in figure 5.5.1, have credibility because they have personal experience with the situation.
+[Image: young women in a crowd hold up handmade signs, one reading "I don't want to die for fashion"]
+Figure : "Thousands of garment workers and their unions rally on the one-year anniversary of the Rana Plaza collapse that killed more than 1,100 garment workers" by Solidarity Center is licensed under CC-BY-ND 2.0
+## How do we look for ethos as readers?
+As a reader, evaluating *ethos* means asking who’s talking (or writing) and how much we can trust them.
+- Are they fair?
+- Are they experts on the subject?
+- Are they using other trustworthy sources?
+## How do we use ethos as writers?
+When you are the writer, you imagine that your audience is asking the same questions, and you want them to trust you. In order to do this well, you need to establish *ethos* by doing the following:
+- present your argument clearly, in a way that makes you sound authoritative and professional (see 2.3: Writing a Thesis Statement)
+- not exaggerate the strength of your claims and perhaps use hedging language to make your position sound thoughtful and reasonable (See 5.9: Hedging)
+- explain and respond to opposite or alternative positions on the topic fairly so your reader sees that you have considered the full picture (see 5.8: Concession and Counterargument)
+- Use evidence from other trusted sources and clearly show why we should trust them by citing them accurately and providing their credentials. (see 4.7 Introducing and Explaining Evidence)
+## Examples of ethos
+Notice this!
+In this excerpt from the article __Waste Couture: Environmental Impact of the Clothing Industry__ by Luz Claudio, notice the places where the author establishes ethos for herself and for her other sources. **Bold** shows the parts to notice; [purple type in brackets shows the explanation].
+Printable Word version: How writers build ethos.docx
+Printable PDF version: How writers build ethos.pdf
+### Reading from an academic journal article: Everything Old Is New Again
+**In her book** ***Waste and Want: A Social History of Trash*****, Susan Strasser, a professor of history at the University of Delaware,** [Here Claudio is telling us the credential for the author she is citing] traces the “progressive obsolescence” of clothing and other consumer goods to the 1920s. Before then, and especially during World War I, most clothing was repaired, mended, or tailored to fit other family members, or recycled within the home as rags or quilts. During the war, clothing manufacturers reduced the varieties, sizes, and colors of their productions and even urged designers to create styles that would use less fabric and avoid needless decoration. The government’s conservation campaign used slogans such as “Make economy fashionable lest it become obligatory” and resulted in an approximate 10% reduction in the production of trash.
+However, the spirit of conservation did not last long; by the mid-1920s consumerism was back in style. Industrialization grew in the twentieth century, providing the means of increased production of all consumer goods. During World War II, consumption rose with increased employment as the United States mobilized for the war. The production and consumption of many household goods, including clothing, grew by 10–15% even in the middle of the war and continues to expand to this day.
+Industrialization brought consumerism with it as an integral part of the economy. **Economic growth came to depend on continued marketing of new products and disposal of old ones that are thrown away simply because stylistic norms promote their obsolescence.** [Here Claudio is zooming out to explain a larger cause behind what seem like foolish individual decisions by consumers. This builds ethos by showing the author’s reasonable acknowledgment of the bigger picture.] When it comes to clothing, the rate of purchase and disposal has dramatically increased, so the path that a T-shirt travels from the sales floor to the landfill has become shorter.
+**Yet even today, the journey of a piece of clothing does not always end at the landfill.** [Here Claudio is conceding that some progress is being made toward reducing negative environmental impacts.] A portion of clothing purchases are recycled mainly in three ways: clothing may be resold by the primary consumer to other consumers at a lower price, it may be exported in bulk for sale in developing countries, or it may be chemically or mechanically recycled into raw material for the manufacture of other apparel and non-apparel products.
+Domestic resale has boomed in the era of the Internet. Many people sell directly to other individuals through auction websites such as eBay. Another increasingly popular outlet is consignment and thrift shops, where sales are growing at a pace of 5% per year, **according to the National Association of Resale and Thrift Shops** [providing the source of the statistic]**.**
+The U.S. government offers tax incentives for citizens who donate household goods to charities such as the Salvation Army and Goodwill Industries, which salvage a portion of clothing and textiles that would otherwise go to landfills or incinerators. The trend of increased purchasing of clothing and other household goods has served the salvage charities well. For instance, since 2001 Goodwill Industries has seen a 67% increase in its sale of donated goods, most of it clothing. **Figures from the National Association of Resale and Thrift Shops** [providing the source of the statistic] put Goodwill’s sales of donated goods at thrift shops at more than $1.8 billion in 2006.
+## Finding ethos
+Now let's look at another article and practice finding examples of *ethos* in action:
+Try this!
+In this section of a chapter from __Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy__ (Jimenez and Pulos), the authors have already discussed the terrible working conditions and labor abuses in factories known as “sweatshops.” Now they are presenting a different perspective. Look for the ways they establish *ethos* for themselves and the sources they cite.
+## Reading from a business ethics textbook: The Other Side of the Story: In Praise of Sweatshops
+In light of the above history, it might seem startling that many experts appear to accept the existence of sweatshops as something positive. Economist Jeffrey Sachs, who is perhaps the world’s foremost expert on the eradication of poverty (he was the creator of the United Nations Millennium Project to cut global poverty in half) was quoted in 1997 as saying, “The problem with sweatshops is not that there are too many, but that there are not enough.” What did he mean by that?
+In general, economists are less disturbed by sweatshop abuses than are labor activists, but most economists would deny that this is because they are heartless or unconcerned with human rights. Rather, they concede that sweatshop abuses are both common and reprehensible, but they also believe that the benefits to the local economy from international outsourcing more than outweigh the harm.
+According to this point of view, sweatshops are part of the industrialization process and are an inevitable by-product of economic development. Factories in poor countries are able to attract foreign customers because local labor is cheap. As factories proliferate and employment rises, factories must begin to compete for better workers. Wages therefore increase, and factory conditions improve. With a broader tax base and greater economic growth, local governments are able to invest in the infrastructure for further development, building roads, hospitals, and schools.
+Some international research studies appear to confirm the economists’ point of view. One study revealed that, in most countries where the presence of sweatshops had been reported, apparel factory workers actually earned more than the average national wage. A number of countries have passed through a manufacturing phase in which sweatshop conditions were more prevalent on their way to full industrialization and a diversified economy. Examples include the United States, Japan, and Korea. Most recently, China appears to be following a similar path, though it is still in a transition phase and reports of sweatshop abuses are still common.
+## Adding ethos
+Now let's apply this to your own writing:
+Apply this:
+Look at your own or a classmate's draft. Where can you add or revise parts to establish *ethos*?
+- Look at your thesis statement. Can you revise it to make it sound more reasonable and thoughtful?
+- Look at your text evidence. Can you add/revise credentials to introduce your sources with information to build their credibility? Do you need to find more credible sources?
+- Look at your concessions and counterarguments. Can you add/revise parts to show you are representing opposing points of view fairly and have considered all the most obvious angles to your topic?
+- Are there any places you can use hedging language to limit your claims and make them easier to defend?
+## When writers misuse ethos
+*Ethos* is important, but can't stand alone. Here are two ways writers misuse ethos:
+1. Sometimes writers don't use enough logical evidence, and instead, rely on emphasizing ethos—who is saying the idea. They present a quote or paraphrase that looks like it's going to be evidence, but it's actually just the same idea they already said again, but written by a credible source. This is usually unintentional, but weakens an argument.
+Example: A writer wants to support this claim: **Producing fabric causes damage to both the environment and society.**
+Here are three possible support sentences with evidence from a credible source. Which one misuses ethos?
+A. According to a team of researchers from Washington University, these harms range from "the growth of water-intensive cotton, to the release of untreated dyes into local water sources, to worker’s low wages and poor working conditions" (Bick, et al.).
+B. According to a team of researchers from Washington University, "The environmental and social costs involved in textile manufacturing are widespread" (Bick, et al.).
+C. According to a team of researchers from Washington University, this damage is not always easy to see: "The human and environmental health risks associated with inexpensive clothing are hidden throughout the lifecycle of each garment" (Bick, et al.).
+All three support sentences use quoted evidence from a credible source, and introduce the quote with a credential. But A and C both add something new and more specific to the first sentence. B does not; it is the same level of specificity as the first sentence. It is depending on the credibility of the source, not building a logical argument.
+2. Sometimes writers (especially marketers) intentionally use *ethos* to get their readers to believe or buy something by focusing on who is endorsing their product or idea rather than what's good about the product or idea. Often the person cited is not even an expert on the topic. This is called an Appeal to Authority or Appeal to False Authority, and is included in 5.7: Logical Fallacies.
+## Works Cited
+Bick, Rachel, et al. "The global environmental injustice of fast fashion." *Environmental Health*, vol. 17, no. 92, 27 Dec. 2018, doi:https://doi.org/10.1186/s12940-018-0433-7.
+Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textbooks, 2014, milnepublishing.geneseo.edu/good-corporation-bad-corporation/. Licensed under CC BY-NC-SA 4.0
+## Licenses and attributions
+### CC Licensed Content: Original
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+### CC Licensed Content: Previously Published
+Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textbooks, 2014, milnepublishing.geneseo.edu/good-corporation-bad-corporation/. Licensed under CC BY-NC-SA 4.0.
+### Some Rights Reserved
+Claudio, Luz. “Waste Couture: Environmental Impact of the Clothing Industry.” *Environmental Health Perspectives*, vol. 115, no. 9, Sept. 2007, pp. A448–A454. *EBSCOhost*, doi:10.1289/ehp.115-a449. Reproduced from *Environmental Health Perspectives* with permission from the author.
+This page titled 5.5: Identifying and Using Ethos was last modified on Sun, 09 Mar 2025 17:17:26 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer (ASCCC Open Educational Resources Initiative (OERI)) .

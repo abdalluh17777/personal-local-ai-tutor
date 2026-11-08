@@ -1,0 +1,17 @@
+* text=auto
+
+# Windows launchers and scripts keep CRLF line endings on every checkout
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Course materials are stored byte for byte: the app matches files by their SHA-256,
+# so a line-ending conversion would make a fresh install store a second copy of each file
+materials/** -text
+
+*.png binary
+*.ico binary
+*.pdf binary
+*.m4a binary
+*.docx binary
+*.pptx binary

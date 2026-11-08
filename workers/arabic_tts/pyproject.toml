@@ -1,0 +1,36 @@
+[project]
+name = "arabic-tts-worker"
+version = "0.1.0"
+description = "Arabic speech for the tutor: SILMA TTS (F5-TTS, Arabic/English) in its own process and environment"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "silma-tts==1.0.5",
+    # 2.8 is the newest torchaudio that reads WAV through soundfile; later versions need FFmpeg DLLs (torchcodec)
+    "torch==2.8.0",
+    "torchaudio==2.8.0",
+    "torchvision==0.23.0",
+    "numpy<=1.26.4",
+    # CATT diacritization runs on ONNX Runtime; 1.26 is the last build for CUDA 12
+    "onnxruntime-gpu>=1.26,<1.27",
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+]
+
+[tool.uv]
+# Removed from SILMA's requirements, each for a stated reason:
+override-dependencies = [
+    "nemo-text-processing; sys_platform == 'never'",   # needs pynini (no Windows build); number normalization is turned off
+    "gradio; sys_platform == 'never'",                 # only for SILMA's demo web UI
+    "torchcodec; sys_platform == 'never'",             # torchaudio 2.8 reads WAV without it
+    "onnxruntime; sys_platform == 'never'",            # the GPU build above provides the same module
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+torchaudio = { index = "pytorch-cu128" }
+torchvision = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

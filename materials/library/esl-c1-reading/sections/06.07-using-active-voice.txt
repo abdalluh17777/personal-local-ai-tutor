@@ -1,0 +1,54 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+6.7: Using Active Voice
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.07%3A_Using_Active_Voice
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Active vs. passive voice
+Active voice and passive voice are two ways to structure a verb in a sentence. In figure 6.7.1, we could either say "a bee pollinates a flower," or "a flower is pollinated by a bee." Using active voice usually makes your writing clearer. Active voice keeps the focus on your subject as well as the action and can help your writing feel lively, fresh, and interesting. Using active voice can also help eliminate wordiness.
+[Image: bee pollinating an oregano flower]
+Figure : Bee pollinating an oregano flower; DSC_1419-crop by Angelica Perduta is licensed under __CC0 1.0.__
+## How active voice improves clarity
+So, what’s the difference between active voice and passive voice? Let's look at some examples:
+Notice this!
+Read the following sentences. What do you notice about them? What is similar? What is different?
+- Passive voice: The strawberry industry has been scrutinized over the past several years.
+- Active voice: Over the past several years, environmental regulators have scrutinized the strawberry industry.
+Passive voice occurs when the writer places the grammatical object (in this case, *the strawberry industry*) in the subject position in a sentence. Therefore, the actual subject of the sentence is in the object position (at the end) or missing. In passive voice, the verb is in past participle ( “to be” + “ed” verb) form (in this case, *has been scrutinized*). Looking for this verb form is one of the easiest ways to tell if a sentence is in passive voice. By revising the sentence in active voice, we focus on the subject (*environmental regulators*) and their actions.
+Here’s another example. The subject appears in both active and passive voice, but its position is different between the two sentences.
+- Passive voice: Documentation of pesticide use is required by regulators.
+- Active voice: Regulators require documentation of pesticide use.
+Passive voice pulls the focus away from the subject’s actions. The revision to active voice changes that, and the sentence becomes more lively.
+## Is passive voice ever okay?
+Passive voice can sometimes be acceptable when you want to keep the focus on **what** was done and not **who** did it, as long as your meaning is still clear. In science writing, for example, writers usually use passive voice in the methods section of research papers and in lab reports because the focus is on the action and the object, not who is doing it.
+Examples:
+- *The compound was heated to 75 degrees celsius.*
+- *Patients in the control group were given a saline solution placebo.*
+- *Respondents who agreed were contacted with follow-up questions.*
+We want to know about the action and who or what received the action, and we don't care so much about which scientist, medical technician, or poll worker actually did the action. In other sections of research papers and most writing, however, you should use active voice if possible.
+## Identifying active vs. passive voice
+Now let's try identifying active versus passive voice and choosing the best sentence:
+Try this!
+These three sentences are all grammatically correct. Which one do you think gets the idea across most clearly and accurately?
+1. The same pesticides that eliminate destructive insects also kill the bees we depend on to pollinate food crops.
+2. Destructive insects are eliminated by pesticides, but the bees we depend on to pollinate food crops are also killed by the application of these chemicals.
+3. Destructive insects are eliminated, but the bees we depend on to pollinate food crops are also killed.
+For suggested answers, see 6.15: Clarity and Style Answer Key.
+## Identifying passive voice in a paragraph
+Now let's try finding examples of passive voice in the student essay:
+Try this!
+Look at the first paragraph of the student essay. Find three sentences that use passive voice when active voice would be more effective. (Some sentences use it more than once). Rewrite those sentences in active voice, drawing attention to the subjects’ actions rather than what was done.
+It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough fresh produce is sold by stores in their communities. Alana Rhone, an Agricultural Economist, states in her and her group’s report, “Low-Income and Low-Supermarket-Access Census Tracts, 2010-2015”, published on 1 January 2017, that there’s a website known as the Food Access Research Atlas (FARA) that “allows users to investigate access to food stores at the census-tract level” (1). According to the United States Department of Agriculture ERS, the measure of food access is based on proximity to the nearest store, and the number of households without a vehicle (“Documentation” para 2). As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and vehicles are not owned by one-third of its residents. For urban areas, such as West Oakland, the USDA specifies that “a tract is considered low access if at least 100 households are more than a ½-mile from the nearest supermarket and have no access to a vehicle” (“Documentation” para 8). Given the facts above, it can reasonably be assumed that if people don’t have a car and taking the bus is needed to access healthy food, it will cause inconvenience and their willingness to purchase healthy food will be diminished.
+For suggested answers, see 6.15: Clarity and Style Answer Key.
+## Revising for active voice
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- Underline one sentence in active voice. Make sure you can identify its features.
+- Can you find instances of passive voice? If so, experiment with revising these sentences.
+## Licenses and Attributions
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu.
+## **CC Licensed Content: Previously published**
+"Active vs. passive voice," "How active voice improves clarity," and "Is passive voice ever OK?" are adapted from 11.6 "Sentence Focus" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+This page titled 6.7: Using Active Voice was last modified on Sun, 09 Mar 2025 17:17:27 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

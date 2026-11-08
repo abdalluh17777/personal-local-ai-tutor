@@ -1,0 +1,117 @@
+Lesson 10 material: Grammar Refresher: Count and Noncount Nouns and Articles
+English Stage 3 (C1) · Unit 1: Refining Sentences and Punctuation
+
+=== 7.4: Count and Noncount Nouns and Articles ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.04%3A_Count_and_Noncount_Nouns_and_Articles
+
+Learning Objectives
+1. Define and use count and noncount nouns.
+2. Recognize and use definite and indefinite articles.
+Nouns are words that name things, places, people, and ideas. Right now, you may be surrounded by desks, computers, and notebooks. These are called count nouns because you can count the exact number of desks, computers, and notebooks—three desks, one computer, and six notebooks, for example.
+On the other hand, you may be carrying a small amount of money in your wallet and sitting on a piece of furniture. These are called noncount nouns. Although you can count the pieces of furniture or the amount of money, you cannot add a number in front of *money* or *furniture* and simply add -*s* to the end of the noun. Instead, you must use other words and phrases to indicate the quantity of money and furniture.
+**Incorrect:** five moneys, two furnitures, three sugars
+**Correct:** some money, two pieces of furniture, two teaspoons of sugar
+## Count and Noncount Nouns
+A count noun refers to people, places, and things that are separate units. You make count nouns plural by adding -*s*.
+Table : Table of Count Nouns
+| **Count Noun** | **Sentence** |
+| Quarter | It takes six quarters to do my laundry. |
+| Chair | Make sure to push in your chairs before leaving class. |
+| Candidate | The two candidates debated the issue. |
+| Adult | The three adults in the room acted like children. |
+| Comedian | The two comedians made the audience laugh. |
+A noncount noun identifies a whole object that cannot separate and count individually. Noncount nouns may refer to concrete objects or abstract objects. A concrete noun identifies an object you can see, taste, touch, or count. An abstract noun identifies an object that you cannot see, touch, or count. There are some exceptions, but most abstract nouns cannot be made plural, so they are noncount nouns. Examples of abstract nouns include anger, education, melancholy, softness, violence, and conduct.
+Table : Table of Types of Noncount Nouns
+| **Type of Noncount** | **Noun** | **Examples Sentence** |
+| Food | sugar, salt, pepper, lettuce, rice | Add more sugar to my coffee, please. |
+| Solids | concrete, chocolate, silver, soap | The ice cream was covered in creamy chocolate. |
+| Abstract Nouns | peace, warmth, hospitality, information | I need more information about the insurance policy. |
+Exercise :
+On a separate sheet of paper, identify whether the italicized noun in the sentence is a count or noncount noun by writing C or NC above the noun.
+1. The amount of traffic on the way home was terrible.
+2. Forgiveness is an important part of growing up.
+3. I made caramel sauce for the organic apples I bought.
+4. I prefer film cameras instead of digital ones.
+5. My favorite subject is history.
+6. “Freedom is just another word for nothing left to lose.”
+## Definite and Indefinite Articles
+The word *the* is a definite article. It refers to one or more specific things. For example, *the woman* refers to not any woman but a particular woman. The definite article *the* is used before singular and plural count nouns.
+The words *a* and *an* are indefinite articles. They refer to one nonspecific thing. For example, *a woman* refers to any woman, not a specific, particular woman. The indefinite article *a* or *an* is used before a singular count noun.
+Definite Articles (*The*) and Indefinite Articles (*A/An*) with Count Nouns
+I saw **the** concert. (singular, refers to a specific concert)
+I saw **the** concerts. (plural, refers to more than one specific concert)
+I saw **the** U2 concert last night. (singular, refers to a specific concert)
+I saw **a** concert. (singular, refers to any nonspecific concert)
+## Two Article Rules – Reminders
+The following rules will help to determine when and what kind of article needs to beused.
+**Rule 1**: A singular count noun needs an article or a determiner.
+Choose *a* or *an* if the noun is indefinite. Choose *the* if the noun is definite
+**Rule 2**: A plural or non-count noun does not need an article unless it is definite.
+Exercise :
+On a separate sheet of paper, write the correct article in the blank for each of the following sentences. Write OK if the sentence is correct.
+1. (A/An/The) camel can live for days without water. ________
+2. I enjoyed (a/an/the) pastries at the Bar Mitzvah. ________
+3. (A/An/The) politician spoke of many important issues. ________
+4. I really enjoyed (a/an/the) actor’s performance in the play. ________
+5. (A/An/The) goal I have is to run a marathon this year. ________
+Exercise :
+Correct the misused or missing articles and rewrite the paragraph:
+Stars are large balls of spinning hot gas like our sun. The stars look tiny because they are far away. Many of them are much larger than sun. Did you know that a Milky Way galaxy has between two hundred billion and four hundred billion stars in it? Scientists estimate that there may be as many as five hundred billion galaxies in an entire universe! Just like a human being, the star has a life cycle from birth to death, but its lifespan is billions of years long. The star is born in a cloud of cosmic gas and dust called a nebula. Our sun was born in the nebula nearly five billion years ago. Photographs of the star-forming nebulas are astonishing.
+Key Takeaways
+- You can make count nouns plural by adding -s.
+- Count nouns are individual people, places, or things that can be counted, such as politicians, deserts, or candles.
+- Noncount nouns refer to whole things that cannot be made plural, such as salt, peace, or happiness.
+- The is a definite article and is used to refer to a specific person, place, or thing, such as the Queen of England.
+- A and an are indefinite articles, and they refer to nonspecific people, places, or things, such as an apple or a bicycle.
+
+=== 7.12: Overview of English Grammar (Exercises) ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by LibreTexts. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.12%3A_Overview_of_English_Grammar_(Exercises)
+
+1. Each sentence contains an error in subject-verb agreement, irregular verb form, or consistent verb tense. Identify the type of error. Then, on your own sheet of paper, rewrite the sentence correctly.
+1. Maria and Thien meets me at the community center for cooking classes on Tuesdays.
+2. John’s ability to laugh at almost anything amaze me.
+3. Samantha and I were walking near the lake when the large, colorful bird appears.
+4. I builded my own telescope using materials I bought at the hardware store.
+5. My mother freezed the remaining tomatoes from her garden so that she could use them during the winter.
+6. Jankiben asked the stranger sitting next to him for the time, and she says it was past midnight.
+7. My mother and brother wears glasses, but my father and sister do not.
+8. We held our noses as the skunk runs away.
+9. Neither Sorana nor Ana are excited about the early morning swim meet.
+10. My hands hurted at the thought of transcribing all those notes.
+11. The police questioned the suspect for hours but she gives them no useful information.
+12. Terry takes short weekend trips because her job as a therapist was very emotionally draining.
+13. She criticize delicately, making sure not to hurt anyone’s feelings.
+14. Manisa winded the old clock and set it atop her nightstand.
+15. Cherie losed four poker hands in a row before realizing that she was playing against professionals.
+16. James and Juan describes their trip to the Amazon in vivid detail.
+17. You should decides for yourself whether or not to reduce the amount of processed foods in your diet.
+18. The oil rig exploded and spills millions of gallons of oil into the ocean.
+19. The handsome vampire appeared out of nowhere and smiles at the smitten woman.
+20. The batter swinged at the ball several times but never hit it.
+2. On a separate sheet of paper, create questions from the following sentences.
+1. My daughter will have to think about her college options.
+2. Otto is waiting in the car for his girlfriend.
+3. The article talks about conserving energy.
+4. We need to reduce our needs.
+5. Rusha is always complaining about her work.
+3. Underline the prepositional phrase in each of the following sentences.
+1. Monica told us about her trip.
+2. I hope we have sunshine throughout the summer.
+3. The panther climbed up the tree.
+4. The little boy was standing behind his mother’s legs.
+5. We stayed awake until dawn.
+4. Place the following sets of adjectives in the correct order before the noun.
+1. eyes: black, mesmerizing
+2. jacket: vintage, orange, suede
+3. pineapple: ripe, yellow, sweet
+4. vacation: fun, skiing
+5. movie: hilarious, independent
+5. On a separate sheet of paper, rewrite the positive sentences as negative sentences. Be sure to keep the sentences in the present tense.
+1. Sometimes I work on Saturdays.
+2. The garden attracts butterflies and bees.
+3. He breathes loudly at night.
+4. I chew on blades of grass in the summer time.
+5. I communicate well with my husband.
+6. On a separate sheet of paper, rewrite the following paragraph by correcting the double negatives.
+That morning it was so hot Forrest felt like he couldn’t hardly breathe. Ain’t nothing would get him out the door into that scorching heat. Then he remembered his dog, Zeus, who started whining right then. Zeus was whining and barking so much that Forrest didn’t have no choice but to get off the couch and face the day. That dog didn’t do nothing but sniff around the bushes and try to stay in the shade while Forrest was sweating in the sun holding the leash. He couldn’t not wait for winter to come.
+7.12: Overview of English Grammar (Exercises) is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

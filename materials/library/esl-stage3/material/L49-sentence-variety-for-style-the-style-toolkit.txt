@@ -1,0 +1,194 @@
+Lesson 49 material: Sentence Variety for Style; The Style Toolkit
+English Stage 3 (C1) · Unit 5: Argument and Academic Style
+
+=== 6.12: Using Sentence Variety ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.12%3A_Using_Sentence_Variety
+
+## What is sentence variety?
+Beyond individual word choices, the structure of your sentences also affects writing style. In this section, we will examine different sentence types. We will look at how sentence variety can contribute to interesting, effective writing and good academic style and how specific structures can highlight the relationships between ideas.
+Sometimes a simple sentence gets an idea across best. In academic writing, however, writers often join their ideas to create compound, complex, and compound-complex sentences using coordination and subordination. This variety not only makes writing more lively and interesting, it also clarifies relationships between ideas. In agriculture, growing plants with different varieties, like the corn in figure 6.11.1, makes a crop more healthy and adaptable. Mixing up the types of sentence structures you use can do the same for your writing. We will look at four types of sentences: simple sentences, compound sentences, complex sentences, and compound-complex sentences.
+(Picture: Four ears of corn of different colors and varieties)
+Figure: "Corn Diversity" by Global Crop Diversity Trust is licensed under CC BY-NC-ND 2.0
+## Simple sentences
+A **simple sentence** is made up of one independent clause. An independent clause has, minimally, a subject and a verb. It can also contain other elements that may be needed to express a complete thought.
+Example: California is one of the world’s leading almond producers.
+Read this excerpt from Amanda’s essay. Does anything stand out to you? What do you notice about the words and phrases Amanda uses?
+The lack of accessibility and affordability may obstruct people of lower socioeconomic status. These places are called food deserts. People who live in food deserts cannot access healthy food. There are existing resources that they can make good use of to improve this situation. These resources include food hubs and community gardens.
+Now, look at the revised version. What do you notice? Which version do you prefer? Why?
+Although the lack of accessibility and affordability may obstruct people of lower socioeconomic status who live in food deserts access to healthy food, they can make good use of existing resources such as food hubs and community gardens to improve this situation.
+The original excerpt was written using only simple sentences. Writing that contains mostly simple sentences can be repetitive and a bit boring. Additionally, simple sentences may lack transitions that can clarify the relationship between ideas.
+## Compound sentences (coordination)
+A compound sentence**,** which is an example of coordination, is made up of two independent clauses, connected in some way. Coordination joins two independent clauses that contain related ideas of equal importance.
+**Original sentences:** California is one of the world’s leading almond producers. Each year California exports many of its almonds.
+In their current form, these two simple sentences contain two separate ideas that may or may not be related. To indicate a relationship between the two ideas, we can use the coordinating conjunction *and:*
+**Revised sentence:** California is one of the world’s leading almond producers**, and** each year California exports many of its almonds.
+The revised sentence illustrates that the two ideas are connected. Notice that the sentence retains two independent clauses (*California is one of the world’s leading almond producers; each year California exports many of its almonds*) because each can stand alone as a complete idea. However, the connecting word, *and,* shows that the second part of the sentence is an addition to the first.
+## Connecting independent clauses
+### Coordinating conjunctions
+A coordinating conjunction is a word that joins two independent clauses. The coordinating conjunctions are *for*, *and*, *nor*, *but*, *or*, *yet*, and *so*. These can be memorized by the acronym FANBOYS. Note that To punctuate these types of sentences, a comma precedes the coordinating conjunction when joining two clauses but not when joining a phrase (such as in this sentence).
+### Transitions
+Another method of joining two independent clauses with related and equal ideas is to use a semicolon and a transition. The punctuation of a transition varies depending upon where in the sentence the adverb word appears. Once joined, the following sentences show cause and effect.
+**Original sentences:** There was a shortage of PPE in 2020. Farmworkers did not have access to important protective equipment.
+Since these sentences contain two equal and related ideas, they may be joined using a transition. Now, read the revised sentence:
+**Revised sentence:** There was a shortage of PPE in 2020; as a result, farmworkers did not have access to important protective equipment.
+The revised sentence explains the relationship between the shortage of personal protective equipment and its effect on farmworkers. Notice that the transition comes after a semicolon that separates the two clauses and is followed by a comma. In your Language Toolkit, you will find a list of common transitions and how they are used.
+## Complex sentences (subordination)
+A complex sentence**,** which is an example of subordination, is made up of an independent clause and a dependent clause. A dependent clause is a sentence that contains a subject and verb but is not a complete thought. It is also called a subordinate clause. Unlike coordination, which allows a writer to give equal weight to the two ideas that are being combined, subordination enables a writer to emphasize one idea over the other. Typically, the idea being emphasized is located in the independent clause. Take a look at the following sentences:
+**Original sentences:** California is one of the world’s leading almond producers. It is dry for much of the year.
+To illustrate that these two ideas are related, we can rewrite them as a single sentence using the subordinating conjunction *although*.
+**Revised sentence:** California is one of the world’s leading almond producers although the state is dry for much of the year.
+In the revised version, we now have an independent clause (*California is one of the world’s leading almond producers*) that stands as a complete sentence and a dependent clause (*although the state is dry for much of the year*) that is subordinate to the main clause. The revised sentence emphasizes that demand for water is increasing because this information is contained in the part of the sentence that is the independent clause.
+## Connecting an independent clause with a dependent clause
+### Subordinating conjunctions
+A subordinating conjunction is a word that joins a subordinate (dependent) clause to a main (independent) clause. Subordinating conjunctions include words like *although, even though, since, because*, and *when*. In your Language Toolkit, you will find a list of common subordinating conjunctions.
+### Punctuation
+To punctuate sentences correctly, look at the position of the independent, or main clause and the dependent, or subordinate clause. If a dependent clause comes before the independent clause, use a comma between the two clauses. If the dependent clause follows the independent clause, no punctuation is needed.
+## Compound-complex sentences (coordination and subordination)
+A **compound-complex sentence** is made up of at least two independent clauses and one or more dependent clauses. In compound-complex sentences, writers use a combination of **coordination** and **subordination**.
+Examples:
+- Although it is dry for much of the year, California is one of the world’s leading almond producers; each year, it supplies about 80% of the world’s almonds.
+- Because the Unites States was unprepared for a pandemic, there was a shortage of PPE in 2020; as a result, farmworkers did not have access to important protective equipment.
+## Varying your sentence types
+Writers use a variety of sentences with different lengths and rhythms to achieve different effects. They use parallel structures within sentences and paragraphs to reflect parallel ideas, but also avoid monotony by varying their sentence structures. For example, a writer may consciously use a very short sentence in a paragraph to emphasize and draw attention to a particular idea. When you revise a piece of writing, consider the patterns of your sentences.
+- Are they mostly simple sentences?
+- Are they mostly compound?
+- Or are the sentences varied in pattern?
+Sentence variety can help maintain your readers’ interest.
+## Identifying sentence variety
+Now let's look at the student essay in terms of sentence variety:
+Try this!
+Read this paragraph from Amanda’s essay.
+- Count the number of simple, compound, complex, and compound-complex sentences you find. Is there a balance, or does Alicia use one type of sentence more than others?
+- Experiment with this paragraph by changing the structure of one or two sentences. For example, you could combine two simple sentences, adding a subordinating conjunction, to create a complex sentence.
+The goal of City Slicker Farms is “to empower West Oakland community members to meet the basic need for fresh, healthy food by creating sustainable, high-yield urban farms and backyard gardens'' (para 1). Residents receive plots of land to plant vegetables and fruits. Residents are also encouraged to exchange and discuss their gardening experiences at the farm. If residents can make good use of food hubs or community gardens, they can access healthy food and learn how to grow fresh vegetables and fruits themselves. The earlier case study showed that the difficulties people of lower socioeconomic status who live in food deserts face in accessing healthy food are lower income and a lack of supermarkets. These factors may not be easy to change. However, recognizing the situation and making good use of existing resources to access healthy food are significant, feasible steps.
+## Revising for sentence variety
+Now let's apply this to your writing:
+### Apply this!
+Take a piece of writing you are working on and read it over.
+- Count the number of simple, compound sentences, complex, and compound-complex sentences. Is there a balance? Are there noticeably more sentences of a certain type?
+- Experiment with changing the structure of your sentences. Think about what ideas you want to emphasize, and make sure your sentences are helping you do this work.
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu.
+## **CC Licensed Content: Previously published**
+"What is sentence variety?", "Four types of sentences", "Simple sentences," and "Compound sentences (coordination)" is adapted from 11.7: "Coordination and Subordination​​​​" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+Additional text from "Connecting independent clauses" to "Varying your sentence types" is adapted from 7.4 "Revision Stage 3: Sentences, Words, Format" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+
+=== 6.13: Language Toolkit ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.13%3A_Language_Toolkit
+
+## About this toolkit
+This toolkit is a reference that you can use to check your work.
+## Strong verbs
+You want to use strong verbs. To check for weak verbs, look to see if you are using "be" and "do" plus a noun to do the work of a verb. Often, you can replace these with one strong verb.
+Here are some examples and revisions. The weak verbs and replacements are indicated in brackets.
+- The [planting was done] by the whole community.
+- The whole community [**planted**] the garden.
+- Next, they will [do a study] on the effect of the garden on the health of the community.
+- Next, they will [**study**] the garden’s effect on the community’s health.
+- We [have a strong belief] in food equity.
+- We [**strongly believe**] in food equity.
+## Clear pronoun reference
+In your writing, watch for the pronouns: it, they, them this, that, these, those. Check to make sure it is clear what they refer to.
+Here are some examples and revisions. The unclear pronouns and replacements are indicated in brackets.
+- [It] says in the newspaper that the liquor store has been turned into a small grocery store.
+- [**According to the article’s author**], the liquor store has been turned into a small grocery store.
+- At the store, [they] used to only sell packaged foods; now it has fresh foods, too.
+- [**The store**] used to only sell packaged foods; now it has fresh foods, too.
+- Fresh foods are often more expensive and can take longer to prepare. [This__]__ is a potential disadvantage.
+- Fresh foods are often more expensive and can take longer to prepare. [**These factors**] are potential disadvantages.
+## Passive vs. active voice
+When you are using passive voice, make sure it is the best choice. In your writing, check for the object in the subject position and past participle form (to be + ed).
+Here are some examples and revisions. The changes are indicated in brackets.
+- My garden plot [was planted] yesterday.
+- [**I planted**] my garden plot yesterday.
+- The lettuce [was washed] thoroughly by her aunt.
+- [**Her aunt washed**] the lettuce thoroughly.
+- Organic food [has gotten] more attention in recent years.
+- [**Consumers have given more attention to]** organic food in recent years.
+## Using a dictionary and thesaurus
+A dictionary or thesaurus can help you decide the most effective word(s) to use in your writing.
+Most dictionaries provide the following information:
+- **Spelling.** How the word and its different forms are spelled.
+- **Pronunciation.** How to say the word.
+- **Part of speech.** The function of the word.
+- **Definition.** The meaning of the word.
+- **Synonyms.** Words that have similar meanings.
+- **Etymology.** The history of the word.
+Like a dictionary, a thesaurus is another valuable writing tool.
+- A thesaurus gives you a list of synonyms, words that have the same (or very close to the same) meaning as another word.
+- It also lists antonyms, words with the opposite meaning of the word.
+- A thesaurus will help you when you are looking for the perfect word with just the right meaning to convey your ideas.
+- It will also help you learn more words and use the ones you already know more correctly.
+It is important to think about the connotations of the words you are using.
+- A connotation is the emotional or cultural meaning attached to a word.
+- The connotation of a word can be positive, negative, or neutral.
+Using a dictionary or thesaurus can be difficult sometimes if you don’t know the connotations of a word because you risk using a word in the wrong way. If you aren't sure whether you are using a word with the right connotation, look up the word in sentences on the internet and see how it’s used in context. You can also ask your instructor or a tutor.
+## Coordination cheat sheet
+Table 6.13.1 explains the logic that each coordinating conjunction represents.
+Table 6.13.1: coordinating conjunctions
+| **Function or logic** | **Coordinating conjunction** | **Example** |
+| cause | for | Many Americans suffer from hunger, for food scarcity is a serious social issue in this country. |
+| addition | and | People have begun paying more attention to the health benefits of organic foods, and it is no surprise that many grocery stores have expanded their organic sections. |
+| choice or alternative (negative) | nor | The neighborhood has never had a grocery store, nor has it had a community garden. |
+| contrast | but | Organic grocery stores seem to be everywhere, but it’s still hard for many people to access them. |
+| choice or alternative | or | Some environmental experts have commented that California’s water supply can support its population, or it can support its agriculture -- but not both. |
+| contrast | yet | California is suffering from a catastrophic drought, yet most of the nation’s produce is grown here. |
+| effect | so | Public transportation can be unreliable, so if you buy a gallon of milk and take the bus, the milk may spoil by the time you get home. |
+## Transitions cheat sheet
+Table 6.13.2 explains the logic that each subordinating conjunction represents.
+Table 16.13.2: Transitions
+| **Function or logic** | **Transitions** | **Example** |
+| Addition | also, furthermore, moreover, similarly, likewise | Community gardens are places that allow people to provide food for themselves; moreover, this food is frequently more nutritious than what can be bought at grocery stores. |
+| Contrast | instead, however, otherwise | Research on Google Maps shows that there are at least ten corner liquor stores in West Oakland; however, there are no supermarkets like Whole Foods. |
+| Emphasis | namely, certainly, indeed | It is important to draw attention to food inequity; indeed, many people are unaware that it exists at such high levels in the United States. |
+| Cause and Effect | accordingly, as a result, consequently, hence, thus, therefore | There are insufficient outlets for fresh food in their community; therefore, it’s hard for residents of West Oakland who live in food deserts to access healthy produce. |
+| Time | finally, next, subsequently, then, after | First, we are going to take a survery of the neighborhood’s needs; then, we can write a proposal. |
+| Condition | otherwise | On Tuesdays Mandela Foods delivers fresh fruits and vegetables to corner stores in West Oakland; otherwise, people have to travel a great distance to buy produce. |
+| Choice or Alternative | alternatively, on the other hand, conversely | Community gardens are one solution to food deserts; on the other hand, it’s not always realistic that people will have the time and energy to grow food for themselves. |
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Some examples of coordination and transition words adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status", an essay by Amanda Wu. License: CC BY.
+## **CC Licensed Content: Previously published**
+"Using a Dictionary and Thesaurus" is adapted from 11.5: Word Choice in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+"Coordination Cheat Sheet" and "Transitions Cheat Sheet" are adapted from 11.7: "Coordination and Subordination​​​​" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+
+=== 6.14: Takeaways ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.14%3A_Takeaways
+
+## Summary
+In this chapter, we:
+- Became familiar with and identified elements of clarity and style in a variety of writing
+- Identified common errors that impede clarity and learned to self-edit
+- Eliminated wordy constructions and varied sentence types
+- Applied key ideas and strategies from the chapter to your own writing
+## Questions for reflection
+- What is academic writing and how does it differ from other writing that you do?
+- How can using strong verbs and avoiding wordiness make your message stronger?
+- What are some factors that contribute to the tone of a piece of writing?
+- What is one aspect of writing with clarity that you want to focus on improving?
+- What is one aspect of writing with style that you want to focus on improving?
+- Look back at the 6.2 Sample Student Research Essay - Food Deserts. Remembering that this is a draft, what are some ways that Amanda makes her ideas clear for her readers? Now, examine her style and tone. What does she do successfully? For example, what are some ways you can tell this is academic writing? What, if anything, would you recommend to improve her essay in terms of clarity and style?"
+
+=== Answer key from the book: 6.15: Answer Key- Clarity and Style ===
+## 6.3: Finding Your Academic Voice
+## Analyzing academic voice
+The first excerpt starts with a hook -- a question or questions to get the reader interested in the topic. After the hook, Amandaa continues with a personal story in the first person. Next, the writer continues discussing a personal experience. Although this experience is related, it’s not exactly the same topic, and it’s unclear what the main idea is.
+The second excerpt begins the same way, but Amanda continues in the third person and it’s clear that the information is unified around one single topic. The information in the second part of the excerpt clearly relates back to the initial questions.
+Based on what we know about academic writing, the second excerpt, which is a revised version of the first, is a closer fit to our definition. It’s a more effective example of academic writing.
+## 6.7: Using Active Voice
+## Identifying active vs. passive voice
+Sentence 1 is best because it is in active voice: it focuses on the subject (pesticides) doing actions (eliminating, killing) to objects (destructive insects, bees).
+Sentence 2 is in passive voice: it technically conveys the same information, but it focuses on the objects (destructive insects, bees) and adds the subject (pesticides) in a way that sounds like extra information. It's not wrong, but it's less clear.
+Sentence 3 is in passive voice and doesn't name the subject (pesticides) at all.
+## Identifying passive voice in a paragraph
+These sentences use passive voice:
+1. It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough fresh produce is sold by stores in their communities.
+2. As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and vehicles are not owned by one-third of its residents.
+3. Given the facts above, it can reasonably be assumed that if people don’t have a car and taking the bus is needed to access healthy food, it will cause inconvenience and their willingness to purchase healthy food will be diminished.
+How could you revise each sentence to use active voice? Ask yourself who or what is doing the action in each clause, and make that the subject. Here are possible revisions:
+1. It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough stores in their communities sell fresh produce.
+2. As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and one-third of its residents do not own vehicles.
+3. Given the facts above, it can reasonably be assumed that if people don’t have a car and need to take the bus to the market, they will be less willing to purchase healthy food.

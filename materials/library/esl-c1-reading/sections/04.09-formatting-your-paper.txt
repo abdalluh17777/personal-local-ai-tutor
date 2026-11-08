@@ -1,0 +1,92 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+4.9: Formatting Your Paper
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.09%3A_Formatting_Your_Paper
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Why do we want a standard format?
+When you go to a job interview, what do you wear? Most people try to dress professionally (see figure 4.9.1) to make a good first impression because sometimes people make judgments based on outside appearances instead of content. When you send your essay out to be read by other people, you probably also want it to make a good first impression on your readers. You want them to think that your essay is professional and academic, even before they read a single word.
+[Image: Man wearing a suit at a job interview]
+Figure : Man wearing a suit at a job interview. ("Man on a Job Interview" by amtec_photos is licensed under CC BY-SA 2.0)
+When you write papers for a college course, the instructor will usually require you to use a specific format. Format is a standard way that a paper is required to look. It includes things like the heading, the font, and the punctuation of the list of sources and the in-text citations. There are several different official formats that look different but serve the same purposes. The format makes the paper easy to read, and makes your information about your sources easy for the reader to find.
+When you glance at the two papers in figure 4.9.2, which do you think uses an official format? What differences can you find?
+[Image: two pages of typed writing side by side, messy format on the left, neat format on the right]
+Figure : "Format comparison" by Gabriel Winer is licensed under CC BY NC.
+The two official formats that you will probably need to use in your college courses are MLA format and APA format. The initials stand for the organization that has established the format.
+“MLA” stands for *Modern Language Association.* MLA format is international, and is used for academic papers and journals in the areas of language, literature and the humanities. For college English classes, you will be required to use MLA format.
+“APA” stands for *American Psychological Association.* APA format is used for academic papers and journals in the social sciences. For many college papers other than English papers, you will be required to use APA format.
+## MLA format
+## Setting up a document in MLA format
+The following are the basic guidelines for setting up an MLA-formatted document. Your word program will have menu controls to help you with these settings.
+- Set margins to 1” on left, right, top, and bottom.
+- Set margins to ½” for header and footer.
+- Use a standard 12-point font throughout the document. Times New Roman is the most common.
+- Double-space throughout the document. Also remove extra space between paragraphs (Microsoft Word defaults to putting in an extra space).
+- Use a straight left edge and a “ragged” right edge.
+- Indent paragraphs ½” (1 tab).
+- Center a document title on page 1. Use plain 12-point font—do not bold, underline, or italicize.
+- Create an upper left heading on page 1 only. This should include the following:
+  - Your name (first and last name)
+  - The teacher’s name
+  - The name of the class
+  - The date
+- Create an upper right header for all pages. This should include the following:
+  - Your last name
+  - An automatic page number
+## Sample essay in MLA format
+The link below opens a version of a sample essay formatted in MLA 8th edition:
+Sample Student Research Paper Heritage Languages.pdf
+## Creating an MLA Works Cited page
+The purpose of the Works Cited page is to collect all of the sources used in a text and to arrange them so they are easy for your reader to locate. Listing the sources also helps you track them and makes it less likely that you might accidentally plagiarize by forgetting to mention a piece of source material.
+### Setting up the page
+Follow these guidelines to set up your Works Cited.
+- Works Cited is located at the end of a paper. Always start it at the top of a new page.
+- Put the title Works Cited at the top of the page, centered.
+- The Works Cited page uses the same formatting as the rest of the paper: 12 point standard font, double spacing, 1” margins on all sides, etc.
+- List sources alphabetically, according to whatever comes first in each citation. (Do not list them in the order they occur within the paper.)
+- Use “hanging” paragraphs to set up sources. This means that the first line of each source begins at the left margin, while second and subsequent lines are indented by ½” (1 tab). This is the reverse of a regular paragraph. The “hanging” format makes it easy to visually scroll down the list and see each source. If you are using Microsoft Word, you can set hanging paragraphs by choosing the “hanging” setting in the “Paragraphs” menu.
+Figure 4.9.2 shows an annotated example of a Works Cited page (Annotated-Works-Cited-Examples to open in a new page):
+[Image: Works Cited page with annotations for different source types]
+Figure : Annotated example of a works cited page by Carol Burnell, Jaime Wood, Monique Babin, Susan Pesznecker, and Nicole Rosevear is licensed CC BY NC.
+## Creating entries on the Works Cited page
+Let’s look at how to set up Works Cited citations.
+We’ll work with this article from the *International Online Journal of Primary Education*: "A Longitudinal Study: Emergent Bilinguals’ Heritage Language Use and Learning over Time." Figure 4.9.3 shows the top of the first page of this article.
+[Image: screen capture of journal article; shows the source information, but all information is also included below.]
+Figure : "Screenshot of online article" by Gabriel Winer is licensed under CC BY NC. Article by Chaehyun Lee is licensed under __CC BY 4.0.__
+Here is the raw information at the top of the article. You will need most of this information for your citation, but not all of it, and not in this order.
+- International Online Journal of Primary Education
+- 2021, volume 10, issue 1
+- Copyright © International Online Journal of Primary Education
+- A Longitudinal Study: Emergent Bilinguals’ Heritage Language Use and Learning over Time
+- Chaehyun Lee
+- Ph.D., Assistant Professor, Southeastern Oklahoma State University Department of Educational Instruction and Leadership, United States
+- ORCID: https://orcid.org/0000-0002-4670-4519clee@se.edu
+- Received: March 02, 2021
+- Accepted: April 15, 2021
+- Published: June 30, 2021
+To make a citation, find each piece of information from the source. If certain parts are not there, we simply leave them blank. Note that each item is followed with specific punctuation. Copy these as you create your own citations.
+### Source information types and formatting rules
+Table 4.9.1 shows the types of source information you need to make a citation, an explanation of what each type is, and the special rules for how to capitalize and punctuate that item.
+Table 4.9.1: Source information items for Works Cited entries
+| Type of information | Explanation | Formatting rules | Example |
+| Author(s) | Person or organization who wrote the text | The first author’s name is always reversed, with a comma after the last name: Last Name, First Name. | It is followed by a period. | If there are two authors, list them as Last Name, First Name and First Name Last Name. | If there are three or more authors, list them as First Name et al. (Et al. is Latin for "and more.") | Lee, Chaehyun. |
+| Title | Name of the text | Capitalize all words in the title of the source except for articles, conjunctions, and prepositions. | If it is an article, essay, chapter, or any other “small” piece of material, it will be in quotation marks and plain font. | If it is a book, film, periodical, or an entire web page, it will be in *italic* font with no quotation marks. | The title of the source is followed with a period—and when quotation marks are used, note that the period always goes inside the quotation marks. | "A Longitudinal Study: Emergent Bilinguals’ Heritage Language Use and Learning over Time." |
+| Container | The container is the “place” that holds or houses the source you’re using. | A book chapter (title) is held within a book (container). | A newspaper article (title) is held within a newspaper (container). | An essay on a web page (title) is held within a website (container). | A magazine article (title) is held within a magazine (container). | Capitalize all words in the title of the source except for articles, conjunctions, and prepositions. | The container is almost always in *italic* font and followed by a comma. | *International Online Journal of Primary Education,* |
+| Other contributors | This line provides a way to mention people who assisted with creating or handling the source, e.g., directors, translators, performers, illustrators, etc. | List them using plain, unabbreviated language, e.g., performed by, directed by, etc. | Other contributors are listed in plain font and followed by a comma. | [This article has no other contributors. You can just skip this part.] |
+| Version | Use this if you want to mention an edition number (e.g., Second Edition, Evening Edition, etc.) or if you want to list a volume (Volume 3), a month (January), etc. | Version is written in plain font and followed by a comma. | "Volume" is abbreviated "vol." and not capitalized. | vol. 1, |
+| Number | Use this to provide an issue number (e.g., for a magazine or journal), a special archive number (e.g., with museum pieces), or something similar. | Number is written in plain font, not capitalized, and followed by a comma. | Number is abbreviated "no." | no. 10, |
+| Publisher | The publisher is the person or institution that makes the source available to the world. | Publishers for books, periodicals, and printed materials are usually written on one of the first pages. | Web page publishers can usually be found at the page bottom. If you cannot find the publisher quickly, you might use Google to search for it, i.e., searching ‘New York Times Publisher.’ | Film and music publishers will usually be located on the material. | Write out the complete publisher name; capitalize it fully and don’t abbreviate or omit words. | The publisher is in plain font and followed by a comma. | [Like many online sources, the container and the publisher are the same; there isn't a separate publisher, so you can just skip this part.] |
+| Publication date | The date the text was published. | Use MLA date format: day month year | Follow the date with a comma. | With longer months, you may abbreviate the source; if you do, follow the abbreviation with a period. | 30 June 2021, |
+| Location | The source’s location tells the reader where to find the source. Many sources will not have a location, but it should be listed if present. | If using a book, the page number is the location. | For single pages, use this format: p. 6. | For two or more pages, list like this: pp. 62-4 or pp. 184-96. | If using two or more pages and they cross a “hundred” marker, list like this: pp. 456-502. | With web pages, give the URL—but omit the http:// at the beginning. | If a doi (digital object indicator) number is available, use that instead of a URL. | Do not break URLs or doi’s manually to try and fit them into your Works Cited: just type them in and let your Word processor decide where to break them. | If you have a different kind of source and believe you have a location with it, share it as best you can, following these guidelines. | Locations are in plain font and followed by a period. | pp. 1-18, www.iojpe.org/index.php/iojpe/article/view/1/4. |
+Now, to create a Works Cited citation, link all of the available elements together, following the correct punctuation and placing a space between each component.
+- Use your word program's menus or the little arrows on the ruler at the top to set hanging paragraphs.
+- Don’t break your lines manually: set hanging paragraphs and then keep typing, allowing the software to determine the line breaks.
+- Your citation should always end with a period.
+Complete citation:
+Lee, Chaehyun. "A Longitudinal Study: Emergent Bilinguals’ Heritage Language Use and Learning over Time." *International Online Journal of Primary Education*, vol. 10, no. 1, 30 June 2021, pp. 1-18, www.iojpe.org/index.php/iojpe/article/view/1/4.
+## **Licenses and Attributions**
+Introduction authored by Anne Agard, Laney College. License: CC BY NC.
+## CC Licensed Content: previously published
+Setting up a document in MLA Format is adapted from "Resources for Working with MLA " in Carol Burnell, Jaime Wood, Monique Babin, Susan Pesznecker, and Nicole Rosevear's __The Word on College Reading and Writing__. License CC BY NC.
+Creating an MLA Works Cited page is adapted from "Creating a Works Cited Page" in Carol Burnell, Jaime Wood, Monique Babin, Susan Pesznecker, and Nicole Rosevear's __The Word on College Reading and Writing__. License CC BY NC.
+Lee, Chaehyun. "A Longitudinal Study: Emergent Bilinguals’ Heritage Language Use and Learning over Time." *International Online Journal of Primary Education*, vol. 10, no. 1, 30 June 2021, pp. 1-18. Licensed under CC BY.
+This page titled 4.9: Formatting Your Paper was last modified on Mon, 21 Jul 2025 18:59:03 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

@@ -1,0 +1,42 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+8.3: Colons
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.03%3A_Colons
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Identify the uses of colons.
+2. Properly use colons in sentences.
+The colon (:) is another punctuation mark used to indicate a full stop. Use a colon to introduce lists, quotes, examples, and explanations. You can also use a colon after the greeting in business letters and memos.
+Dear Hiring Manager:
+To: Human Resources
+From: Deanna Dean
+## Colons to Introduce a List
+Use a colon to introduce a list of items. Introduce the list with an independent clause.
+The team will tour three states: New York, Pennsylvania, and Maryland.
+I have to take four classes this semester: Composition, Statistics, Ethics, and Italian.
+## Colons to Introduce Examples or Explanations
+Use a colon to introduce an example or to further explain an idea presented in the first part of a sentence. The first part of the sentence must always be an independent clause; that is, it must stand alone as a complete thought with a subject and verb. Do not use a colon after phrases like such as or for example.
+**Correct:** Our company offers many publishing services: writing, editing, and reviewing.
+**Incorrect:** Our company offers many publishing services, such as: writing, editing, and reviewing.
+Tip
+Capitalize the first letter following a colon for a proper noun, the beginning of a quote, or the first letter of another independent clause. Do NOT capitalize if the information following the colon is not a complete sentence.
+**Proper noun:** We visited three countries: Belize, Honduras, and El Salvador.
+**Beginning of a quote:** My mother loved this line from Hamlet: “To thine own self be true.”
+**Two independent clauses:** There are drawbacks to modern technology: My brother’s cell phone died and he lost a lot of phone numbers.
+**Incorrect:** The recipe is simple: Tomato, basil, and avocado.
+Exercise :
+On your own sheet of paper, correct the following sentences by adding semicolons or colons where needed. If the sentence does not need a semicolon or colon, write OK.
+1. Don’t give up you never know what tomorrow brings.
+2. Our records show that the patient was admitted on March 9, 2010 January 13, 2010 and November 16, 2009.
+3. Allow me to introduce myself I am the greatest ice-carver in the world.
+4. Where I come from there are three ways to get to the grocery store by car, by bus, and by foot.
+5. Listen closely you will want to remember this speech.
+6. I have lived in Sedona, Arizona Baltimore, Maryland and Knoxville, Tennessee.
+7. The boss’s message was clear Lateness would not be tolerated.
+8. Next semester, we will read some more contemporary authors, such as Vonnegut, Miller,
+9. My little sister said what we were all thinking “We should have stayed home.”
+10. Trust me I have done this before.
+Key Takeaways
+- Use a colon to introduce a list, quote, or example.
+- Use a colon after a greeting in business letters and memos.
+This page titled 8.3: Colons was last modified on Thu, 10 Sep 2020 23:30:32 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

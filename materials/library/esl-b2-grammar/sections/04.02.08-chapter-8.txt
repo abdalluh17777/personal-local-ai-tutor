@@ -1,0 +1,135 @@
+High-Intermediate Academic Grammar for ESL Students (Al Haider)
+16.8: Chapter 8
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/05%3A_Appendices/Appendix_B%3A_Audio_Transcripts/16.08%3A_Chapter_8
+License: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform
+
+## 4.8.1. **Listening Comprehension**
+00:07 Russia, with the largest territory in the world,
+00:10 has roughly the same total population as Nigeria,
+00:13 a country 1/16 its size.
+00:16 But this similarity won't last long.
+00:18 One of the populations is rapidly growing,
+00:21 while the other is slowly declining.
+00:23 What can this tell us about the two countries?
+00:25 Population statistics are some of the most important data
+00:29 social scientists and policy experts have to work with.
+00:33 But understanding a country's situation
+00:35 and making accurate predictions
+00:37 requires knowing not just the total size of the population
+00:40 but its internal characteristics,
+00:42 such as age and gender distribution.
+00:45 So, how can we keep track of all that data
+00:47 in a way that makes it easy to comprehend?
+00:49 Complex data is more easily interpreted
+00:51 through visualization,
+00:53 and one of the ways that demographers represent
+00:55 the internal distribution of a population
+00:57 is the population pyramid.
+01:00 Here, the data is divided by gender
+01:02 with females on one side and males on the other.
+01:05 The population numbers are shown
+01:07 for each five-year age interval,
+01:09 starting from 0-4
+01:10 and continuing up to 100 and up.
+01:12 These intervals are grouped together
+01:14 into pre-reproductive (0-14),
+01:17 reproductive (15-44),
+01:20 and post-reproductive years (45 and up).
+01:23 Such a population pyramid can be a powerful predictor
+01:26 of future population trends.
+01:28 For example,
+01:29 Rwanda's population pyramid shows it to be a fast-growing country,
+01:33 with most of the population
+01:34 being in the youngest age groups at the bottom of the pyramid.
+01:37 The number will grow rapidly in the coming years.
+01:39 As today's children reach their reproductive years
+01:42 and have children of their own,
+01:44 the total population is almost certain to double
+01:47 within the next few decades.
+01:48 For our second example,
+01:50 let's look at Canada,
+01:51 where most of the population is clustered
+01:53 around the middle of the graph.
+01:55 Because there are less people
+01:56 in the pre-reproductive age groups
+01:58 than there are in the reproductive ones,
+02:00 the population will grow more slowly,
+02:03 as the number of people reaching their reproductive years decreases.
+02:06 Finally, let's look at Japan.
+02:09 Because the majority of its population
+02:11 is in its post-reproductive years
+02:13 and the number of people is smaller
+02:15 at each younger interval,
+02:16 this means that at current rates of reproduction
+02:18 the population will begin to decline
+02:20 as fewer and fewer people reach reproductive age.
+02:24 Comparing these three population pyramids
+02:26 side by side
+02:27 shows us three different stages
+02:29 in a demographic transition,
+02:30 as a country moves from a pre-industrial society
+02:33 to one with an industrial
+02:34 or post-industrial economy.
+02:36 Countries that have only recently begun
+02:38 the process of industrialization
+02:40 typically see an increase in life expectancy
+02:42 and a fall in child mortality rates
+02:45 as a result of improvements
+02:46 in medicine, sanitation, and food supply.
+02:49 While birth rates remain constant,
+02:51 leading to a population boom.
+02:53 Developing countries that are farther along
+02:55 in the industrialization process
+02:57 begin to see a fall in birth rates,
+02:59 due to factors such as
+03:00 increased education and opportunities for women outside of child-rearing
+03:04 and a move from rural to urban living
+03:07 that makes having large families
+03:09 less economically advantageous.
+03:11 Finally, countries in advanced stages of industrialization
+03:14 reach a point
+03:15 where both birth and death rates are low,
+03:18 and the population remains stable
+03:20 or even begins to decline.
+03:21 Now, let's take a look at the projected population pyramids
+03:24 for the same three countries in 2050.
+03:27 What do these tell us
+03:29 about the expected changes
+03:30 in each country's population,
+03:32 and what kinds of factors
+03:33 can alter the shape of these future pyramids?
+03:36 A population pyramid can be useful
+03:38 not only as a predictor of a country's future
+03:40 but as a record of its past.
+03:42 Russia's population pyramid
+03:44 still bears the scars of World War II,
+03:47 which explains both the fewer numbers of elderly men
+03:50 compared to elderly women
+03:52 and the relatively sudden population increase
+03:54 as soldiers returned from the war
+03:56 and normal life resumed.
+03:58 China's population pyramid
+03:59 reflects the establishment of the one child policy
+04:02 35 years before,
+04:04 which prevented a population boom
+04:06 such as that of Rwanda
+04:07 but also led to sex-selective abortions,
+04:10 resulting in more male children than female children.
+04:13 Finally, the pyramid for the United States
+04:16 shows the baby boom that followed World War II.
+04:19 As you can see,
+04:20 population pyramids tell us far more
+04:22 about a country
+04:23 than just a set of numbers,
+04:25 by showing both where it's been
+04:26 and where it's headed
+04:28 within a single image.
+04:29 And in today's increasingly interconnected world,
+04:31 facing issues such as food shortages,
+04:33 ecological threats, and economic disparities,
+04:36 it is increasingly important
+04:38 for both scientists and policy makers
+04:40 to have a rich and complex understanding
+04:43 of populations and the factors affecting them
+“__Population Pyramids: Powerful Predictors of the Future__” by Kim Preshoff is licensed by __TED__ under __CC BY-NC-ND 4.0__
+This page titled 16.8: Chapter 8 was last modified on Sat, 01 Feb 2025 19:06:27 GMT and is shared under a CC BY 4.0 license and was authored, remixed, and/or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform.

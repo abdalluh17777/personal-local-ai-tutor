@@ -1,0 +1,240 @@
+Lesson 51 material: Word Forms, Prefixes and Suffixes
+English Stage 3 (C1) · Unit 5: Argument and Academic Style
+
+=== 6.4: Word Form – Adjectives and Adverbs / Prefixes and Suffixes ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/06%3A_Working_with_Words_-_Usage_Form_and_Context/6.04%3A_Word_Form__Adjectives_and_Adverbs___Prefixes_and__Suffixes
+
+Learning Objectives
+1. Identify adjectives and adverbs.
+2. Use adjectives and adverbs correctly.
+3. Identify the meanings of common prefixes.
+4. Become familiar with common suffix rules.
+Adjectives and adverbs are descriptive words that bring your writing to life. Using the appropriate word form in your writing shows you understand how word variety and use is important. This also helps your writing be clear to the reader.
+The English language contains an enormous and ever-growing number of words. Enhancing your vocabulary by learning new words can seem overwhelming, but if you know the common prefixes and suffixes of English, you will understand many more words. Mastering common prefixes and suffixes is like learning a code. Once you crack the code, you can not only spell words more correctly but also recognize and perhaps even define unfamiliar words.
+## Adjectives and Adverbs
+An adjective is a word that describes a noun or a pronoun. It often answers questions such as *which one*, *what kind*, or *how many?*
+- The *green* sweater belongs to Iris.
+- She looks *beautiful*.
+- In sentence 1, the adjective *green* describes the noun *sweater*.
+- In sentence 2, the adjective *beautiful* describes the pronoun *she*.
+An adverb is a word that describes a verb, an adjective, or another adverb. Adverbs frequently end in *-ly*. They answer questions such as *how*, *to what extent*, *why*, *when*, and *where*.
+- Bertrand sings *horribly*.
+- My sociology instructor is *extremely* wise.
+- He threw the ball *very* accurately.
+- In sentence 3, *horribly* describes the verb *sings*. How does Bertrand sing? He sings *horribly*.
+- In sentence 4, *extremely* describes the adjective *wise*. How *wise* is the instructor? *Extremely* wise.
+- In sentence 5, *very* describes the adverb *accurately*. How *accurately* did he throw the ball? *Very* accurately.
+## Comparative versus Superlative
+Comparative adjectives and adverbs are used to compare two people or things.
+1. Jorge is *thin*.
+2. Steven is *thinner* than Jorge.
+- Sentence 1 describes Jorge with the adjective *thin.*
+- Sentence 2 compares Jorge to Steven, stating that Steven is *thinner*. So *thinner* is the comparative form of *thin*.
+Form comparatives in one of the following two ways:
+1. If the adjective or adverb is a one syllable word, add *-er* to it to form the comparative. For example, *big*, *fast*, and *short* would become *bigger*, *faster*, and *shorter* in the comparative form.
+2. If the adjective or adverb is a word of two or more syllables, place the word *more* in front of it to form the comparative. For example, *happily*, *comfortable*, and *jealous* would become *more happily*, *more comfortable*, and *more jealous* in the comparative.
+Superlative adjectives and adverbs are used to compare more than two people or two things.
+1. Fatoumata is the *loudest* cheerleader on the squad.
+2. Kenyatta was voted the *most confident* student by her graduating class.
+- Sentence 1 shows that Fatoumata is not just *louder* than one other person, but she is the *loudest* of all the cheerleaders on the squad.
+- Sentence 2 shows that Kenyatta was voted the *most confident* student of all the students in her class.
+Form superlatives in one of the following two ways:
+1. If the adjective or adverb is a one-syllable word, add *-est* to form the superlative. For example, *big*, *fast*, and *short* would become *biggest*, *fastest*, and *shortest* in the superlative form.
+2. If the adjective or adverb is a word of two or more syllables, place the word *most* in front of it. For example, *happily*, *comfortable*, and *jealous* would become *most happily*, *most comfortable*, and *most jealous* in the superlative form.
+Tip
+Remember the following exception: If the word has two syllables and ends in -y, change the -y to an -i and add -est. For example, happy would change to happiest in the superlative form; healthy would change to healthiest.
+Exercise :
+Edit the following paragraph by correcting the six errors in comparative and superlative adjectives.
+Our argument started on the most sunny afternoon that I have ever experienced. Enis and I were sitting on my front stoop when I started it. I told him that my dog, Jacko, was more smart than his dog, Merlin. I could not help myself. Merlin never came when he was called, and he chased his tail and barked at rocks. I told Enis that Merlin was the most dumbest dog on the block. I guess I was angrier about a bad grade that I received, so I decided to pick on poor little Merlin. Even though Enis insulted Jacko too, I felt I had been more mean. The next day I apologized to Enis and brought Merlin some of Jacko’s treats. When Merlin placed his paw on my knee and licked my hand, I was the most sorry person on the block.
+## Irregular Words: Good, Well, Bad, and Badly
+*Good*, *well*, *bad*, and *badly* are often used incorrectly. Study the following chart to learn the correct usage of these words and their comparative and superlative forms.
+Table
+| **Comparative** | **Superlative** |
+| **Adjective** | good | better | best |
+| **Adverb** | well | better | best |
+| **Adjective** | bad | worse | worst |
+| **Adverb** | badly | worse | worst |
+## Good versus Well
+*Good* is always an adjective — that is, a word that describes a noun or a pronoun. The second sentence is correct because *well* is an adverb that tells how something is done.
+**Incorrect:** Cecilia felt that she had never done so *good* on a test.
+**Correct:** Cecilia felt that she had never done so *well* on a test.
+*Well* is always an adverb that describes a verb, adverb, or adjective. The second sentence is correct because *good* is an adjective that describes the noun *score*.
+**Incorrect:** Cecilia’s team received a *well* score.
+**Correct:** Cecilia’s team received a *good* score.
+## Bad versus Badly
+*Bad* is always an adjective. The second sentence is correct because *badly* is an adverb that tells how the speaker did on the test.
+**Incorrect:** I did *bad* on my accounting test because I didn’t study.
+**Correct:** I did *badly* on my accounting test because I didn’t study.
+*Badly* is always an adverb. The second sentence is correct because *bad* is an adjective that describes the noun *thunderstorm*.
+**Incorrect:** The coming thunderstorm looked *badly*.
+**Correct:** The coming thunderstorm looked *bad*.
+## Better and Worse
+The following are examples of the use of *better* and *worse*:
+Tyra likes sprinting *better* than long distance running.
+The traffic is *worse* in Chicago than in Atlanta.
+## Best and Worst
+The following are examples of the use of *best* and *worst*:
+Tyra sprints *best* of all the other competitors.
+Peter finished *worst* of all the runners in the race.
+Tip
+Remember better and worse compare two persons or things. Best and worst compare three or more persons or things.
+Exercise :
+Write good, well, bad, or badly to complete each sentence. Copy the completed sentence onto your own sheet of paper.
+1. Fasika always felt ________ if she did not see the sun in the morning.
+2. The school board president gave a ________ speech for once.
+3. Although my dog, Comet, is mischievous, he always behaves ________ at the dog park.
+4. I thought my back injury was ________ at first, but it turned out to be minor.
+5. Razak was shaking ________ from the extreme cold.
+6. Apple crisp is a very ________ dessert that can be made using whole grains instead of white flour.
+7. The meeting with my son’s math teacher went very ________.
+8. Juan has a ________ appetite, especially when it comes to dessert.
+9. Magritte thought the guests had a ________ time at the party because most people left early.
+10. She ________ wanted to win the writing contest prize, which included a trip to New York.
+Exercise :
+Write the correct comparative or superlative form of the word in parentheses. Copy the completed sentence onto your own sheet of paper.
+1. This research paper is ________ (good) than my last one.
+2. Grace likes country music ________ (well) of all.
+3. My motorcycle rides ________ (bad) than it did last summer.
+4. That is the ________ (bad) joke my father ever told.
+5. The hockey team played ________ (badly) than it did last season.
+6. Heejoo plays guitar ________ (well) than she plays the piano.
+7. It will go down as one of the ________ (bad) movies I have ever seen.
+8. The deforestation in the Amazon is ________ (bad) than it was last year.
+9. Movie ticket sales are ________ (good) this year than last.
+10. My husband says mystery novels are the ________ (good) types of books.
+Tip
+The irregular words good, well, bad, and badly are often misused along with their comparative and superlative forms better, best, worse, and worst. You may not hear the difference between worse and worst, and therefore type it incorrectly. In a formal or business-like tone, use each of these words to write eight separate sentences. Assume these sentences will be seen and judged by your current or future employer.
+Key Takeaways
+- Adjectives describe a noun or a pronoun.
+- Adverbs describe a verb, adjective, or another adverb.
+- Most adverbs are formed by adding -ly to an adjective.
+- Comparative adjectives and adverbs compare two persons or things.
+- Superlative adjectives or adverbs compare more than two persons or things.
+- The adjectives good and bad and the adverbs well and badly are unique in their comparative and superlative forms and require special attention.
+## Prefixes
+A prefix is a word part added to the beginning of a word to create a new meaning. The main rule to remember when adding a prefix to a word is **not** to add letters or leave out any letters. See the following table "Common Prefixes" for examples of this rule.
+Table : Common Prefixes
+| **Prefix** | **Meaning** | **Example** |
+| dis | not, opposite of | dis + satisfied = dissatisfied |
+| mis | wrongly | mis + spell = misspell |
+| un | not | un + acceptable = unacceptable |
+| re | again | re + election = reelection |
+| inter | between | inter + related = interrelated |
+| pre | before | pre + pay = prepay |
+| non | not | non + sense = nonsense |
+| super | above | super + script = superscript |
+| sub | under | sub + merge = submerge |
+| anti | against, opposing | anti + bacterial = antibacterial |
+Exercise :
+Identify the five words with prefixes in the following paragraph, and write their meanings on a separate sheet of paper.
+At first, I thought one of my fuzzy, orange socks disappeared in the dryer, but I could not find it in there. Because it was my favorite pair, nothing was going to prevent me from finding that sock. I looked all around my bedroom, under the bed, on top of the bed, and in my closet, but I still could not find it. I did not know that I would discover the answer just as I gave up my search. As I sat down on the couch in the family room, my Dad was reclining on his chair. I laughed when I saw that one of his feet was orange and the other blue! I forgot that he was color-blind. Next time he does laundry I will have to supervise him while he folds the socks so that he does not accidentally take one of mine!
+Exercise :
+Add the correct prefix to the word to complete each sentence. Write the word on your own sheet of paper.
+1. I wanted to ease my stomach ________comfort, so I drank some ginger root tea.
+2. Lenny looked funny in his ________matched shirt and pants.
+3. Hang felt ________glamorous at the party because she was the only one not wearing a dress.
+4. My mother said those ________aging creams do not work, so I should not waste my money on them.
+5. The child’s ________standard performance on the test alarmed his parents.
+6. When my sister first saw the meteor, she thought it was a ________natural phenomenon.
+7. Even though she got an excellent job offer, Mariam did not want to ________locate to a different country.
+8. With a small class size, the students get to ________act with the teacher more frequently.
+9. I slipped on the ice because I did not heed the ________cautions about watching my step.
+10. A ________combatant is another word for civilian.
+## Suffixes
+A suffix is a word part added to the end of a word to create a new meaning. Study the suffix rules in the following boxes.
+**Rule 1**
+When adding the suffixes -*ness* and -*ly* to a word, the spelling of the word does not change.
+**Examples:**
+- dark + ness = darkness
+- scholar + ly = scholarly
+Exceptions to Rule 1: When the word ends in y, change the y to i before adding - ness *and -* ly .
+**Examples:**
+- ready + ly = readily
+- happy + ness = happiness
+**Rule 2**
+When the suffix begins with a vowel, drop the silent *e* in the root word.
+**Examples:**
+- care + ing = caring
+- use + able = usable
+Exceptions to Rule 2: When the word ends in ce or ge, keep the silent e if the suffix begins with a or o .
+**Examples:**
+- replace + able = replaceable
+- courage + ous = courageous
+**Rule 3**
+When the suffix begins with a consonant, keep the silent *e* in the original word.
+**Examples:**
+- care + ful = careful
+- care + less = careless
+Exceptions to Rule 3:
+**Examples:**
+- true + ly = truly
+- argue + ment = argument
+**Rule 4**
+When the word ends in a consonant plus *y*, change the *y* to *i* before any suffix not beginning with *i*.
+**Examples:**
+- sunny + er = sunnier
+- hurry + ing = hurrying
+**Rule 5**
+When the suffix begins with a vowel, double the final consonant only if (1) the word has only one syllable or is accented on the last syllable and (2) the word ends in a single vowel followed by a single consonant.
+**Examples:**
+- tan + ing = tanning (one syllable word)
+- regret + ing = regretting (The accent is on the last syllable; the word ends in a single vowel followed by a single consonant.)
+- cancel + ed = canceled (The accent is not on the last syllable.)
+- prefer + ed = preferred
+Exercise :
+On your own sheet of paper, write correctly the forms of the words with their suffixes.
+1. refer + ed
+2. refer + ence
+3. mope + ing
+4. approve + al
+5. green + ness
+6. benefit + ed
+7. resubmit + ing
+8. use + age
+9. greedy + ly
+10. excite + ment
+Key Takeaways
+- A prefix is a word part added to the beginning of a word that changes the word’s meaning.
+- A suffix is a word part added to the end of a word that changes the word’s meaning.
+- Learning the meanings of prefixes and suffixes will help expand your vocabulary, which will help improve your writing.
+
+=== 6.6: Working with Words (Exercises) ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/06%3A_Working_with_Words_-_Usage_Form_and_Context/6.06%3A_Working_with_Words_(Exercises)
+
+1. Proofread the paragraph and correct any commonly confused words and misspelled words.
+Grunge, or the Seattle sound, is a type of rock music that became quiet popular in the late 1980s and early 1990s. It began in Seattle, Washington. Grunge musicians rejected the dramatic an expensive stage productions that were trendy at the time. There music was striped down with an emphasis on distorted electric guitars. Grunge musicians did not ware makeup or sport extravagent hairstyles like many of the day’s rock musicians and bands. Many grunge musicians would by they’re clothes from secondhand stores. The lyrics too grunge songs were also quit different compared two what was populer at the time. Grunge lyrics are charecterized by dark or socially conscience themes. Grunge music is still admired today buy music lovers of all ages.
+2. Complete the following sentences by filling in the blank line with the correct homonym or frequently misspelled word.
+1. William asked me a serious question and ________(then, than) interrupted me when I attempted to answer.
+2. A hot compress will ________(lessen, lesson) the pain of muscle cramps.
+3. Alperen was not a graceful ________(looser, loser) because he knocked his chair over and stormed off the basketball court.
+4. Please consider the ________(effects, affects) of not getting enough green vegetables in your diet.
+5. ________(Except, Accept) for Ajay, we all had our tickets to the play.
+6. I am ________(threw, through) with this magazine, so you can read it if you like.
+7. I don’t care ________(whose, who’s) coming to the party and ________(whose, who’s) not.
+8. Ebru could ________(sea, see) the soaring hawk through her binoculars.
+9. The ________(principal, principle) gave the students a very long lecture about peer pressure.
+10. Dr. Singh nearly lost his ________(patience, patients) with one of his ________(patience, patients).
+3. Rewrite the following personal essay by replacing the slang, clichés, and overly general language with stronger, more precise language.
+My biggest regret happened in high school. I had always felt like a fish out of water, so during my sophomore year I was determined to fit in with the cool people. Man, was that an uphill battle. I don’t even know why I tried, but hindsight is 20/20 I guess. The first thing I did was change the way I dressed. I went from wearing clothes I was comfortable in to wearing stuff that was so not me. Then I started wearing a ton of makeup, and my brother was all like, “What happened to your face?” Not only did my looks change, my personality changed a lot too. I started to act all stuck up and bossy with my friends, and they didn’t know how to respond to this person that used to be me. Luckily, this phase didn’t last more than a couple of months. I decided it was more fun to be me than to try to be someone else. I guess you can’t fit a square peg in a round hole after all.
+4. Write the correct synonym for each word.
+1. lenient ________(relaxed, callous)
+2. abandon ________(vacate, deceive)
+3. berate ________(criticize, encourage)
+4. experienced ________(callow, matured)
+5. spiteful ________(malevolent, mellow)
+6. tame ________(subdued, wild)
+7. tasty ________(savory, bland)
+8. banal ________(common, interesting)
+9. contradict ________(deny, revolt)
+10. vain ________(boastful, simple)
+5. Complete the following sentences by selecting the correct comparative or superlative adjective or adverb. Then copy the completed sentence onto your own sheet of paper.
+1. Deniz has a (cheerful) ________ outlook on life than her husband.
+2. I don’t mean to brag, but I think I am the (good) ________ cook in my family.
+3. Lydia is the (thoughtful) ________ person I know.
+4. Italy experienced the (bad) ________ heat wave in its history last year.
+5. My teacher, Ms. Beckett, is the (strange) ________ person I know, and I like that.
+6. Dang’s drawing skills are (good) ________ this semester than last.
+7. My handwriting is the (sloppy) ________ of all my classmates.
+8. Melvin’s soccer team played (badly) ________ than it did last season.
+9. Josie’s pen writes (smooth) ________ than mine.
+10. I felt (lucky) ________ than my sister because I got in to the college of my choice.

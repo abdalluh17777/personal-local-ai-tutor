@@ -1,0 +1,85 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+3.6: Strategies for Finding Information
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.06%3A_Strategies_for_Finding_Information
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Starting the search
+Now that Lily had an idea for a research topic, she wanted to start finding and gathering information for her topic. She started off by doing what a lot of other students do, Googling it, but she was quickly overwhelmed with her search results when she typed in the term “faculty of color in higher education”. There were over 400 million results! She saw articles from newspapers like *Forbes*, statistics from the National Center for Education Statistics, books being sold on Amazon, articles published by universities, and many more. She wasn’t sure how to choose which source she needed. Her professor also told the class they should use library databases for their research, but she didn’t know how to use them.
+Many of you will have shared the same feelings as Lily—being overwhelmed by the amount of information you can find on the internet. This section will discuss different types of sources you might find on the internet and in library databases. This section will also walk you through how to use library databases and give you tips and strategies for searching on the internet and in library databases more effectively.
+## Types of Sources
+Many of you may be familiar with books and newspaper or magazine articles, but there are many other sources of information that can be useful during a research project. Table 3.6.1 summarizes different sources. As you look over the table, think about how long it takes to create a post on social media vs the time it takes to write a scholarly article. Does the time it takes to create a source impact the quality of a source?
+Table 3.6.1 Possible sources and how they differ in terms of where they are found, how they are created, who they are written for, and who they are written by
+| **Source Type** | **Where to find it** | **Time to create** | **Review Process** | **Written by** | **Read by** |
+| Websites/blogs | Internet search | Minutes to years | none | anyone | General public |
+| Social media | Internet search | Seconds to days | none | anyone | General public |
+| Documentaries | Film streaming sites | years | none | filmmakers | General public |
+| Personal interviews | You do it | Minutes to days | none | anyone | General public |
+| Reports and government documents | .gov websites, organization websites | Months to years | No formal peer review process | Specialists in the subject (usually people with PhDs, graduate students, or professors) | varies |
+| News | Online, print, television, article databases | Minutes to days | No formal peer review, sometimes editorial review | journalists | General public |
+| Magazines | Online, print, article databases | Days to weeks | No formal peer review, sometimes editorial | journalists | General public |
+| Scholarly journal articles | Print, library article databases, journal website | One to a few years | Formal peer review process | Specialists in the subject (usually people with PhDs, graduate students, or professors) | Scholars, graduate students |
+| Books | Libraries, bookstores, ebook collections | years | Editorial but not peer review | Journalists, specialists, general people | General public or specialists |
+## How to Choose a Source
+There are many more types of sources than the ones listed on the chart, but given that there are so many different types of sources to choose from, how do you choose which kind to use?
+When you first start your research project, you want to learn background information about your topic, so you might read Wikipedia, newspaper articles, or encyclopedias. Scholarly journal articles are very specific so they would not be good for learning background information. Scholarly journal articles show the results of original research so they are useful if you want to prove an idea in your research project.
+## Internet Research
+The internet is a network that connects computers and servers all over the world—it contains billions of pages of information. People use search engines like Google, Baidu, Bing, and Yahoo to search for the information they need. While it is useful to have access to so much information, it can also be very overwhelming because most searches that you do will return millions of results. The results on the first page of a search are not usually the most credible sources.
+### Interactive Element
+This video shows you how Google searches work:
+[Video: https://www.youtube.com/embed/0eKVizvYSUQ]
+Doing a web search can be useful for understanding your topic overall and finding key words to help you. You can use the "tools" link on Google to improve your search. For example, you can choose to limit your search to specific dates or countries.
+## Database Research
+The internet is very different from a library database. The information on the internet is free to access, but database access is not free—libraries pay tens of thousands of dollars to give students access to articles. The reason it costs so much is that database companies collect information from hundreds to thousands of different sources, including scholarly journals where it might cost you $25 to look at one article.Then database companies “tag” each article with the main keywords so that it’s easier for people to find them.
+There are general databases that contain information about different subjects, and subject-specific databases. It’s a good strategy to search through multiple databases because they often contain different information.
+Even though using a database is a good research strategy, there are some drawbacks. One drawback is that because it takes time to include articles in a database, a database might not have the most current information if a research topic is evolving in real time. Also, because a database includes scholarly articles, which can take a year or two to publish, very current events won’t be written about yet by scholars. Some research topics are not represented in databases—a database has many newspaper and scholarly articles, but if no journalist or scholar has written about a certain topic, it won’t be there.
+## Keywords
+When you type in your whole question, sentence, or phrase in a Google search, Google tries to guess what you mean. Library databases do not. Google's algorithm picks out the important words for you. It's difficult for library databases to remove the unimportant words you include in your search so you only use the important words, or keywords.
+Keywords are used in a search in library databases to find articles that are relevant to your research topic. Keywords describe the main concept of your research topic or research question. Select nouns that are important and leave out words that are adverbs, verbs, adjectives, and prepositions.
+Here is an example research question: How are students of color affected by professors of color?
+The main concepts or keywords are "students of color" and "professors of color". Avoid terms like affect/affected as search terms. For each main concept, list synonyms, related terms, or associated words. If you get a lot of results back, you can get more specific with your main concepts as well.
+- Synonyms for "students of color": minority students
+- Synonyms for "faculty of color": professors of color, minority faculty, minority professors
+- Narrower terms: African American students, community college students, women professors of color, etc.
+- Related terms: (if you want to search for different effects of having a professor of color, you can add concepts to your search such as "retention" or "educational achievement")
+When you use these words in a database, type each concept into its own search field. Figure 3.6.1 shows the search field of a common database with the phrases "students of color" and "professors of color" typed into the search fields.
+[Image: EBSCO library database search fields]
+Figure : "Search box in the Academic Search Complete" by Jenny Yap is marked with CC BY NC 4.0.
+If you are not getting enough results from your search, use more general keywords. If you’re getting too many results, use more specific words. Databases also have filters that allow you to narrow the time period of articles, the type of article, language, geography, and more.
+It takes a lot of practice to get good at searching in databases. If you need more help, you can always contact a librarian at your school. They are experts in using databases.
+### Finding keywords and synonyms to help you with your search
+When you are doing research, it is important to use a variety of keywords. What can you do if you do not know a lot of synonyms for your term?
+- Use a thesaurus or dictionary such as Longman
+- Use Google to find a news or general website that discusses the topic. Make a note of synonyms or related terms.
+- Use subject term tags (see below for how to do this)
+Keeping a list of synonyms will help you with your search and with writing your paper.
+### Subject terms
+Another way to find good keywords is to look at the subject terms of an article. For example, when you click on an article’s title in a database it will often bring you to a page (called the record) that contains information about the article such as the author, where the article was published, and an abstract which is a one-page summary of the article. The record page also contains the article’s subject terms.
+A subject term is a standard word or phrase that describes the main ideas in an article. Each article in a database is assigned a few subject terms. It’s important to notice which subject terms the database is using because each database company might "tag" articles with different keywords for the same concept. For example, one database might use the keyword “stadium” while another might use “sports arena.” Figure 3.6.2 shows the subject terms of an article in the database. Notice that in this database, instead of using the word “professor” it uses the phrase “college teachers.” Other terms that are included are "African American teachers", "University faculty", and "African Americans".
+[Image: Subject terms for a search about faculty of color]
+Figure : "Subject terms in a database" by Jenny Yap is marked with CC BY NC 4.0.
+## Identifying keywords and subject terms for your search
+Let's look at a table of keywords and subject terms.
+Notice this!
+How will table 3.6.2 help the researcher find better keywords for research? Are there any keywords here that surprised you?
+Table 3.6.2 Worksheet for identifying keywords and subject terms with example answers
+| strategy | Lily's answer |
+| My research question | Why is it important to have more minority faculty in colleges, and how can we improve this situation? |
+| Keywords | minority, faculty, college |
+| Synonyms from a dictionary | teachers (synonym for faculty); universities (synonym for college) |
+| Related terms from articles I read: | minority faculty or faculty of color or nonwhite faculty | professors or instructors or faculty | college or university or higher education |
+| Subject terms in the database | (faculty=college professors) | (minority=African American, Hispanic American, Asian American) |
+### Creating your own keyword and subject term worksheet
+Now that you have looked at a sample keyword and subject term research worksheet, try it with your own research topic.
+Apply this!
+Work alone or with a classmate. Write down this information to create your own worksheet.
+- My research question
+- Keywords
+- Synonyms from a dictionary
+- Related terms from articles I read
+- Subject terms from databases
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Jenny Yap, Berkeley City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Table 3.6.1 of possible sources was adapted from Carol Wither's Information Literacy: Basic Research Skills. License CC BY NC SA.
+This page titled 3.6: Strategies for Finding Information was last modified on Sun, 09 Mar 2025 17:17:28 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

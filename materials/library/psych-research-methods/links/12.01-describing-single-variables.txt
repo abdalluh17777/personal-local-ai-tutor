@@ -1,0 +1,5 @@
+http://onlinestatbook.com/stat_analysis/index.html | http://onlinestatbook.com/stat_analysis/index.html
+http://faculty.vassar.edu/lowry/VassarStats.html | http://faculty.vassar.edu/lowry/VassarStats.html
+http://www.brightstat.com | http://www.brightstat.com
+http://statpages.org/index.html | http://statpages.org/index.html
+source content | https://kpu.pressbooks.pub/psychmethods4e

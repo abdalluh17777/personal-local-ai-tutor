@@ -1,0 +1,67 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+3.3: Purpose of Research Writing
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.03%3A_Purpose_of_Research_Writing
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## We are all researchers
+This might be the first time you are writing a research paper, or the first time you are using library databases. However, research is something that you do all the time. Let’s look at some everyday questions:
+- Where is the best hotel for my family to stay at on our vacation?
+- Should I be worried if I have a specific pain in my body?
+- Where can I get the cheapest price for a laptop?
+How would you answer these questions? You might ask someone else, but if you are like most people you will start by doing a search online (see Figure 3.3.1).
+[Image: woman researching on a laptop]
+Figure : "Woman in front of laptop search." by nodstrum is marked with CC BY 2.0.
+When you search online, you compare different results to see which ones are the most reliable. For example, you might look at a hotel website to see what they offer, but you might also want to read reviews from other travelers. As you read, you will probably decide how much you trust each review. When you get enough information to make a decision, you will have to explain that information to your family. Why do you think that you should stay at this hotel, even if it costs a little bit more than another one?
+When is the last time you researched something to find an answer or better persuade someone? How did you choose where to look? Did you trust all the sources of information that you found, or did you think that some were stronger? What did you do after your found the information that you wanted?
+## Why we research
+By researching, you are able to make informed decisions, or find more ways to help persuade others to believe in your ideas. Your everyday research process is not just finding information. It is finding information, analyzing it, making a decision, and sharing that information with others. These are the same steps you go through in the academic research process. You will use the facts and opinions you find in your research to support your own argument about your research topic.
+Writing research papers is a process of finding out what other people know and believe about a topic, and how you can use that to guide your own thinking. Being able to take in others' opinions and present your own argument allows you to clarify your ideas, think critically about issues, and share your own voice in a way that can persuade others.
+## Citations in research papers vs online articles
+How does knowing about research affect you as a reader?
+In academic papers, research citations are indicated through your in-text citations and Works Cited page. In online articles, citations are shown through links. This method can change your experience as a reader and researcher.
+Notice this!
+Check out a research-based online article, like the one below.
+Skim the article and think about these questions:
+- How do the links affect you as a reader?
+- Did you click any of them?
+- Do they give the writer more credibility?
+- Do they provide ethos, pathos, or logos? (Click on the linked words in that question to review what these mean if you'd like.)
+## Reading from an online research article: "I Prepare Aspiring Teachers to Educate Kids of Color – Here’s How I Help Them Root out Their Own Biases"
+Lasana D. Kazembe, *IUPUI*
+I’m a professor who has spent the last 10 years preparing new teachers to enter the workforce. I also study how race, culture and power influence education and childhood development at a time when more than half of the roughly 50 million children who attend U.S. public schools are nonwhite, unlike most of their teachers. About four in five public school teachers are white, according to the latest official data.
+This underrepresentation is especially acute for Black male teachers. While one in four teachers are men, merely 2% are Black men.
+Research indicates that students of color benefit from being taught by people who look like them.
+One of these benefits is that students of color experience a more positive sense of their own ethnic and racial identities. I think it’s essential today that all K-12 teachers develop the cultural awareness, empathy and anti-racist disposition to effectively teach students from diverse backgrounds.
+### A lack of familiarity
+By and large, the aspiring teachers in my classes are white people who plan to teach in urban schools where children of color are in the majority. And based on what my colleagues and I routinely witness, they tend to possess little to no experience with or cultural knowledge of people who aren’t white.
+Many of my students describe themselves as colorblind. This is the idea and practice that ignoring or overlooking racial and ethnic differences somehow makes one not racist. Those who practice colorblindness tend to feel that racial harmony can occur if they pretend to not see or acknowledge what makes us different from one another.
+However, researchers have found that racial colorblindness can actually function as a form of racism.
+My own experience points to one reason why this occurs. I often perceive that these same students harbor racial biases and negative cultural assumptions about people of color – particularly Black people and Latinos.
+Likewise, I find that most of these white students possess little to no understanding of their own racial and ethnic identities. Also, I often observe that they aren’t familiar with even basic aspects of U.S. history such as the contributions and experiences of Native Americans and African Americans.
+But because these aspiring teachers live in a multicultural nation, I believe that it is more important than ever for them to acquire a serious understanding of racism and this nation’s rich multicultural history. I also think they will become better teachers if they leverage that understanding and work to become anti-racist.
+I define anti-racism as the active process of identifying and eliminating racism by transforming systems, structures, policies, practices and attitudes. The goal of anti-racism is a more equitable redistribution and sharing of power.
+Key findings in education research indicate that effective teachers are those who have experienced deep learning about racism, bias and cultural diversity. Among white students, their perspectives on race and culture may be enhanced through authentic experiences in ethnically diverse settings. Other studies have shown how white students benefit by intentionally confronting difficult subjects such as inequity and anti-racism.
+One of the ways that I help to broaden students’ understanding is by incorporating historical content into class assignments. I also introduce content that introduces students to the history and life experiences of diverse cultures. Also, I provide opportunities for students to interact with other cultures through literature, film and music.
+For example, in addition to learning about the Brown v. Board of Education Supreme Court ruling, students also learn about both its intended benefits and some of its negative outcomes – such as the more than 38,000 Black teachers and administrators who lost their jobs.
+This focus on historical contexts, inequity and cultural diversity is quite common – especially in urban teacher education programs. My goal is to challenge students to think more deeply about themselves, about others and about the diversity of the children they may one day teach.
+These are, in my view, necessary steps to developing teachers who are more reflective, thoughtful and culturally informed.
+### Consequences of bias
+Many studies have illustrated the dangers of racial bias among teachers, such as lower expectations for students of color and harsher discipline for them. There’s also evidence that racial bias can contribute to higher dropout rates, lower academic achievement and future incarceration.
+In their investigation of racial bias and school discipline in K-12 settings, a team of Princeton University researchers examined federal data that covered 32 million Black and white students across 96,000 K-12 schools. They found that Black students experienced higher rates of expulsion and suspension. They were, in addition, more likely to be arrested in school and subjected to law enforcement interventions than white students.
+The researchers found that 13.5% of Black students received out-of-school suspensions, as opposed to only 3.5% of their white classmates. Their findings indicated that racial bias fuels disparities in school discipline, as have similar studies.
+[*Get the best of The Conversation, every weekend.* Sign up for our weekly newsletter.]
+### Centering equity in education
+In my classes, students learn about and discuss student differences besides race and ethnicity, such as gender, ability, sexual orientation, gender identity, primary language, religious beliefs and residence. They also develop skills that allow them to reflect on their own backgrounds and to understand how their personal history shapes their perspectives.
+The students learn that actively embracing diversity and working toward equity are core qualities of professional educators.
+What teachers understand about bias must go beyond mere knowledge of subject matter and instructional strategies. They also need to learn ways to honor and respect the history and heritage of all their students, a discipline known as “teaching for equity.”
+Equity-focused teacher educators are versed in ethnic studies, as well as history, power and privilege.
+Research shows that students benefit academically when their teachers possess cultural awareness, have high expectations for all their students and believe that all their students have the potential to learn and succeed regardless of their personal backgrounds.
+However, to get there, teachers must first transform themselves. [Image: The Conversation]
+Lasana D. Kazembe, Assistant Professor, *IUPUI*
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+## One student's research journey
+In this chapter, we are going to follow Lily, a student at Laney College in Oakland. Lily, an Asian woman who had lived in Central America, noticed that few of her college instructors were Asian American, Black, Latinx, or Native American. She became curious about this issue, and she chose this topic to explore for her research paper.
+Before you read on to find Lily's research question, take a minute to think about this topic. How would you research it? What information would you want to find?
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+This page titled 3.3: Purpose of Research Writing was last modified on Fri, 10 Oct 2025 20:22:57 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

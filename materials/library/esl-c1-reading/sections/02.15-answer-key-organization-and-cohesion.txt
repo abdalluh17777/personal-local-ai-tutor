@@ -1,0 +1,50 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.15: Answer Key- Organization and Cohesion
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.15%3A_Answer_Key-_Organization_and_Cohesion
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## 2.5 Writing Body Paragraphs
+## Finding the parts of a body paragraph
+Topic Sentence: Stereotypes are problematic because they give an incomplete view of a person within a group.
+- **Topic:** Stereotypes
+- **Controlling idea:** They are problematic because they give an incomplete view of a person within a group.
+**Evidence:** In her TED talk “The Danger of a Single Story,” Adichie argues that a single story usually provides only one part of a story: just one negative or positive side of a person, yet this becomes their label or their definition. An example of this kind of stereotyping is the example of Adichie of Modupe Akinola, a female African-American professor. When she began teaching at Columbia Business School, students often asked her when the professor would arrive because she did not fit the stereotype of what a professor should look like in the U.S. (Akinola)
+**Analysis:** People tend to make assumptions about the single story they hold of a particular group. Due to a lack of exposure, Akinola’s students were probably expecting to see an old white male or possibly a white female professor instead of a young African-American female professor. Also, because of the angry black female stereotype (Eberhardt), during lectures, this may lead students to read Akinola's facial expressions in an incorrect way which may cause confusion.
+**Concluding Sentence:** Thus, stereotypes are "incomplete" and can lead to prejudice as Adichie points out in her TED talk.
+## 2.6 Writing a Conclusion Paragraph
+## Identifying food for thought
+1. A suggestion or call to action
+2. a reflection on how your own thinking changed through writing this
+3. a prediction or warning for the future
+## Identifying parts of a conclusion
+Umbrella sentence: In “Stereotype Threat,” McRaney and her colleagues clearly and evenhandedly explain the phenomenon of stereotype threat.
+**Summary:** Their choice of language makes the chapter interesting and accessible to students who may not have training in the social sciences, even as the authors cite many academic sources. The authors also spend time addressing and responding to some common criticisms of and doubts about the existence of stereotype threat, which makes the ideas they discuss more credible. Furthermore, the content is relatable: the examples provided in the text helped me identify an instance of stereotype threat in my own life and made me think about other situations where stereotype threat may have been at play.
+**Food for thought:** Their chapter highlights an important phenomenon and, with this knowledge, institutions and individuals can take steps to create environments in and out of the classroom that lessen the chance stereotype threat will negatively (and needlessly) affect performance.
+## 2.7 Cohesion and transition words
+## Adding appropriate transition words
+Stereotyping helps us quickly understand or make a decision about others. **[However,]** it gives people surface knowledge and a limited understanding of other people. **[As a result,]** people are all labeled and everyone categorizes others, which is necessary to do in order to make quick judgments. **[Furthermore,]** Jennifer Eberhardt points out that “the content of those stereotypes is culturally generated and culturally specific.”
+## 2.11 Parallel Structure
+## Parallel structure and cohesion
+Here are the complete quotations.
+1. “Not everything that is faced can be changed. But nothing can be changed until it is faced."—James Baldwin
+2. “If you want others to be happy, practice compassion. If you want to be happy, practice compassion.” —The Dalai Lama
+3. “We must accept finite disappointment, but never lose infinite hope” —Dr. Martin Luther King, Jr.
+4. “Success is getting what you want. Happiness is wanting what you get.” —Dale Carnegie
+5. "People will forget what you said, people will forget what you did, but people will never forget how you made them feel." —Maya Angelou
+6. “We make a living by what we get, but we make a life by what we give.” —Winston Churchill
+7. "To be smart on crime, we should not be in a position of constantly reacting to crime after it happens. We should be looking at preventing crime before it happens." —Kamala Harris
+8. "I just hope that more people will ignore the fatalism of the argument that we are beyond repair. We are not beyond repair. We are never beyond repair." —Alexandria Ocasio-Cortez
+9. “Ask not what your country can do for you; ask what you can do for your country.” —John F. Kennedy
+## Identifying parallel structure
+Parallel structures are indicated by [brackets]..
+Why is it that women who are talented in **[math and science] [avoid or leave]** engineering majors and careers? An American Association of University Women report on women’s success in engineering and computing suggests that **[women who persist in science and engineering are not all that different from women who decide to leave].** The major difference between **[staying and leaving]** has been found to have **[less to do with the women themselves and more to do with the academic** and **workplace environments]** where they **[attend school and pursue careers]**. Throughout the literature on women’s persistence in **[science, technology, engineering, and math]** (STEM) fields, a range of **[structural and cultural]** barriers contribute to the high prevalence of gender bias in these fields, with direct implications for women’s **[self-efficacy, experiences, opportunities, and success],** particularly in engineering.
+- **Word forms:** Nouns (science, technology, engineering, and math), adjectives (structural and cultural), nouns (self-efficacy, experiences, opportunities, success)
+- **Verb forms:** staying, leaving; attend school, pursue careers
+- **Phrases:** less to do with, more to do with
+- **Clauses:** women who persist in science and engineering, women who persist in science and engineering.
+## Add parallel structure for clarity and cohesion
+Possible answers indicated by brackets:
+- Having stereotypes **[highlights people’s differences and makes equality nearly impossible to achieve].** In her TED talk, Chimimanda Adichie claims, “The consequence of the single story is this: it robs people dignity. . . . It emphasizes how we are different rather than how we are similar.”
+- What she means is that a single story usually **[focuses on what other groups do not have and what is beneficial for the people telling the story, rather than focusing on what is true].**
+- This **[makes us look at our differences and makes society less equal]**.
+This page titled 2.15: Answer Key- Organization and Cohesion was last modified on Sun, 09 Mar 2025 17:17:24 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

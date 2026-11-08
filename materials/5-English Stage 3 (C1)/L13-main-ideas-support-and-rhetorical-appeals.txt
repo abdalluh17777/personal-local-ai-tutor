@@ -1,0 +1,82 @@
+Lesson 13 material: Main Ideas, Support and Rhetorical Appeals
+English Stage 3 (C1) · Unit 2: Critical Reading
+
+=== 1.6: Finding Main Ideas and Support ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/01%3A_Critical_Reading/1.06%3A_Finding_Main_Ideas_and_Support
+
+## Topic, main idea, and supporting reasons and details in an article or essay
+When we annotate, it can help us find the topic(s), main idea, and supporting details in a text and help us figure out the overall structure of a text. To locate the main idea or thesis in a text, it helps to identify the topic first. Then make sure that the most important supporting details explain the main idea. Table 1.5.1 explains the differences between these elements and clues for finding each element in an academic essay. Note that in other types of texts, such as magazine articles, the elements are all still there, but might be in a different location. For example, paragraphs may be shorter, and the main idea may come later, or not be as explicitly stated.
+Table 1.5.1: Definition and How to Find Topic, Main Idea, and Supporting Reasons
+| **Element** | **Topic** | **Main Idea** | **Supporting Reasons** | **Supporting Details** |
+| **Definition** | The topic is a word or phrase that answers the question: “What is the text about?” | Example topics: undocumented immigrant rights, the problem with stereotypes, the environmental problems of fast fashion | The main idea (or thesis) is the most important point the writer makes about the topic. It summarizes the writer’s key point or message. All the key information in a text should support the main idea. It can be a lesson or the key point that is made. The title may provide a clue about the main idea as well. | Supporting reasons explain the main idea and present facts that help explain the main idea. | Supporting details clarify the major reasons with examples. |
+| **How to find the element in an academic essay** | We can find the topic in the title and introduction. | We can find the main idea or thesis of the entire essay at the end of the introduction. It is usually 1-3 sentences in length. A thesis statement drives an essay. It's the controlling idea, and it shows what the writer inten ds to prove in their essay. | Each body paragraph should begin with a topic sentence that is related to the thesis statement. The topic sentence should be an opinion statement that gives a reason to support the main idea. It introduces the main point of that paragraph. | Each topic sentence is followed by supporting details. These help explain the main point of the paragraph. The supporting details can consist of examples or other points to support the paragraph. Each body paragraph should only focus on one point and relate back to the topic sentence and thesis. |
+Try This!
+Look back at the article “Undocumented Immigrants May Actually Make American Communities Safer – Not More Dangerous – New Study Finds” by Robert M. Adelman and Lesley Reid. Can you find the topic, main idea, and major supporting details that prove the main idea?
+## Analyzing a student essay
+Now let's look for these features in an essay that a student wrote for class.
+Try this!
+Work with a partner. Read the first two paragraphs of a student essay on Reyna Grande’s memoir, *A Dream Called Home,* in which she describes her journey across the border from Mexico from her hometown of Iguala, Mexico (see Figure 1.5.1).
+(Picture: Church and square in Reyna Grande's hometown of Iguala)
+Figure: "Parroquia San Francisco de Asís,Iguala,Estado de Guerrero,México." by Catedrales e Iglesias is licensed under CC BY 2.0
+1. What topic(s) can you identify in the student essay?
+2. What is the thesis statement (main idea of her essay)?
+3. What is the topic sentence? In other words, what is the main idea of the student’s first body paragraph?
+4. What supporting details does the student provide? Which ones seem to be major ones and which ones are minor ones?
+### Following One’s Dream
+According to Pew Research, the U.S. has 44.8 million immigrants who were born in a country other than the U.S. 10.5 million of those immigrants made the dangerous journey across the Mexican-U.S. border without legal papers or are undocumented because they overstayed their visas. While most immigrants come from Mexico to seek a better life, it is expected that Asians will form the largest immigrant group by 2055. I am one of those Asian immigrants who came here to fulfill my dream. Reyna Grande is an immigrant, too, and a Mexican-American author. At the age of two her father left for the U.S. with the goal to earn enough money to return and build a home. Two years later, Reyna’s mother moved to the U.S., leaving Reyna and her siblings behind. She spent a difficult childhood without her parents. At the age of nine, her father came back and made the treacherous journey across the border with Reyna and her siblings. Reyna faced many challenges in her life to pursue her dream to become a writer. It was particularly tough as an immigrant of color. *A Dream Called Home* is about her hard life in the U.S. In her memoir, we can see how she struggled to find a sense of belonging in the U.S. and achieve her dream.
+Reyna felt like an outsider when she visited her country and wrote stories about her hometown which her creative writing teacher rejected. Reyna spent ten days in Mexico and felt heartbroken that people no longer saw her as Mexican. At the same time, she felt disconnected from people in the U.S. who thought that she was not American enough. It made her feel as though she could not belong anywhere. Reyna wanted to honor the people in her native Mexico by writing stories about them, “I had to remember each of them, write their stories, share their pain, so that they knew they weren’t alone” (74). All her stories took place in her hometown. In one of her stories she described how a flood destroyed her neighborhood and people had to stay on their roofs of their homes and create canoes to collect their dead animals. In another story, a family could not afford shoes, so their daughter had to go to school barefoot where the teacher also hit the girl for being left-handed. When Reyna presented her stories to her creative writing teacher, she rejected them and considered them too outrageous. On the other hand, her teacher loved the stories her American classmates wrote about “drinking, doing drugs, going to parties, and having sex” (75). Being the only Latinx student in a creative writing class at UCSC made her feel hopeless and that she did not belong. It was clear that Reyna’s world was much different from that of her classmates and teacher, and they did not seem eager to hear her stories. Reyna often thought about dropping out of the creative writing program and questioned her dream to become a writer because her stories were not valued by her classmates and creative writing teacher.
+## Licenses and Attribution
+## CC Licensed Content: Original
+Authored by Marit ter Mate-Martinsen, Santa Barbara City College. License: CC BY NC.
+Two paragraphs of essay entitled "Following One's Dream" by Linh Tran. License: CC BY.
+
+=== 1.7: Finding Ethos, Pathos, and Logos ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/01%3A_Critical_Reading/1.07%3A_Finding_Ethos_Pathos_and_Logos
+
+## Rhetorical appeals
+How do we know whom to trust as we read? How can writers convince their readers of their opinions? Rhetoric is the art of effective, persuasive writing and speaking. Writers and speakers often use a combination of strategies to convince their audience of their opinion. Aristotle, a Greek philosopher who lived from 384-322 BC, outlined three methods used to get people to agree with them. He called these three rhetorical appeals: pathos, ethos, and logos. When we read a text or listen to a TED talk, for instance, we can often observe a combination of appeals. In academic writing, we tend to emphasize ethos and logos, but pathos and ethos are useful tools as well. For more about these appeals, see also 5.3: Distinguishing Rhetorical Appeals.
+## Pathos: emotions and values
+With pathos, the writer or presenter’s goal is to convince the audience of their particular opinion by appealing to their heart and emotions.
+Some examples are stories, anecdotes, powerful use of words or phrases, or images that awaken a strong emotion such as anger, joy, or fear due to a person’s beliefs.
+## Ethos: credibility and trust
+The writer or presenter builds trust by presenting their argument in a thoughtful and thorough way and including expert opinion(s).
+Some examples are introducing recognized experts with their credentials, citing sources accurately, including first-hand testimony, and using appropriate language (e.g., This suggests…)
+## Logos: logic
+The writer or presenter develops their argument logically with evidence we can measure, count, or agree on.
+Some examples include using facts, case studies, experiments, statistics, logical reasoning and organization, defining key terms, explaining ideas, and being objective.
+## Identifying rhetorical appeals in a text
+We will explore how rhetorical appeals work by looking at three quotations from *Dear America: Notes of an Undocumented Citizen*. Vargas (see Figure 1.7.1) came to the U.S. from the Philippines at age 12 and was surprised to find out at the age of 16 that he was in the U.S. as an undocumented immigrant. When he tried to get his driver’s permit at the DMV, the person helping him told him his green card was a fake and he should not return. Vargas is a well-known journalist, filmmaker, and Pulitzer Prize winner.
+(Picture: Man with short brown hair and a short-sleeved shirt at a podium)
+Figure: "Jose Antonio Vargas" by MIT Media Lab is licensed under CC BY-SA 2.0
+Try this!
+Identify which appeal is used in each quotation.
+1. “Later that night, on a phone call with Mama, I demanded answers to questions I had never imagined I would have to ask. I found out that the “uncle” who accompanied me on the flight to America was a smuggler whom Lolo had paid. The morning I left the Philippines was so rushed because she hadn’t known when I would be leaving. The smuggler didn’t give an exact date or time. The plan was that the smuggler would call hours before my flight was set to depart. I had to be ready at all times. Unbeknownst to me, my suitcase has been packed for months."
+2. “Another editor, Ann Gerhart, also known for her keen journalistic eye, and an ace fact-checker, Julie Tate, reported what I wrote, to make sure all the facts lined up.”
+3. “Annually, undocumented workers pay 12 billion to the Social Security Trust Fund.”
+Which appeals are most effective for you? Why?
+(For possible answers, see 1.13: Answer Key - Critical Reading)
+Interactive Element
+## Extra practice with rhetorical appeals
+If you would like to learn more about Jose Antonio Vargas, watch this video. What types of appeals do you notice?
+(Online slides or activity on the lesson web page.)
+## Works Cited
+Vargas, Jose Antonio. *Dear America: Notes of an Undocumented Citizen*. Dey Street Books, 2018.
+## Licenses and Attribution
+## CC Licensed Content: Original
+Authored by Marit ter Mate-Martinsen, Santa Barbara City College. License: CC BY NC.
+## All Rights Reserved
+Three quotations by Jose Antonio Vargas are from *Dear America: Notes of an Undocumented Citizen.*
+
+=== Answer key from the book: 1.13: Answer Key- Critical Reading ===
+## 1.7 Finding Ethos, Pathos, and Logos
+## Identifying rhetorical appeals in a text
+- Pathos
+- Ethos
+- Logos
+## 1.11 Language Toolkit
+## Identifying critical thinking questions
+1. Interpretive
+2. Experiential
+3. Literal
+4. Evaluative
+5. Thematic

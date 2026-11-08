@@ -1,0 +1,199 @@
+Lesson 42 material: Logos
+English Stage 3 (C1) · Unit 5: Argument and Academic Style
+
+=== 5.6: Identifying and Using Logos ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.06%3A_Identifying_and_Using_Logos
+
+(Picture: black and white print of six stacked cubes)
+Figure: **Logos** __"3d cubes"__ by Eliricon from the Noun Project is licensed under __CC-BY 3.0__
+## What is logos?
+An appeal to logos, as you can guess from the word, is about logic—the writer sets up a solid structure of reasons with evidence. To use logos is to point out facts we can measure, count, and agree on, and convince our readers that because we agree on these facts, we therefore must agree on ideas that are bigger than the facts. We sometimes call this "building a case" for our position. Like the containers stacked on the ship in Figure 5.6.2, we carefully build a logical structure.
+(Picture: a large ship stacked high with colorful shipping containers)
+Figure: "Container ship YM Unicorn at Port of Oakland" by Ian Abbott is licensed under CC-BY-NC-SA 2.0
+## How do we look for logos as readers?
+As a reader, to analyze the logos of a reading means we must carefully take apart the ideas and see if they work together like a math problem:
+- Does the writer really support each reason with strong evidence?
+- Do the reasons work together to support the writer’s main idea?
+- Can we find any places where the logic falls apart?
+## How do we use logos as writers?
+As a writer, to build logos is to build a case like a lawyer for your thesis so your reader can easily follow your reasoning and, if they don't already agree with you, might change their mind. To do this,
+- Start from common ground—a position everyone can already agree with, or would at least pretend to agree with so they seem like a good person: for example, we all want a cleaner environment, even if we disagree about how to make it cleaner and which people should give up what to make it cleaner.
+- Write a strong thesis statement that is narrow enough to defend.
+- Write clear topic sentences for each body paragraph that state reasons your thesis is true, name areas of the thesis their paragraphs will explain, or set up concessions/counterarguments.
+- Use clear connecting words to show relationships between ideas, mark which ideas are more specific than others, and show where you are changing perspectives.
+## What is a categorical syllogism?
+A categorical syllogism is a way of forming a logical argument. Here’s an example:
+1. Petroleum products cause pollution.
+2. Polyester fabric is made from petroleum.
+3. Therefore, polyester fabric causes pollution.
+We know intuitively that if 1 and 2 are both true, 3 also must be true.
+Here's another example that goes beyond facts and makes a case for an action:
+1. Toxic chemicals should be kept out of the water.
+2. Textile factories in a particular town are releasing ammonia and nitrates into local rivers.
+3. Therefore, those factories should find a way to process their toxic waste without dumping it into the water.
+The *categorical* part of *categorical syllogism* means you are grouping ideas in categories to make the case that if we can all agree on one big idea, and you show a smaller idea to be true, then we have to agree on a third idea.
+## Parts of a syllogism
+- **Major premise:** a more general idea or assumption. In an argumentative essay, this is the underlying assumption or common ground that you and most or all of your readers – any reasonable person – would agree with, often about values.
+- What should be true?
+- What is something we all agree is right or wrong?
+- What do we all want for our families or societies?
+It’s helpful to state the major premise in your introduction paragraph between the hook and thesis, or in your conclusion paragraph, and/or in the explanation part after pieces of evidence, even if it seems really obvious. Stating the major premise reminds your reader that they agree with you on the foundation of your argument.
+- **Minor premise:** a more specific claim that you will show to be true with evidence. You can think of your topic sentences as minor premises.
+- **Conclusion:** in a syllogism, if both of the premises are true, then the conclusion has to be true.
+Note: the term "conclusion" can be confusing because in a syllogism, the part we call a conclusion is actually the same logical part as what we call a thesis in an essay. In an essay, the thesis is usually stated in the introduction paragraph. These words explain the logical structure underneath your words, not the actual order of words in your essay.
+This is the classic *categorical syllogism* Aristotle used as an example:
+- **Major premise**: All humans are mortal (don’t live forever).
+- **Minor premise**: All Greeks are humans.
+- **Conclusion:** All Greeks are mortal.
+## Valid vs. true
+A syllogism can be *valid* (the conclusion must be true based on the two premises) without being *true:*
+- **Major premise**: All people who wear glasses have X-ray vision.
+- **Minor premise**: Ahmed wears glasses.
+- **Conclusion:** Ahmed has X-ray vision.
+The major premise isn’t true, so the whole thing falls apart. If you take a logic or critical thinking class, you might see examples like this that demonstrate how a syllogism can be *valid* but not *true*.
+A syllogism can also have three *true* statements without being *valid:*
+- **Major premise**: Anyone who lives in Sacramento lives in California.
+- **Minor premise**: Esme does not live in Sacramento.
+- **Conclusion:** Therefore, Esme does not live in California.
+If Esme in fact lives outside of California, this might be true. But she could live in another place in California besides Sacramento. The two premises do not work together to guarantee that the conclusion is true, so the syllogism is not valid.
+The logic that forms the "bones" of an argumentative essay should be both *valid* and *true*.
+## Practice with syllogisms
+Let's look at some examples of syllogisms that form the "bones" of arguments and guess the missing parts:
+Try this!
+Finish the incomplete part in each set to make a valid syllogism:
+1. **Major premise**: Governments are responsible for regulating fair wages.
+**Minor premise**: The workers in the textile factories in Bangladesh that export clothing to the U.S. are not earning a living wage.
+**Conclusion:** Therefore, the U.S. and Bangladeshi governments should step in to ____.
+2. **Major premise**: To help change worker exploitation, we should use the strategy the workers in the situation are asking for.
+**Minor premise**: In this case, the workers do not want U.S. consumers to ___ the company.
+**Conclusion**: Therefore, if we want to help, we should use a different strategy besides boycotting.
+3. **Major premise**: We can all agree that ___ is more important than temporary profits.
+**Minor premise**: Retrofitting factory exhaust machinery costs money now, but reduces air pollution for years.
+**Conclusion:** Factory owners should spend the money on retrofitting the exhaust machinery.
+For suggested answers, see 5.12: Analyzing Arguments Answer Key
+## Finding deductive logic in a text
+Now let's find the logical structure of a longer piece of writing:
+Try this!
+Read this article and pay attention to the logical structure of the whole article and of the different parts.
+- What is the major premise?
+- What is the minor premise?
+- What is the logical conclusion?
+For suggested answers, see 5.12: Analyzing Arguments Answer Key
+## Reading from an online magazine: Untrustworthy Memories Make it Hard to Shop Ethically
+Imagine a shopper, Sarah, who is concerned about child labor and knows about groups like the Fair Wear Foundation that certify which brands sell ethically produced clothing. Hours after learning that fashion giant H&M reportedly sells clothing made by children in risky workplaces in Burma, she goes shopping. Completely forgetting about what she just heard, she buys an H&M dress.
+What happened? Sarah either forgot about that child labor allegation, or she mistakenly recalled that H&M was on Fair Wear’s list of ethical brands – which it isn’t. Either way, how could she make such an error?
+We are interested in how actual purchasing can be different from consumers’ own values. Our research shows that even though most consumers want to buy ethically sourced items, it’s hard for them to heed these sentiments, especially when adhering to their sentiments requires remembering something.
+### Selective memories
+It’s not easy to shop ethically in the U.S. Nearly all the clothing sold here is imported. Although not all imported clothing is made in exploitative workplaces, companies that demonstrably benefit from unfair and even dangerous labor practices abroad continue to flourish.
+Prior consumer psychology research has shown that people dislike thinking about unethical issues associated with their purchases. When you buy a new sweater, you probably don’t want to contemplate the harsh reality that it might have been made by exploited workers. And you may be tempted to come up with rationalizations to avoid thinking much about these issues. In fact, consumers may do their best to remain ignorant about whether a product is ethical or not, simply to avoid the anguish they would experience if they were to find out.
+### Unethical amnesia
+We wanted to learn what consumers would do if they had to face the truth. Perhaps they might just forget that truth. After all, memory is not a particularly accurate recording device. For example, recent psychological research suggests that people experience “unethical amnesia” – a tendency to forget when they have behaved unethically in the past. So would shoppers also prefer to forget when a company exploits workers or engages in other unethical actions? We predicted that they would.
+In a series of studies described in an article published in the Journal of Consumer Research, we explored why consumers’ memories might fail them when it comes to recalling whether products are ethical. It turns out that there is a predictable pattern for what consumers are likely to remember (or forget) about the ethicality of products.
+In general, we found that consumers are worse at remembering bad ethical information about a product, such as that it was produced with child labor or in a polluting manner, than they are at remembering good ethical information – such as that it was made with good labor practices and without much pollution. Our findings should trouble the many companies now vying for the ethical consumerism market and the people who buy those products.
+### Avoiding feeling torn
+To test our hypothesis, we studied how well 236 undergraduates would remember manufacturing information about six wooden desks. We did not select any of the participants for these studies based on whether they did or did not see themselves as ethical consumers.
+We told these students that half of the six brands of desks were made from wood sourced from endangered rainforests and that the rest came from wood sourced from sustainable tree farms. After they had several opportunities to study and memorize the descriptions, the participants completed unrelated tasks for approximately 20 minutes. Then we displayed only the desks’ brand names and asked the students to recall their descriptions.
+The participants were significantly less likely to correctly remember when a desk was made with rainforest wood compared to when it was made with sustainable wood. They either did not remember the wood source at all or wrongly recalled that the desk was made from sustainable wood.
+Did that suggest shoppers just don’t want to remember unpleasant information about brands? To find out, we looked into how accurately the students would remember other attributes of the desks, such as their prices. We found that they didn’t make the same kinds of errors.
+People generally strive to act morally, which in this case would mean remembering whether products are ethically sourced or not and then presumably acting accordingly. However, people also do not want to feel bad or guilty. And no one enjoys feeling torn. The easiest way for conscientious shoppers to avoid this inner conflict is to yield to their consumerist whims by forgetting details that might trigger ethical concerns.
+### Do these jeans make me look unethical?
+In another study, we had 402 adults participate in an online experiment. As part of a shopping task, this group, which averaged 38 years old and included slightly more women than men, read about a pair of jeans. Half of them saw jeans made by adults. The others saw jeans made by children.
+Consistent with our other findings, people who saw the child-labor jeans were significantly less likely to remember this detail compared with people who had seen the jeans made by adults. Notably, participants who saw the child-labor jeans said they felt more uncomfortable. We determined that this desire to not feel uncomfortable again led participants to forget about the child labor detail.
+### I don’t remember and I feel fine
+In another online experiment, we presented 341 adults (with the same demographic profile) with one of two scenarios.
+Half of them read about a consumer who, when trying to recall a description of jeans they were interested in purchasing, forgot whether the jeans were ethically made. The other half read about a consumer who instead remembered whether the jeans were made ethically, but chose to ignore this information.
+It turns out that participants judged consumers less harshly for buying jeans they forgot were made by children rather than when they remembered but ignored this information. So, maybe consumers forget when products are made unethically so they can buy what they want without feeling (as) guilty.
+### Reminding consumers
+How can marketers help consumers make more ethical choices?
+One possibility is to continually remind them, even at point of purchase, of their products’ ethical attributes. That is what companies such as Everlane, a clothing company that has built social responsibility into its business model, and the outdoor apparel giant Patagonia already do. Also, companies can concentrate on the bright side, describing how happy their well-paid workers are and how their contractors are good environmental stewards instead of pointing out the bad things their competitors do. Based on what we learned, that approach would make ethical consumers less likely to subconsciously dodge this issue.
+How can consumers make more ethical choices?
+For starters, they can forget about relying on their memories when they shop. They can use guides like the one Project Just has created to assess their next purchase, and they can also make notes to themselves about brands to avoid. The key is to realize our memories are not perfect and that shopping without a plan may lead us away from our values.
+(Picture: The Conversation) Rebecca Walker Reczek, Associate Professor of Marketing, *The Ohio State University*; Daniel Zane, Marketing PhD candidate, *The Ohio State University*, and Julie Irwin, Marlene and Morton Meyerson Centennial Professor of Business, Department of Marketing and Department of Business, Government and Society, *University of Texas at Austin*
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+## Applying deductive logic
+Now let's apply this to your own writing:
+Apply this!
+Consider an opinion piece you are reading or an argumentative essay you or a classmate are working on.
+Identify the deductive logic in the form of a syllogism: what are the major premise, the minor premise(s), and the conclusion?
+If you can't tell, it's possible that the writer has not made a strong argument.
+If it is your writing, what can you add or change to make the logic stronger?
+## Licenses and attributions
+## CC Licensed Content: Original
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+"Untrustworthy Memories Make it Hard to Shop Ethically" is republished from The Conversation under a Creative Commons license. Read the original article.
+
+Links on this section's web page:
+- "3d cubes": https://thenounproject.com/mordarius/icon/321938/
+- Rebecca Walker Reczek: https://theconversation.com/profiles/rebecca-walker-reczek-232584
+- Daniel Zane: https://theconversation.com/profiles/daniel-zane-429993
+- Julie Irwin: https://theconversation.com/profiles/julie-irwin-389106
+- original article: https://theconversation.com/untrustworthy-memories-make-it-hard-to-shop-ethically-87572
+
+=== Answer key from the book: 5.12: Answer Key- Analyzing Arguments ===
+## 5.3: Distinguishing Rhetorical Appeals
+## Identifying rhetorical appeals
+1. *pathos*
+2. *ethos*
+3. *logos*
+4. *logos*
+5. *pathos*
+6. *ethos*
+## 5.6: Identifying and Using Logos
+## Practice with syllogisms
+1. regulate those factories or ensure that workers are being paid fairly
+2. boycott
+3. clean air or reducing air pollution
+## Finding deductive logic in a text
+- Major premise: It is better to buy ethically-made products.
+- Minor premise: Studies show that people are not good at remembering information that shows they are making unethical choices.
+- Conclusion: Therefore, marketers and consumers should use strategies that do not depend on people remembering bad information about products.
+or
+- Major premise: Shoppers who consider themselves moral must either 1) not buy an ethically bad product or 2) not know the product is ethically bad.
+- Minor premise: Shoppers are unwilling or unable to stop buying ethically bad products.
+- Conclusion: Therefore, they forget what they know about the product being ethically bad.
+or
+- Major premise: People experience discomfort when their actions do not match their values.
+- Minor premise: Shoppers often take actions that oppose their own values, because they really want the clothing, and it is hard to find products that are ethically made.
+- Conclusion: Therefore, they forget the information about the unethical production as a strategy to ease their discomfort.
+## 5.7: Finding and Refuting Logical Fallacies
+## Identifying logical fallacies
+1. bandwagon/appeal to popularity
+2. appeal to false authority
+3. appeal to tradition
+4. ad hominem
+5. slippery slope
+6. circular reasoning/begging the question
+7. false analogy
+8. anecdotal evidence/hasty generalization
+9. false cause/post hoc
+10. straw man
+11. false dilemma/false dichotomy
+12. appeal to emotion
+## 5.8: Writing Concession and Counterargument
+## Concession/counterargument in action
+**Despite** the clear injustices of garment production, *[This phrase connects the paragraph to the ideas that came before it in the essay. **Despite** signals a change in perspective is coming after the next comma.]*
+some argue that the fashion industry provides work to people with few better choices in developing countries. *[states the other perspective]*
+**Granted,** moving textile production from the U.S. to developing countries created many jobs in areas with struggling economies. *[concedes that the other point has some truth to it; **Granted** is a special connecting word that signals concession.]*
+According to reporter Stephanie Vatz, companies began outsourcing clothing manufacturing jobs in the 1970s, and by 2013, only two percent of clothing was made in the U.S. *[provides text evidence/specific support to explain the previous sentence]*
+The same lack of labor protections that allow terrible working conditions in developing countries also guarantee low labor costs that motivate U.S. companies to relocate their factory sources. *[explains the relationship between the two processes]*
+Benjamin Powell, the director of the Free Market Institute, justifies sweatshop labor, insisting that this model is "part of the process that raises living standards and leads to better working conditions and development over time (qtd. in Ozdamar-Ertekin 3). *[provides text evidence/specific to support the other perspective]*
+This argument is compelling from a distance, *[concession]*
+**but even if** *[signal that a shift is coming up next]* it may be true to some degree when we look at the history of economic development, *[still concession]*
+it disregards the humanity of the garment workers. *[counterargument]*
+These people continue to work long hours in brutal conditions, generating huge profits for the factory and retail owners. Saying that their lives could be even worse without this exploitation is actually just an excuse for greed. *[explanation]*
+## 5.9: Hedging
+## Noticing hedging language
+Examples of hedging language are in [**brackets**]:
+### Unethical amnesia
+We wanted to learn what consumers would do if they had to face the truth. [**Perhaps**] they [**might**] just forget that truth. After all, memory is not a [**particularly**] accurate recording device. For example, recent psychological research [**suggests**] that people experience “unethical amnesia” – a [**tendency**] to forget when they have behaved unethically in the past. So would shoppers also **prefer** to forget when a company exploits workers or engages in other unethical actions? We predicted that they would.
+In a series of studies described in an article published in the Journal of Consumer Research, we explored why consumers’ memories [**might**] fail them when it comes to recalling whether products are ethical. It turns out that there is a predictable pattern for what consumers are [**likely to**] remember (or forget) about the ethicality of products.
+**[In general**,] we found that consumers are worse at remembering bad ethical information about a product, such as that it was produced with child labor or in a polluting manner, than they are at remembering good ethical information—such as that it was made with good labor practices and without much pollution. Our findings [**should**] trouble the many companies now vying for the ethical consumerism market and the people who buy those products.
+## 5.10: Language Toolkit
+## Argumentation terms review
+1. consistent
+2. valid
+3. findings
+4. controversial
+5. factor
+6. contradiction

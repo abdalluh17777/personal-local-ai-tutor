@@ -1,0 +1,47 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.7: Cohesion and Transition Words
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.07%3A_Cohesion_and_Transition_Words
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is cohesion?
+Cohesion describes how well your writing "sticks" together, just like screws and hinges hold together the parts of a door together in Figure 2.7.1.
+[Image: screwdriver turning screw in a hinge holding together two pieces of wood]
+Figure : "Close-up, electric screwdriver secures the door hinge" by Marco Verch is licensed under CC BY 2.0.
+If your writing has cohesion, your readers will easily be able to understand not only each sentence, but also the main idea.
+## Methods of creating cohesion
+In this chapter, we will look at five ways of creating cohesion **within** paragraphs. Feel free to follow the links for more in-depth information about each cohesion method.
+- Transitions
+- Demonstrative Pronouns
+- Demonstrative Adjectives + Summary Nouns
+- Parallel structure
+- "Known to New" Sentence Structure
+## Transition words
+Transition words are the most common ways of creating cohesion, and you probably already use them in your writing. These words how your readers the clear connection between sentences. They help readers to understand *why* you are connecting two sentences in a certain way. Are you introducing more information, a contrast, or a result? Let the reader know by using a clear transition word.
+See 6.6: Language Toolkits for more transition words to use.
+## Using transitions effectively
+Transition words are most often used at the beginning of a sentence, and are *always* followed by a comma.
+Lastly, I have two words of warning about transition words. First, don't always use the same transition words, since that sounds repetitive. In addition, don't start every sentence in the paragraph with transition words as that will get boring for the reader. For example, I probably used too many transition words in this paragraph! To sum up, transitions are a good tool to use, but they should not be the *only* way of building cohesion.
+## Academic transition words
+In speaking and casual writing, we often start sentences with FANBOYS or coordinating conjunctions (for, and, nor, but, or, yet, so). However, in academic writing, try to avoid starting sentences with FANBOYS. In Table 2.7.1 we look at 3 of the FANBOYS and the more academic transition words we could use instead.
+Table 2.7.1 Transition words that can be substituted for the common conjunctions and, but, and so
+| FANBOY | And | But | So |
+| Purpose | Add more of the same type of information | Show contrast | Show a result |
+| Transition words that can replace this FANBOY | Moreover, | Furthermore, | In addition, | Also, | However, | Nevertheless, | On the contrary, | On the other hand, | Thus, | Therefore, | As a result, | Consequently, | Hence, |
+| Example sentence | New stereotypes are being created from world events all the time. **Furthermore,** they become even more problematic when people harm others based on these stereotypes. | While her roommate had a single story about African people, Adichie had a negative stereotype about Mexicans because she heard an “endless story” of news coverage of desperate immigrants crossing the U.S. border illegally and scamming the healthcare system. **However,** she changed her perspective when she visited Mexico and she realized that Mexicans are hard-working and happy too. | Adichie’s roommate only knew “one story” about people from Africa. **As a result,** she was surprised Adichie could speak English and knew how to use a stove. |
+## Adding appropriate transition words
+Let's practice adding transition words to make a paragraph stronger:
+Try this!
+Here is part of a body paragraph. Add at least two transition words from Table 2.7.1 to increase the cohesion.
+Stereotyping helps us quickly understand or make a decision about others. It gives people surface knowledge and a limited understanding of other people. People are all labeled and everyone categorizes others, which is necessary to do in order to make quick judgments. Jennifer Eberhardt points out that “the content of those stereotypes is culturally generated and culturally specific.”
+(For possible answers, check the 2.15: Answer Key: Organization and Cohesion)
+Work Cited: Eberhardt, Jennifer. "How Racial Bias Works — And How to Disrupt It." *Ted.* June, 2020.
+Now, let's apply this to your own writing.
+Apply this!
+Look at your own or a classmate's draft. Focus on one paragraph at a time.
+1. Highlight any sentences that start with FANBOYS.
+2. Choose a transition word from Table 2.7.1 to replace the FANBOYS.
+3. Underline any transition words that you have. Are they appropriate for the meaning? Is each transition word followed by a comma?
+## Licenses and Attributions
+Authored by Susie Naughton, Santa Barbara City College. License: CC BY NC.
+Sample body paragraph on stereotypes is adapted from an essay entitled "Stereotypes are Everywhere" by Marin Lowman. License: CC BY.
+This page titled 2.7: Cohesion and Transition Words was last modified on Fri, 22 Aug 2025 18:55:39 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

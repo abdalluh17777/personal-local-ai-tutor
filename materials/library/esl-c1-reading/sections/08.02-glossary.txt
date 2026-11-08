@@ -1,0 +1,44 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+Glossary
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/zz%3A_Back_Matter/20%3A_Glossary
+License: CC BY-NC  4.0
+
+## Glossary
+Example and Directions
+| Words (or words that have the same definition) | The definition is case sensitive | (Optional) Image to display with the definition [Not displayed in Glossary, only in pop-up on pages] | (Optional) Caption for Image | (Optional) External or Internal Link | (Optional) Source for Definition |
+| (Eg. "Genetic, Hereditary, DNA ...") | (Eg. "Relating to genes or heredity") | The infamous double helix | https://bio.libretexts.org/ | CC-BY-SA; Delmar Larsen |
+Glossary Entries
+| Word(s) | Definition | Image | Caption | Link | Source |
+| analyze, analysis | Carefully study and explain the importance of a piece of information, a problem, a pattern, etc. |
+| annotate, annotation | Write notes directly on a text, including questions, comments, critiques, or explanations. |
+| audience | Who the writer imagines are the readers of their text. Writers think about what the audience already knows and how to connect with them. |
+| cite, citation | Showing where an idea comes from; giving credit to the source. |
+| claim | A writer's opinion or position. It should be supported by evidence. Used as a reporting verb, *claim* implies that the author may not have strong evidence to support their point. |
+| cohesion | Strategies writers use to connect ideas, make writing flow, and help readers easily follow the text structure. |
+| coordination | Joining two or more ideas that are the same level or type. |
+| credential | Someone’s qualifications or expertise. It can be a degree, certificate, or life experience. |
+| credible | Trustworthy; can be believed. |
+| current | Recent or related to today. |
+| database | A collection of articles that is owned by a library. |
+| deductive | A type of logical structure that starts with a more general statement and shows how a specific conclusion follows. |
+| distinct | Different, separate. |
+| engage | Participate; be actively involved in an activity; get someone else to do that. |
+| evaluate, evaluation | Judge the value or effectiveness of an idea, position, or work of art/writing, and give reasons to support the judgment. |
+| evidence | Support for claims. It can include statistics, facts, quotes, and examples. |
+| explicit, explicitly | Directly stated. |
+| imply, implication, implications, implicit | Meaning folded in or suggested, not directly stated. |
+| interpret, interpretation | Explain the deeper meaning or significance of something. |
+| key word | In research, words that describe the main topic you are looking for; in paraphrasing, words it's OK to copy because they can't be paraphrased and you need them to accurately say the same idea |
+| misconceptions | Wrong ideas based on untrue information or faulty logic. |
+| paraphrase | Say someone else's same idea in different words, with different sentence structure. |
+| purpose | The reason behind a piece of writing. A writer is persuading their audience to think, feel, learn, or do something. |
+| refute, refutation | Argue against an idea; prove why they are wrong. |
+| research | Finding and analyzing information about a topic to get new knowledge |
+| revise, revision | Change or improve a piece of writing through multiple drafts. It can include changing, adding, deleting, or rearranging ideas or words. |
+| rhetoric, rhetorical | The art of writing or speaking effectively, expecially to persuade the audience to do or believe something. |
+| scholarly | A work that is written by an academic and published in a scholarly peer-reviewed journal. |
+| search engine | A program that searches the internet, such as Google or Baidu. |
+| source | The place a writer got information form, e.g. an article or book. |
+| subject term | Words or phrases that describe the content of an article in the database. These are assigned by the database, and each database has a specific list of subject terms. |
+## Licenses
+All definitions are CC BY unless otherwise noted.

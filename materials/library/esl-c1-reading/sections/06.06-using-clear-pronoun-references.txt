@@ -1,0 +1,34 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+6.6: Using Clear Pronoun References
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.06%3A_Using_Clear_Pronoun_References
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Pronouns and antecedents
+A pronoun is a word that takes the place of a noun. Pronouns include words such as *he, she, it*, *they, this, these, them***,** or *those*. The antecedent is the noun that the pronoun is referring to. Just like a price tag on a produce shelf needs to point directly to the item it is pricing (see figure 6.6.1), a pronoun needs to clearly point to its antecedent.
+[Image: Supermarket shelf with vegetables and price tags]
+Figure : "Organic Vegetables" is licensed under CC0 1.0.
+Examples:
+- Many *people* [antecedent] started shopping at the new supermarket when it opened, but *they* [pronoun] weren’t buying much produce or other healthy foods.
+- If *residents* [antecedent] can make good use of food hubs or community gardens, *they* [pronoun] can access healthy food and learn how to grow fresh vegetables and fruits *themselves* [pronoun].
+If the pronoun and its antecedent don’t clearly match up, this can lead to confusion about the meaning and make your sentence less precise. Make sure each pronoun has a single, clear antecedent.
+**Unclear:** Some researchers suggest that the idea food deserts exist because a lack of demand for healthy foods by patrons is flawed; they are taking another look at this narrative.
+In this sentence, it’s a little hard to tell who the pronoun *they* is referring to, because there are two nouns that might be the antecedent: *researchers* and *patrons.* While logically it makes sense that *they* refers to *researchers*, *patrons* is closer to the pronoun. It’s better to revise this sentence.
+**Clearer:** Some researchers suggest that the idea food deserts exist because a lack of demand for healthy foods by patrons is flawed; these researchers are taking another look at this narrative.
+## Pronouns and antecedents in action
+Now let's take a look at the student essay in terms of clear pronoun references:
+Try this!
+Look at the second paragraph of Amanda’s essay. Focus on the first and third sentences (in [**brackets**]).
+- Find the pronouns and their antecedents. Are the relationships between them clear?
+- Is there anything Amanda could further clarify?
+[**It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because there is a lack of outlets for fresh produce in their community.**] As Alana Rhone, an Agricultural Economist, and colleagues report, there’s a website known as the Food Access Research Atlas (FARA) that “allows users to investigate access to food stores at the census-tract level” (1). [**According to the United States Department of Agriculture ERS, the measure of food access is based on proximity to the nearest store, and the number of households without a vehicle (“Documentation” para 2).**] As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and one-third of its residents do not have vehicles. For urban areas, such as West Oakland, the USDA defines that “a tract is considered low access if at least 100 households are more than a ½-mile from the nearest supermarket and have no access to a vehicle” (“Documentation” para 8). Given the facts above, one can reasonably assume that if people don’t have a car and need to take a bus to access healthy food, it will cause inconvenience and lower their willingness to purchase healthy food. It’s harder to calculate the time it will take to go on the supermarket trip when one is taking public transportation. As a result, if one buys fresh milk but has to spend much time on taking public transportation to return home from a supermarket, the fresh milk may spoil. In contrast, if people own private vehicles, they can easily plan the trip and be willing to travel longer distances to a supermarket to purchase healthy food. Therefore, it’s hard for residents of West Oakland who live in food deserts to access healthy produce since there are insufficient outlets to fresh food in their community.
+## Checking your own pronoun use
+Now let's apply this to your writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- Choose one or two sentences and underline the pronouns and their antecedents. Are the relationships between them clear?
+- Can you clarify anything?
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu. License: CC BY.
+This page titled 6.6: Using Clear Pronoun References was last modified on Sun, 09 Mar 2025 17:17:27 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

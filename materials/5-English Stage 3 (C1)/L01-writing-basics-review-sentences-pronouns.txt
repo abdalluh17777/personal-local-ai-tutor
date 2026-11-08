@@ -1,0 +1,176 @@
+Lesson 01 material: Writing Basics Review: Sentences, Pronouns, Adjectives and Adverbs
+English Stage 3 (C1) · Unit 1: Refining Sentences and Punctuation
+
+=== 1.1: Sentence Writing ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.01%3A_Sentence_Writing
+
+Learning Objectives
+1. Identify the components of a basic sentence.
+2. Identify the four most serious writing errors.
+3. Review sentence structure formation and issues.
+Imagine you are reading a book for school. You need to find important details that you can use for an assignment. However, when you begin to read, you notice that the book has very little punctuation. Sentences fail to form complete paragraphs and instead form one block of text without clear organization. Most likely, this book would frustrate and confuse you. Without clear and concise sentences, it is difficult to find the information you need.
+For both students and professionals, clear communication is important. Whether you are typing an e-mail or writing a report, it is your responsibility to present your thoughts and ideas clearly and precisely. Writing in complete sentences is one way to ensure that you communicate well. This section covers how to recognize and write basic sentence structures and how to avoid some common writing errors.
+## Components of a Sentence
+Clearly written, complete sentences require key information: a subject, a verb and a complete idea. A sentence needs to make sense on its own. Sometimes, complete sentences are also called independent clauses. A clause is a group of words that may make up a sentence. An independent clause is a group of words that may stand alone as a complete, grammatically correct thought. The following sentences show independent clauses.
+Example
+All complete sentences have at least one independent clause. You can identify an independent clause by reading it on its own and looking for the subject and the verb.
+## Subjects
+When you read a sentence, you may first look for the subject, or what the sentence is about. The subject usually appears at the beginning of a sentence as a noun or a pronoun. A noun is a word that identifies a person, place, thing, or idea. A pronoun is a word that replaces a noun. Common pronouns are *I*, *he*, *she*, *it*, *you*, *they*, and *we*. In the following sentences, the subject is underlined once.
+Example
+In these sentences, the subject is a person: *Malik*. The pronoun *He* replaces and refers back to *Malik*.
+Example
+In the first sentence, the subject is a place: *computer lab*. In the second sentence, the pronoun *It* substitutes for *computer lab* as the subject.
+Example
+In the first sentence, the subject is a thing: *project*. In the second sentence, the pronoun *It* stands in for the *project*.
+Tip
+In this chapter, please refer to the following grammar key:
+Figure
+## Compound Subjects
+A sentence may have more than one person, place, or thing as the subject. These subjects are called compound subjects. Compound subjects are useful when you want to discuss several subjects at once.
+Example
+## Prepositional Phrases
+You will often read a sentence that has more than one noun or pronoun in it. You may encounter a group of words that includes a preposition with a noun or a pronoun. Prepositions connect a noun, pronoun, or verb to another word that describes or modifies that noun, pronoun, or verb. Common prepositions include *in*, *on*, at, *under*, *near*, *by*, for, *with*, and *about*. A group of words that begin with a preposition is called a prepositional phrase. A prepositional phrase begins with a preposition, and the object of that preposition is a noun. It cannot act as the subject of a sentence. The following circled phrases are examples of prepositional phrases.
+Example
+## Verbs
+Once you locate the subject of a sentence, you can move on to the next part of a complete sentence: the verb. A verb is often an action word that shows what the subject is doing. A verb can also link the subject to a describing word. There are three types of verbs that you can use in a sentence: action verbs, linking verbs, or helping verbs.
+### Action Verbs
+A verb that connects the subject to an action is called an action verb. An action verb answers the question *what is the subject doing?* In the following sentences, the words underlined twice are action verbs.
+Example
+### Linking Verbs
+A verb can often connect the subject of the sentence to a describing word. This type of verb is called a linking verb because it links the subject to a describing word. In the following sentences, the words underlined twice are linking verbs.
+Example
+If you have trouble telling the difference between action verbs and linking verbs, remember that an action verb shows that the subject is doing something, whereas a linking verb simply connects the subject to another word that describes or modifies the subject. A few verbs can be used as either action verbs or linking verbs.
+Example
+Although both sentences use the same verb, the two sentences have completely different meanings. In the first sentence, the verb describes the boy’s action. In the second sentence, the verb describes the boy’s appearance.
+### Helping Verbs
+A third type of verb you may use as you write is a helping verb. Helping verbs are verbs that are used with the main verb to describe a mood or tense. Helping verbs are usually a form of *be*, *do*, or *have*. The word *can* is also used as a helping verb.
+Example
+Tip
+Whenever you write or edit sentences, keep the subject and verb in mind. As you write, ask yourself these questions to keep yourself on track:
+**Subject:** Who or what is the sentence about?
+**Verb:** Which word shows an action or links the subject to a description?
+
+=== 1.2: Sentence Structure ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.02%3A_Sentence_Structure
+
+Now that you know what makes a complete sentence — a subject and a verb — you can use other parts of speech to build on this basic structure. This section gives a general overview of sentence structure. Chapter 2 goes into more detail on sentence variety and how to strengthen your writing. Good writers use a variety of sentence structures to make their work more interesting.
+## Sentence Patterns
+Six basic subject-verb patterns can enhance your writing. A sample sentence is provided for each pattern. As you read each sentence, take note of where each part of the sentence falls. Notice that some sentence patterns use action verbs and others use linking verbs.
+## Subject–Verb
+Example
+## Subject–Linking Verb–Noun
+Example
+## Subject–Linking Verb–Adjective
+Example
+## Subject–Verb–Adverb
+Example
+## Subject–Verb–Direct Object
+When you write a sentence with a direct object (DO), make sure that the DO receives the action of the verb.
+Example
+## Subject–Verb–Indirect Object–Direct Object
+In this sentence structure, an indirect object explains *to whom* or *to what* the action is being done. The indirect object is a noun or pronoun, and it comes before the direct object in a sentence.
+Example
+
+=== 1.3: Pronouns ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.03%3A_Pronouns
+
+Pronouns are very important to your writing and speaking. Without them, your language would be very boring. Pronouns also help a writer avoid repetition of words. Knowing just how pronouns work is an important aspect of clear and concise writing. Chapter 7 covers this in greater detail.
+## Pronoun Agreement
+A pronoun is a word that takes the place of (or refers back to) a noun or another pronoun. The word or words a pronoun refers to is called the antecedent of the pronoun.
+1. *Lani* complained that *she* was exhausted.
+- *She* refers to *Lani*.
+- *Lani* is the antecedent of *she*.
+2. *Hieu* left the party early, so I did not see *him* until Monday at work.
+- *Him* refers to Hieu.
+- *Hieu* is the antecedent of *him*.
+3. *Ansam and Sherry* have been best friends ever since *they* were freshman in high school.
+- *They* refers to *Ansam and Sherry*.
+- *Ansam and Sherry* is the antecedent of *they.*
+There are several types of pronoun agreement:
+**Agreement in number:** If the pronoun takes the place of or refers to a singular noun, the pronoun must also be singular. Likewise, if the pronoun refers to a plural noun, the pronoun must be plural.
+**Agreement in person:**
+Table
+| Singular Pronouns | Plural Pronouns |
+| First Person | I | me | my (mine) | we | us | our (ours) |
+| Second Person | you | you | your (yours) | you | you | your (yours) |
+| Third Person | he, she, it | him, her, it | his, her, its | they | them | their (theirs) |
+## Indefinite Pronouns and Agreement
+Indefinite pronouns do not refer to a specific person or thing and are *usually singular*. Note that a pronoun that refers to an indefinite singular pronoun should also be singular. The following are some common indefinite pronouns:
+Table
+| Common Indefinite Pronouns |
+| all | each one | few | nothing | several |
+| any | each other | many | one | some |
+| anybody | either | neither | one another | somebody |
+| anything | everybody | nobody | oneself | someone |
+| both | everyone | none | other | something |
+| each | everything | no one | others | anyone |
+Example
+## Collective Nouns
+One issue with collective nouns is that writers sometimes want to use a plural verb with them. However, even though they suggest more than one person, they are *usually considered singular*. Look over the following examples of common collective nouns:
+Table
+| Common Collective Nouns |
+| audience | faculty | public | class | government | society | company |
+| band | family | school | committee | group | team | jury |
+Example
+## Subject and Object Pronouns
+Subject pronouns function as subjects in a sentence. Object pronouns function as the object of a verb or of a preposition.
+Table
+| Singular Pronouns | Plural Pronouns |
+| Subject | Object | Subject | Object |
+| I | me | we | us |
+| you | you | you | you |
+| he, she, it | him, her, it | they | them |
+The following sentences show pronouns as subjects:
+1. *She* loves the Blue Ridge Mountains in the fall.
+2. Every summer, *they* picked up litter from national parks.
+The following sentences show pronouns as objects:
+1. Marie leaned over and kissed *him*.
+2. Barbara moved *it* to the corner.
+Tip
+Note that a pronoun can also be the object of a preposition:
+Near *them*, the children played.
+My mother stood between *us*.
+The pronouns *us* and *them* are objects of the prepositions *near* and *between*. They answer the questions *near* whom? And *between* whom?
+**Note** that object pronouns are never used in the subject position. One way to remember this rule is to remove the other subject in a compound subject, leave only the pronoun, and see whether the sentence makes sense. For example, *me visited the Grand Canyon last summer* sounds immediately incorrect.
+## Relative Pronouns
+A relative pronoun is a type of pronoun that helps connect details to the subject of the sentence and may often combine two shorter sentences. The relative pronouns are *who*,*whom*, *whose*, *which* or *that*. Chapter 2 discusses the use of relative pronouns in clauses.
+Tip
+Remember the following uses of relative pronouns:
+- *Who*, *whom*, and *whose* refer only to people.
+- *Which* refers to things.
+- *That* refers to people or things.
+Key Takeaways
+- A pronoun is used in place of a noun.
+- Pronouns and their antecedents need to agree in number and person.
+- There are several types of pronouns, including subject and object pronouns, possessive pronouns, and relative pronouns.
+- Most indefinite pronouns are singular.
+- Collective nouns are usually singular.
+- Object pronouns are the “who” and “what” that receives the action.
+- A possessive pronoun is a pronoun showing ownership.
+- Common pronoun errors include mixing up subject, object, and gender pronouns, and repeating the subject of a sentence with a pronoun.
+- Relative pronouns help combine two separate sentences.
+
+=== 1.4: Adjectives and Adverbs ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.04%3A_Adjectives_and_Adverbs
+
+Adjectives and adverbs are descriptive words that bring your writing to life.
+**An adjective** is a word that describes a noun or a pronoun. It often answers questions such as *which one*, *what kind*, or *how many?*
+- The *green* sweater belongs to Iris. (The adjective *green* describes the noun *sweater.*)
+- She looks *beautiful*. (The adjective *beautiful* describes the pronoun *she*.)
+**An adverb** is a word that describes a verb, an adjective, or another adverb. Adverbs frequently end in *-ly*. They answer questions such as *how*, *to what extent*, *why*, *when*, and *where*.
+- Francois sings *horribly*. (*Horribly* describes the verb *sings.* How does Francois sing? He sing *horribly*.)
+- My sociology instructor is *extremely* wise. (*Extremely* describes theadjective *wise.* How *wise* is the instructor? *Extremely* wise.)
+- He threw the ball *very* accurately. (*Very* describes the adverb *accurately*. How *accurately* did he throw the ball? *Very* accurately.)
+Key Takeaways
+- Adjectives describe a noun or a pronoun.
+- Adverbs describe a verb, adjective, or another adverb.
+- Most adverbs are formed by adding *-ly* to an adjective.
+- Comparative adjectives and adverbs compare two persons or things.
+- Superlative adjectives or adverbs compare more than two persons or things.
+- The adjectives *good* and *bad* and the adverbs *well* and *badly* are unique in their comparative and superlative forms and require special attention.
+
+=== 1.5: Writing basics (Exercise) ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.05%3A_Writing_basics_(Exercise)
+
+On your own sheet of paper, identify each sentence as a fragment, a run-on, or correct (no error). Then rewrite the paragraph by correcting sentence fragments and run-ons.
+My favorite book is *Brave New World* by Aldous Huxley, he was born in 1894 and died in 1963 ________. Written in 1931 ________. A futuristic society where humans are born out of test tubes and kept in rigid social classes ________. This may not seem like a humorous premise for a novel, but Huxley uses satire, which is a type of humor that is used to make a serious point ________. The humans in *Brave New World* learn through sleep teaching, Huxley calls this “hypnopedia”________. Everyone is kept “happy” in the brave new world by taking a pill called soma, there is one character named John the Savage who does not take soma ________. because he comes from a different part of the world where there is no technology, and he believes in natural ways of living ________. It turns out that John has a big problem with the brave new world and how people live there ________. Will he be able to survive living there, well you will have to read the novel to find out ________. *Brave New World* is considered a classic in English literature, it is one of the best novels I have ever read ________.

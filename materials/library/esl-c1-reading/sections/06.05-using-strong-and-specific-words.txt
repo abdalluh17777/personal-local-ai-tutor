@@ -1,0 +1,63 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+6.5: Using Strong and Specific Words
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.05%3A_Using_Strong_and_Specific_Words
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+Each word counts. This is why, when you’re revising your draft, you should pay special attention to the words you choose. Some choices will make your writing more effective than others.
+## Specific vs. general words
+Choose words with specific meanings instead of general ones. For example, instead of “things,” tell your reader what the “things” are. For example, instead of referring to the collection of vegetables in figure 6.5.1 as “things,” or even “vegetables,” consider being more specific, naming and describing them.
+[Image: Colorful bell peppers in baskets at a farmers market.]
+"Farmers Market" by ianmalcm is licensed under CC BY 2.0
+## Strong verbs
+If you choose a noun and a weak verb (such as *be* or *do*) rather than a strong verb, the sentence loses a sense of momentum and it’s easy to make it too wordy.
+Compare these two sentences. Which one is more precise and dynamic?
+- The community garden’s committee **made a decision** to revise the community guidelines.
+- The community garden’s committee **decided** to revise the community guidelines.
+The second sentence conveys the same meaning with fewer words and more lively action.
+Try to choose verbs with a more specific meaning. Depending on your meaning, try substituting stronger, more specific verbs for these weak verbs**.**
+Instead of **get**, try using
+- obtain
+- understand
+- fetch
+- receive
+- attain
+Instead of **make**, try using
+- cause
+- require
+- produce
+- create
+- construct
+Instead of **have** (as a main verb) try using
+- possess
+- experience
+- keep
+- own
+- exhibit
+Instead of **do** (as a main verb), try using
+- attempt
+- complete
+- finish
+- achieve
+- participate in
+- contribute to
+## Analyzing a paragraph for strong and specific words
+Let's look at the student essay in terms of strong and specific words:
+Try this!
+Look again at the second paragraph of Amanda’s essay, paying special attention to word choice.
+- What are some effective choices Alicia has made?
+- Can you identify some areas where her word choice could be improved?
+It’s tough for people of lower socioeconomic status to get healthy food because they cannot afford high-end organic food. According to American FactFinder, the median family income in West Oakland was 35,037 dollars in 2017, which is below the U.S. median family income of $70,850. Based on this, residents in West Oakland are considered to be of a lower socioeconomic status. As mentioned previously, organic food has no chemical fertilizers or pesticides. Columbia Electronic Encyclopedia, the 6th Edition. 2019, states that “organic farming requires more manual labor and attention” (“Organic Food”), so its price is higher than conventional food. Take salted butter as an example; one box of four bars of organic salted butter costs $5.29, while one box of non-organic salted butter only costs $3.49 (as listed on the Whole Foods website). Additionally, as reported by an article, “Socioeconomic Status and Risk Factors for Cardiovascular Disease: Impact of Dietary Mediators,” “Low-income families purchase low-cost items” because “the price of fruit and vegetables was the most determinative barrier in the consumption of these products from low-income families” (Psaltopoulou Chapter: 2.2. Cost). People with lower income may face difficulty living a self-sufficient life, much less purchasing good food.
+Adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu
+## Revising for strong and specific words
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- Think about your verb choice. Can you revise any weak verbs?
+- Are there places where you can make your meaning clearer by using words with more specific meaning? A dictionary or thesaurus may be useful here. Check out information about using a dictionary or thesaurus in our Language Toolkit.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu. License: CC BY.
+## CC Licensed Content: Previously published
+"Strong verbs" and "Specific vs. general words" are adapted from 11.1 "Academic Style" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+This page titled 6.5: Using Strong and Specific Words was last modified on Sun, 09 Mar 2025 17:17:27 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

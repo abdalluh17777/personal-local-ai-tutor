@@ -1,0 +1,39 @@
+People and Places - An Intermediate Integrated-Skills Module for English Learners (Ferguson)
+2.7: Grammar: Compound Sentences
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/People_and_Places_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/02%3A_Chapter_2/2.7%3A_Grammar%3A_Compound_Sentences
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Sara Ferguson
+
+**This lesson is available as slides for classroom presentation.**
+[Interactive exercise: https://docs.google.com/presentation/d/e/2PACX-1vQUYEybljqmptHkrsfZQQFXbI0SjJRdvaAv5dT1DI1mGzOMjdwHcZRv5VTPdU0HF4cBuJY_Pj_uPLL6/embed]
+## Subjects and Verbs
+Read these sentences about the history of San Diego. Identify the subject and verb of each sentence. How many subjects and verbs does each sentence have?
+- Spanish explorers sailed to San Diego in 1542, but the first residents were Kumeyaay people
+- In 1821, Mexico won independence from Spain, and San Diego became part of Mexico
+- In 1848, the United States won the Mexican-American War, so San Diego became part of the U.S.
+## Answers
+- The subjects were "Spanish explorers" and "the first residents," the verbs were "sailed" and "were"
+- The subjects were "Mexico" and "San Diego," the verbs were "won" and "became"
+- The subjects were "the United States" and "San Diego," the verbs were "won" and "became"
+Notice the punctuation. Where is the comma?
+## Clauses and Coordinating Conjunctions
+A group of words that has a subject and verb is called a clause
+Two or more simple sentences (clauses) may be connected to make one sentence using a comma and a coordinating conjunction
+Coordinating conjunctions are also called FANBOYS. The FANBOYS are...
+- For
+- And
+- Nor
+- But
+- Or
+- Yet
+- So
+## Compound Sentences
+When two or more clauses are connected with a FANBOYS, the sentence is called a compound sentence
+A compound sentence must have two independent clauses (SV + SV) connected by a FANBOYS
+Look at the sentences below. Identify the subjects and verbs. These are not compound sentences...
+- The San Diego Zoo and Balboa Park began in 1915
+- Every weekend we go to the beach and enjoy the water
+## Answers
+- The subjects were "San Diego Zoo" and "Balboa Park," the verb was "began," (compound subject)
+- The subject was "we," the verbs were "go" and "enjoy," (compound verb)
+Watch __this video__ for another explanation of compound sentences.
+This page titled 2.7: Grammar: Compound Sentences was last modified on Mon, 11 Apr 2022 14:58:22 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Sara Ferguson.

@@ -1,0 +1,55 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+4.3: Using Evidence to Support Claims
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.03%3A_Using_Evidence_to_Support_Claims
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Supporting claims with evidence
+In any essay or research paper that you write, you will make claims about your topic, and support your claims with evidence. This evidence shows the reader why you came to the conclusions that you are presenting.
+The types of support you develop and include in an essay will depend on what you are writing and why you are writing. For example, if you are writing a reflective or response essay, you will use more of your own personal experiences, observations, and examples. On the other hand, if you are writing a research paper, you will rely on quotations, reasons, and facts. If you do use personal experience or observations, those should be additional support for points that are already supported by your research.
+## Types of evidence
+Here are examples of the main types of evidence or support used in academic writing:
+- **General Facts** (with a citation if this was learned through research): Some parents believe that it is more important to learn the new language of the new country where they live (Brown 31).
+- **Statistics** (facts that rely on numbers) (with a citation): More than ten percent of children in the US public school system are not native speakers of English (Mata-McMahon).
+- **Quotations or paraphrases from experts** (with a citation): Catherine Snow, Professor of Education at Harvard University, insists that "[i]t’s ironic that we have students walking up staircases at one end of their school building to attend Spanish foreign language classes while at the other end of the same building native Spanish speakers are being taught English and content in ways that lead to their loss of Spanish."
+- **Examples** (with a citation if this was learned through research): As a Korean immigrant father named Mr. Rhee explains, his family "spen[t] a whole summer in Korea last year. Henry was 5 years old. . . . We just sent him to a local kindergarten there, so that he could meet and make friends with Korean kids around his age. His Korean was improved a lot during that time period” (qtd. in Kang 435).
+- **Personal Experience or Observations**: It was easy for my cousins who were born in Switzerland to learn Portuguese because there is a large Portuguese community there. In contrast, my niece is growing up in the United States and I am her only Portuguese-speaking relative. Consequently, she understands almost everything, but she cannot speak Portuguese.
+## Recognizing evidence
+Let's look at a paragraph from a paper on heritage languages and see what evidence the writer uses:
+Notice this!
+What types of evidence do you see in this example paragraph?
+On the other hand, unfortunately, some immigrant do not prioritize teaching their children their home language. Clara Lee Brown, an associate professor of the College of Education, Health and Human Sciences, at the University of Tennessee, claims that some parents believe that it is more important to learn the new language of the new country where they live. So, they speak that language at home in the hope that children will learn this new language faster (Brown 31). However, it is important to also consider the fact that “second-generation children who are fluently bilingual performed better on academic tests and had better GPAs compared to monolinguals…” (San Diego, Rumbaut & Cornelius qtd. in Tran 261). Additionally, many children refuse to speak their heritage language when they grew up, and frequently just the oldest child speaks the native language whereas younger siblings start to communicate with each other in the new language and do not master home language. Thus, parents should motivate children to learn their heritage language making them feel proud of their culture.
+## Using different types of evidence
+Let's try adding evidence from an article about bilingual education, such as in the classroom in figure 4.3.1, to a body paragraph.
+[Image: a smiling teacher with two young smiling students in an elementary classroom]
+Figure : "Bilingual Classroom Tour and Presentation" by One America is licensed under CC-BY-NC-SA
+Try this!
+1. Read this short article and look for different kinds of evidence to support this topic sentence: "Public schools should help immigrant children to maintain their heritage language."
+2. Choose one fact that can be used to support the topic sentence. Paraphrase it and write it down with a correct citation.
+3. Choose one quotation from an expert or statistic that can be used to support the topic sentence. Write it down with a correct citation.
+4. Think about if you have any personal experiences or observations related to this topic, or if you know of an example. If you do, write it down.
+5. Write a concluding explanation of how this evidence supports the topic sentence.
+6. Check the sample body paragraph. How similar or different is it to your paragraph?
+## Reading from an online magazine: 1 in 10 US students are English learners
+Jennifer Mata-McMahon, *University of Maryland, Baltimore County*
+More than 1 in 10 of the nation’s approximately 50 million public school students speak a native language other than English, according to the latest federal data. Roughly 3 in 4 of these English learners speak Spanish.
+The percentage of U.S. students who are learning how to speak English has grown significantly in recent years, rising from 8% in fall of 2000 to 10% by 2017, the data indicate.
+The prevalence of these students varies greatly across the country, ranging from 0.8% in West Virginia to 19.2% in California. The share of English learners is highest among young children, hovering around 16% between kindergarten and second grade. Typically, younger children have less exposure than older students to English because they are primarily communicating with relatives in their native languages. By the time students are nearing high school graduation, the percentage of English learners drops to 4.6%.
+Students who remain fluent in their native language while learning to speak English become bilingual, which has many advantages. Bilingual people tend to be better at connecting with others from different ethnic backgrounds and cultures. They are also better at solving problems.
+Once they grow up, bilingual adults often have better job opportunities and may earn higher salaries than those who no longer speak their native language. Also, research indicates that being bilingual can increase creativity and heighten cognitive ability.
+Researchers have found that attending dual-language programs, where instructional time is split between English and another language (oftentimes Spanish), attended by both native and non-native English speakers, help children become bilingual. But only 35 states offered these programs, according to the Department of Education’s latest data.
+Without those opportunities, English learners tend to stop being fluent in their first language when they reach high school and miss out on all the benefits of becoming bilingual students.
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+(To see a sample body paragraph, check 4.12: Integrating Evidence Answer Key)
+## Works Cited
+Brown, Clara Lee. “Maintaining Heritage Language: Perspectives of Korean Parents.” *Multicultural Education*, vol. 19, no. 1, Fall 2011, pp. 31-37. Eric.ed.gov.
+Kang, Hyun-Sook. “Korean-Immigrant Parents' Support of Their American-Born Children's Development and Maintenance of the Home Language.” *Early Childhood Education Journal*, vol. 41, no. 6, Nov. 2013, pp. 431-438. EBSCOhost.
+Mata-McMahon, Jennifer. “1 In 10 US Students Are English Learners.” *The Conversation*, 28 Oct. 2021.
+Snow, Catherine. “The True Failure of Foreign Language Instruction.” *The Conversation*, 24 Mar. 2021.
+Tran, Van C. “English Gain Vs. Spanish Loss? Language Assimilation among Second-Generation Latinos in Young Adulthood.” *Social Forces*, vol. 89, no. 1, Sept. 2010, pp. 257-284. EBSCOhost.
+## Licenses and Attributions
+Authored by Annie Agard and Elizabeth Wadell, Laney College. License: CC BY NC.
+Body paragraph on heritage languages and examples of fact, example, and personal experience are from "Heritage Languages: the Language of Emotions", a research paper by Joana Coelho Silverio. License: CC BY.
+## CC Licensed Content: Previously Published
+"Supporting Claims with Evidence" and some of the types of evidence are adapted from 6.2 “Types of Support” in the text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners*. License: CC BY NC SA.
+"1 in 10 US Students are English Learners" is reprinted from *The Conversation.* License: CC BY ND.
+This page titled 4.3: Using Evidence to Support Claims was last modified on Sun, 09 Mar 2025 17:17:24 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

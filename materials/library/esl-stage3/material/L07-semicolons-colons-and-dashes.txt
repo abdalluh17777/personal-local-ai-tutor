@@ -1,0 +1,95 @@
+Lesson 07 material: Semicolons, Colons and Dashes
+English Stage 3 (C1) · Unit 1: Refining Sentences and Punctuation
+
+=== 8.2: Semicolons ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.02%3A_Semicolons
+
+Learning Objectives
+1. Identify the uses of semicolons.
+2. Properly use semicolons in sentences.
+Another punctuation mark that you will encounter is the semicolon (;). Like most punctuation marks, the semicolon can be used in a variety of ways. The semicolon indicates a break in the flow of a sentence, but functions differently than a period or a comma. When you encounter a semicolon while reading aloud, this represents a good place to pause and take a breath.
+## Semicolons to Join Two Independent Clauses
+Use a semicolon to combine two closely related independent clauses. Relying on a period to separate the related clauses into two shorter sentences could lead to choppy writing. Using a comma would create an awkward run-on sentence.
+**Correct:** Be sure to wear clean, well-pressed clothes to the interview; appearances are important.
+**Choppy:** Be sure to wear clean, well-pressed clothes to the interview. Appearances are important.
+**Incorrect:** Be sure to wear clean, well-pressed clothes to the interview, appearances are important.
+In this case, writing the independent clauses as two sentences separated by a period is correct. However, using a semicolon to combine the clauses can make your writing more interesting by creating a variety of sentence lengths and structures while preserving the flow of ideas.
+## Semicolons to Join Items in a List
+You can also use a semicolon to join items in a list when the items in the list already require commas. Semicolons help the reader distinguish between items in the list.
+**Correct:** The color combinations we can choose from are black, white, and grey; green, brown, and black; or red, green, and brown.
+**Incorrect:** The color combinations we can choose from are black, white, and grey, green, brown, and black, or red, green, and brown.
+By using semicolons in this sentence, the reader can easily distinguish between the three sets of colors.
+Takeaways
+Use semicolons to join two main clauses. Do not use semicolons with coordinating conjunctions (Fanboys) such as and, or, and but.
+Exercise :
+On your own sheet of paper, correct the following sentences by adding semicolons. If the sentence is correct as it is, write OK.
+1. I did not notice that you were in the office I was behind the front desk all day.
+2. Do you want turkey, spinach, and cheese roast beef, lettuce, and cheese or ham, tomato, and cheese?
+3. Please close the blinds there is a glare on the screen.
+4. Unbelievably, no one was hurt in the accident.
+5. I cannot decide if I want my room to be green, brown, and purple green, black, and brown or green, brown, and dark red.
+6. Let’s go for a walk the air is so refreshing.
+Key Takeaways
+- Use a semicolon to join two independent clauses.
+- Use a semicolon to separate items in a list when those items already require a comma.
+
+=== 8.3: Colons ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.03%3A_Colons
+
+Learning Objectives
+1. Identify the uses of colons.
+2. Properly use colons in sentences.
+The colon (:) is another punctuation mark used to indicate a full stop. Use a colon to introduce lists, quotes, examples, and explanations. You can also use a colon after the greeting in business letters and memos.
+Dear Hiring Manager:
+To: Human Resources
+From: Deanna Dean
+## Colons to Introduce a List
+Use a colon to introduce a list of items. Introduce the list with an independent clause.
+The team will tour three states: New York, Pennsylvania, and Maryland.
+I have to take four classes this semester: Composition, Statistics, Ethics, and Italian.
+## Colons to Introduce Examples or Explanations
+Use a colon to introduce an example or to further explain an idea presented in the first part of a sentence. The first part of the sentence must always be an independent clause; that is, it must stand alone as a complete thought with a subject and verb. Do not use a colon after phrases like such as or for example.
+**Correct:** Our company offers many publishing services: writing, editing, and reviewing.
+**Incorrect:** Our company offers many publishing services, such as: writing, editing, and reviewing.
+Tip
+Capitalize the first letter following a colon for a proper noun, the beginning of a quote, or the first letter of another independent clause. Do NOT capitalize if the information following the colon is not a complete sentence.
+**Proper noun:** We visited three countries: Belize, Honduras, and El Salvador.
+**Beginning of a quote:** My mother loved this line from Hamlet: “To thine own self be true.”
+**Two independent clauses:** There are drawbacks to modern technology: My brother’s cell phone died and he lost a lot of phone numbers.
+**Incorrect:** The recipe is simple: Tomato, basil, and avocado.
+Exercise :
+On your own sheet of paper, correct the following sentences by adding semicolons or colons where needed. If the sentence does not need a semicolon or colon, write OK.
+1. Don’t give up you never know what tomorrow brings.
+2. Our records show that the patient was admitted on March 9, 2010 January 13, 2010 and November 16, 2009.
+3. Allow me to introduce myself I am the greatest ice-carver in the world.
+4. Where I come from there are three ways to get to the grocery store by car, by bus, and by foot.
+5. Listen closely you will want to remember this speech.
+6. I have lived in Sedona, Arizona Baltimore, Maryland and Knoxville, Tennessee.
+7. The boss’s message was clear Lateness would not be tolerated.
+8. Next semester, we will read some more contemporary authors, such as Vonnegut, Miller,
+9. My little sister said what we were all thinking “We should have stayed home.”
+10. Trust me I have done this before.
+Key Takeaways
+- Use a colon to introduce a list, quote, or example.
+- Use a colon after a greeting in business letters and memos.
+
+=== 8.7: Dashes ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by LibreTexts. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.07%3A_Dashes
+
+Learning Objectives
+1. Identify the uses of dashes.
+2. Correctly use dashes in sentences.
+A dash (—) is a punctuation mark used to set off information in a sentence for emphasis. You can enclose text between two dashes, or use just one dash. To create a dash in Microsoft Word, type two hyphens together. Do not put a space between dashes and text.
+Arrive to the interview early—but not too early.
+Any of the suits—except for the purple one—should be fine to wear.
+Exercise :
+On your own sheet of paper, clarify the following sentences by adding dashes. If the sentence is clear as it is, write OK.
+1. Which hairstyle do you prefer short or long?
+2. I don’t know I hadn’t even thought about that.
+3. Guess what I got the job!
+4. I will be happy to work over the weekend if I can have Monday off.
+5. You have all the qualities that we are looking for in a candidate intelligence, dedication, and a strong work ethic.
+Tip
+- Dashes indicate a pause in text.
+- Dashes set off information in a sentence to show emphasis.
+8.7: Dashes is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

@@ -1,0 +1,29 @@
+High-Intermediate Academic Grammar for ESL Students (Al Haider)
+1.5: Applying Grammar to Reading
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/01%3A_Unit_1._Psychology/01%3A_Dreams/1.05%3A_Applying_Grammar_to_Reading
+License: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform
+
+## 1.1.5.1. **Exercise 10-Identifying Verb Tenses**
+Reread the paragraphs from this chapter’s reading. Highlight or circle the verbs taking note of their tense. Put the verbs in the table according to their tense. Use the example to guide you.
+1You walk into school and realize you forgot your math homework. Then, the teacher starts the lesson. Some of it makes sense, but some parts leave you scratching your head. You turn to the student next to you for help and realize it’s your best friend who moved away in second grade. Then, you wake up. You were dreaming.
+2Dreams can be exciting or terrifying. Often, they are complicated and confusing. And for much of human history, we’ve tried to make sense of them. The ancient Egyptians believed that dreams were messages from the gods. The ancient Greeks and Romans believed that dreams showed prophecies, or visions of the future. Later, in the 1800s, early psychologists believed that dreams centered on thoughts that people wanted to avoid, windows into what they called the “unconscious mind.”
+3Today, scientists still aren’t exactly sure why we have dreams, but a number of theories have emerged. One idea is that we dream to “practice” responding to problems. This is called “threat simulation theory” and might explain why our dreams so often involve stressful events such as forgetting your homework. Scientists believe that your brain might be preparing for how it would respond if you really do forget your homework. These scientists point out that humans aren’t the only animals who dream; if you’ve ever seen a dog moving its legs while it’s sleeping, it’s probably dreaming about running.
+| **Simple Present** | **Simple Past** | **Present Perfect** |
+| walk | believed | have tried (‘ve tried) |
+Table 1 Exercise 10 Identifying Verb Tenses
+[Image: Image 3 Photo by Pixaby CC BY]
+## 1.1.5.2. **Exercise 11-Pronunciation of Simple Past Verbs**
+There are three ways to pronounce -ed added to verbs to form the simple past. It depends on the preceding sound. The table below will describe the rules for each sound. The rules include the terms voiceless and voiced. This refers to the vibration of your vocal cords. You can determine whether a sound is voiced or voiceless by putting your hand on your throat. If you feel a vibration, then the sound is voiced. If there’s no vibration, then the sound is voiceless.
+| **Pronunciation** | **Rule** | **Examples** |
+| **/t/** | The final sound is pronounce /t/ after voiceless sounds /p/ /k/, /f/, /s/, /ʃ/, and /ʧ/. | shopped | baked | laughed | kissed | pushed | punched |
+| **/d/** | The final sound is pronounced /d/ after the voiced sounds /b/, /g/, /v/, /z/, /m/, /n/, /l/, /r/, /ŋ/, /ð/, /ʒ/, and /ʤ/. | The final sound is pronounced /d/ after all vowel sounds. | robbed | chugged | loved | prayed | used | chimed | canned | called | spurred | banged | bathed | changed |
+| **/Id/** | The final sound is /Id/ after the sounds /t/ and /d/. | /Id/ adds a syllable to the verb. | needed | wanted |
+Table 2 Pronunciation of -ed
+Reread the paragraphs from this chapter’s reading. Identify the simple past verbs and put them in the appropriate column in the table below. Use the examples to guide you.
+7Regardless of why we dream, scientists agree that dreams can have many benefits. One group of scientists proved that dreams could help people solve complex problems. These scientists provided a group of people with a difficult-to-solve maze. Afterwards, they allowed the group members to take a break, with half of the participants being shown a video and the other half being told to nap. Ninety minutes later, everyone returned to the maze. In general, the nappers and the video-watchers performed about the same when they returned to the maze. But the nappers who reported dreaming about the maze were ten times better at completing it than anyone else.
+8Dreams have also long been considered sources for inspiration. Paul McCartney, a former lead singer of the band The Beatles, said the idea for the famous song “Yesterday” came to him in a dream. He said he woke up thinking of the tune, and then immediately rushed to the piano to figure out the notes and write them down.
+9Similarly, in the late 1600s, the philosopher and scientist René Descartes spent all day in a heated room, searching for the best way to come up with new knowledge. Without a solution at the end of the day, he put down his work and went to sleep. When he woke up, he recalled from his dreams the scientific method — the same process for experiments still taught in schools today.
+| **/t/** | **/d/** | **/Id/** | **Irregular Past Tense** |
+| rushed | proved | provided | were |
+Table 3 Identifying Pronunciation of -ed
+This page titled 1.5: Applying Grammar to Reading was last modified on Sat, 01 Feb 2025 19:06:32 GMT and is shared under a CC BY 4.0 license and was authored, remixed, and/or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform.

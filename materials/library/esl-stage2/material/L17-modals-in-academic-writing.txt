@@ -1,0 +1,261 @@
+Lesson 17 material: Modals in Academic Writing
+English Stage 2 (B2) · Unit 2: Sentences and Paragraph Types · American History
+
+=== Unit 15 Modals ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-15modals/
+
+# Unit 15 Modals
+**Learning Objectives**
+1. To understand what modals are and what principles they follow
+2. To learn the challenges and strategies in using appropriate modals
+3. To learn the meanings and uses of modals and modal-like expressions through multiple examples
+4. To practice using modals through a variety of writing situations
+# I. Pretest
+(Picture: showcase of culture artifacts at entrance of ESL & Linguistics Department at Harper College)
+showcase of culture artifacts at entrance of ESL & Linguistics Department at Harper College
+The following ten sentences are about some customs from different countries. The modal and main verb are bold-faced in each sentence. If the bold-faced part is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. In the United States, people **should to call** ahead before visiting someone.
+   Options: correct | should call
+   Answer: should call
+Q: 2. In Greece, when children lose a tooth, they **supposed to toss** it onto their roof for good luck.
+   Options: are supposed to toss | correct
+   Answer: are supposed to toss
+Q: 3. People **must not show** the "OK" sign with the thumb and index finger in Mexico. The sign is considered vulgar.
+   Options: correct | must not to show
+   Answer: correct
+Q: 4. In China, a gift receiver **should not opens** the gift in front of the giver.
+   Options: correct | should not open
+   Answer: should not open
+Q: 5. In Malaysia, it is fine to be late for up to sixty minutes, and people **must not apologize** for being late.
+   Options: correct | do not have to apologize
+   Answer: do not have to apologize
+Q: 6. In Russia, people **had better not to give** yellow flowers as gifts because yellow flowers mean breakup of a relationship.
+   Options: correct | had better not give
+   Answer: had better not give
+Q: 7. People **could not write** their names in red link in Korea because a name in red means death.
+   Options: cannot write | correct
+   Answer: cannot write
+Q: 8. While paying for a meal in Turkey, people **should not split** the bill because the host will be offended.
+   Options: correct | should not splitting
+   Answer: correct
+Q: 9. In Japan, people **mayn’t kiss** each other as a way of greeting.
+   Options: correct | may not kiss
+   Answer: may not kiss
+Q: 10. In Thailand and Arabic countries, people **must not point** their foot or shoe toward others.
+   Options: correct | do not have to point
+   Answer: correct
+# II. Principles of Using Modals
+As you have learned in Unit 9 Verb Basics in Academic Writing *(Open Unit 9 here)*, modals are an important part of the verb family. They are considered helping verbs, also called auxiliary verbs. Most modals follow the following principles:
+**1. They cannot exist by themselves. They are followed by the base form of main verbs to show different meanings and tones.**
+**modal + base form of main verb = complete verb**
+- In the United States, people __should call__ ahead before visiting someone. (*no “calls, called, calling, to call”*)
+- People __must not show__ the “OK” gesture[1] with the thumb and index finger in Mexico. (*no “shows, showed, showing, to show”*)
+**2. Contractions are common are in modals, such as “shouldn’t” and “mustn’t”. However, “may” and “might” do not have a contraction form. It is wrong to write “mayn’t” and “mightn’t”.**
+(Picture: two words "yes" and "no" with "yes" crossed out)
+two words “yes” and “no” with “yes” crossed out
+- Small children ~~mayn’t stay~~ (__may not stay__) alone at home in the United States.
+- It ~~mightn’t be~~ (__might not be__) a good idea for children to stay in their friend’s home overnight.
+**3. Some expressions are called modal-like expressions. There is a “to” in them, and the base form of the verb follows the “to”. These expressions include: be able to, be supposed to, have to, have got to, ought to, and some others.**
+- People __have to come__ on time for an appointment in the United States.
+- They __are supposed to explain__ the reasons if they are late.
+**4. Some modals and modal-like expressions are often used in conversations only.**
+- In Thailand, people __had better not__ touch the head of a statue.
+- In the U.S. restaurants, customers __have got to tip__ the waiters and waitresses.
+**Exercise 1.** The following sentences are about dining customs in some countries. There are mistakes in the form of modals and main verbs. Identify each mistake by underlining the whole verb (modal + main verb) and then correct the mistake. If the main verb is missing, add it.
+***Example**:*
+*People **~~can to learn~~ (__can learn__**) about different customs and traditions when they travel abroad.*
+(Picture: a plate of food with a fork and a knife)
+a plate of food with a fork and a knife
+1. Dinning traditions may the most interesting to most people.
+2. In Kenya, guests should to wash their hands both before and after the meal. They cannot sitting with their feet and toes pointing toward any of the other guests or the food. Kenyans do not use utensils[2]. They eat with their right hand. They must not to use their left hand during the whole meal.
+3. Americans and Europeans have opposite dinning etiquettes[3]. Americans should holds the knife in their right hand and the fork in their left hand, but the Europeans are suppose to hold the knife in their left hand and the fork in their right hand.
+4. People in Morocco practice communal[4] eating. This means that they eat from the communal bowl closest to them. A person must eats using his or her right hand. The left hand mayn’t be used to get food. If a bone is taken, the person supposed to suck the marrow[5] from it.
+# III. Challenges in Learning Modals and the Strategies in Using Them
+**Challenges**
+1. The same modal may have different meanings in different contexts.
+- I __can drive__ a car because I have a driver’s license. (permission)
+- I __can drive__ a car because I know how to drive. (ability)
+2. The same meaning can be expressed with different modals, but the tone or level of strength is different.
+- In order to drive in the U.S, a person __must have__ a driver’s license. (stronger)
+- In order to drive in the U.S, a person __has to have__ a driver’s license. (less strong)
+3. Some modals have the appearance of past tense, but they have a present or future meaning.
+- Most cultural traditions stay for generations, but some __might change__ quickly.
+- People __had better learn__ the customs of another country when they travel there.
+**Strategies:**
+1. Understand a modal, its meaning, its time (past, present, future), and its form together as a “package”.
+- In many countries in the past, young people __had to follow__ the custom of the arranged marriage.
+- In some countries nowadays and in the near future, some young people still __must follow__ the custom of the arranged marriage.
+In both sentences, “had to follow” and “must follow” have the same meaning: obligation, responsibility, necessity.
+However, the first sentence shows the meaning in the past, and its form is “had to + follow”.
+In the second sentence, the same meaning is expressed in present and future sense, and its form is “must + follow”.
+Therefore, try not to study modals in isolation[6]. Instead, understand them in the context and study the “package”.
+2. Use the same strategy as in learning other aspects of English: practice, practice, and practice.
+# IV. Uses of Modals and Modal-Like Expressions
+**Meaning: advice, suggestions**
+1. In the United States, customers __should tip__ the waiters or waitresses for their service. (present)
+2. Customers __ought to tip__ the waiters or waitresses for their service. (less common) (present)
+3. They __can tip /could tip__ 10 – 20% of the food bill. (present, softer tone)
+4. Customers __should not leave__ the restaurant without tipping the waiters or waitresses. (present)
+**Exercise 2.** Give at least two suggestions for each of the following situations.
+***Example**:*
+*One of your classmates is going to visit your country as a tourist in summer.*
+*Suggestion #1 : You should bring a few extra bottles of sunscreen because my country Colombia is near the equator and the sun is very intense.*
+*Suggestion #2: You ought to try bandeja paisa. It is Colombia’s unofficial national dish.*
+1. One of your siblings has found an American boyfriend (or girlfriend)
+2. One of your relatives is planning to study at Harper College for the first time.
+3. One of your American friends is going to study at a university in your native country.
+4. One of your professors is considering studying your native language.
+5. One of your friends is nervous about meeting his parents-in-law for the first time.
+**Meaning: abilities**
+(Picture: A 19th-century illustrated Sanskrit manuscript from the Bhagavad Gita, composed c. 400 BCE – 200 BCE.)
+A 19th-century illustrated Sanskrit manuscript from the Bhagavad Gita, composed c. 400 BCE – 200 BCE.
+1. There are many languages in India. Many people there __can speak__ more than 5 different ones. (present)
+2. They __are able to speak__ Hindi, English, and some regional dialects. (present)
+3. The Indian government recognizes twenty-three official languages, but most people __cannot speak__ all of them. (present)
+5. People in ancient Indian __could speak__ Sanskrit, one of the earliest languages. (past)
+6. They __were able to speak__ Sanskrit as early as 2000 BC. (past)
+**Meaning: permissions**
+1. In Canada, college students __can address / may address__ their professors by the first name. (present)
+2. In Canada, college students __could not drink__ alcohol in class fifty years ago, and they still __cannot__. (past, present)
+3. In Ukraine, college students __cannot call / may not call__ their professors by the first name. It is considered very impolite. (present)
+**Exercise 3.** Finish the following sentences to express ability and permission.
+***Example***:
+*When I was a child, I could __climb a tree__. (ability)*
+1. When I was a child, I could ____________________. (ability)
+2. When I was a child, I could not ____________________ (ability)
+3. Now I am an adult. I can ____________________ (ability)
+4. Now I am an adult. I cannot ____________________. (ability)
+5. When I was a student in my home country, I could ____________________ (permission)
+6. When I was a student in my home country, I could not ____________________ (permission)
+7. Now I am a student in the U.S. I can ____________________ (permission)
+8. Now I am a student in the U.S. I cannot ____________________ (permission)
+**Meaning: necessity, obligation, responsibility**
+1. In Iraqi formal greetings, people __must use__ a person’s surname and title, for example, Dr. Kazem. (present)
+2. Men __have to stand__ to greet a woman when she enters the room. (present)
+3. A long time ago in Iraq, everyone __had to stand__ when an elderly person arrived. This custom has remained to this day. (past)
+4. In Iraqi culture, people __do not have to kiss__ each other as a way of greeting. Handshaking is common. (present)
+(Picture: three Mongolia gers)
+three Mongolia gers
+**Meaning: prohibition[7]**
+1. People __must not whistle__ inside a Mongolian ger, a round-shaped dwelling. (present)
+2. In a ger, people __must not point__ their feet to the north end. (present)
+**Exercise 4.** Discuss the following questions. What are the answers in your home country? What are the answers in the United States?
+1. Must people get married first if they want to live together?
+2. Do people have to get their parents’ permission to get married?
+3. Must men serve in the military?
+4. Do school children have to wear uniforms?
+5. What are the things you must not do on the street?
+6. What are the things you must not do during a test?
+7. What are the questions you must not ask a lady?
+**Meaning: possibilities**
+1. In Japan, parents do not kiss each other in front of their children. They __must think / may think / might think / could think__ it improper[8] for the children to see their intimacy[9]. (present)
+2. This custom __may change / might change /could change__ in the near future. The young generation __should welcome / may welcome / might welcome / could welcome__ this change. (future)
+3. Some words are the same in writing in both Chinese and Japanese. However, the meanings of these words __may not be / might not be__ the same. (present)
+**Meaning: expectations**
+1. On March 8, the International Women’s Day, men __are supposed to buy flowers__ for women in Russia and many other Eastern European countries. (present)
+2. On that day, women __are not supposed to do__ much housework. They __are supposed to take__ a day off. (present)
+3. Last year, Natalia’s husband __was supposed to buy__ flowers for her, but he forgot. (past)
+**Meaning: preferences**
+1. In some countries, people prefer arranged marriages. Parents __would rather pick__ someone as their future son-in-law or daughter-in-law than let their child decide. (present)
+2. Some young people __would rather not get__ into a marriage than marry someone they do not love. (present)
+**Exercise 5.** Write sentences according to the instructions.
+1. Use modals of possibility to write three guesses why seafood is popular on Valentine’s Day in the U.S.
+2. Use modals of expectation to write three things you are supposed to know when you go to an American family for dinner.
+3. Use modals of preference to write three choices of food on New Year’s Eve in your home country.
+# V. Unit Review Practice
+**Exercise 6.** Read the following sayings. Each contains a modal. Discuss what the saying means and whether you agree with it. Do you have similar sayings in your native language? How do you say them? If you can think of additional sayings with modals, please list them below.
+1. No man can serve two masters.
+1. (Picture: a dog balancing a ball)
+a dog balancing a ball
+2. You can lead a horse to water, but you can’t make it drink.
+3. You can’t teach an old dog new tricks.
+4. You can’t have your cake and eat it too.
+5. Beggars can’t be choosers.
+6. People in glass houses shouldn’t throw stones.
+7. Children should be seen, not heard.
+8. Bitter pills may have blessed effects.
+9. Be careful what you wish for; you just might get it.
+10. You should fail in order to understand true success.
+________________________________________
+**Exercise 7.** The following sentences are about school uniforms. The modals and main verbs are underlined. Discuss their different meanings and time references (past, present, future) in the context. The first one is an example.
+(Picture: four girls in school uniform doing hand signs)
+four girls in school uniform doing hand signs
+1. School uniforms **__*could be*__ *(possibility, present)*** an important part of school traditions. Students in some schools __must wear__ the school uniform. They __may not attend__ school without their uniform. The uniform __must be__ important.
+2. A uniform reflects[10] the school and its reputation. Therefore, students __are supposed to be__ in their best behavior.
+3. Students with totally different uniforms __cannot belong__ to the same school even though they __may be__ siblings. They __must not exchange__ their uniforms with students from other schools.
+4. In some schools, uniforms are optional. Students __may choose__ to wear one. They __could__ also __wear__ their own clothes. Some students __would rather have__ the uniform. They __would rather not spen__d half an hour each morning choosing what to wear.
+5. In most cases, uniforms are not free. Students __have to purchase__ them. Most families __are able to afford__ them, but some are not. This __might increase__ the financial burden for some families.
+6. Even though the students __must wear__ their uniform while in school, they __do not have to wear__ one after school.
+7. __Should__ schools __require__ uniforms? There have been many debates[11]. If most students do not like them, they __may disappear__ in the near future. Otherwise, they __should stay__ for a long, long time.
+**Exercise 8.** The follow is an essay on how high school students in different countries spend time in the summer. Underlined the modals and their main verbs. Then discuss what they means in the context and whether they express present, past, or future time. The first one is an example.
+After you finish reading and understanding the first three paragraphs, write a new supporting paragraph about a person you know who spent last summer vacationing and relaxing. Then write a conclusion for the essay. Include at least five modals and modal-like expressions. You may write in the box below or in your own notebook. ***(Warning: Once you leave this page, you will lose what you have written in the box.)***
+(Picture: sunglasses on sand)
+sunglasses on sand
+How to Spend the Summer?
+High school students in different countries ***may spend (possibility, present)*** their summer very differently. Some might value life experiences by working on a job, some could use the time catching up with their academic work, and others might consider it an opportunity to relax and have fun. How they spend their summer might reflect some of the customs and values of their cultures.
+It is common for many high school students in the United States to work during the summer months. They could work in any type of job: food, travel, secretarial, health care, summer camp, and many others. Last summer, Joan worked as a summer camp activity leader. She was happy that the job provided her with valuable work experience as well as a small income. Both the experience and the money should be helpful in her future college study.
+In Korea, however, it is not usual for high school students to hold a job in summer. They are supposed to take extra classes to prepare for university. Last summer, Ji-hoon kept himself busy by taking a few science and English classes in a cram school. Though he was very busy, he had to do so. He was determined to be better prepared for his university entrance exam.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Exercise 9.** Choose two of the following topics and write a paragraph for each. Use proper modals.
+1. Describe one of the holiday dinning traditions in your native country.
+2. Describe some customs about naming a baby in your native country.
+3. Explain one of the taboos[12] for a wedding ceremony in your native country.
+4. Some people say that elderly parents should live with their adult children. Do you agree or disagree? Why do you think so?
+5. In America, it is common to “go Dutch” (split the food bill in the restaurant) when people dine out. Is this practice common in your native culture? If not, why not? who usually pays for the meals?
+6. Write about the joys and challenges of living in two cultures (your native culture and the American culture). What was your biggest cultural shock during your first two weeks in the U.S.?
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that involve modals. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the use of modals. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: gesture -> noun, a movement of hands, arms, or another part of the body to express an idea or emotion
+Card: utensil -> noun, a dining tool such as a spoon or a fork
+Card: etiquette -> noun, a rule or tradition for proper social behavior
+Card: communal -> adjective, used or shared by everyone in the group
+Card: marrow -> noun, the soft, fatty part inside a bone
+Card: in isolation -> prepositional phrase, separately, apart from each other
+Card: prohibition -> noun, things that are not allowed
+Card: intimacy -> noun, very close, loving relationship
+Card: reflect -> verb, show, represent
+Card: debate -> noun, an argument
+Card: taboo -> noun, an unacceptable word or behavor especially in a group setting
+Card: improper -> adjective, not appropriate, not right
+**Summary**
+1. Modals are helping verbs (also called auxiliary verbs). They must be used with a main verb to serve as the complete verb in a sentence: Modal + Main Verb = Complete Verb
+2. A modal is followed by the base form of the main verb.
+3. The same modals may mean differently in different contexts, and some others may share similar meanings but have differences in tone and level of emphasis.
+4. Some modals have their unique forms of past tense. Some of them look like the past tense but mean present or future.
+5. Do not use “mayn’t” and “mightn’t”.
+6. A good strategy is to understand modals is by learning each modal, its meaning, its time reference, and its form together as a “package”.
+## Media Attributions
+- showcase of culture artifacts at entrance of ESL Department at Harper College © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- two words “yes” and “no” with “yes” crossed out © Photo by cottonbro from Pexels
+- a plate of food with a fork and a knife © medium:after_download_modal.copy_text.photo: https://www.pexels.com/photo/boiled-potatoes-with-salad-and-meat-rissole-4210862/
+- A 19th-century illustrated Sanskrit manuscript from the Bhagavad Gita, composed c. 400 BCE – 200 BCE. © Unknown artist is licensed under a Public Domain license
+- three Mongolia gers © Photo by Audrius Sutkus on Unsplash
+- a dog balancing a ball © Photo by RODNAE Productions from Pexels
+- four girls in school uniform doing hand signs © Photo by 周 康 from Pexels
+- sunglasses on sand © Photo by Ylanite Koppens from Pexels
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. gesture: noun, a movement of hands, arms, or another part of the body to express an idea or emotion ↵
+2. utensil: noun, a dining tool such as a spoon or a fork ↵
+3. etiquette: noun, a rule or tradition for proper social behavior ↵
+4. communal: adjective, used or shared by everyone in the group ↵
+5. marrow: noun, the soft, fatty part inside a bone ↵
+6. in isolation: prepositional phrase, separately, apart from each other ↵
+7. prohibition: noun, things that are not allowed ↵
+8. improper: adjective, not appropriate, not right ↵
+9. intimacy: noun, a very close, loving relationship ↵
+10. reflect: verb, show, represent ↵
+11. debate: noun, an argument ↵
+12. taboo: noun, an unacceptable word or behavior especially in a group setting ↵

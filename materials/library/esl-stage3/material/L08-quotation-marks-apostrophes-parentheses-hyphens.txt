@@ -1,0 +1,286 @@
+Lesson 08 material: Quotation Marks, Apostrophes, Parentheses, Hyphens and Capital Letters
+English Stage 3 (C1) · Unit 1: Refining Sentences and Punctuation
+
+=== 8.4: Quotes ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.04%3A_Quotes
+
+Learning Objectives
+1. Identify the uses of quotes.
+2. Correctly use quotes in sentences.
+Quotation marks (“ ”) set off a group of words from the rest of the text. Use quotation marks to indicate direct quotations of another person’s words or to indicate a title. Quotation marks always appear in pairs.
+## Direct Quotations
+A direct quotation is an exact account of what someone said or wrote. To include a direct quotation in your writing, enclose the words in quotation marks. An indirect quotation is a restatement of what someone said or wrote. An indirect quotation does not use the person’s exact words. You do not need to use quotation marks for indirect quotations.
+**Direct quotation:** Carly said, “I’m not ever going back there again.”
+**Indirect quotation:** Carly said that she would never go back there.
+Writers at Work
+Most word processing software is designed to catch errors in grammar, spelling, and punctuation. While this can be a useful tool, it is better to be well acquainted with the rules of punctuation than to leave the thinking to the computer. Properly punctuated writing will convey your meaning clearly. Consider the subtle shifts in meaning in the following sentences:
+- The client said he thought our manuscript was garbage.
+- The client said, “He thought our manuscript was garbage.”
+The first sentence reads as an indirect quote in which the client does not like the manuscript. However, did he actually use the word “garbage”? (This would be alarming!) Or has the speaker paraphrased (and exaggerated) the client’s words?
+The second sentence reads as a direct quote from the client, but who is “he” in this sentence? Is it a third party?
+Word processing software would not catch this because the sentences are not grammatically incorrect. However, the meanings of the sentences are not the same. Understanding punctuation will help you write what you mean, and in this case, could save a lot of confusion around the office!
+## Punctuating Direct Quotations
+Quotation marks show readers another person’s exact words. Often, you will want to identify who is speaking. You can do this at the beginning, middle, or end of the quote. Notice the use of commas and capitalized words.
+**Beginning:** Madison said, “Let’s stop at the farmers market to buy some fresh vegetables for dinner.”
+**Middle:** “Let’s stop at the farmers market,” Madison said, “to buy some fresh vegetables for dinner.”
+**End:** “Let’s stop at the farmers market to buy some fresh vegetables for dinner,” Madison said.
+**Speaker not identified:** “Let’s stop at the farmers market to buy some fresh vegetables for dinner.”
+Always capitalize the first letter of a quote even if it is not the beginning of the sentence. When using identifying words in the middle of the quote, the beginning of the second part of the quote does not need to be capitalized.
+Use commas between identifying words and quotes. Quotation marks must be placed after commas and periods. Place quotation marks after question marks and exclamation points only if the question or exclamation is part of the quoted text.
+**Question is part of quoted text:** The new employee asked, “When is lunch?”
+**Question is not part of quoted text:** Did you hear her say you were “the next Picasso”?
+**Exclamation is part of quoted text:** My supervisor beamed, “Thanks for all of your hard work!”
+**Exclamation is not part of quoted text:** He said I “single-handedly saved the company thousands of dollars”!
+## Quotations within Quotations
+Use single quotation marks (‘ ’) to show a quotation within in a quotation.
+Theresa said, “I wanted to take my dog to the festival, but the man at the gate said, ‘No dogs allowed.’”
+“When you say, ‘I can’t help it,’ what exactly does that mean?”
+“The instructions say, ‘Tighten the screws one at a time.’”
+## Titles
+Use quotation marks around titles of short works of writing, such as essays, songs, poems, short stories, and chapters in books. Usually, titles of longer works, such as books, magazines, albums, newspapers, and novels, are italicized or underlined depending on whether typed or handwritten.
+Short Work:
+“Annabelle Lee” is one of my favorite romantic poems.
+Newspaper:
+The New York Times has been in publication since 1851.
+Writers at Work
+In many businesses, the difference between exact wording and a paraphrase is extremely important. For legal purposes, or for the purposes of doing a job correctly, it can be important to know exactly what the client, customer, or supervisor said. Sometimes, important details can be lost when instructions are paraphrased. Use quotes to indicate exact words where needed, and let your readers know the source of the quotation (client, customer, peer, etc.).
+Exercise :
+Copy the following sentences onto your own sheet of paper, and correct them by adding quotation marks where necessary. If the sentence does not need any quotation marks, write OK.
+1. Yasmin said, I don’t feel like cooking. Let’s go out to eat.
+2. Where should we go? said Russell.
+3. Yasmin said it didn’t matter to her.
+4. I know, said Russell, let’s go to the Two Roads Juice Bar.
+5. Perfect! said Yasmin.
+6. Did you know that the name of the Juice Bar is a reference to a poem? asked Russell.
+7. I didn’t! exclaimed Yasmin. Which poem?
+8. The Road Not Taken, by Robert Frost Russell explained.
+9. Oh! said Yasmin, Is that the one that starts with the line, Two roads diverged in a yellow wood?
+10. That’s the one said Russell.
+Key Takeaways
+- Use quotation marks to enclose direct quotes and titles of short works.
+- Use single quotation marks to enclose a quote within a quote.
+- Do not use any quotation marks for indirect quotations.
+
+=== 8.5: Apostrophes ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.05%3A_Apostrophes
+
+Learning Objectives
+1. Identify the uses of apostrophes.
+2. Correctly use apostrophes in sentences.
+An apostrophe (’) is a punctuation mark that is used with a noun to show possession or to indicate where a letter has been left out to form a contraction.
+## Possession
+An apostrophe and the letter s indicate who or what owns something. To show possession with a singular noun, add apostrophe s (’s).
+Jen**’s** dance routine mesmerized everyone in the room.
+The dog**’s** leash is hanging on the hook beside the door.
+Jess**’s** sister is also coming to the party.
+Notice that singular nouns that end in s still take the apostrophe s (’s) ending to show possession.
+To show possession with a plural noun that ends in s, just add an apostrophe (’). If the plural noun does not end in s, add an apostrophe and an s (’s).
+**Plural noun that ends in s:** The drummers’ sticks all moved in the same rhythm, like a machine.
+**Plural noun that does not end in s:** The people’s votes clearly showed that no one supported the management decision.
+## Contractions
+A contraction is a word that is formed by combining two words. In a contraction, an apostrophe shows where one or more letters have been left out. Contractions are commonly used in informal writing but not in formal writing.
+I do not like ice cream.
+I don’t like ice cream.
+Notice how the words do and not have been combined to form the contraction don’t. The apostrophe shows where the o in not has been left out.
+We will see you later.
+We’ll see you later.
+Look at the chart for some examples of commonly used contractions.
+| aren’t | are not |
+| can’t | cannot |
+| doesn’t | does not |
+| don’t | do not |
+| isn’t | is not |
+| he’ll | he will |
+| I’ll | I will |
+| she’ll | she will |
+| they’ll | they will |
+| you’ll | you will |
+| it’s | it is, it has |
+| let’s | let us |
+| she’s | she is, she has< /td> |
+| there’s | there is, there has |
+| who’s | who is, who has |
+Tip
+Be careful not to confuse it’s with its. It’s is a contraction of the words it and is. Its is a possessive pronoun.
+It’s cold and rainy outside. (It is cold and rainy outside.)
+The cat was chasing its tail. (Shows that the tail belongs to the cat.)
+When in doubt, substitute the words it is in a sentence. If sentence still makes sense, use the contraction it’s.
+Exercise :
+On your own sheet of paper, correct the following sentences by adding apostrophes. If the sentence is correct as it is, write OK.
+1. “What a beautiful child! She has her mothers eyes.”
+2. My brothers wife is one of my best friends.
+3. I couldnt believe it when I found out that I got the job!
+4. My supervisors informed me that I wouldnt be able to take the days off.
+5. Each of the students responses were unique. 6. Wont you please join me for dinner tonight?
+Key Takeaways
+- Use apostrophes to show possession. Add ’s to singular nouns and plural nouns that do not end in s. Add ’ to plural nouns that end in s.
+- Use apostrophes in contractions to show where a letter or letters have been left out.
+
+=== 8.6: Parentheses ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.06%3A_Parentheses
+
+Learning Objectives
+1. Identify the uses of parentheses.
+2. Properly use parentheses in sentences.
+Parentheses ( ) are punctuation marks that are always used in pairs and contain material that is secondary to the meaning of a sentence. Parentheses must never contain the subject or verb of a sentence. A sentence should make sense if you delete any text within parentheses and the parentheses.
+Attack of the Killer Tomatoes has to be the worst movie I have seen (so far).
+Your spinach and garlic salad is one of the most delicious (and nutritious) foods I have ever tasted!
+Exercise :
+On your own sheet of paper, clarify the following sentences by adding parentheses. If the sentence is clear as it is, write OK.
+1. Are you going to the seminar this weekend I am?
+2. I recommend that you try the sushi bar unless you don’t like sushi.
+3. I was able to solve the puzzle after taking a few moments to think about it.
+4. Please complete the questionnaire at the end of this letter.
+5. Has anyone besides me read the assignment?
+6. Please be sure to circle not underline the correct answers.
+Key Takeaways
+- Parentheses enclose information that is secondary to the meaning of a sentence.
+- Parentheses are always used in pairs.
+
+=== 8.8: Hyphens ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by LibreTexts. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.08%3A_Hyphens
+
+Learning Objectives
+1. Identify the uses of hyphens.
+2. Properly use hyphens in sentences.
+A hyphen (-) looks similar to a dash but is not as long as a dash and used in different ways.
+## Hyphens between Two Adjectives That Work as One
+Use a hyphen to combine words that work together to form a single description.
+The fifty-five-year-old athlete was just as qualified for the marathon as his younger opponents.
+My doctor recommended against taking the medication, since it can be habit-forming.
+My study group focused on preparing for the mid-year review.
+## Hyphens When a Word Breaks at the End of a Line
+Use a hyphen to divide a word across two lines of text. You may notice that most wordprocessing programs will do this for you. If you have to manually insert a hyphen, place the hyphen between two syllables. If you are unsure of where to place the hyphen, consult a dictionary or move the entire word to the next line.
+My supervisor was concerned that the team meeting would conflict with the client meeting.
+Key Takeaways
+- Hyphens join words that work as one adjective.
+- Hyphens break words across two lines of text.
+8.8: Hyphens is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.
+
+=== 8.9: Capitalization ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by LibreTexts. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.09%3A_Capitalization
+
+Learning Objectives
+1. Learn the basic rules of capitalization.
+2. Identify common capitalization errors.
+Text messages, casual e-mails, and instant messages often ignore the rules of capitalization. In fact, it can seem unnecessary to capitalize in these contexts. In other, more formal forms of communication, however, knowing the basic rules of capitalization and using capitalization correctly gives the reader the impression that you choose your words carefully and care about the ideas you are conveying.
+## Capitalize the First Word of a Sentence
+Figure
+## Capitalize Proper Nouns
+Proper nouns—the names of specific people, places, objects, streets, buildings, events, or titles of individuals—are always capitalized.
+Figure
+Tip
+Always capitalize nationalities, races, languages, and religions. For example, American, African American, Hispanic, Catholic, Protestant, Jewish, Muslim, Hindu, Buddhist, and so on.
+Do not capitalize nouns for people, places, things, streets, buildings, events, and titles when the noun is used in general or common way. See the following chart for the difference between proper nouns and common nouns.
+| **Common Noun** | **Proper Noun** |
+| museum | The Art Institute of Chicago |
+| theater | Apollo Theater |
+| country | Malaysia |
+| uncle | Uncle Javier |
+| doctor | Dr. Jackson |
+| book | Pride and Prejudice |
+| college | Smith College |
+| war | the Spanish-American War |
+| historical event | The Renaissance |
+Exercise :
+On your own sheet of paper, write five proper nouns for each common noun that is listed. The first one has been done for you.
+Common noun: river
+1. Nile River
+Common noun: musician
+Common noun: magazine
+## Capitalize Days of the Week, Months of the Year, and Holidays
+Figure
+## Capitalize Titles
+Figure
+Tip
+Computer-related words such as “Internet” and “World Wide Web” are usually capitalized; however, “e-mail” and “online” are never capitalized.
+Exercise :
+Edit the following sentences by correcting the capitalization of the titles or names.
+1. The prince of england enjoys playing polo.
+2. “Ode to a nightingale” is a sad poem.
+3. My sister loves to read magazines such as the new yorker.
+4. The house on Mango street is an excellent novel written by Sandra Cisneros.
+5. My physician, dr. alvarez, always makes me feel comfortable in her office.
+Exercise :
+Edit the following paragraphs by correcting the capitalization.
+david grann’s the lost City of Z mimics the snake-like winding of the amazon River. The three distinct Stories that are introduced are like twists in the River. First, the Author describes his own journey to the amazon in the present day, which is contrasted by an account of percy fawcett’s voyage in 1925 and a depiction of James Lynch’s expedition in 1996. Where does the river lead these explorers? the answer is one that both the Author and the reader are hungry to discover.
+The first lines of the preface pull the reader in immediately because we know the author, david grann, is lost in the amazon. It is a compelling beginning not only because it’s thrilling but also because this is a true account of grann’s experience. grann has dropped the reader smack in the middle of his conflict by admitting the recklessness of his decision to come to this place. the suspense is further perpetuated by his unnerving observation that he always considered himself A Neutral Witness, never getting personally involved in his stories, a notion that is swiftly contradicted in the opening pages, as the reader can clearly perceive that he is in a dire predicament—and frighteningly involved.
+Writers at Work
+Did you know that, if you use all capital letters to convey a message, the capital letters come across like shouting? In addition, all capital letters are actually more difficult to read and may annoy the reader. To avoid “shouting” at or annoying your reader, follow the rules of capitalization and find other ways to emphasize your point.
+Key Takeaways
+- Learning and applying the basic rules of capitalization is a fundamental aspect of good writing.
+- Identifying and correcting errors in capitalization is an important writing skill.
+Writing Application
+Write a one-page autobiography. Make sure to identify people, places, and dates and use capitalization correctly.
+8.9: Capitalization is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.
+
+=== 8.10: End-of-Chapter (Exercise) ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by LibreTexts. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/08%3A_Punctuation_and_Capitalization/8.10%3A_End-of-Chapter_(Exercise)
+
+Learning Objectives
+1. Use the skills you have learned in this chapter.
+2. Work collaboratively with other students.
+## Punctuation Exercises
+1. Each sentence contains a punctuation error. On your own sheet of paper, correct each sentence by adding the correct punctuation. The headings will let you know which type of punctuation mistakes to look for. If the sentence does not need corrections, write OK.
+**Commas**
+1. The wedding will be July 13 2012.
+2. The date by the way is the anniversary of the day that they met.
+3. The groom the bride and their parents are all planning the event.
+4. Actually all of their friends and relatives are involved in the planning.
+5. The bride is a baker so she will be making the wedding cake herself.
+6. The photographer the caterer and the musician will all be friends.
+**Semicolons**
+1. Some people spend a lot of money hiring people for wedding services they are lucky to have such talented friends.
+2. The flowers will be either roses, daisies, orchids, or tulips it will depend on which flowers are in season.
+**Colons**
+1. There will be three colors for the wedding: white, black, and gold.
+2. They’ve finally narrowed down the dinner choices salmon, steak, and a vegan stew.
+3. Their wedding invitations contained the following quote from the Roman poet Ovid If you want to be loved, be lovable.
+**Quotes**
+1. The invitations said that the wedding would be “outdoor casual.”
+2. “What exactly does ‘outdoor casual’ mean?” I asked the bride.
+3. She told me to dress comfortably and wear shoes that do not sink into the ground.
+**Apostrophes**
+1. On the day of the wedding, were going to rent a limo.
+2. My brothers wife will make the arrangements.
+3. Shes a great party organizer.
+**Parentheses**
+1. On the day of the wedding, the bride looked more beautiful than ever and I’ve known her for fifteen years.
+2. All the details were perfect in my opinion.
+**Dashes**
+1. Everyone danced at the wedding except my mother.
+2. It was to be expected she just had hip surgery.
+**Hyphens**
+1. The groom danced with his new mother in law.
+2. It was a spectacular, fun filled day for everyone.
+2. Each sentence contains a punctuation error. On your own sheet of paper, correct each sentence by adding commas, semicolons, colons, apostrophes, parentheses, hyphens, and dashes as needed.
+1. My mothers garden is full of beautiful flowers.
+2. She has carefully planted several species of roses peonies and irises.
+3. She is especially proud of her thirty year old Japanese maple tree.
+4. I am especially proud of the sunflowers I planted them!
+5. You should see the birds that are attracted to the garden hummingbirds, finches, robins, and sparrows.
+6. I like to watch the hummingbirds they are my favorite.
+7. We spend a lot of time in the garden planting weeding and just enjoying the view.
+8. Each flower has its own personality some seem shy and others seem bold.
+9. Arent gardens wonderful?
+10. You should come visit sometime Do you like to garden?
+3. The following paragraph contains errors in punctuation. On your own sheet of paper, correct the paragraph by adding commas, semicolons, colons, apostrophes, parentheses, hyphens, and dashes as needed. There may be more than one way to correct the paragraph.
+May 18 2011
+Dear Hiring Manager
+Allow me to introduce myself in my previous position I was known as the King of Sales. I hope to earn the same title within your company. My name is Frances Fortune. I have thirteen years experience in corporate sales and account management. I have been the top rated seller for two years in a row in my previous position. Clients recognize me as dependable honest and resourceful. I have a strong work ethic and great interpersonal skills. I excel at goal setting and time management. However you don’t have to take my word for it I will be happy to provide personal and professional references upon request. Youre welcome to contact my previous employer to inquire about my work performance. I look forward to speaking with you in person in the near future.
+Sincerely
+Frances Fortune
+4. Read the following paragraph. Edit by adding apostrophes, parentheses, dashes, and hyphens where needed. There may be more than one correct way to edit some sentences. Consider how the punctuation you choose affects the meaning of the sentence.
+I was a little nervous about the interview it was my first in years. I had to borrow my roommates suit, but it fit me well. A few days ago, I started to research the companys history and mission. I felt like I was well qualified for the job. When I arrived, I shook hands with the interviewer she had a strong grip! It nearly caught me off guard, but I did my best to smile and relax. I was a little distracted by all the books in the womans office she must have had a hundred books in that tiny room. However, I think my responses to her questions were good. Ill send her an e-mail to thank her for her time. Hopefully shell call me soon about the position.
+## Capitalization Exercises
+1. Read the following paragraph. Edit by fixing the capitalization where needed.
+Life topics excite me to write about. life has been very good to me, So I have plenty of wonderful experiences. There are plenty of Things that i can’t live without. The most important would be love. My mom always tells me that Love is life. The Bible also speaks about three main thing we need in life, and The most important out of all three is Love. Love is Everything in my opinion. Love is very important to me because It makes me happy.
+2. Each sentence contains a capitalization error. There may be more than one. Correct each sentence by fixing as needed.
+1. Marc came to the united states from Uganda.
+2. She has carefully planted several species of flowers from japan.
+3. I am especially proud of the Sunflowers I planted.
+4. This summer, Elizabeth is travelling to Montreal, quebec, canada.
+5. I like to eat ethnic food such as ethiopian.
+3. Correct the capitalization errors in the following fictional story. Copy the corrected paragraph onto your own sheet of paper.
+lance worthington signed a Recording Contract with Capitol records on june 15, 2007. Despite selling two million copies of his Debut Album, nothing to lose, lance lost quite a bit as his tax returns from the irs revealed. lance did not think it was fair that the Record Company kept so much of his earnings, so he decided to hire robert bergman, a prominent music Attorney with a Shark-like reputation. bergman represented lance all the way to the supreme court, where lance won the case against capitol records. Lance worthington was instrumental in changing intellectual property rights and long standing Record Company practices. All artists and musicians can thank him for his brave stance against record companies. Lance subsequently formed his own independent record label called worthy records. worthy is now a successful Label based out of chicago, illinois, and its Artists have appeared on well known shows such as The tonight show and Saturday night live. Lance worthington is a model for success in the do-it-yourself World that has become the Music Industry.
+8.10: End-of-Chapter (Exercise) is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

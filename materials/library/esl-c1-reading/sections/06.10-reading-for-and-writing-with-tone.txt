@@ -1,0 +1,61 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+6.10: Reading for and Writing with Tone
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.10%3A_Reading_for_and_Writing_with_Tone
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is tone?
+After you revise for clarity and precision of language, also look at the tone that your words create: the attitude you show toward your subject. Tone is also sometimes called "voice." Notice the caption in figure 6.10.1: "Way cool! This used to be a liquor store in my neighborhood. Now it's a great little grocery!" This casual, enthusiastic tone is perfect for the context; you can imagine someone walking by the store and exclaiming this. However, the exact same sentence wouldn't be appropriate in a statistical report.
+[Image: Small produce section with fresh vegetables and packaged salads.]
+Figure : "Way cool! This used to be a liquor store in my neighborhood. Now it's a great little grocery!" by agahran is licensed under CC BY 2.0
+## Describing and evaluating tone
+Here are some possible adjectives to describe a writer's tone:
+- humorous, amusing, witty
+- sarcastic, flippant, facetious, ironic
+- impassioned, angry, righteous
+- fearful, cautious, worried
+- formal, serious, professional
+- informal, casual, light, conversational, breezy
+- gloomy, dismal, pessimistic, grim
+- cheerful, uplifting, optimistic
+- incisive, critical, thoughtful
+- cynical, bitter, angry
+- frank, candid, open, outspoken
+- sympathetic, empathetic, compassionate
+- dry, factual, direct, unemotional
+As you look at your writing, think about the following questions:
+- What is your tone? Is it how you intend to sound?
+- Is your tone appropriate for the context of your writing? Does it fit your purpose and audience?
+- Is your tone consistent?
+Are there breaks in tone that are jarring, such as very informal or slang phrases or a sarcastic comment in what is otherwise a piece of writing with a straightforward, professional tone?
+## Comparing tone
+Let's compare two excerpts of articles on a similar topic for tone:
+Notice this!
+How would you describe the tone of each excerpt? Which is more formal? Which is more conversational? What words/phrases do you notice that demonstrate the tone of each?
+**from "Eye On The Prize: Addressing A Food Desert In Oakland" (Field)**
+Talk about commitment to a mission. People’s Community Market is an Oakland, Cal-based social enterprise that has been trying to launch a full-service neighborhood grocery store in the area for a really long time—12 years, if you count the work of its sister nonprofit People’s Grocery.
+...It started in 2002 with the aim of doing something about the so-called food desert [Brahm] Ahmadi and others encountered in the low-income area of West Oakland. Big supermarkets tend to avoid development in densely populated and low-income urban areas, in part because of high costs and employee turnover. The objective: Start a grocery store selling fresh produce, high-quality meat, and other food not available in the neighborhood. Plus the market would provide everything from health screenings to a play area and venue for events....The co-founders, sensibly, saw this was a big undertaking. “We pretty quickly realized we hadn’t a clue how to do that,” says Ahmadi. He, for example, had no experience in retail or food.
+So they would have to start small and do research while they decided how to accomplish their goal. To that end, in 2002, they created People’s Grocery, a nonprofit with which they could get their feet wet.
+**from “Food Environments and Obesity: Household Diet Expenditure Versus Food Deserts” (Chen, et al. 882).**
+A number of recent studies have uncovered significant associations between the neighborhood food environment and health outcomes, particularly obesity status. Other studies, however, have found no such statistically significant relationships. Among those studies finding significant associations, it is most common to find obesity status or weight negatively related to supermarket counts, less common to find convenience store counts positively related, and rarer still to find club stores or supercenters positively related, with Courtemanche and Carden being one of the few studies that link supercenters to obesity. Finally, at least one study investigated the link between county-level obesity rates and the percentage of the county’s population living in food desert tracts, but it did not find a significant association.
+## Identifying tone in student writing
+Let's take a look at the student essay in terms of tone:
+Try this!
+Read the fourth paragraph of Amanda’s essay. How would you describe her tone?
+However, many residents of West Oakland believe that corner liquor stores are cheaper and more convenient than supermarkets. Admittedly, it is true. They think this because there are many corner liquor stores nearby, and that is convenient for them. They can buy everything they need in a corner liquor store and don’t have to travel long distances to a supermarket to access healthy food. Research on Google Maps shows there are at least ten corner liquor stores but no supermarkets like Whole Foods in West Oakland. As Sam Bloch, the author of “Why Do Corner Stores Struggle to Sell Fresh Produce” and a professional writer for *The New* *York Times, L.A. Weekly,* and *Artnet*, states, most of the corner stores “don’t have walk-in refrigerators” (para 13). Thus, they cannot sell many types of fresh produce because they do not have refrigerators to keep the produce fresh; the food may spoil before being sold.
+## Revising for appropriate and consistent tone
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- What is your tone?
+- Is the tone appropriate for the context?
+- Is your tone consistent throughout the piece?
+## Works Cited
+Danhong Chen, et al. “Food Environments and Obesity: Household Diet Expenditure Versus Food Deserts.” *American Journal of Public Health*, vol. 106, no. 5, May 2016, pp. 881–888. *EBSCOhost*, doi:10.2105/AJPH.2016.303048.
+Field, Anne. "Eye On The Prize: Addressing A Food Desert In Oakland." *Forbes*, Forbes, 9 Aug. 2014.
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu.
+## **CC Licensed Content: Previously published**
+"What is tone?" is adapted from 7.4 "Revision Stage 3: Sentences, Words, Format" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+This page titled 6.10: Reading for and Writing with Tone was last modified on Sun, 09 Mar 2025 17:17:28 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

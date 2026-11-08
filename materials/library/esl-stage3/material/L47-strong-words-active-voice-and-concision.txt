@@ -1,0 +1,186 @@
+Lesson 47 material: Strong Words, Active Voice and Concision
+English Stage 3 (C1) · Unit 5: Argument and Academic Style
+
+=== 6.5: Using Strong and Specific Words ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.05%3A_Using_Strong_and_Specific_Words
+
+Each word counts. This is why, when you’re revising your draft, you should pay special attention to the words you choose. Some choices will make your writing more effective than others.
+## Specific vs. general words
+Choose words with specific meanings instead of general ones. For example, instead of “things,” tell your reader what the “things” are. For example, instead of referring to the collection of vegetables in figure 6.5.1 as “things,” or even “vegetables,” consider being more specific, naming and describing them.
+(Picture: Colorful bell peppers in baskets at a farmers market.)
+"Farmers Market" by ianmalcm is licensed under CC BY 2.0
+## Strong verbs
+If you choose a noun and a weak verb (such as *be* or *do*) rather than a strong verb, the sentence loses a sense of momentum and it’s easy to make it too wordy.
+Compare these two sentences. Which one is more precise and dynamic?
+- The community garden’s committee **made a decision** to revise the community guidelines.
+- The community garden’s committee **decided** to revise the community guidelines.
+The second sentence conveys the same meaning with fewer words and more lively action.
+Try to choose verbs with a more specific meaning. Depending on your meaning, try substituting stronger, more specific verbs for these weak verbs**.**
+Instead of **get**, try using
+- obtain
+- understand
+- fetch
+- receive
+- attain
+Instead of **make**, try using
+- cause
+- require
+- produce
+- create
+- construct
+Instead of **have** (as a main verb) try using
+- possess
+- experience
+- keep
+- own
+- exhibit
+Instead of **do** (as a main verb), try using
+- attempt
+- complete
+- finish
+- achieve
+- participate in
+- contribute to
+## Analyzing a paragraph for strong and specific words
+Let's look at the student essay in terms of strong and specific words:
+Try this!
+Look again at the second paragraph of Amanda’s essay, paying special attention to word choice.
+- What are some effective choices Alicia has made?
+- Can you identify some areas where her word choice could be improved?
+It’s tough for people of lower socioeconomic status to get healthy food because they cannot afford high-end organic food. According to American FactFinder, the median family income in West Oakland was 35,037 dollars in 2017, which is below the U.S. median family income of $70,850. Based on this, residents in West Oakland are considered to be of a lower socioeconomic status. As mentioned previously, organic food has no chemical fertilizers or pesticides. Columbia Electronic Encyclopedia, the 6th Edition. 2019, states that “organic farming requires more manual labor and attention” (“Organic Food”), so its price is higher than conventional food. Take salted butter as an example; one box of four bars of organic salted butter costs $5.29, while one box of non-organic salted butter only costs $3.49 (as listed on the Whole Foods website). Additionally, as reported by an article, “Socioeconomic Status and Risk Factors for Cardiovascular Disease: Impact of Dietary Mediators,” “Low-income families purchase low-cost items” because “the price of fruit and vegetables was the most determinative barrier in the consumption of these products from low-income families” (Psaltopoulou Chapter: 2.2. Cost). People with lower income may face difficulty living a self-sufficient life, much less purchasing good food.
+Adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu
+## Revising for strong and specific words
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- Think about your verb choice. Can you revise any weak verbs?
+- Are there places where you can make your meaning clearer by using words with more specific meaning? A dictionary or thesaurus may be useful here. Check out information about using a dictionary or thesaurus in our Language Toolkit.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu. License: CC BY.
+## CC Licensed Content: Previously published
+"Strong verbs" and "Specific vs. general words" are adapted from 11.1 "Academic Style" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+
+Links on this section's web page:
+- "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status": https://docs.google.com/document/d/1OAGtg25jl8eLO9hyAULGKSzs5mZiFnvZPR2GxoBeSRE/edit
+
+=== 6.7: Using Active Voice ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.07%3A_Using_Active_Voice
+
+## Active vs. passive voice
+Active voice and passive voice are two ways to structure a verb in a sentence. In figure 6.7.1, we could either say "a bee pollinates a flower," or "a flower is pollinated by a bee." Using active voice usually makes your writing clearer. Active voice keeps the focus on your subject as well as the action and can help your writing feel lively, fresh, and interesting. Using active voice can also help eliminate wordiness.
+(Picture: bee pollinating an oregano flower)
+Figure: Bee pollinating an oregano flower; DSC_1419-crop by Angelica Perduta is licensed under __CC0 1.0.__
+## How active voice improves clarity
+So, what’s the difference between active voice and passive voice? Let's look at some examples:
+Notice this!
+Read the following sentences. What do you notice about them? What is similar? What is different?
+- Passive voice: The strawberry industry has been scrutinized over the past several years.
+- Active voice: Over the past several years, environmental regulators have scrutinized the strawberry industry.
+Passive voice occurs when the writer places the grammatical object (in this case, *the strawberry industry*) in the subject position in a sentence. Therefore, the actual subject of the sentence is in the object position (at the end) or missing. In passive voice, the verb is in past participle ( “to be” + “ed” verb) form (in this case, *has been scrutinized*). Looking for this verb form is one of the easiest ways to tell if a sentence is in passive voice. By revising the sentence in active voice, we focus on the subject (*environmental regulators*) and their actions.
+Here’s another example. The subject appears in both active and passive voice, but its position is different between the two sentences.
+- Passive voice: Documentation of pesticide use is required by regulators.
+- Active voice: Regulators require documentation of pesticide use.
+Passive voice pulls the focus away from the subject’s actions. The revision to active voice changes that, and the sentence becomes more lively.
+## Is passive voice ever okay?
+Passive voice can sometimes be acceptable when you want to keep the focus on **what** was done and not **who** did it, as long as your meaning is still clear. In science writing, for example, writers usually use passive voice in the methods section of research papers and in lab reports because the focus is on the action and the object, not who is doing it.
+Examples:
+- *The compound was heated to 75 degrees celsius.*
+- *Patients in the control group were given a saline solution placebo.*
+- *Respondents who agreed were contacted with follow-up questions.*
+We want to know about the action and who or what received the action, and we don't care so much about which scientist, medical technician, or poll worker actually did the action. In other sections of research papers and most writing, however, you should use active voice if possible.
+## Identifying active vs. passive voice
+Now let's try identifying active versus passive voice and choosing the best sentence:
+Try this!
+These three sentences are all grammatically correct. Which one do you think gets the idea across most clearly and accurately?
+1. The same pesticides that eliminate destructive insects also kill the bees we depend on to pollinate food crops.
+2. Destructive insects are eliminated by pesticides, but the bees we depend on to pollinate food crops are also killed by the application of these chemicals.
+3. Destructive insects are eliminated, but the bees we depend on to pollinate food crops are also killed.
+For suggested answers, see 6.15: Clarity and Style Answer Key.
+## Identifying passive voice in a paragraph
+Now let's try finding examples of passive voice in the student essay:
+Try this!
+Look at the first paragraph of the student essay. Find three sentences that use passive voice when active voice would be more effective. (Some sentences use it more than once). Rewrite those sentences in active voice, drawing attention to the subjects’ actions rather than what was done.
+It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough fresh produce is sold by stores in their communities. Alana Rhone, an Agricultural Economist, states in her and her group’s report, “Low-Income and Low-Supermarket-Access Census Tracts, 2010-2015”, published on 1 January 2017, that there’s a website known as the Food Access Research Atlas (FARA) that “allows users to investigate access to food stores at the census-tract level” (1). According to the United States Department of Agriculture ERS, the measure of food access is based on proximity to the nearest store, and the number of households without a vehicle (“Documentation” para 2). As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and vehicles are not owned by one-third of its residents. For urban areas, such as West Oakland, the USDA specifies that “a tract is considered low access if at least 100 households are more than a ½-mile from the nearest supermarket and have no access to a vehicle” (“Documentation” para 8). Given the facts above, it can reasonably be assumed that if people don’t have a car and taking the bus is needed to access healthy food, it will cause inconvenience and their willingness to purchase healthy food will be diminished.
+For suggested answers, see 6.15: Clarity and Style Answer Key.
+## Revising for active voice
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- Underline one sentence in active voice. Make sure you can identify its features.
+- Can you find instances of passive voice? If so, experiment with revising these sentences.
+## Licenses and Attributions
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu.
+## **CC Licensed Content: Previously published**
+"Active vs. passive voice," "How active voice improves clarity," and "Is passive voice ever OK?" are adapted from 11.6 "Sentence Focus" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+
+Links on this section's web page:
+- "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status": https://docs.google.com/document/d/1OAGtg25jl8eLO9hyAULGKSzs5mZiFnvZPR2GxoBeSRE/edit
+
+=== 6.8: Avoiding Wordiness ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.08%3A_Avoiding_Wordiness
+
+## What is wordiness?
+Sometimes writers use too many words when fewer words will appeal more to their audience and better fit their purpose. This is called “wordiness.” Your sentences can become cluttered like the counter in figure 6.8.1. Eliminating wordiness helps all readers because it makes your ideas clear, direct, and straightforward.
+(Picture: A messy pile of groceries on a kitchen counter)
+Figure: "Into the (Food) Desert: Day 3" by Mark Bonica is licensed under CC BY 2.0
+## Examples of wordiness
+Here are some common examples of wordiness to look for in your draft.
+## Sentences that begin with "There is" or "There are"
+- **Wordy: There is** an abundance of agriculture in California.
+- **Revised:** Agriculture is abundant in California.
+## Empty phrases
+Be careful when you use phrases such as “these days”, "in terms of," “due to the fact that,” "on the subject of," “more or less," and similar expressions. You can usually find a more straightforward way to state your point.
+- **Wordy:** These days, food deserts exist in many parts of the state; a food desert is a place where people do not have access to fresh, affordable foods **due to** a variety of reasons.
+- **Revised:** Food deserts exist in many parts of the state; a food desert is a place where people do not have access to fresh, affordable foods for a variety of reasons.
+## Constructions that can be shortened
+The words and phrases in the following examples can sound important and even formal, but they tend to be empty in meaning and can be eliminated or replaced with more concise wording.
+- **Wordy:** **In order to** combat skepticism about **phenomena such as** gentrification, it’s **absolutely** essential that community members are **invited to be involved** in opening new supermarkets in their own communities.
+- **Revised:** To combat skepticism about gentrification, it’s essential that community members be involved in opening new supermarkets in their own communities.
+## Identifying wordiness
+Now let's take a look at the student essay in terms of wordiness:
+Try this!
+Look again at the introduction to Amanda’s essay.
+- Can you identify some strengths?
+- What suggestions do you have for improvement? Specifically, think about areas of wordiness. What could be phrased more succinctly?
+Have you ever had trouble finding a supermarket when you wanted to purchase fresh vegetables and fruits? Have you ever wondered why there are no supermarkets in certain areas? This phenomenon has become especially evident as people pay more attention to a healthy diet and lean towards purchasing healthy food. As explained by Michael Pollan, a food detective and expert also known as the author of *The Omnivore’s Dilemma,* organic food is considered healthy food due to the fact that “it is grown without chemical fertilizers or pesticides” (133). Even though there are organic grocery stores like Whole Foods seemingly everywhere, it is difficult for some people of lower socioeconomic status, who live in food deserts, to access healthy food due to lack of accessibility and affordability. According to American FactFinder, the median family income in the United States was 70,850 dollars in 2017 (“American FactFinder—Results”). This means that families with a median income below 70,850 dollars are considered in lower socioeconomic status. Gloria Howerton, a professor of the Geography Department at the University of Georgia and the author of “‘Oh Honey, Don't You Know?’ The Social Construction of Food Access in a Food Desert,” mentions that people of lower socioeconomic status usually live in food deserts (741). An area where there’s a lack of fresh vegetables and fruits providers, such as supermarkets or farmer’s markets, is known as a food desert. This paper will attempt to show why it is difficult for people of lower socioeconomic status to access healthy food by examining the area of West Oakland as a case study, as well as discussing solutions that are in place to improve this situation.
+## Revising for wordiness
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- What aspects of wordiness, if any, can you identify?
+- For example, can you find sentences beginning with “there is” or “there are”?
+- What about sentences with empty phrases?
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu.
+## **CC Licensed Content: Previously Published**
+Examples of wordiness adapted from Lynne Bost, et al. *Successful College Composition, Edition 2* "Transitions, Wordiness, and Clarity" from Georgia State University's Perimeter College (CC BY).
+
+Links on this section's web page:
+- "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status": https://docs.google.com/document/d/1OAGtg25jl8eLO9hyAULGKSzs5mZiFnvZPR2GxoBeSRE/edit
+
+=== Answer key from the book: 6.15: Answer Key- Clarity and Style ===
+## 6.3: Finding Your Academic Voice
+## Analyzing academic voice
+The first excerpt starts with a hook -- a question or questions to get the reader interested in the topic. After the hook, Amandaa continues with a personal story in the first person. Next, the writer continues discussing a personal experience. Although this experience is related, it’s not exactly the same topic, and it’s unclear what the main idea is.
+The second excerpt begins the same way, but Amanda continues in the third person and it’s clear that the information is unified around one single topic. The information in the second part of the excerpt clearly relates back to the initial questions.
+Based on what we know about academic writing, the second excerpt, which is a revised version of the first, is a closer fit to our definition. It’s a more effective example of academic writing.
+## 6.7: Using Active Voice
+## Identifying active vs. passive voice
+Sentence 1 is best because it is in active voice: it focuses on the subject (pesticides) doing actions (eliminating, killing) to objects (destructive insects, bees).
+Sentence 2 is in passive voice: it technically conveys the same information, but it focuses on the objects (destructive insects, bees) and adds the subject (pesticides) in a way that sounds like extra information. It's not wrong, but it's less clear.
+Sentence 3 is in passive voice and doesn't name the subject (pesticides) at all.
+## Identifying passive voice in a paragraph
+These sentences use passive voice:
+1. It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough fresh produce is sold by stores in their communities.
+2. As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and vehicles are not owned by one-third of its residents.
+3. Given the facts above, it can reasonably be assumed that if people don’t have a car and taking the bus is needed to access healthy food, it will cause inconvenience and their willingness to purchase healthy food will be diminished.
+How could you revise each sentence to use active voice? Ask yourself who or what is doing the action in each clause, and make that the subject. Here are possible revisions:
+1. It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough stores in their communities sell fresh produce.
+2. As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and one-third of its residents do not own vehicles.
+3. Given the facts above, it can reasonably be assumed that if people don’t have a car and need to take the bus to the market, they will be less willing to purchase healthy food.

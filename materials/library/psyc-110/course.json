@@ -1,0 +1,588 @@
+{
+  "title": "Introduction to Psychology",
+  "url": "https://oyc.yale.edu/introduction-psychology/psyc-110",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (Open Yale Courses)",
+  "lectures": [
+    {
+      "title": "Lecture 1 - Introduction",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-1",
+      "overview": "Professor Paul Bloom welcomes students and presents the course as a comprehensive introduction to the study of the human mind. Course readings and requirements are discussed. The five main branches of psychology are presented: neuroscience, which is a study of the mind by looking at the brain; developmental, which focuses on how people grow and learn; cognitive, which refers to the computational approach to studying the mind; social, which studies how people interact; and clinical, which examines mental health and mental illnesses.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 1",
+        "Stanovich, Keith. \"How to Think Straight about Psychology.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 27-37"
+      ],
+      "chapters": [
+        "Chapter 1. Introduction to and Requirements for the Course [00:03:40]",
+        "Chapter 2. General Goals for the Course [00:10:03]",
+        "Chapter 3. Examples of Materials Covered in the Course [00:13:08]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class01.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_01_011707.mp3",
+      "number": 1,
+      "has_transcript": true,
+      "file": "transcripts/01-introduction.txt",
+      "slide_files": [
+        "slides/01-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 2 - Foundations: This Is Your Brain",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-2",
+      "overview": "This lecture introduces students to two broad theories of how the mind relates to the body. Dualism is the ubiquitous and intuitive feeling that our conscious mind is separate from our physical bodies, whereas Materialism is the idea that all of our mental states are caused by physical states of the brain. This lecture reviews arguments explaining why materialism has become the predominant theory of mind in psychology. This discussion is followed by a basic overview of the neurophysiology of the brain.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 133-167",
+        "Damasio, Antonio R. \"Descartes' Error: Emotion, Reason, and the Human Brain.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 58-69",
+        "Sacks, Oliver. \"The Man Who Mistook His Wife for a Hat and Other Clinical Tales.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 70-79"
+      ],
+      "chapters": [
+        "Chapter 1. The Brain, the Mind and Dualism [00:00:00]",
+        "Chapter 2. Scientific Consensus against Dualism [00:12:06]",
+        "Chapter 3. The Neuron: The Basic Building Blocks of Thought [00:19:28]",
+        "Chapter 4. The Different Parts of the Brain [00:32:58]",
+        "Chapter 5. Mechanist Conception and the Hard Problem of Consciousness [00:44:47]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class02_0.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_02_012207.mp3",
+      "number": 2,
+      "has_transcript": true,
+      "file": "transcripts/02-foundations-this-is-your-brain.txt",
+      "slide_files": [
+        "slides/02-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 3 - Foundations: Freud",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-3",
+      "overview": "This lecture introduces students to the theories of Sigmund Freud, including a brief biographical description and his contributions to the field of psychology. The limitations of his theories of psychoanalysis are covered in detail, as well as the ways in which his conception of the unconscious mind still operate in mainstream psychology today.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 558-563, 632-637",
+        "Freud, Sigmund. \"The Unconscious.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 12-17"
+      ],
+      "chapters": [
+        "Chapter 1. Sigmund Freud in a Historical Context [00:00:00]",
+        "Chapter 2. Unconscious Motivation: The Id, Ego and Superego [00:06:51]",
+        "Chapter 3. Personality Development and Psychosexual Development [00:13:46]",
+        "Chapter 4. Defense Mechanisms, the Aims of Psychoanalysis, Dreams [00:20:32]",
+        "Chapter 5. Question and Answer on Freud's Theories [00:29:02]",
+        "Chapter 6. Controversies and Criticisms on Freud's Theories [00:32:56]",
+        "Chapter 7. Examples of the Unconscious in Modern Psychology [00:42:10]",
+        "Chapter 8. Further Question and Answer on Freud [00:51:55]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class03.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_03_012407.mp3",
+      "number": 3,
+      "has_transcript": true,
+      "file": "transcripts/03-foundations-freud.txt",
+      "slide_files": [
+        "slides/03-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 4 - Foundations: Skinner",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-4",
+      "overview": "Professor Bloom opens with a brief discussion of the value and evolutionary basis of unconscious processing. The rest of this lecture introduces students to the theory of Behaviorism, particularly the work of prominent behaviorist, B. F. Skinner. Different types of learning are discussed in detail, as well as reasons why behaviorism has been largely displaced as an adequate theory of human mental life.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 4",
+        "Chomsky, Noam. \"A Review of B. F. Skinner's Verbal Behavior.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 129-137",
+        "Watson, John B. and Rosalie Rayner. \"Conditional Emotional Reactions.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 117-129"
+      ],
+      "chapters": [
+        "Chapter 1. A Brief Review on the Unconscious [00:00:00]",
+        "Chapter 2. B. F. Skinner and Behaviorism [00:06:38]",
+        "Chapter 3. Habituation: The Very Simplest Form of Learning [00:11:45]",
+        "Chapter 4. Classical Conditioning: Associating Stimulus [00:14:25]",
+        "Chapter 5. Operant Conditioning: Operating on the Environment [00:31:19]",
+        "Chapter 6. Question and Answer on Behaviorism [00:45:12]",
+        "Chapter 7. Controversies and Criticisms on Behaviorism [00:46:44]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class04.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_04_012907.mp3",
+      "number": 4,
+      "has_transcript": true,
+      "file": "transcripts/04-foundations-skinner.txt",
+      "slide_files": [
+        "slides/04-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 5 - What Is It Like to Be a Baby: The Development of Thought",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-5",
+      "overview": "This lecture explores issues and ideas related to the branch of psychology known as cognitive development. It begins with an introduction of Piaget who, interested in the emergence of knowledge in general, studied children and the way they learn about the world in order to formulate his theories of cognitive development. This is followed by an introduction to the modern science of infant cognition. Finally, the question of the relationship between and the existence of different kinds of development is addressed.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 11",
+        "Gopnik, Alison, Patricia Kuhl, and Andrew Meltzoff. \"The Scientist in the Crib: Minds, Brains, and How Children Learn.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 146-153"
+      ],
+      "chapters": [
+        "Chapter 1. Jean Piaget, Stage Theory and Its Limits [00:00:00]",
+        "Chapter 2. The Modern Science of Infant Cognition [00:12:50]",
+        "Chapter 3. Babies in the Social World [00:25:14]",
+        "Chapter 4. Question and Answer on Learning and Development [00:31:26]",
+        "Chapter 5. Review of Studies Presented in Class; Autism [00:33:54]",
+        "Chapter 6. Question and Answer on Autism [00:40:40]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class05.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_05_013107.mp3",
+      "number": 5,
+      "has_transcript": true,
+      "file": "transcripts/05-what-is-it-like-to-be-a-baby-the-development-of-thought.txt",
+      "slide_files": [
+        "slides/05-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 6 - How Do We Communicate?: Language in the Brain, Mouth and the Hands",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-6",
+      "overview": "One of the most uniquely human abilities is the capacity for creating and understanding language. This lecture introduces students to the major topics within the study of language: phonology, morphology, syntax and recursion. This lecture also describes theories of language acquisition, arguments for the specialization of language, and the commonalities observed in different languages across cultures.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 11",
+        "Pinker, Steven. \"The Language Instinct: How the Mind Creates Language.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 97-107",
+        "Baker, Mark C. \"The Atoms of Language: The Mind's Hidden Rules of Grammar.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 108-114"
+      ],
+      "chapters": [
+        "Chapter 1. The Scientific Notion of Language and Structure [00:00:00]",
+        "Chapter 2. Phonology: A System of Sounds [00:15:53]",
+        "Chapter 3. Morphology: A System of Words [00:24:07]",
+        "Chapter 4. Syntax: Communicating Complicated Ideas [00:27:21]",
+        "Chapter 5. Question and Answer on Language Structure [00:35:21]",
+        "Chapter 6. Noam Chomsky and Language Acquisition [00:39:10]",
+        "Chapter 7. The Time Course of Language Acquisition [00:47:07]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class06.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_06_020507.mp3",
+      "number": 6,
+      "has_transcript": true,
+      "file": "transcripts/06-how-do-we-communicate-language-in-the-brain-mouth-and-the-ha.txt",
+      "slide_files": [
+        "slides/06-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 7 - Conscious of the Present; Conscious of the Past: Language (cont.); Vision and Memory",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-7",
+      "overview": "This lecture finishes the discussion of language by briefly reviewing two additional topics: communication systems in non-human primates and other animals, and the relationship between language and thought. The majority of this lecture is then spent on introducing students to major theories and discoveries in the fields of perception, attention and memory. Topics include why we see certain visual illusions, why we don't always see everything we think we see, and the relationship between different types of memory.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapters 8 and 9",
+        "Hoffman, Donald D. \"Visual Intelligence: How We Create What We See.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 81-90",
+        "Hughes, Howard C. \"Sensory Exotica: A World Beyond Human Experience.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 91-95",
+        "Schacter, Daniel L. \"Searching for Memory: The Brain, the Mind, and the Past.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 165-176"
+      ],
+      "chapters": [
+        "Chapter 1. Non-human Communication [00:00:00]",
+        "Chapter 2. The Relationship between Language and Thought [00:09:16]",
+        "Chapter 3. Question and Answer on Language [00:12:39]",
+        "Chapter 4. Introduction to the Complexity of Perception and Expectation [00:18:06]",
+        "Chapter 5. Linking Attention and Memory [00:39:15]",
+        "Chapter 6. Question and Answer on Attention and Memory [00:58:04]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class07.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_07_020707.mp3",
+      "number": 7,
+      "has_transcript": true,
+      "file": "transcripts/07-conscious-of-the-present-conscious-of-the-past-language-cont.txt",
+      "slide_files": [
+        "slides/07-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 8 - Conscious of the Present; Conscious of the Past: Vision and Memory (cont.)",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-8",
+      "overview": "In this lecture, Professor Bloom reviews the basic psychological research on memory. Specific topics covered include the different memory types, memory limitations, strategies that improve memory, and memory disorders. This lecture also includes a discussion of several important social implications for memory research, such as recovered memories, and the influence of suggestibility on eyewitness testimony.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapters 8 and 9",
+        "Hoffman, Donald D. \"Visual Intelligence: How We Create What We See.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 81-90",
+        "Hughes, Howard C. \"Sensory Exotica: A World Beyond Human Experience.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 91-95",
+        "Schacter, Daniel L. \"Searching for Memory: The Brain, the Mind, and the Past.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 165-176"
+      ],
+      "chapters": [
+        "Chapter 1. Distinctions between Short-Term and Long-Term Memory [00:00:00]",
+        "Chapter 2. How Structure and Organization Affects Long-Term Memory [00:13:22]",
+        "Chapter 3. Memory Retrieval [00:18:29]",
+        "Chapter 4. Memory Failure [00:25:51]",
+        "Chapter 5. The Power of Suggestion on Memory [00:37:15]",
+        "Chapter 6. Hypnosis, Repressed Memory and Flashbulb Memories [00:44:56]",
+        "Chapter 7. Question and Answer on Memory [00:52:47]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class08.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_08_021207.mp3",
+      "number": 8,
+      "has_transcript": true,
+      "file": "transcripts/08-conscious-of-the-present-conscious-of-the-past-vision-and-me.txt",
+      "slide_files": [
+        "slides/08-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 9 - Evolution, Emotion, and Reason: Love (Guest Lecture by Professor Peter Salovey)",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-9",
+      "overview": "Guest lecturer Peter Salovey, Professor of Psychology and Provost of Yale University, introduces students to the dominant psychological theories of love and attraction. Specific topics include the different types of love, the circumstances that predict attraction, and the situations where people mistakenly attribute arousal for love.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 456-458"
+      ],
+      "chapters": [
+        "Chapter 1. Introduction to Dr. Peter Salovey [00:00:00]",
+        "Chapter 2. Defining Love and Its Permutations [00:02:02]",
+        "Chapter 3. The Social Psychology of Love and Attraction [00:16:22]",
+        "Chapter 4. Misattribution for the Causes of Arousal [00:43:53]",
+        "Chapter 5. Question and Answer [01:03:46]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class09.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_09_021407.mp3",
+      "number": 9,
+      "has_transcript": true,
+      "file": "transcripts/09-evolution-emotion-and-reason-love-guest-lecture-by-professor.txt",
+      "slide_files": [
+        "slides/09-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 10 - Evolution, Emotion, and Reason: Evolution and Rationality",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-10",
+      "overview": "This lecture introduces students to the study of psychology from an evolutionary perspective, the idea that like the body, natural selection has shaped the development of the human mind. Prominent arguments for and against the theory of natural selection and its relationship to human psychology are reviewed. Students will hear several examples of how studying mental phenomenon from an evolutionary perspective can help constrain theories in psychology as well as explain many prevalent human instincts that underlie many of our most basic behaviors and decisions.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 61-68, 345-351",
+        "Pinker, Steven. \"How the Mind Works.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 39-44"
+      ],
+      "chapters": [
+        "Chapter 1. The Modern Biological Account of the Origin of Psychological Phenomena [00:00:00]",
+        "Chapter 2. Avoiding Misconceptions When Applying Evolutionary Theory to Psychology [00:13:35]",
+        "Chapter 3. Claims against the Evolutionary Psychology [00:22:39]",
+        "Chapter 4. Ways in Which Evolution Helps Describe the Mind [00:26:42]",
+        "Chapter 5. Heuristics: Framing Effects, Base Rates, Availability Bias and Confirmation Bias [00:39:48]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class10.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_10_021907.mp3",
+      "number": 10,
+      "has_transcript": true,
+      "file": "transcripts/10-evolution-emotion-and-reason-evolution-and-rationality.txt",
+      "slide_files": [
+        "slides/10-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 11 - Evolution, Emotion, and Reason: Emotions, Part I",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-11",
+      "overview": "This class is an introduction to the evolutionary analysis of human emotions, how they work, why they exist, and what they communicate. In particular, this lecture discusses three interesting case studies, that of happiness (e.g., smiling), fear and the emotions we feel towards our relatives. Finally, this lecture ends with a brief discussion of babies' emotional responses to their caregivers.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 61-68, 345-351",
+        "Pinker, Steven. \"How the Mind Works.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 39-44"
+      ],
+      "chapters": [
+        "Chapter 1. The Different Functions of Emotions [00:00:00]",
+        "Chapter 2. Phineas Gage and the Loss of Emotional Capacity [00:09:06]",
+        "Chapter 3. Facial Expressions and Smiles in Particular [00:15:45]",
+        "Chapter 4. Question and Answer on Smiles [00:28:08]",
+        "Chapter 5. Non-social Emotions: Fear [00:32:22]",
+        "Chapter 6. Social Emotions and Altruism [00:36:29]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class11.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_11_022107.mp3",
+      "number": 11,
+      "has_transcript": true,
+      "file": "transcripts/11-evolution-emotion-and-reason-emotions-part-i.txt",
+      "slide_files": [
+        "slides/11-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 12 - Evolution, Emotion, and Reason: Emotions, Part II",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-12",
+      "overview": "Professor Bloom continues the discussion of emotions as useful evolutionary adaptations for dealing with our social environment. In particular, this lecture describes evolutionary explanations for several important emotional responses, such as the love between parents and their offspring, the gratitude we feel towards cooperative behaviors, the spite we feel for cheaters, and the cultural differences in feelings of revenge.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 68-75, 212-223, 522-527",
+        "Ekman, Paul. \"Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 245-254"
+      ],
+      "chapters": [
+        "Chapter 1. Emotional Responses to Caregivers and Kin [00:00:00]",
+        "Chapter 2. Question and Answer on Emotions towards Kin [00:15:44]",
+        "Chapter 3. Evolutionary Explanations for Emotional Responses [00:18:16]",
+        "Chapter 4. Cooperative Behavior and the Prisoner's Dilemma [00:25:20]",
+        "Chapter 5. The Ultimatum Game, Rationality and Irrationality [00:40:44]",
+        "Chapter 6. Cultures of Honor [00:49:21]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class12.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_12_022607.mp3",
+      "number": 12,
+      "has_transcript": true,
+      "file": "transcripts/12-evolution-emotion-and-reason-emotions-part-ii.txt",
+      "slide_files": [
+        "slides/12-slides.pdf"
+      ]
+    },
+    {
+      "title": "Guest Lecture 1 - Brain and Perception (Guest Lecture by Professor Marvin Chun)",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/guest-lecture-1",
+      "overview": "This lecture provided an overview of brain function, using the specific example of how people recognize and discriminate faces. In addition to a basic summary of neuronal function and brain organization, we discussed the different methods that scientists use to elucidate brain function. These methods include psychophysics, single-cell electrophysiology, functional brain imaging, and neuropsychology. Using these methods, scientists have discovered that the brain contains special mechanisms dedicated to face processing. Damage to these brain regions causes face blindness.",
+      "readings": [],
+      "chapters": [],
+      "slides": [],
+      "audio": null,
+      "number": 13,
+      "has_transcript": false,
+      "file": "transcripts/13-brain-and-perception-guest-lecture-by-professor-marvin-chun.txt",
+      "slide_files": []
+    },
+    {
+      "title": "Lecture 13 - Why Are People Different?: Differences",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-13",
+      "overview": "Why are people different from one another? This lecture addresses this question by reviewing the latest theories and research in psychology on two traits in particular: personality and intelligence. Students will hear about how these traits are measured, why they may differ across individuals and groups, and whether they are influenced at all by one's genes, parents or environment.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 49-61, 362-380, 423-444, 538-557",
+        "Herrnstein, Richard J. and Charles Murray. \"The Bell Curve: Intelligence and Class Structure in American Life.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 188-198",
+        "Harris, Judith Rich. \"The Nurture Assumptions: Why Children Turn Out the Way They Do.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 291-303",
+        "Gladwell, Malcolm. \"Personality Plus.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 304-316"
+      ],
+      "chapters": [
+        "Chapter 1. Personality, Intelligence and Determining Difference [00:00:00]",
+        "Chapter 2. Measuring Personality with \"The Big Five\" [00:13:53]",
+        "Chapter 3. Defining and Measuring Intelligence [00:19:47]",
+        "Chapter 4. Question and Answer on Personality and Intelligence [00:30:29]",
+        "Chapter 5. The Roles of Genes and Environment in Explaining Human Differences [00:36:33]",
+        "Chapter 6. Genes, Environment and Intelligence [00:51:16]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class13.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_13_030707.mp3",
+      "number": 14,
+      "has_transcript": true,
+      "file": "transcripts/14-why-are-people-different-differences.txt",
+      "slide_files": [
+        "slides/14-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 14 - What Motivates Us: Sex",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-14",
+      "overview": "This lecture reviews what evolutionary theories and recent studies in psychology can tell us about sex and gender differences. Students will hear how psychology can help explain many of the differences that exist in whom we find attractive, what we desire in a mate, and sexual orientation.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), pp. 76-82, 195-201",
+        "Angier, Natalie. \"Woman: An Intimate Biography.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 255-262"
+      ],
+      "chapters": [
+        "Chapter 1. Addressing Morality and Inevitability on Evolution, Sex and Gender [00:00:00]",
+        "Chapter 2. Basic Sex Ed [00:10:48]",
+        "Chapter 3. Sex Differences among Humans [00:19:22]",
+        "Chapter 4. Beauty: An Average Face [00:32:16]",
+        "Chapter 5. Social Factors for Sex Differences [00:38:24]",
+        "Chapter 6. Sexual Orientation [00:45:53]",
+        "Chapter 7. Question and Answer on Sex and Gender [00:51:39]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class14.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_14_032607.mp3",
+      "number": 15,
+      "has_transcript": true,
+      "file": "transcripts/15-what-motivates-us-sex.txt",
+      "slide_files": [
+        "slides/15-slides.pdf"
+      ]
+    },
+    {
+      "title": "Guest Lecture 2 - The Psychology, Biology, and Politics of Food (Guest Lecture by Professor Kelly Brownell)",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/guest-lecture-2",
+      "overview": "This lecture covers the reasons people eat what they do, the benefits and disadvantages of modern food and agriculture approaches, and what might be done to improve diet in the U.S. and around the world. Several areas of emphasis are economic factors that drive food choices, how biology intersects with food marketing practices, and how the food industry figures in this picture. Novel approaches to changing nutrition through legislation and legal approaches is a key area of focus.",
+      "readings": [
+        "Brownell. K.D., and Yach, D. \"The Battle of the Bulge.\" Foreign Policy (November/December 2005). pp. 26-27",
+        "Brownell, K.D., and Willett, W.C. \"Choose to Remove Trans Fats (OpEd).\" San Francisco Chronicle (October 18, 2006). pp. B8",
+        "Yach, D, Stuckler, D., and Brownell, K.D. \"Epidemiologic and Economic Consequences of the Global Epidemics of Obesity and Diabetes.\" Nature Medicine, 12 (2006). pp. 62-66",
+        "Brownell, K.D., and Nestle, M. \"The Sweet and Lowdown on Sugar (OpEd).\" New York Times (January 23, 2004). pp. A23"
+      ],
+      "chapters": [],
+      "slides": [],
+      "audio": null,
+      "number": 16,
+      "has_transcript": false,
+      "file": "transcripts/16-the-psychology-biology-and-politics-of-food-guest-lecture-by.txt",
+      "slide_files": []
+    },
+    {
+      "title": "Lecture 15 - A Person in the World of People: Morality",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-15",
+      "overview": "Professor Bloom provides an introduction to psychological theories of morality. Students will learn how research in psychology has helped answer some of the most central questions about human morality. For instance, which emotions are \"moral\" and why did these moral feelings evolve? What factors guide our moral judgments? And what factors predict when good people will do bad things?",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 14",
+        "Cialdini, Robert B. \"Influence: The Psychology of Persuasion.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 265-272"
+      ],
+      "chapters": [
+        "Chapter 1. Introduction [00:00:00]",
+        "Chapter 2. Kin Selection, Cooperation and Moral Feelings [00:02:43]",
+        "Chapter 3. Moral Reasoning and Moral Judgments [00:23:07]",
+        "Chapter 4. Milgram's Work in the Context of Morality [00:38:48]",
+        "Chapter 5. Two Forces for Evil, Two Forces for Good [00:46:20]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class15.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_15_040407.mp3",
+      "number": 17,
+      "has_transcript": true,
+      "file": "transcripts/17-a-person-in-the-world-of-people-morality.txt",
+      "slide_files": [
+        "slides/17-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 16 - A Person in the World of People: Self and Other, Part I",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-16",
+      "overview": "This is the first of two lectures on social psychology, the study of how we think about ourselves, other people, and social groups. Students will hear about the famous \"six degrees of separation\" phenomenon and how it illuminates important individual differences in social connectedness. This lecture also reviews a number of important biases that greatly influence how we think of ourselves as well as other people.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 13"
+      ],
+      "chapters": [
+        "Chapter 1. Social Psychology and Connections between People [00:00:00]",
+        "Chapter 2. Aspects of the Self: The Spotlight and Transparency Effects [00:15:56]",
+        "Chapter 3. Aspects of the Self: You're Terrific! [00:22:40]",
+        "Chapter 4. Aspects of the Self: Cognitive Dissonance [00:27:01]",
+        "Chapter 5. Self and the Other [00:40:00]",
+        "Chapter 6. How We Think about Other People [00:50:03]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class16.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_16_040907.mp3",
+      "number": 18,
+      "has_transcript": true,
+      "file": "transcripts/18-a-person-in-the-world-of-people-self-and-other-part-i.txt",
+      "slide_files": [
+        "slides/18-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 17 - A Person in the World of People: Self and Other, Part II; Some Mysteries: Sleep, Dreams, and Laughter",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-17",
+      "overview": "This lecture begins with the second half of the discussion on social psychology. Students will learn about several important factors influencing how we form impressions of others, including our ability to form rapid impressions about people. This discussion focuses heavily upon stereotypes, including a discussion of their utility, reliability, and the negative effects that even implicit stereotypes can incur. The second half of the lecture introduces students to two prominent mysteries in the field of psychology. First, students will learn what is known and unknown about sleep, including why we sleep, the different types of sleep, disorders, and of course, dreams, what they are about and why we have them. Second, this half reviews how laughter remains a mysterious and interesting psychological phenomenon. Students will hear theories that attempt to explain what causes us to laugh and why, with a particular emphasis on current evolutionary theory.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 16"
+      ],
+      "chapters": [
+        "Chapter 1. Introduction [00:00:00]",
+        "Chapter 2. First and Fast: How We Form Impressions of Others [00:01:39]",
+        "Chapter 3. Positive Uses and Negative Effects of Stereotypes [00:11:15]",
+        "Chapter 4. Implicit Attitudes [00:27:19]",
+        "Chapter 5. Question and Answer on Stereotypes [00:34:47]",
+        "Chapter 6. The Minor Mystery of Sleep [00:38:09]",
+        "Chapter 7. The Greater Mystery of Dreams [00:44:49]",
+        "Chapter 8. The True Mystery of Laughter [51:31]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class17.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_17_041607.mp3",
+      "number": 19,
+      "has_transcript": true,
+      "file": "transcripts/19-a-person-in-the-world-of-people-self-and-other-part-ii-some-.txt",
+      "slide_files": [
+        "slides/19-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 18 - What Happens When Things Go Wrong: Mental Illness, Part I (Guest Lecture by Professor Susan Nolen-Hoeksema)",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-18",
+      "overview": "Professor Susan Nolen-Hoeksema describes how modern clinical psychology both identifies and treats various mental disorders. Particular focus is placed upon mood disorders such as bipolar disorder and depression, including current diagnostic criteria and current practices for treatment.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 16",
+        "Nasar, Sylvia. \"A Beautiful Mind: The Life of Mathematical Genius and Nobel Laureate John Nash.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 343-348",
+        "Jamison, Kay Redfield. \"An Unquiet Mind: A Memoir of Moods and Madness.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 349-357"
+      ],
+      "chapters": [
+        "Chapter 1. Introduction to Dr Susan Nolen-Hoeksema [00:00:00]",
+        "Chapter 2. Behavioral Criteria for Accessing Mental Disorders [00:01:36]",
+        "Chapter 3. Unipolar Disorders [00:11:54]",
+        "Chapter 4. Bipolar Disorders [00:21:30]",
+        "Chapter 5. Statistics for Depression [00:30:20]",
+        "Chapter 6. Biological, Cognitive and Interpersonal Theories and Treatments [00:34:04]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class18.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_18_041807.mp3",
+      "number": 20,
+      "has_transcript": true,
+      "file": "transcripts/20-what-happens-when-things-go-wrong-mental-illness-part-i-gues.txt",
+      "slide_files": [
+        "slides/20-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 19 - What Happens When Things Go Wrong: Mental Illness, Part II",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-19",
+      "overview": "This lecture continues to cover one of the most salient areas within the field of psychology known as psychopathology, or clinical psychology. Following a discussion of the different ways of defining mental illness, Professor Bloom reviews several classes of clinical diagnoses including schizophrenia, anxiety disorders, dissociative disorders, and personality disorders. The lecture concludes with a brief introduction to therapy.",
+      "readings": [
+        "Gray, Peter. Psychology (5th edition), chapter 16",
+        "Kramer, Peter D. \"Listening to Prozac: A Psychiatrist Explores Antidepressant Drugs and the Remaking of the Self.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 366-379",
+        "Beck, Aaron T. \"Cognitive Therapy and the Emotional Disorders.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 380-386"
+      ],
+      "chapters": [
+        "Chapter 1. Identifying Mental Illness [00:00:00]",
+        "Chapter 2. Schizophrenia [00:11:30]",
+        "Chapter 3. Anxiety Disorders [00:24:51]",
+        "Chapter 4. Question and Answer on Schizophrenia and Anxiety Disorders [00:30:36]",
+        "Chapter 5. Dissociative Identity Disorders [00:35:02]",
+        "Chapter 6. Question and Answer on Dissociative Identity Disorders [00:44:58]",
+        "Chapter 7. Personality Disorders [00:46:32]",
+        "Chapter 8. Brief History on Therapy [00:54:33]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class19_1.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_19_042307.mp3",
+      "number": 21,
+      "has_transcript": true,
+      "file": "transcripts/21-what-happens-when-things-go-wrong-mental-illness-part-ii.txt",
+      "slide_files": [
+        "slides/21-slides.pdf"
+      ]
+    },
+    {
+      "title": "Lecture 20 - The Good Life: Happiness",
+      "url": "https://oyc.yale.edu/psychology/psyc-110/lecture-20",
+      "overview": "The last lecture in the course wraps up the discussion of clinical psychology with a discussion of treatment efficacy. Does therapy actually work? Professor Bloom summarizes the different types of influences that clinical interventions might have on people who receive therapy. Professor Bloom ends with a review of one of the most interesting research topics in \"positive psychology,\" happiness. What makes us happy? How does happiness vary across person and culture? What is happiness for? Students will hear how the most recent research in psychology attempts to answer these questions and learn how people are surprisingly bad at predicting what will make them happiest.",
+      "readings": [
+        "Csikszentmihalyi, Mihaly. \"Flow: The Psychology of Optimal Experience.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 210-222",
+        "Sapolsky, Robert M. \"Why Zebras Don't Get Ulcers: An Updated Guide to Stress, Stress-Related Diseases, and Coping.\" In The Norton Psychology Reader. Edited by Gary Marcus. New York: W. W. Norton & Company, 2006. pp. 223-232"
+      ],
+      "chapters": [
+        "Chapter 1. How and Why Therapy Works [00:00:00]",
+        "Chapter 2. Question and Answer on Therapy [00:07:48]",
+        "Chapter 3. Happiness and Positive Psychology [00:11:16]",
+        "Chapter 4. Getting Used to Happiness [00:18:59]",
+        "Chapter 5. Closing Remarks [00:42:41]"
+      ],
+      "slides": [
+        "https://oyc.yale.edu/sites/default/files/class20.pdf"
+      ],
+      "audio": "https://oyc.yale.edu/sites/default/files/courses/spring07/psyc110/mp3/psyc110_20_042507.mp3",
+      "number": 22,
+      "has_transcript": true,
+      "file": "transcripts/22-the-good-life-happiness.txt",
+      "slide_files": [
+        "slides/22-slides.pdf"
+      ]
+    }
+  ]
+}

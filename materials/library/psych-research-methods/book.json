@@ -1,0 +1,729 @@
+{
+  "title": "Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)",
+  "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)",
+  "license": "CC BY-NC-SA  4.0",
+  "chapters": [
+    {
+      "title": "00: Front Matter",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter",
+      "sections": [
+        {
+          "title": "TitlePage",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/01%3A_TitlePage",
+          "file": "sections/00.01-titlepage.txt",
+          "words": 16,
+          "media": []
+        },
+        {
+          "title": "InfoPage",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/02%3A_InfoPage",
+          "file": "sections/00.02-infopage.txt",
+          "words": 369,
+          "media": []
+        },
+        {
+          "title": "Table of Contents",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/03%3A_Table_of_Contents",
+          "file": "sections/00.03-table-of-contents.txt",
+          "words": 0,
+          "media": []
+        },
+        {
+          "title": "Licensing",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/04%3A_Licensing",
+          "file": "sections/00.04-licensing.txt",
+          "words": 14,
+          "media": []
+        },
+        {
+          "title": "Authors",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/05%3A_Authors",
+          "file": "sections/00.05-authors.txt",
+          "words": 479,
+          "media": []
+        },
+        {
+          "title": "Preface",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/06%3A_Preface",
+          "file": "sections/00.06-preface.txt",
+          "words": 546,
+          "media": []
+        },
+        {
+          "title": "About this Text",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/07%3A_About_this_Text",
+          "file": "sections/00.07-about-this-text.txt",
+          "words": 1832,
+          "media": []
+        },
+        {
+          "title": "Acknowledgements",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/20%3A_Acknowledgements",
+          "file": "sections/00.08-acknowledgements.txt",
+          "words": 187,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "01: The Science of Psychology",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology",
+      "sections": [
+        {
+          "title": "1.1: Prelude to the Science of Psychology",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.01%3A_Prelude_to_the_Science_of_Psychology",
+          "file": "sections/01.01-prelude-to-the-science-of-psychology.txt",
+          "words": 235,
+          "media": []
+        },
+        {
+          "title": "1.2: Methods of Knowing",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.02%3A_Methods_of_Knowing",
+          "file": "sections/01.02-methods-of-knowing.txt",
+          "words": 1052,
+          "media": []
+        },
+        {
+          "title": "1.3: Understanding Science",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.03%3A_Understanding_Science",
+          "file": "sections/01.03-understanding-science.txt",
+          "words": 1985,
+          "media": []
+        },
+        {
+          "title": "1.4: Goals of Science",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.04%3A_Goals_of_Science",
+          "file": "sections/01.04-goals-of-science.txt",
+          "words": 722,
+          "media": []
+        },
+        {
+          "title": "1.5: Science and Common Sense",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.05%3A_Science_and_Common_Sense",
+          "file": "sections/01.05-science-and-common-sense.txt",
+          "words": 1145,
+          "media": []
+        },
+        {
+          "title": "1.6: Experimental and Clinical Psychologists",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.06%3A_Experimental_and_Clinical_Psychologists",
+          "file": "sections/01.06-experimental-and-clinical-psychologists.txt",
+          "words": 1191,
+          "media": []
+        },
+        {
+          "title": "1.7: The Science of Psychology (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/01%3A_The_Science_of_Psychology/1.07%3A_The_Science_of_Psychology_(Summary)",
+          "file": "sections/01.07-the-science-of-psychology-summary.txt",
+          "words": 1238,
+          "media": [
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/Eut8jMfSA_k"
+            },
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/L5rVH1KGBCY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "02: Overview of the Scientific Method",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method",
+      "sections": [
+        {
+          "title": "2.1: Prelude to the Scientific Method",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.01%3A_Prelude_to_the_Scientific_Method",
+          "file": "sections/02.01-prelude-to-the-scientific-method.txt",
+          "words": 233,
+          "media": []
+        },
+        {
+          "title": "2.2: A Model of Scientific Research in Psychology",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.02%3A_A_Model_of_Scientific_Research_in_Psychology",
+          "file": "sections/02.02-a-model-of-scientific-research-in-psychology.txt",
+          "words": 691,
+          "media": [
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/XToWVxS_9lA"
+            }
+          ]
+        },
+        {
+          "title": "2.3: Finding a Research Topic",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.03%3A_Finding_a_Research_Topic",
+          "file": "sections/02.03-finding-a-research-topic.txt",
+          "words": 2938,
+          "media": [
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/nXNztCLYgxc"
+            },
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/fhhctbaVXvk"
+            },
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/t1ZwgDeX2eQ"
+            }
+          ]
+        },
+        {
+          "title": "2.4: Generating Good Research Questions",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.04%3A_Generating_Good_Research_Questions",
+          "file": "sections/02.04-generating-good-research-questions.txt",
+          "words": 1776,
+          "media": []
+        },
+        {
+          "title": "2.5: Developing a Hypothesis",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.05%3A_Developing_a_Hypothesis",
+          "file": "sections/02.05-developing-a-hypothesis.txt",
+          "words": 2129,
+          "media": []
+        },
+        {
+          "title": "2.6: Designing a Research Study",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.06%3A_Designing_a_Research_Study",
+          "file": "sections/02.06-designing-a-research-study.txt",
+          "words": 1843,
+          "media": []
+        },
+        {
+          "title": "2.7: Analyzing the Data",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.07%3A_Analyzing_the_Data",
+          "file": "sections/02.07-analyzing-the-data.txt",
+          "words": 1181,
+          "media": []
+        },
+        {
+          "title": "2.8: Drawing Conclusions and Reporting the Results",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.08%3A_Drawing_Conclusions_and_Reporting_the_Results",
+          "file": "sections/02.08-drawing-conclusions-and-reporting-the-results.txt",
+          "words": 989,
+          "media": []
+        },
+        {
+          "title": "2.9: Overview of the Scientific Method (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/02%3A_Overview_of_the_Scientific_Method/2.09%3A_Overview_of_the_Scientific_Method_(Summary)",
+          "file": "sections/02.09-overview-of-the-scientific-method-summary.txt",
+          "words": 1422,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "03: Research Ethics",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics",
+      "sections": [
+        {
+          "title": "3.1: Prelude to Research Ethics",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics/3.01%3A_Prelude_to_Research_Ethics",
+          "file": "sections/03.01-prelude-to-research-ethics.txt",
+          "words": 233,
+          "media": [
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/o65l1YAVaYc"
+            }
+          ]
+        },
+        {
+          "title": "3.2: Moral Foundations of Ethical Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics/3.02%3A_Moral_Foundations_of_Ethical_Research",
+          "file": "sections/03.02-moral-foundations-of-ethical-research.txt",
+          "words": 2424,
+          "media": []
+        },
+        {
+          "title": "3.3: From Moral Principles to Ethics Codes",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics/3.03%3A_From_Moral_Principles_to_Ethics_Codes",
+          "file": "sections/03.03-from-moral-principles-to-ethics-codes.txt",
+          "words": 3920,
+          "media": []
+        },
+        {
+          "title": "3.4: Putting Ethics Into Practice",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics/3.04%3A_Putting_Ethics_Into_Practice",
+          "file": "sections/03.04-putting-ethics-into-practice.txt",
+          "words": 2456,
+          "media": []
+        },
+        {
+          "title": "3.5: Research Ethics (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/03%3A_Research_Ethics/3.05%3A_Research_Ethics_(Summary)",
+          "file": "sections/03.05-research-ethics-summary.txt",
+          "words": 1066,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "04: Psychological Measurement",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/04%3A_Psychological_Measurement",
+      "sections": [
+        {
+          "title": "4.1: Prelude to Psychological Measurement",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/04%3A_Psychological_Measurement/4.01%3A_Prelude_to_Psychological_Measurement",
+          "file": "sections/04.01-prelude-to-psychological-measurement.txt",
+          "words": 467,
+          "media": []
+        },
+        {
+          "title": "4.2: Understanding Psychological Measurement",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/04%3A_Psychological_Measurement/4.02%3A_Understanding_Psychological_Measurement",
+          "file": "sections/04.02-understanding-psychological-measurement.txt",
+          "words": 3486,
+          "media": []
+        },
+        {
+          "title": "4.3: Reliability and Validity of Measurement",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/04%3A_Psychological_Measurement/4.03%3A_Reliability_and_Validity_of_Measurement",
+          "file": "sections/04.03-reliability-and-validity-of-measurement.txt",
+          "words": 2659,
+          "media": []
+        },
+        {
+          "title": "4.4: Practical Strategies for Psychological Measurement",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/04%3A_Psychological_Measurement/4.04%3A_Practical_Strategies_for_Psychological_Measurement",
+          "file": "sections/04.04-practical-strategies-for-psychological-measurement.txt",
+          "words": 2769,
+          "media": []
+        },
+        {
+          "title": "4.5: Psychological Measurement (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/04%3A_Psychological_Measurement/4.05%3A_Psychological_Measurement_(Summary)",
+          "file": "sections/04.05-psychological-measurement-summary.txt",
+          "words": 1109,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "05: Experimental Research",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research",
+      "sections": [
+        {
+          "title": "5.1: Prelude to Experimental Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research/5.01%3A_Prelude_to_Experimental_Research",
+          "file": "sections/05.01-prelude-to-experimental-research.txt",
+          "words": 775,
+          "media": []
+        },
+        {
+          "title": "5.2: Experiment Basics",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research/5.02%3A_Experiment_Basics",
+          "file": "sections/05.02-experiment-basics.txt",
+          "words": 3324,
+          "media": []
+        },
+        {
+          "title": "5.3: Experimental Design",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research/5.03%3A_Experimental_Design",
+          "file": "sections/05.03-experimental-design.txt",
+          "words": 3296,
+          "media": []
+        },
+        {
+          "title": "5.4: Experimentation and Validity",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research/5.04%3A_Experimentation_and_Validity",
+          "file": "sections/05.04-experimentation-and-validity.txt",
+          "words": 2161,
+          "media": []
+        },
+        {
+          "title": "5.5: Practical Considerations",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research/5.05%3A_Practical_Considerations",
+          "file": "sections/05.05-practical-considerations.txt",
+          "words": 2907,
+          "media": []
+        },
+        {
+          "title": "5.6: Experimental Research (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/05%3A_Experimental_Research/5.06%3A_Experimental_Research_(Summary)",
+          "file": "sections/05.06-experimental-research-summary.txt",
+          "words": 1237,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "06: Non-Experimental Research",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research",
+      "sections": [
+        {
+          "title": "6.1: Prelude to Nonexperimental Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.01%3A_Prelude_to_Nonexperimental_Research",
+          "file": "sections/06.01-prelude-to-nonexperimental-research.txt",
+          "words": 272,
+          "media": []
+        },
+        {
+          "title": "6.2: Overview of Non-Experimental Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.02%3A_Overview_of_Non-Experimental_Research",
+          "file": "sections/06.02-overview-of-non-experimental-research.txt",
+          "words": 1823,
+          "media": []
+        },
+        {
+          "title": "6.3: Correlational Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.03%3A_Correlational_Research",
+          "file": "sections/06.03-correlational-research.txt",
+          "words": 2886,
+          "media": []
+        },
+        {
+          "title": "6.4: Complex Correlation",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.04%3A_Complex_Correlation",
+          "file": "sections/06.04-complex-correlation.txt",
+          "words": 2630,
+          "media": []
+        },
+        {
+          "title": "6.5: Qualitative Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.05%3A_Qualitative_Research",
+          "file": "sections/06.05-qualitative-research.txt",
+          "words": 2690,
+          "media": []
+        },
+        {
+          "title": "6.6: Observational Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.06%3A_Observational_Research",
+          "file": "sections/06.06-observational-research.txt",
+          "words": 4756,
+          "media": [
+            {
+              "kind": "video",
+              "url": "https://www.youtube.com/embed/KkaXNvzE4pk"
+            }
+          ]
+        },
+        {
+          "title": "6.7: Non-Experimental Research (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.07%3A_Non-Experimental_Research_(Summary)",
+          "file": "sections/06.07-non-experimental-research-summary.txt",
+          "words": 1669,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "07: Survey Research",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research",
+      "sections": [
+        {
+          "title": "7.1: Prelude to Survey Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research/7.01%3A_Prelude_to_Survey_Research",
+          "file": "sections/07.01-prelude-to-survey-research.txt",
+          "words": 337,
+          "media": []
+        },
+        {
+          "title": "7.2: Overview of Survey Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research/7.02%3A_Overview_of_Survey_Research",
+          "file": "sections/07.02-overview-of-survey-research.txt",
+          "words": 1155,
+          "media": []
+        },
+        {
+          "title": "7.3: Constructing Surveys",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research/7.03%3A_Constructing_Surveys",
+          "file": "sections/07.03-constructing-surveys.txt",
+          "words": 3621,
+          "media": []
+        },
+        {
+          "title": "7.4: Conducting Surveys",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research/7.04%3A_Conducting_Surveys",
+          "file": "sections/07.04-conducting-surveys.txt",
+          "words": 2921,
+          "media": []
+        },
+        {
+          "title": "7.5: Survey Research (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research/7.05%3A_Survey_Research_(Summary)",
+          "file": "sections/07.05-survey-research-summary.txt",
+          "words": 1135,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "08: Quasi-Experimental Research",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/08%3A_Quasi-Experimental_Research",
+      "sections": [
+        {
+          "title": "8.1: Prelude to Quasi-Experimental Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/08%3A_Quasi-Experimental_Research/8.01%3A_Prelude_to_Quasi-Experimental_Research",
+          "file": "sections/08.01-prelude-to-quasi-experimental-research.txt",
+          "words": 200,
+          "media": []
+        },
+        {
+          "title": "8.2: One-Group Designs",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/08%3A_Quasi-Experimental_Research/8.02%3A_One-Group_Designs",
+          "file": "sections/08.02-one-group-designs.txt",
+          "words": 1966,
+          "media": []
+        },
+        {
+          "title": "8.3: Non-Equivalent Groups Designs",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/08%3A_Quasi-Experimental_Research/8.03%3A_Non-Equivalent_Groups_Designs",
+          "file": "sections/08.03-non-equivalent-groups-designs.txt",
+          "words": 1975,
+          "media": []
+        },
+        {
+          "title": "8.4: Quasi-Experimental Research (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/08%3A_Quasi-Experimental_Research/8.04%3A_Quasi-Experimental_Research_(Summary)",
+          "file": "sections/08.04-quasi-experimental-research-summary.txt",
+          "words": 464,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "09: Factorial Designs",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/09%3A_Factorial_Designs",
+      "sections": [
+        {
+          "title": "9.1: Factorial Designs",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/09%3A_Factorial_Designs/9.01%3A_Factorial_Designs",
+          "file": "sections/09.01-factorial-designs.txt",
+          "words": 295,
+          "media": []
+        },
+        {
+          "title": "9.2: Setting Up a Factorial Experiment",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/09%3A_Factorial_Designs/9.02%3A_Setting_Up_a_Factorial_Experiment",
+          "file": "sections/09.02-setting-up-a-factorial-experiment.txt",
+          "words": 2108,
+          "media": []
+        },
+        {
+          "title": "9.3: Interpreting the Results of a Factorial Experiment",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/09%3A_Factorial_Designs/9.03%3A_Interpreting_the_Results_of_a_Factorial_Experiment",
+          "file": "sections/09.03-interpreting-the-results-of-a-factorial-experiment.txt",
+          "words": 2647,
+          "media": []
+        },
+        {
+          "title": "9.4: Factorial Designs (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/09%3A_Factorial_Designs/9.04%3A_Factorial_Designs_(Summary)",
+          "file": "sections/09.04-factorial-designs-summary.txt",
+          "words": 559,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "10: Single-Subject Research",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/10%3A_Single-Subject_Research",
+      "sections": [
+        {
+          "title": "10.1: Single-Subject Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/10%3A_Single-Subject_Research/10.01%3A_Single-Subject_Research",
+          "file": "sections/10.01-single-subject-research.txt",
+          "words": 295,
+          "media": []
+        },
+        {
+          "title": "10.2: Overview of Single-Subject Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/10%3A_Single-Subject_Research/10.02%3A_Overview_of_Single-Subject_Research",
+          "file": "sections/10.02-overview-of-single-subject-research.txt",
+          "words": 1225,
+          "media": []
+        },
+        {
+          "title": "10.3: Single-Subject Research Designs",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/10%3A_Single-Subject_Research/10.03%3A_Single-Subject_Research_Designs",
+          "file": "sections/10.03-single-subject-research-designs.txt",
+          "words": 2605,
+          "media": []
+        },
+        {
+          "title": "10.4: The Single-Subject Versus Group “Debate”",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/10%3A_Single-Subject_Research/10.04%3A_The_Single-Subject_Versus_Group_Debate",
+          "file": "sections/10.04-the-single-subject-versus-group-debate.txt",
+          "words": 2217,
+          "media": []
+        },
+        {
+          "title": "10.5: Single-Subject Research (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/10%3A_Single-Subject_Research/10.05%3A_Single-Subject_Research_(Summary)",
+          "file": "sections/10.05-single-subject-research-summary.txt",
+          "words": 1005,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "11: Presenting Your Research",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research",
+      "sections": [
+        {
+          "title": "11.1: Prelude to Presenting Your Research",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research/11.01%3A_Prelude_to_Presenting_Your_Research",
+          "file": "sections/11.01-prelude-to-presenting-your-research.txt",
+          "words": 143,
+          "media": []
+        },
+        {
+          "title": "11.2: American Psychological Association (APA) Style",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research/11.02%3A_American_Psychological_Association_(APA)_Style",
+          "file": "sections/11.02-american-psychological-association-apa-style.txt",
+          "words": 3681,
+          "media": []
+        },
+        {
+          "title": "11.3: Writing a Research Report in American Psychological Association (APA) Style",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research/11.03%3A_Writing_a_Research_Report_in_American_Psychological_Association_(APA)_Style",
+          "file": "sections/11.03-writing-a-research-report-in-american-psychological-associat.txt",
+          "words": 4247,
+          "media": []
+        },
+        {
+          "title": "11.4: Other Presentation Formats",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research/11.04%3A_Other_Presentation_Formats",
+          "file": "sections/11.04-other-presentation-formats.txt",
+          "words": 1691,
+          "media": []
+        },
+        {
+          "title": "11.5: Presenting Your Research (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/11%3A_Presenting_Your_Research/11.05%3A_Presenting_Your_Research_(Summary)",
+          "file": "sections/11.05-presenting-your-research-summary.txt",
+          "words": 901,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "12: Descriptive Statistics",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics",
+      "sections": [
+        {
+          "title": "12.1: Describing Single Variables",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.01%3A_Describing_Single_Variables",
+          "file": "sections/12.01-describing-single-variables.txt",
+          "words": 3344,
+          "media": []
+        },
+        {
+          "title": "12.2: Describing Statistical Relationships",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.02%3A_Describing_Statistical_Relationships",
+          "file": "sections/12.02-describing-statistical-relationships.txt",
+          "words": 2943,
+          "media": []
+        },
+        {
+          "title": "12.3: Expressing Your Results",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.03%3A_Expressing_Your_Results",
+          "file": "sections/12.03-expressing-your-results.txt",
+          "words": 2181,
+          "media": []
+        },
+        {
+          "title": "12.4: Conducting Your Analyses",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.04%3A_Conducting_Your_Analyses",
+          "file": "sections/12.04-conducting-your-analyses.txt",
+          "words": 2212,
+          "media": []
+        },
+        {
+          "title": "12.5: Descriptive Statistics (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.05%3A_Descriptive_Statistics_(Summary)",
+          "file": "sections/12.05-descriptive-statistics-summary.txt",
+          "words": 1509,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "13: Inferential Statistics",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics",
+      "sections": [
+        {
+          "title": "13.1: Prelude to Inferential Statistics",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.01%3A_Prelude_to_Inferential_Statistics",
+          "file": "sections/13.01-prelude-to-inferential-statistics.txt",
+          "words": 251,
+          "media": []
+        },
+        {
+          "title": "13.2: Understanding Null Hypothesis Testing",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.02%3A_Understanding_Null_Hypothesis_Testing",
+          "file": "sections/13.02-understanding-null-hypothesis-testing.txt",
+          "words": 2547,
+          "media": []
+        },
+        {
+          "title": "13.3: Some Basic Null Hypothesis Tests",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.03%3A_Some_Basic_Null_Hypothesis_Tests",
+          "file": "sections/13.03-some-basic-null-hypothesis-tests.txt",
+          "words": 5798,
+          "media": []
+        },
+        {
+          "title": "13.4: Additional Considerations",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.04%3A_Additional_Considerations",
+          "file": "sections/13.04-additional-considerations.txt",
+          "words": 3239,
+          "media": []
+        },
+        {
+          "title": "13.5: From the “Replicability Crisis” to Open Science Practices",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.05%3A_From_the_Replicability_Crisis_to_Open_Science_Practices",
+          "file": "sections/13.05-from-the-replicability-crisis-to-open-science-practices.txt",
+          "words": 1260,
+          "media": []
+        },
+        {
+          "title": "13.6: Inferential Statistics (Summary)",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.06%3A_Inferential_Statistics_(Summary)",
+          "file": "sections/13.06-inferential-statistics-summary.txt",
+          "words": 1668,
+          "media": []
+        }
+      ]
+    },
+    {
+      "title": "zz: Back Matter",
+      "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/zz%3A_Back_Matter",
+      "sections": [
+        {
+          "title": "Glossary",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/zz%3A_Back_Matter/02%3A_Glossary",
+          "file": "sections/14.01-glossary.txt",
+          "words": 15674,
+          "media": []
+        },
+        {
+          "title": "Index",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/zz%3A_Back_Matter/10%3A_Index",
+          "file": "sections/14.02-index.txt",
+          "words": 0,
+          "media": []
+        },
+        {
+          "title": "Glossary",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/zz%3A_Back_Matter/20%3A_Glossary",
+          "file": "sections/14.03-glossary.txt",
+          "words": 6069,
+          "media": []
+        },
+        {
+          "title": "Detailed Licensing",
+          "url": "https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/zz%3A_Back_Matter/30%3A_Detailed_Licensing",
+          "file": "sections/14.04-detailed-licensing.txt",
+          "words": 0,
+          "media": []
+        }
+      ]
+    }
+  ]
+}

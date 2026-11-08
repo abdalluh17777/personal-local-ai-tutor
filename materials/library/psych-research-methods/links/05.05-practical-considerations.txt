@@ -1,0 +1,3 @@
+http://imgs.xkcd.com/comics/study.png | http://imgs.xkcd.com/comics/study.png
+http://imgs.xkcd.com/comics/placebo_blocker.png | http://imgs.xkcd.com/comics/placebo_blocker.png
+source content | https://kpu.pressbooks.pub/psychmethods4e

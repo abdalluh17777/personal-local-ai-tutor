@@ -1,0 +1,351 @@
+Lesson 28 material: Grammar: Reported Speech
+English Stage 2 (B2) · Unit 3: Verb Tenses and Narration · The Human Lifespan
+
+=== 8.4: Grammar Presentation-Direct and Indirect (Reported) Speech ===
+From "High-Intermediate Academic Grammar for ESL Students" by Rebecca Al Haider, Reedley College (CC BY 4.0). This section: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/03%3A_Unit_3._Lifespan/08%3A_Chapter_6._Infants/8.04%3A_Grammar_Presentation-Direct_and_Indirect_(Reported)_Speech
+
+Direct speech is repeating the exact words that someone spoke or wrote. When using direct speech, a writer must use quotation marks to show that he/she is quoting exactly what another person said. Direct speech is rarely used by native speakers. Reported speech is saying the same information as in quoted speech, but the speaker or writer uses his or her own words. Reported speech is almost always used by native speakers of English. When using reported speech, the subjects of sentences, the verbs, the possessive adjectives, and locations change from those used in direct speech.
+Examples:
+Direct speech: The man said, “I can’t come to your party.”
+Reported speech: The man said that he couldn’t come to my party.
+Direct speech: My mother always said to me, “I want you home at dinner time.”
+Reported speech: My mother always said to me that she wanted me home at dinner time.
+Direct speech: I asked the old woman, “Can I help you to carry your bags”?
+Reported speech: I asked the old woman if I could help her with her bags.
+Direct Speech: I told my two sons, “I have traveled around the world two times.”
+Reported speech: I told my two sons that I had traveled around the world two times.
+Direct speech: My wife said to my son, “You should have fixed the broken light on your car before you got the ticket.”
+Direct speech: My wife said to my son that he should have changed the broken light on his car before he got a ticket.
+Direct speech: I asked my sons, “Can you help me in my garden on Saturday”?
+Reported speech: I asked my sons if they could help me in my garden on Saturday.
+Direct speech: My sister says, “I want to win the lottery.”
+Reported speech: My sister says that she wants to win the lottery.
+8. Direct speech: My wife told the delivery person, “Put the boxes here.” Reported speech: My wife told the delivery person to put the boxes there.
+For more information on this topic, watch this video: __Reported Speech (Noun Clauses in Indirect Speech)__
+Video: https://youtu.be/mjVznhZn-6Q
+## 3.1.4.1. **Common Error**
+A common error when using reported speech is adding the phrase “according to.” Look at the examples.
+1. According to Claude Steele, stereotype threat affects students’ performance.
+2. According to Claude Steele states stereotype threat affects students’ performance. (incorrect)
+3. Claude Steele states that stereotype threat affects students’ performance.
+When using “according to,” write a comma after the phrase. Then write a complete sentence. It is incorrect to use “according to” and reported speech in the same sentence.
+## 3.1.4.2. **Verb Tense in Direct and Reported Speech**
+| **Number** | **Direct Speech** | **Reported Speech** | **Change** |
+| **1.** | The student said, “I study hard.” | He said *that he studied hard. | simple present to simple past |
+| **2.** | The student **says, “I study hard.” | He says *that he studies hard. | no verb tense change |
+| **3.** | He said, “I am studying hard.” | He said *that he was studying hard. | present progressive to past progressive |
+| **4.** | He said, “I will study hard. | He said *that he would study hard. | simple future will to would |
+| **5.** | He said, “I am going to study hard.” | He said *that he was going to study hard. | future “be going to” to “was/were going to” |
+| **6.** | He **says, “I am going to study hard.” | He says *that he is going to study hard. | no verb tense change |
+| **7.** | He said, “I can study hard.” | He said *that he could study hard. | can to could |
+| **8.** | He said, “I have studied hard. | He said *that he had studied hard. | present perfect to past perfect |
+| **9.** | He **says, “I have studied hard.” | He says *that he has studied hard. | no verb tense change |
+| **10.** | He said, “I studied hard.” | He said *that he had studied hard. | simple past to past perfect |
+| **11.** | He told them, “Do your homework.” | He told them to do their homework. | imperative to infinitive |
+| **12.** | He asked, “Do you want a job?” | He asked if I wanted a job. | yes or no question to if or whether or not (for alternatives) |
+Table 17 Verb Tense in Direct and Reported Speech
+*The word “that” is optional in the reported speech sentences. In fact, native speakers usually do not say the “that.” It is understood to be there by native speakers, however. Common verbs used for reporting words are as follows: say, tell, ask, inquire, respond, answer, reply, state, comment, report, complain, announce, explain, remark, note. In reported speech, these verbs are almost always used in the past tense.
+**When the reporting verb (for example, say) is in the simple present, present perfect, or simple future, the reported speech does not change tense from the direct speech. When the reporting verb is in the present tense, this usually indicates immediate reporting, so the indirect speech is in the simple present.
+## 3.1.4.2.1. **Exercise 3-Verb Changes in Reported Speech**
+Select the appropriate verb tense for the reported speech.
+1. Alex said, “I will be home in August.”
+Reported speech: Alex said he ___________ be home in August.
+a. will
+b. would
+c. is going to be
+2. My sister asked, “Will your son be home in August”?
+Reported speech: My sister asked if my son ___________ be home in August.
+a. will
+b. would
+c. is going to be
+3. I said to my neighbor, “I love to work in my garden.”
+Reported speech: I said to my neighbor that I ___________ to work in my garden.
+a. love
+b. loved
+c. am loving
+4. The woman said to her wife, “We have to fix the broken window.”
+Reported speech: The woman said to her wife that they ___________ to fix the broken window.
+a. have
+b. has
+c. had
+5. “Boys make a lot of noise,” said the tired mother.
+Reported speech: The tired mother said that boys ___________ a lot of noise.
+a. make
+b. made
+c. have made
+6. The boy said to his grandmother, “I love you.”
+Reported speech: The boy said to his grandmother that he ___________ her.
+a. loves
+b. loved
+c. has loved
+7. The policeman asked the driver, “Do you have a driver’s license”?
+Reported speech: The policeman asked the driver if she ___________ a driver’s license.
+a. has
+b. have
+c. had
+8. The teacher told the students, “Bring your books to class tomorrow.”
+Reported speech: The teacher told the students to ___________ their books to class the next day.
+a. bring
+b. brought
+c. bringing
+9. The man said, “The boys are playing soccer.”
+Reported speech: The man said that the boys ___________ soccer.
+a. are playing
+b. were playing
+c. played
+10. The woman said to her friend, “A plane just flew by at a very low altitude.”
+Reported speech: The woman said to her friend that a plane ___________ by at a very low altitude.
+a. just flew
+b. has just flown
+c. had just flown
+11. “The teacher said, “You will be successful.”
+Reported speech: The teacher said that I ___________ be successful.
+a. will
+b. would
+c. must
+## 3.1.4.3. **Other Changes from Direct to Reported Speech**
+| **Direct Speech** | **Reported Speech** |
+| I | he/she |
+| you | I/we/she/he/they (depends who the speaker is referring to) |
+| my | his/her |
+| our | their |
+| your | my/our |
+| here | there |
+| now | then |
+| this/these | that/those |
+| today | [that day] |
+| tomorrow | the next day |
+| yesterday | the day before |
+Table 18 Other Changes from Direct to Reported Speech
+## 3.1.4.3.1. **Exercise 4-Changing Pronouns, Times, and Places in Reported Speech**
+Select the best pronoun, time, or place to complete the reported speech.
+1. The man complained to the restaurant manager, “Please make sure these plates are clean.”
+Reported Speech: The man complained to the restaurant manager to make sure ______ plates were clean.
+a. these
+b. this
+c. those
+2. The man responded to me, “I’ll see you later on tonight.”
+Reported Speech: My mom responded to me that ______ would see ______ later that night.
+a. I; you
+b. she; you
+c. she; me
+3. I inquired of the mechanic, “How much will it cost to repair my car”?
+Reported Speech: I inquired of the mechanic how much it would cost to repair ______ car.
+a. my
+b. your
+c. his
+4. The teacher responded to his student’s question by saying, “I’m sorry, but I don’t know the answer.”
+Reported Speech: The teacher responded to his student’s question by saying that ______ was sorry, but ______ didn’t know the answer.
+a. I
+b. she
+c. he
+5. The worker told his boss, “I can’t come to work tomorrow because I have a doctor’s appointment.”
+Reported Speech: The worker told her boss that she couldn’t come to work ______ because she had a doctor’s appointment.
+a. tomorrow
+b. the next day
+c. yesterday
+6. Ahmed said, “I will pay the bill now.”
+Reported Speech: Ahmed said that he would pay the bill ______.
+a. now
+b. yesterday
+c. then
+7. Aiste asked, “Can I park here?”
+Reported Speech: Aiste asked if she could park ______.
+a. here
+b. anywhere
+c. there
+## 3.1.4.4. **Speech Patterns**
+Direct Speech Pattern
+| **Subject** | **Reporting Verb** | **Direct Statement** |
+| He | said, | “The cake is beautiful.” |
+| He | asked, | “Do you have a pencil I can borrow?” |
+| He | demanded, | “Stop talking!”. |
+Table 19 Direct Speech Pattern
+Indirect Speech Patterns
+| **Subject** | **Reporting Verb** | **Noun/ Pronoun** | **Relative Pronoun/ Conjunction** | **Indirect Speech** |
+| He | said | ∅ | that | the cake was beautiful. |
+| He | asked | (me) | if | I had a pencil he could borrow. |
+| He | demanded | them | ∅ | to stop talking. |
+Table 20 Indirect Speech Patterns
+## 3.1.4.4.1. **Exercise 5-That or If**
+Complete the sentences with that or if.
+1. The boys asked me, “Do you like classical music”?
+Reported speech: The boys asked me _______ I liked classical music.
+a. that
+b. if
+2. The teacher said, “You will not have an exam Friday.”
+Reported speech: The teacher said _______ we would not have an exam Friday.
+a. that
+b. if
+3. When the woman saw the price on the coat, she remarked to her friend, “I think you are crazy if you buy that coat at that price.”
+Reported speech: When the woman saw the price on the coat, she remarked to her friend _______ she thought her friend was crazy if she bought that coat at that price.
+a. that
+b. if
+4. My classmate asked me, “Will you study in the library after class?”
+Reported speech: My classmate asked me _______ I would study in the library after class.
+a. that
+b. if
+5. The mail carrier said, “I haven’t delivered any mail to that house in over a week.”
+Reported speech: The mail carrier said _______ he hadn’t delivered any mail to that house in over a week.
+a. that
+b. if
+6. The president commented to her staff, “This job is going to give me gray hair!”
+Reported speech: The president commented to her staff _______ that job was going to give her gray hair!
+a. that
+b. if
+7. The student asked the teacher, “Do we have to type our essay?”
+Reported speech: The student asked the teacher _______ we had to type our essay.
+a. that
+b. if
+## 3.1.4.5. **Said versus Told**
+The reporting verbs said and told are similar; however, tell is followed by a direct object, but say is not. Look at the examples.
+1. Pedro said, “Turn off the lights.” (Pedro said to turn off the lights.)
+2. Pedro told Danielle, “Turn off the lights.” (Pedro told Danielle to turn off the lights.)
+Notice how the second example has “Danielle” after the reporting verb. This is a direct object and necessary. Said can have an indirect object added. This is another possibility although not common: “Pedro said to Danielle, ‘Turn off the lights.’”
+For more information on this topic, watch this video: __Using ‘Say’ and ‘Tell’ with Noun Clauses__
+Video: https://youtu.be/YyzqwIl5SVI
+(Picture: Image 21 Photo by Pixaby CC BY)
+*Image 21 Photo by* __*Pixaby*__ *CC BY*
+## 3.1.4.5.1. **Exercise 6-Said or Told**
+Complete the sentences with said or told.
+1. The teacher ______ the students that noun clauses are difficult.
+a. said
+b. told
+2. The students ______ that they needed a break.
+a. said
+b. told
+3. The tutor ______ them that she could help at the Learning Center.
+a. said
+b. told
+4. My son ______ his friend that he wanted to play superheroes.
+a. said
+b. told
+5. His friend ______ that he wanted to be Iron Man.
+a. said
+b. told
+6. Hadi ______ that Mariam wanted to be Spider-Man for Halloween.
+a. said
+b. told
+7. Barbara ______ her daughter not to be late.
+a. said
+b. told
+8. Her daughter ______ that she would be home before dark.
+a. said
+b. told
+9. Billy ______ Piper to behave.
+a. said
+b. told
+10. Piper didn’t ______ anything because it’s a dog.
+a. say
+b. tell
+## 3.1.4.6. **Exercise 7-Direct to Indirect Speech**
+Change the sentences from direct to indirect speech. Pay close attention to the verb tenses, pronouns, times, and places.
+Example:
+Direct Speech: I told my two sons, “I have traveled around the world two times.”
+Reported speech: I told my two sons that I had traveled around the world two times.
+1. Direct speech: Jehona asked, “Can you write in Arabic?”
+Indirect speech:
+2. Direct speech: Kaori said, “This is the best ice cream!”
+Indirect speech:
+3. Direct speech: Gulmira said, “I may be late.”
+Indirect speech:
+4. Direct speech: Hui said, “I need to study for the test tomorrow.”
+Indirect speech:
+5. Direct speech: Lina said, “Copy my notes from yesterday.”
+Indirect speech:
+6. Direct speech: Dimitri asked me, “Can you help me understand English grammar?!”
+Indirect speech:
+“Grammar Presentation-Direct and Indirect (Reported) Speech” is derived from “__ESL Grammar: The Way You Like It__” Book 5 by Don Bissonnette licensed under __CC BY-NC__.
+
+Links on this section's web page:
+- Reported Speech (Noun Clauses in Indirect Speech): https://youtu.be/mjVznhZn-6Q
+- Using ‘Say’ and ‘Tell’ with Noun Clauses: https://youtu.be/YyzqwIl5SVI
+
+=== 8.5: Applying Grammar to Reading ===
+From "High-Intermediate Academic Grammar for ESL Students" by Rebecca Al Haider, Reedley College (CC BY 4.0). This section: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/03%3A_Unit_3._Lifespan/08%3A_Chapter_6._Infants/8.05%3A_Applying_Grammar_to_Reading
+
+## 3.1.5.1. **Exercise 8-Reported Speech in Chapter 6’s Reading**
+Reread this chapter’s reading. Complete the chart below with the reporting verbs you find in the reading. The chart has been organized by paragraphs.
+| **Paragraph 1** | **Paragraph 2** | **Paragraph 3** | **Paragraph 4** | **Paragraph 5** |
+| **1.** | 1. | 2. | 1. | 1. | 1. | 2. | 3. |
+Table 21 Exercise 8-Reported Speech in Chapter 6’s Reading
+
+=== 8.6: Communication Practice ===
+From "High-Intermediate Academic Grammar for ESL Students" by Rebecca Al Haider, Reedley College (CC BY 4.0). This section: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/03%3A_Unit_3._Lifespan/08%3A_Chapter_6._Infants/8.06%3A_Communication_Practice
+
+## 3.1.6.1. **Exercise 9-Comic Strips**
+Work with a small group to complete the dialogue for each comic. Then write reported speech for each quote.
+(Picture: Image 22 Bird Audition)
+Image 22 Bird Audition
+(Picture: Image 23 Son Airplane)
+Image 23 Son Airplane
+(Picture: Image 24 Shining on a Flower)
+Image 24 Shining on a Flower
+## 3.1.6.2. **Exercise 10-Words of Wisdom**
+Work with a small group. Assign the topics below to members of your group until all the topics have been assigned. Each member will write a short quote about what the word means to them. Then the other members will take the quote and use reported speech. Use the example to guide you.
+Dasha: Money is life.
+Reported speech: Dasha says that money is life.
+Topics:
+| Money | Love | Friendship | Education | War |
+| Respect | Freedom | Success | Patience | Knowledge |
+*Image 25 Topics for Exercise “Words of Wisdom”*
+
+=== Answer key from the book: 17.6: Chapter 6. Infants ===
+## 6.6.1. **Exercise 1-Listening Comprehension**
+1. d
+2. d
+3. a
+4. b
+## 6.6.2. **Exercise 2-Reading Comprehension**
+1. c
+2. b
+3. d
+## 6.6.3. **Exercise 3-Verb Changes in Reported Speech**
+1. b
+2. b
+3. b
+4. c
+5. b
+6. b
+7. c
+8. a
+9. b
+10. c
+11. b
+## 6.6.4. **Exercise 4-Changing Pronouns, Times, and Places in Reported Speech**
+1. c
+2. c
+3. a
+4. c
+5. b
+6. c
+7. c
+## 6.6.5. **Exercise 5-That or If**
+1. b
+2. a
+3. a
+4. b
+5. a
+6. a
+7. b
+## 6.6.6. **Exercise 6-Said or Told**
+1. b
+2. a
+3. b
+4. b
+5. a
+6. a
+7. b
+8. a
+9. b
+10. a
+## 6.6.7. **Exercise 7-Direct to Indirect Speech**
+1. Jehona asked if I can write in Arabic.
+2. Kaori said that that is the best ice cream.
+3. Gulmira said that she might be late.
+4. Hui said that he needed to study for the test the next day.
+5. Lina said to copy her notes from the day before.
+6. Dimitri asked me if I can help him understand English grammar.
+## 6.6.8. **Exercise 8-Reported Speech in Chapter 6’s Reading**
+| Paragraph 1 | Paragraph 2 | Paragraph 3 | Paragraph 4 | Paragraph 5 |
+| 1. show | 1. propose | 2. feel | 1. claim | 1. note | 1. disagree | 2. claim | 3. claim |

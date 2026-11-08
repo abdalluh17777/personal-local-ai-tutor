@@ -1,0 +1,72 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.12: Answer Key- Analyzing Arguments
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.12%3A_Answer_Key-_Analyzing_Arguments
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## 5.3: Distinguishing Rhetorical Appeals
+## Identifying rhetorical appeals
+1. *pathos*
+2. *ethos*
+3. *logos*
+4. *logos*
+5. *pathos*
+6. *ethos*
+## 5.6: Identifying and Using Logos
+## Practice with syllogisms
+1. regulate those factories or ensure that workers are being paid fairly
+2. boycott
+3. clean air or reducing air pollution
+## Finding deductive logic in a text
+- Major premise: It is better to buy ethically-made products.
+- Minor premise: Studies show that people are not good at remembering information that shows they are making unethical choices.
+- Conclusion: Therefore, marketers and consumers should use strategies that do not depend on people remembering bad information about products.
+or
+- Major premise: Shoppers who consider themselves moral must either 1) not buy an ethically bad product or 2) not know the product is ethically bad.
+- Minor premise: Shoppers are unwilling or unable to stop buying ethically bad products.
+- Conclusion: Therefore, they forget what they know about the product being ethically bad.
+or
+- Major premise: People experience discomfort when their actions do not match their values.
+- Minor premise: Shoppers often take actions that oppose their own values, because they really want the clothing, and it is hard to find products that are ethically made.
+- Conclusion: Therefore, they forget the information about the unethical production as a strategy to ease their discomfort.
+## 5.7: Finding and Refuting Logical Fallacies
+## Identifying logical fallacies
+1. bandwagon/appeal to popularity
+2. appeal to false authority
+3. appeal to tradition
+4. ad hominem
+5. slippery slope
+6. circular reasoning/begging the question
+7. false analogy
+8. anecdotal evidence/hasty generalization
+9. false cause/post hoc
+10. straw man
+11. false dilemma/false dichotomy
+12. appeal to emotion
+## 5.8: Writing Concession and Counterargument
+## Concession/counterargument in action
+**Despite** the clear injustices of garment production, *[This phrase connects the paragraph to the ideas that came before it in the essay. **Despite** signals a change in perspective is coming after the next comma.]*
+some argue that the fashion industry provides work to people with few better choices in developing countries. *[states the other perspective]*
+**Granted,** moving textile production from the U.S. to developing countries created many jobs in areas with struggling economies. *[concedes that the other point has some truth to it; **Granted** is a special connecting word that signals concession.]*
+According to reporter Stephanie Vatz, companies began outsourcing clothing manufacturing jobs in the 1970s, and by 2013, only two percent of clothing was made in the U.S. *[provides text evidence/specific support to explain the previous sentence]*
+The same lack of labor protections that allow terrible working conditions in developing countries also guarantee low labor costs that motivate U.S. companies to relocate their factory sources. *[explains the relationship between the two processes]*
+Benjamin Powell, the director of the Free Market Institute, justifies sweatshop labor, insisting that this model is "part of the process that raises living standards and leads to better working conditions and development over time (qtd. in Ozdamar-Ertekin 3). *[provides text evidence/specific to support the other perspective]*
+This argument is compelling from a distance, *[concession]*
+**but even if** *[signal that a shift is coming up next]* it may be true to some degree when we look at the history of economic development, *[still concession]*
+it disregards the humanity of the garment workers. *[counterargument]*
+These people continue to work long hours in brutal conditions, generating huge profits for the factory and retail owners. Saying that their lives could be even worse without this exploitation is actually just an excuse for greed. *[explanation]*
+## 5.9: Hedging
+## Noticing hedging language
+Examples of hedging language are in [**brackets**]:
+### Unethical amnesia
+We wanted to learn what consumers would do if they had to face the truth. [**Perhaps**] they [**might**] just forget that truth. After all, memory is not a [**particularly**] accurate recording device. For example, recent psychological research [**suggests**] that people experience “unethical amnesia” – a [**tendency**] to forget when they have behaved unethically in the past. So would shoppers also **prefer** to forget when a company exploits workers or engages in other unethical actions? We predicted that they would.
+In a series of studies described in an article published in the Journal of Consumer Research, we explored why consumers’ memories [**might**] fail them when it comes to recalling whether products are ethical. It turns out that there is a predictable pattern for what consumers are [**likely to**] remember (or forget) about the ethicality of products.
+**[In general**,] we found that consumers are worse at remembering bad ethical information about a product, such as that it was produced with child labor or in a polluting manner, than they are at remembering good ethical information—such as that it was made with good labor practices and without much pollution. Our findings [**should**] trouble the many companies now vying for the ethical consumerism market and the people who buy those products.
+## 5.10: Language Toolkit
+## Argumentation terms review
+1. consistent
+2. valid
+3. findings
+4. controversial
+5. factor
+6. contradiction
+This page titled 5.12: Answer Key- Analyzing Arguments was last modified on Sun, 09 Mar 2025 17:17:26 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

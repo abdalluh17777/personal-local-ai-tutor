@@ -1,0 +1,44 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.2: Misplaced and Dangling Modifiers
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.02%3A_Misplaced_and_Dangling_Modifiers
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Identify modifiers.
+2. Learn how to correct misplaced and dangling modifiers.
+A modifier is a word, phrase, or clause that clarifies or describes another word, phrase, or clause. Sometimes writers use modifiers incorrectly, leading to strange and unintentionally humorous sentences. The two common types of modifier errors are called misplaced modifiers and dangling modifiers. If either of these errors occurs, readers can no longer read smoothly. Instead, they become stumped trying to figure out what the writer meant to say. A writer’s goal must always be to communicate clearly and to avoid distracting the reader with strange sentences or awkward sentence constructions. The good news is that these errors can be easily overcome.
+## Misplaced Modifiers
+A misplaced modifier is a modifier that is placed too far from the word or words it modifies. Misplaced modifiers make the sentence awkward and sometimes unintentionally humorous.
+**Incorrect:** She wore a bicycle helmet on her head *that was too large*.
+**Correct:** She wore a bicycle helmet *that was too large* on her head.
+- Notice in the incorrect sentence it sounds as if her head was too large! Of course, the writer is referring to the helmet, not to the person’s head. The corrected version of the sentence clarifies the writer’s meaning.
+Look at the following two examples:
+**Incorrect:** They bought a kitten for my brother *they call Shadow*.
+**Correct:** They bought a kitten *they call Shadow* for my brother.
+- In the incorrect sentence, it seems that the brother’s name is *Shadow*. That’s because the modifier is too far from the word it modifies, which is *kitten*.
+**Incorrect:** The patient was referred to the physician *with stomach pains*.
+**Correct:** The patient *with stomach pains* was referred to the physician.
+- The incorrect sentence reads as if it is the physician who has stomach pains! What the writer means is that the patient has stomach pains.
+Tip
+Simple modifiers like only, almost, just, nearly, and barely often get used incorrectly because writers often stick them in the wrong place.
+**Confusing:** Padam *almost* found fifty cents under the sofa cushions.
+**Repaired:** Padam found *almost* fifty cents under the sofa cushions.
+- How do you *almost* find something? Either you find it or you do not. The repaired sentence is much clearer.
+Exercise :
+On a separate sheet of paper, rewrite the following sentences to correct the misplaced modifiers.
+1. The young lady was walking the dog on the telephone.
+2. I heard that there was a robbery on the evening news.
+3. Uncle Sayed bought a running stroller for the baby that he called “Speed Racer.”
+4. Rolling down the mountain, the explorer stopped the boulder with his powerful foot.
+5. We are looking for a babysitter for our precious six-year-old who doesn’t drink or smoke and owns a car.
+6. The teacher served cookies to the children wrapped in aluminum foil.
+7. The mysterious woman walked toward the car holding an umbrella.
+8. We returned the wine to the waiter that was sour.
+9. Emmanuel spotted a stray puppy driving home from work.
+10. I ate nothing but a cold bowl of noodles for dinner.
+## Dangling Modifiers
+A dangling modifier is a word, phrase, or clause that describes something that has been left out of the sentence. When there is nothing that the word, phrase, or clause can modify, the modifier is said to dangle.
+**Incorrect:** *Riding in the sports car*, the world whizzed by rapidly.
+**Correct:** As Priya was *riding in the sports car*, the world whizzed by rapidly.
+- In the incorrect sentence, *riding in the sports car* is dangling. The reader is left wondering who is riding in the sports car. The writer must tell the reader!
+This page titled 7.2: Misplaced and Dangling Modifiers was last modified on Tue, 01 Sep 2020 19:27:59 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

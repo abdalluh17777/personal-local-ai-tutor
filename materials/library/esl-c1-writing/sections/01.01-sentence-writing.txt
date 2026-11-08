@@ -1,0 +1,62 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+1.1: Sentence Writing
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.01%3A_Sentence_Writing
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Identify the components of a basic sentence.
+2. Identify the four most serious writing errors.
+3. Review sentence structure formation and issues.
+Imagine you are reading a book for school. You need to find important details that you can use for an assignment. However, when you begin to read, you notice that the book has very little punctuation. Sentences fail to form complete paragraphs and instead form one block of text without clear organization. Most likely, this book would frustrate and confuse you. Without clear and concise sentences, it is difficult to find the information you need.
+For both students and professionals, clear communication is important. Whether you are typing an e-mail or writing a report, it is your responsibility to present your thoughts and ideas clearly and precisely. Writing in complete sentences is one way to ensure that you communicate well. This section covers how to recognize and write basic sentence structures and how to avoid some common writing errors.
+## Components of a Sentence
+Clearly written, complete sentences require key information: a subject, a verb and a complete idea. A sentence needs to make sense on its own. Sometimes, complete sentences are also called independent clauses. A clause is a group of words that may make up a sentence. An independent clause is a group of words that may stand alone as a complete, grammatically correct thought. The following sentences show independent clauses.
+[Image: 1.1.1.png]
+Example 
+All complete sentences have at least one independent clause. You can identify an independent clause by reading it on its own and looking for the subject and the verb.
+## Subjects
+When you read a sentence, you may first look for the subject, or what the sentence is about. The subject usually appears at the beginning of a sentence as a noun or a pronoun. A noun is a word that identifies a person, place, thing, or idea. A pronoun is a word that replaces a noun. Common pronouns are *I*, *he*, *she*, *it*, *you*, *they*, and *we*. In the following sentences, the subject is underlined once.
+[Image: 1.1.2.png]
+Example 
+In these sentences, the subject is a person: *Malik*. The pronoun *He* replaces and refers back to *Malik*.
+[Image: 1.1.3.png]
+Example 
+In the first sentence, the subject is a place: *computer lab*. In the second sentence, the pronoun *It* substitutes for *computer lab* as the subject.
+[Image: 1.1.4.png]
+Example 
+In the first sentence, the subject is a thing: *project*. In the second sentence, the pronoun *It* stands in for the *project*.
+Tip
+In this chapter, please refer to the following grammar key:
+[Image: 1.1.Tip.png]
+Figure 
+## Compound Subjects
+A sentence may have more than one person, place, or thing as the subject. These subjects are called compound subjects. Compound subjects are useful when you want to discuss several subjects at once.
+[Image: 1.1.5.png]
+Example 
+## Prepositional Phrases
+You will often read a sentence that has more than one noun or pronoun in it. You may encounter a group of words that includes a preposition with a noun or a pronoun. Prepositions connect a noun, pronoun, or verb to another word that describes or modifies that noun, pronoun, or verb. Common prepositions include *in*, *on*, at, *under*, *near*, *by*, for, *with*, and *about*. A group of words that begin with a preposition is called a prepositional phrase. A prepositional phrase begins with a preposition, and the object of that preposition is a noun. It cannot act as the subject of a sentence. The following circled phrases are examples of prepositional phrases.
+[Image: 1.1.6.png]
+Example 
+## Verbs
+Once you locate the subject of a sentence, you can move on to the next part of a complete sentence: the verb. A verb is often an action word that shows what the subject is doing. A verb can also link the subject to a describing word. There are three types of verbs that you can use in a sentence: action verbs, linking verbs, or helping verbs.
+### Action Verbs
+A verb that connects the subject to an action is called an action verb. An action verb answers the question *what is the subject doing?* In the following sentences, the words underlined twice are action verbs.
+[Image: 1.1.7.png]
+Example 
+### Linking Verbs
+A verb can often connect the subject of the sentence to a describing word. This type of verb is called a linking verb because it links the subject to a describing word. In the following sentences, the words underlined twice are linking verbs.
+[Image: 1.1.8.png]
+Example 
+If you have trouble telling the difference between action verbs and linking verbs, remember that an action verb shows that the subject is doing something, whereas a linking verb simply connects the subject to another word that describes or modifies the subject. A few verbs can be used as either action verbs or linking verbs.
+[Image: 1.1.9.png]
+Example 
+Although both sentences use the same verb, the two sentences have completely different meanings. In the first sentence, the verb describes the boy’s action. In the second sentence, the verb describes the boy’s appearance.
+### Helping Verbs
+A third type of verb you may use as you write is a helping verb. Helping verbs are verbs that are used with the main verb to describe a mood or tense. Helping verbs are usually a form of *be*, *do*, or *have*. The word *can* is also used as a helping verb.
+[Image: 1.1.10.png]
+Example 
+Tip
+Whenever you write or edit sentences, keep the subject and verb in mind. As you write, ask yourself these questions to keep yourself on track:
+**Subject:** Who or what is the sentence about?
+**Verb:** Which word shows an action or links the subject to a description?
+This page titled 1.1: Sentence Writing was last modified on Tue, 01 Sep 2020 19:28:01 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

@@ -1,0 +1,244 @@
+Lesson 14 material: Sentence Essentials 2: Compound and Complex Sentences, Sentence Variety
+English Stage 2 (B2) · Unit 2: Sentences and Paragraph Types · American History
+
+=== Unit 7 Sentence Essentials (part V-VIII) ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-7sentence-essentials/
+
+# V. Sentence structure #2: Compound Sentences
+Too many simple sentences will make your writing sound choppy[3]. Therefore, you can combine the ideas to form compound sentences.
+- Students take classes, and Anna is no exception. (compound)
+- Learning is important, so Maria and Sung are taking three classes. (compound)
+- Maria and Sung study every day; besides, they also work part time. (compound)
+- Maria and Sung are very busy; however, they feel accomplished[4]. (compound)
+**A compound sentence** has two subject-verb groups and uses words such as “and, so, besides, however” to connect the two parts.
+(Picture: a couple with a heart in between)
+a couple with a heart in between
+While a simple sentence is like an independent, unmarried person, a compound sentence is similar to a married couple, each independent but connected by love. That connection (love) is called a **conjunction**.
+There are different types of compound sentences. In this course, you are going to learn the two below:
+- with one of the coordinating conjunctions FANBOYS
+- with an adverbial conjunction
+**Coordinating Conjunctions: FANBOYS**
+| **Coordinating Conjunctions: FANBOYS (for, and, nor, but, or, yet, so)** |
+| for: | to explain a reason | or: | to give a choice |
+| and: | to add a point | yet: | to show an opposite point (stronger) |
+| nor: | to add a negative point | so: | to explain a result |
+| but: | to show an opposite point |
+Compound sentences with FANBOYS should follow the sentence pattern below:
+| **Independent Clause** | **Comma + FANBOYS** | **Another Independent Clause** |
+| Subject + verb | , for | , and | , nor (notes below) | , but | , or | , yet | , so | subject + verb |
+1. We have taken three writing classes, for writing is a very important skill.
+2. We have a writing class, and we like it.
+3. We do not have a test this week, nor are we going to have one next week.
+4. I try to be on time for my writing class, but it’s hard to get up in the morning.
+5. Next semester, I may take another writing class, or I may choose a grammar class.
+6. One of my classmates has failed most tests, yet he does not care.
+7. Writing is challenging, so I am studying very hard.
+**Nor**: The conjunction “nor” requires a slightly different word order: the helping verb comes before the subject. “Nor” already indicates negative, so do not add another “no” or “not”.
+1. I do not like hot dogs, __nor__ do I like hamburgers.
+2. He is not going to the library after class, __nor__ is he going home.
+3. I did not have a good winter break last year, __nor__ did I have a fun spring break.
+*For explanations and practice in helping verbs, please refer to Unit 9 Verb Basics in Academic Writing. (Open Unit 9 here.)*
+Not all the sentences with FANBOYS are compound sentences. They must follow the above format to be called compound sentences.
+- We are taking this writing course __for__ three reasons.(simple)
+- We are taking this writing course, __for__ writing is important. (compound)
+- Last week, we had an editing quiz, a vocabulary quiz, __and__ an oral presentation. (simple)
+- Last week, we had two quizzes, __and__ we did well in both. (compound)
+**Exercise 4.** The following paragraph is about some differences between a university and a community college. Decide whether each sentence is a simple or a compound sentence. Type “S” in the blank if it is a simple sentence and “C” if it is a compound sentence. Explain to your partner why you think so. The first sentence is an example.
+(Picture: University Center at Harper College)
+University Center at Harper College
+[Interactive exercise]
+Task: .
+   A Brief Comparison of Four-Year Universities and Community Colleges High school graduates are often faced with the decision of going to a community college or a four-year university (S). There are advantages and disadvantages to both options [s]. A university often presents more opportunities in course selections, and students usually meet more people from different regions and countries [c]. There are more research opportunities at universities, too [s]. On the other hand, a community college offers the same high quality of education but at a much lower tuition rate [s]. Students are able to live at home, so they save money [c]. Student can also try out different courses and programs, for the tuition is not as expensive as that at a university [c]. If a career program is more suitable for them, they can study for a certificate and then start working. If an academic path is a better fit, they can transfer to a four-year university with the college credits they have already earned at a community college. For many students, community colleges are also more convenient [s]. Those students are able to study, work, and take care of their family at the same time [s]. Neither a community college nor a four-year university is perfect for every student, but both options give excellent educational experiences to all students [c]. Each student should make a decision better for himself or herself [s].
+**Adverbial Conjunctions**
+They are also called transitions, as in the earlier units. This type of compound sentences is more formal.
+| Adverbial Conjunctions (Transitions) |
+| also, besides, furthermore, in addition, moreover… : | to add a point | for example, for instance… : | to give an example |
+| as a result, consequently, therefore, thus… : | to show a result | however, nevertheless… : | to show an opposite point |
+Compound sentences with adverbial conjunctions should follow the sentence pattern below:
+| **Independent Clause** | **Semi Colon + Adverbial Conjunction + Comma** | **Another Independent Clause** |
+| Subject + verb | ; also, | ; besides, | ; furthermore, | ; in addition, | ; moreover, | ; as a result, | ; consequently, | ; therefore, | ; thus, | ; however, | ; nevertheless, | ; for example, | ; for instance, | subject + verb |
+1. The teachers give us lots of materials in class; also, they require us to study in the Language Lab once a week.
+2. I am taking two courses at Harper College; in addition, I have a full-time job.
+3. They have finished all the ESL courses; as a result, they are registering for English 101.
+4. They had studied very hard; therefore, they passed the test with an A.
+5. He liked to go on a vacation; however, he was too busy with his classes.
+6. Many students want to take day classes; nevertheless, they have a job during the day.
+7. We have many tests this semester; for example, we have one editing quiz in the writing class and one unit exam in the reading class every week.
+It is common to break one compound sentence into two simple sentences, with the same adverbial conjunction in the beginning of the second simple sentence. This happens more often when the sentences are long. Put a period after the first independent clause and capitalize the first letter of the adverbial conjunction. Everything else remains the same. There is always a comma after the conjunction.
+| **Independent Clause** | **Period + Adverbial Conjunction + Comma** | **Another Independent Clause** |
+| Subject + verb | **.** Also, | . Besides, | . Furthermore, | . In addition, | . Moreover, | . As a result, | . Consequently, | . Therefore, | . Thus, | . However, | . Nevertheless, | . For example, | . For instance, | subject + verb |
+1. I am taking 2 courses at Harper College. In addition, I have a full time job.
+2. They had studied very hard. Therefore, they passed the test with an A.
+3. He liked to go on a vacation. However, he was too busy with her classes.
+4. We have many tests this semester. For example, we have one editing quiz in the writing class and one unit exam in the reading class every week.
+**Exercise 5.** Use the given adverbial conjunctions to combine the simple sentences into compound sentences. Then use the same conjunctions to write two simple sentences.
+***Example**:*
+*Studying a second language is difficult. It is very useful in finding a job. (however)*
+*Compound sentence: Studying a second language is difficult; however, it is very useful in finding a job.*
+*Two simple sentences: Studying a second language is difficult. However, it is very useful in finding a job.*
+1. Almost all the jobs require good speaking skills. They need good writing skills. (moreover)
+2. Many people from other countries have good technical skills. They need time to perfect their communication skills. (however)
+3. They are highly motivated to learn. They work very hard. (furthermore)
+4. They try different ways to improve. Some of them take classes. (for instance)
+5. They are able to do well at work. Hard work pays off. (therefore)
+# VI. Sentence Structure #3: Complex Sentences
+A complex sentence has at least two subject-verb groups. They are connected with subordinating conjunctions such as “because, as soon as, if”. There are different types of complex sentences. You are focusing on adverbial clauses in this course.
+| Subordinating Conjunctions |
+| as soon as, before, since, until, when, while… | to express a time | although, though, even though… | to show a contrast |
+| as, because, since… | to give a reason | if, unless… | to state condition |
+As you recall, a simple sentence is like an unmarried person living an independent life. A compound sentence resembles[5] a couple living together as two independent adults but connected by love.
+(Picture: a parent pushing a baby in a stroller)
+a parent pushing a baby in a stroller
+A complex sentence is like a parent with a baby. Life is certainly more complex with a baby! The parent is independent, representing the independent clause. The baby is dependent on the parent for food, shelter, love, etc., so the baby resembles the dependent clause.
+**baby : parent = dependent : independent**
+A baby cannot live by himself or herself. In the same way, a dependent clause cannot exist by itself. It must be connected with an independent clause.
+| **Dependent Clause: Subordinating Conjunction + subject + verb + Comma** | Independent Clause |
+| As soon as | Before | After | Since | Until | When | While | As subject + verb, | Because | Although | Even though | Though | If | Unless … | subject + verb |
+1. When I got home, my sister was watching TV.
+2. Because I wanted to finish my homework, I did not go to bed till 12 am this morning.
+3. Although English is a difficult language, I am trying my best to learn it.
+The same complex sentences can also be written as follows. Notice that there is no comma in the middle of the sentence.
+| Independent Clause | **Dependent Clause:** | **Subordinating Conjunction + subject + verb** |
+| Subject + verb | as soon as | before | after | since | until | when | while | as subject + verb | because | although | even though | though | if | unless … |
+1. My sister was watching TV when I got home.
+2. I didn’t go to bed till 12 am this morning because I wanted to finish my homework.
+3. I am trying my best to learn English although it is a difficult language.
+**Exercise 6.** The following sentences are about my classmates**.** Join two simple sentences into a complex one with the subordinating conjunctions given. Use commas where necessary.
+***Example**:*
+*At 9 am yesterday, Jose was listening to the radio. He was driving to Harper. (while)*
+*Complex: At 9 am yesterday, Jose was listening to the radio while he was driving to Harper.*
+1. Priti has decided to travel to Aruba during the semester break. She has always been interested in its culture. (because)
+2. This is Amy’s first year in the U.S. She speaks English fluently. (although)
+3. Lilly did not wake up early on time yesterday. She missed the first part of the class. (as)
+4. Yuri started an ESL class. He arrived in this city. (as soon as)
+5. Max had never used a computer. He liked his first online class. (even though)
+6. Misako ran into her former classmate. She was looking for her new textbook in the bookstore. (while)
+7. At the end of last semester, Kang Sun returned to Korea to visit her family . She had saved enough money for a plane ticket. (after)
+8. The next semester starts two months later. Every student needs to decide what classes to take. (before)
+# VII. Sentence Variety
+Just like a balanced diet that keeps the body healthy, a good piece of writing also uses a variety of sentences including simple, compound, and complex structures. Here are some strategies to help you achieve that.
+1. Try not to repeat the same conjunctions. It is common to overuse[6] words like “and”, “because”. Try a different expression. For example, you may replace “and” with “in addition” and replace “because” with “since”. Change the sentence structure and punctuation accordingly[7].
+2. When you finish writing, count how many simple, compound, and complex sentences you have included. Ideally, the number of each should be comparable[8]. For example, if there are ten simple sentences and only two complex ones, you may combine some of the simple ones to form one or two more complex sentences. On the other hand, too many compound and complex sentences may be hard to read, and you can improve your writing by changing some of them to simple sentences.
+Read the following two paragraphs. Count the number of different sentence types in each paragraph. Discuss which paragraph is better and why.
+#1
+(Picture: Fast Track information session announcement on College website)
+Fast Track information session announcement on College website
+Fast Track Programs
+Harper College has special programs called “Fast Track”. Some students want to finish their study fast. They can choose this option. There are different fast track certificate programs. Each is five to eight weeks long. The certificates include business management, human resources management, web design and interactive media, and others. Each program has a limited number of students, so they can get more personalized[9] interaction with professors. Classes are usually from 6 pm to 10 pm. Students can still work during the day. Besides the certificate programs, there are also fast track degree programs in AAS Degree (Associate in Applied Science) in Business Administration and AAS Degree in Supply Chain Management. Students do not always need to start from the beginning because they can get credit from their previous college or work experience. The fast track programs are convenient and beneficial for many students. It may not suit everyone. The best way to start is to attend an information meeting.
+*Adapted from https://www.harpercollege.edu/fasttrack/index.php. Last retrieved on November 4, 2021.*
+**In this above paragraph, there are 12 simple sentences, 1 compound sentence, and 1 complex sentence**.
+#2
+Fast Track Programs
+Harper College has special programs called “Fast Track”. If some students want to finish their study fast, they can choose this option. There are different fast track certificate programs, and each is five to eight weeks long. The certificates include business management, human resources management, web design and interactive media, and others. Each program has limited number of students, so they can get more personalized interaction with professors. Since classes are usually from 6 pm to 10 pm, students can still work during the day. Besides the certificate programs, there are also fast track degree programs in Associate in Applied Science (AAS) Degree in Business Administration and AAS Degree in Supply Chain Management. Students do not always need to start from the beginning because they can get credit from their previous college or work experience. The fast track programs are convenient and beneficial for many students; however, it may not suit everyone. The best way to start is to attend an information meeting.
+*Adapted from https://www.harpercollege.edu/fasttrack/index.php. Last retrieved on November 4, 2021.*
+**In the #2 improved version, there are 4 simple sentences, 3 compound sentence, and 3 complex sentences. Work with your partner to identify each type of sentences. Discuss why #2 is better.**
+**Exercise 7.** Choose a paragraph you have written this semester and try the following:
+1. Count how many simple, compound, and complex sentences are in it.
+2. In what ways can you edit some of them so that the whole piece has a better balance of different structures?
+# VIII. Unit Review Practice
+**Exercise 8.** Read the following paragraph about the student clubs at Harper College. Identify the types of structures of the underlined sentences. In the boxes, type “simple” for a simple sentence, “compound” for a compound sentence, and “complex” for a complex sentence. The first one is an example. You will get instant feedback on your answers. When you finish the entire exercise, you can retry or see all the answers.
+(Picture: International Students Club doing community service at Feed My Starving Children)
+International Students Club doing community service at Feed My Starving Children
+[Interactive exercise]
+Task: .
+   The Benefits of Student Clubs at Harper College If you miss having fun with fellow students, join a student club ( complex) ! Every year, more than 1400 students participate in at least one club at Harper. There are many student organizations, including International Students Club, Accounting Club, Black Student Union, Environmental Club, Harper Pom and Dance, Spanish Club, Muslim Students Club, Women in Science and Engineer, and many more [simple]. Clubs are open to all students and offer many benefits. Fun and improved communication skills are the top two [simple]. For example, in the International Students Club, there are games, prizes, snacks while students discuss interesting topics such as online learning strategies and cultures from around the world [complex]. Student clubs are also perfect places to train leadership skills. Each club has elected officials, and they are responsible for planning the activities [compound]. They also work with the faculty advisor and promote the club among students [simple]. In addition, if someone wants to create a new club, he or she can contact the Student Involvement Office [complex]. This is another leadership opportunity! The most important benefit is having a sense of connection, support, and contribution. When students become part of such an organization, they feel more connected with others [complex]. This sense of community greatly helps them stay on track in their academic study, so they are able to complete their study successfully [compound]. Students also become acontributing members to the community and the world through clubs [simple]. For instance, during one of the International Students Club community service events, the students went to Feed My Starving Children and packed food boxes for chiildren in the improvished areas in the world. With all these benefits, what excuse do you have for not being involved in a student club [simple]?
+**Exercise 9.** Read the following paragraph about different ways people learn. Identify the types of structures of the underlined sentences. In the boxes, type “simple” for a simple sentence, “compound” for a compound sentence, and “complex” for a complex sentence. The first one is an example. You will get instant feedback on your answers. When you finish the entire exercise, you can retry or see all the answers.
+[Interactive exercise]
+Task: .
+   Types of Learners There are three main types of learners. The first type is visual learners. These people can understand and remember information by seeing or reading (Simple). For example, it is easy for them to remember a person’s name if they see it in writing [complex]. Maybe the shape of the word reminds them of something similar and helps them remember the name. When these people learn new things, they like to make notes and draw graphs [complex]. They may also like highlighting the texts in different colors. The second type is audio learners. For them, listening is the main approach to understanding information [simple]. Their ears are very sensitive to sounds and can absorb stimulation easily. They often listen to lectures without making lots of notes, and they can memorize details by reading them out loud or discussing them with others [compound]. The last type of learners likes to use their body in learning new things. For instance, some of them may act out a story instead of reading it or listening to it [simple]. They may also do things like waving their hands when they read [complex]. They excel in hands-on projects such as creating a plane model. Many people show a combination of these three styles; however, they usually display a main one unconsciously [compound]. In a world full of information, it is important for everyone to know what his/her main style is in order to learn effectively.
+**Exercise 10.** Read the paragraph below about the writer’s learning and working experiences. It has too many simple sentences. Combine the underlined simple sentences into compound or complex sentences with the conjunctions given.
+***Example:***
+*I came to the United States. I had never touched a computer (before).*
+*Before I came to the United States, I had never touched a computer.*
+Learning and Hoping
+Learning and hoping keep me going. Two years ago, I got a job at a company called TechInnova. Now I use the computer at work every day. __I came to the United States. I had never touched a computer__ *(**before**).* __It did not take me very long to learn basic computer skills. I had already taken a course in typing__ (***for***). __I left my country four years ago. I had finished secretarial school__ (***by the time***). __I was looking for a job here, I took a course in information technology__ (***while***). Soon I found the job at TechInnova. I have continued to learn new things since then. For example, now I am learning web design through the Fast Track program at Harper College. __My company is paying half the tuition for me. I am grateful for that__ (***and***). __The program is very intensive. I am very busy__ (***therefore***). The new skills have boosted my self-confidence and made me feel more hopeful for my future.
+**Exercise 11.** Choose and highlight the most appropriate conjunction for each blank in the paragraph below about learning to play the piano. Look carefully at the punctuation before you decide. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+(Picture: black and white keys on a piano)
+black and white keys on a piano
+[Interactive exercise]
+Task: .
+   Learning to Play the Piano I have done something interesting in the last couple of years: learning to play the piano. My son played it for six years ( while , because, though, however, furthermore) he was growing up; __________, (but, [however], when, and, so) after he went to college, the piano looked very forlorn in the living room. One day, I suddenly decided to play it myself, __________ ([but], however, and, since, because) I had never learned how to play. I started taking lessons from some piano professors at Harper College. They have been wonderfully patient with me. __________, (And, So, [Furthermore], However, Although) the piano practice rooms in Building P are helpful. __________ (Before, Because, [When], but, for) I have an extra half an hour on campus, I go there to practice. Each room is small, __________ (so, if, since, [and], nor) it is well equipped with a piano and a bench. Sometimes I hear another student practicing in the next room. That motivates me __________ (for, [because], when, but, moreover) I want to play as beautifully as he or she. Now it has been over two years __________ (for, when, however, while, [since]) I started playing. I have learned to play some simple pieces. __________ (Because, Yet, [Although], If, But) my music skill is progressing very slowly, I enjoy practicing at least five times a week at home and on campus. I am very pleased that I am learning something new. Even my piano sounds happier in the house. It is no longer lonely!
+**Exercise 12.** Read the following paragraph about my uncle and me. There are five more mistakes in the use of commas (not including the example). Find them and correct them. The first one is an example.
+My Uncle and I
+My uncle has had a very positive influence on me in several ways. He came from Pakistan to the U.S. in the 1990s and has made a life for himself and his extended family. ***First he (First, he…)*** sponsored me to come to the U.S. a year ago. He made it possible for me to have a chance for a better life. For instance, I am now living in a much cleaner, and safer environment. Second his accomplishments[10] have reminded me to work hard for my own life and for the life of my family. My uncle had worked as a waiter, a construction worker, and a newspaper delivery man before he enrolled at Harper College with a major in business ten years ago. He is now working as regional manager for a food company. He loves his job. Thanks to my uncle, I started a new life, as soon as I arrived here. I have followed his footsteps and have been working very hard since last year. My dream is to work in a finance field so I have been taking math and English as a Second Language courses to prepare for my major. Meanwhile, I have not abandoned[11] my hobby – swimming. I swim a few times a week in the college swimming pool. My uncle always says, that a good future needs good health. I am thankful to my uncle for the inspirations[12] and opportunities.
+**Exercise 13.** Use the suggested conjunctions to expand the following simple sentences by adding one more clause to make new and meaningful compound or complex sentences. Use proper punctuation in each sentence. Share your sentences with your partner.
+***Example**:*
+*I love my community college. (for, as a result, because)*
+*My sentence: I love my community college, for there are many interesting classes like piano and drawing.*
+*My sentence: I love my community college; as a result, I am enjoying my study there.*
+*My sentence: I love my community college because it is close to my home.*
+1. Many people come to the community college. (since, in addition, because)
+2. Some young people prefer four-year universities. (so, consequently, although)
+3. Nothing is perfect in all areas. (however, nor, since)
+4. It all depends on which option works better for each student. (therefore, and, when)
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that you have not written about. You may start with the NSNT approach. Then revise and edit at least your paragraphs. Include some compound and complex structures. Pay attention to punctuation. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: energetic -> adjective, active, full of energy
+Card: premier -> adjective, first in rank, leading
+Card: choppy -> adjective, broken, not connected
+Card: accomplished -> adjective, successful in doing something
+Card: resemble -> verb, is similar to
+Card: overuse -> verb, use too many times
+Card: accordingly -> adverb, as a result, therefore
+Card: comparable -> adjective, similar
+Card: personalized -> adjective, customized, according to the needs of each person
+Card: accomplishment -> noun, success, achievement
+Card: abandon -> verb, give up
+Card: inspiration -> noun, good influence, example
+**Summary**
+1. A phrase is two or more words used together to form part of meaning but not complete meaning. It does not have a “subject + verb” structure.
+2. Every sentence must explain a complete idea and have a subject and a verb.
+3. The most basic sentence parts are subject, verb, object, and subject complement.
+4. The most basic sentence patterns are
+- Subject + verb
+- Subject + verb + object
+- Subject + linking verb + subject complement (noun or adjective)
+- Subject + verb + indirect object + direct object
+- There + a form of “be”
+5. A simple sentence is an independent clause with one subject-verb group.
+6. A compound sentence has two independent clauses with two subject-verb groups. They are connected by a coordinating conjunction (FANBOYS) or an adverbial conjunction such as “moreover” or “however”.
+7. A complex sentence has one dependent clause (a subordinating conjunction + subject + verb) and one independent clause (subject + verb).
+8. It is important to include a variety of sentence types in writing.
+## Media Attributions
+- frame at entrance of Early Childhood Lab School at Harper College © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- Building D at Harper College © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- a single person smiling and holding a skateboard © Photo by Monstera from Pexels
+- William Rainey Harper statue on Harper Campus © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- a couple with a heart in between © Photo by Josh Hild from Pexels
+- University Center at Harper College © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- a parent with a baby © Image by Prawny from Pixabay
+- Fast Track information session as appeared on Harper College website © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- International Students Club at Feed My Starving Children © Kathleen Reynolds is licensed under a CC0 (Creative Commons Zero) license
+- black and white keys on a piano © Photo by Amir Doreh on Unsplash
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. energetic: adjective, active, full of energy ↵
+2. premier: adjective, first in rank, leading ↵
+3. choppy: adjective, broken, not connected ↵
+4. accomplished: adjective, successful in doing something ↵
+5. resemble: verb, is similar to ↵
+6. overuse: verb, use too many times ↵
+7. accordingly: adverb, as a result, therefore ↵
+8. comparable: adjective, similar ↵
+9. personalized: adjective, customized, according to the needs of each person ↵
+10. accomplishment: noun, success, achievement ↵
+11. abandon: verb, give up ↵
+12. inspiration: noun, good influence, example ↵
+definition
+In writing context, FANBOYS is an acronym for one of the coordinating conjunctions (for, and, nor, but, or, yet, so).
+×Close definition
+
+Links on this section's web page:
+- Web page (harpercollege.edu): https://www.harpercollege.edu/labschool/index.php
+- Web page (harpercollege.edu): https://www.harpercollege.edu/about/index.php
+- Web page (harpercollege.edu): https://www.harpercollege.edu/fasttrack/index.php

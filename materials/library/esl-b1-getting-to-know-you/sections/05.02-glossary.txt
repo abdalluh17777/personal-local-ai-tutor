@@ -1,0 +1,11 @@
+Getting to Know You - An Intermediate Integrated-Skills Module for English Learners (Ferguson)
+Glossary
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/zz%3A_Back_Matter/20%3A_Glossary
+License: CC BY-NC-SA  
+
+Example and Directions
+| Words (or words that have the same definition) | The definition is case sensitive | (Optional) Image to display with the definition [Not displayed in Glossary, only in pop-up on pages] | (Optional) Caption for Image | (Optional) External or Internal Link | (Optional) Source for Definition |
+| (Eg. "Genetic, Hereditary, DNA ...") | (Eg. "Relating to genes or heredity") | The infamous double helix | https://bio.libretexts.org/ | CC-BY-SA; Delmar Larsen |
+Glossary Entries
+| Word(s) | Definition | Image | Caption | Link | Source |
+| Sample Word 1 | Sample Definition 1 |

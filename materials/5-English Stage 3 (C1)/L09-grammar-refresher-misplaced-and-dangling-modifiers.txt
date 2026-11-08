@@ -1,0 +1,134 @@
+Lesson 09 material: Grammar Refresher: Misplaced and Dangling Modifiers; Prepositions
+English Stage 3 (C1) · Unit 1: Refining Sentences and Punctuation
+
+=== 7.2: Misplaced and Dangling Modifiers ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.02%3A_Misplaced_and_Dangling_Modifiers
+
+Learning Objectives
+1. Identify modifiers.
+2. Learn how to correct misplaced and dangling modifiers.
+A modifier is a word, phrase, or clause that clarifies or describes another word, phrase, or clause. Sometimes writers use modifiers incorrectly, leading to strange and unintentionally humorous sentences. The two common types of modifier errors are called misplaced modifiers and dangling modifiers. If either of these errors occurs, readers can no longer read smoothly. Instead, they become stumped trying to figure out what the writer meant to say. A writer’s goal must always be to communicate clearly and to avoid distracting the reader with strange sentences or awkward sentence constructions. The good news is that these errors can be easily overcome.
+## Misplaced Modifiers
+A misplaced modifier is a modifier that is placed too far from the word or words it modifies. Misplaced modifiers make the sentence awkward and sometimes unintentionally humorous.
+**Incorrect:** She wore a bicycle helmet on her head *that was too large*.
+**Correct:** She wore a bicycle helmet *that was too large* on her head.
+- Notice in the incorrect sentence it sounds as if her head was too large! Of course, the writer is referring to the helmet, not to the person’s head. The corrected version of the sentence clarifies the writer’s meaning.
+Look at the following two examples:
+**Incorrect:** They bought a kitten for my brother *they call Shadow*.
+**Correct:** They bought a kitten *they call Shadow* for my brother.
+- In the incorrect sentence, it seems that the brother’s name is *Shadow*. That’s because the modifier is too far from the word it modifies, which is *kitten*.
+**Incorrect:** The patient was referred to the physician *with stomach pains*.
+**Correct:** The patient *with stomach pains* was referred to the physician.
+- The incorrect sentence reads as if it is the physician who has stomach pains! What the writer means is that the patient has stomach pains.
+Tip
+Simple modifiers like only, almost, just, nearly, and barely often get used incorrectly because writers often stick them in the wrong place.
+**Confusing:** Padam *almost* found fifty cents under the sofa cushions.
+**Repaired:** Padam found *almost* fifty cents under the sofa cushions.
+- How do you *almost* find something? Either you find it or you do not. The repaired sentence is much clearer.
+Exercise :
+On a separate sheet of paper, rewrite the following sentences to correct the misplaced modifiers.
+1. The young lady was walking the dog on the telephone.
+2. I heard that there was a robbery on the evening news.
+3. Uncle Sayed bought a running stroller for the baby that he called “Speed Racer.”
+4. Rolling down the mountain, the explorer stopped the boulder with his powerful foot.
+5. We are looking for a babysitter for our precious six-year-old who doesn’t drink or smoke and owns a car.
+6. The teacher served cookies to the children wrapped in aluminum foil.
+7. The mysterious woman walked toward the car holding an umbrella.
+8. We returned the wine to the waiter that was sour.
+9. Emmanuel spotted a stray puppy driving home from work.
+10. I ate nothing but a cold bowl of noodles for dinner.
+## Dangling Modifiers
+A dangling modifier is a word, phrase, or clause that describes something that has been left out of the sentence. When there is nothing that the word, phrase, or clause can modify, the modifier is said to dangle.
+**Incorrect:** *Riding in the sports car*, the world whizzed by rapidly.
+**Correct:** As Priya was *riding in the sports car*, the world whizzed by rapidly.
+- In the incorrect sentence, *riding in the sports car* is dangling. The reader is left wondering who is riding in the sports car. The writer must tell the reader!
+
+=== 7.11: Preposition Use ===
+From "College ESL Writers: Applied Grammar and Composing Strategies for Success" by Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by LibreTexts. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.11%3A_Preposition_Use
+
+Learning Objectives
+1. Identify prepositions.
+2. Learn how and when to use prepositions.
+A preposition is a word that connects a noun or a pronoun to another word in a sentence. Most prepositions such as above, below, and behind usually indicate a location in the physical world, but some prepositions such as during, after, and until show location in time.
+## In, At, and On
+The prepositions in, at, and on are used to indicate both location and time, but they are used in specific ways. Review the tables below to learn when to use each one.
+| **Preposition** | **Time** | **Example** | **Place** | **Example** |
+| in | year | in 1942 | country | in Zimbabwe |
+| month | in August | state | in California |
+| season | in the summer | city | in Chicago |
+| time of day (not with night) | in the afternoon |
+| **Preposition** | **Time** | **Example** | **Place** | **Example** |
+| on | day | on Monday | surfaces | on the table |
+| date | on May 23 | streets | on 124th Street |
+| specific days/dates | on Monday | modes of transportation | on the bus |
+| **Preposition** | **Time** | **Example** | **Place** | **Example** |
+| at | time | at five o’clock | addresses | at 1600 Pennsylvania Avenue |
+| with night | at night | location | at Rooney’s Grill |
+Exercise :
+Edit the following letter from a resident to her landlord by correcting errors with in, at, and on.
+Dear Mrs. Salazar,
+I am writing this letter to inform you that I will be vacating apartment 2A in 356 Maple Street at Wednesday, June 30, 2010. I will be cleaning the apartment at the Monday before I leave. I will return the keys to you on 5 p.m., sharp, at June 30. If you have any questions or specific instructions for me, please contact me in my office. I have enjoyed living at Austin, Texas, but I want to explore other parts of the country now.
+Sincerely,
+Milani Davis
+## Prepositions after Verbs or Phrasal Verbs
+Prepositions often follow verbs to create expressions with distinct meanings. These expressions are sometimes called prepositional verbs. It is important to remember that these expressions cannot be separated.
+Table : Verbs and Prepositions
+| **Verb + Preposition** | **Meaning** | **Example** |
+| agree with | to agree with something or someone | My husband always agrees with me. |
+| apologize for | to express regret for something, to say sorry about something | I apologize for being late. |
+| apply for | to ask for something formally | I will apply for that job. |
+| believe in | to have a firm conviction in something; to believe in the existence of something | I believe in educating the world’s women. |
+| care about | to think that someone or something is important | I care about the health of our oceans. |
+| hear about | to be told about something or someone | I heard about the teachers’ strike. |
+| look after | to watch or to protect someone or something | Will you look after my dog while I am on vacation? |
+| talk about | to discuss something | We will talk about the importance of recycling. |
+| speak to, with | to talk to/with someone | I will speak to his teacher tomorrow. |
+| wait for | to await the arrival of someone or something | I will wait for my package to arrive. |
+Tip
+It is a good idea to memorize these combinations of verbs plus prepositions. Write them down in a notebook along with the definition and practice using them when you speak.
+Exercise :
+On a separate sheet of paper, complete the following sentences by writing the correct preposition after the verb.
+1. Adomako does not ________ (apologize for, believe in) aliens or ghosts.
+2. It is impolite to ________ (hear about, talk about) people when they are not here.
+3. Manuel said he was going to ________ (believe in, apply for) the internship.
+4. Jonas would not ________ (talk about, apologize for) eating the last piece of cake.
+5. I ________ (care about, agree with) the environment very much.
+## Prepositions after Adjectives
+Similar to prepositions after verbs, prepositions after adjectives create expressions with distinct meanings unique to English. Remember, like prepositional verbs, these expressions also cannot be separated.
+Table :Adjectives and Prepositions
+| **Adjective + Preposition** | **Meaning** | **Example** |
+| angry at, about | to feel or show anger toward (or about) someone or something | I am angry about the oil spill in the ocean. |
+| confused about | to be unable to think with clarity about someone or something. | Shawn was confused about the concepts presented at the meeting. |
+| disappointed in, with | to feel dissatisfaction with someone or something | I was disappointed in my husband because he voted for that candidate. |
+| dressed in | to clothe the body | He was dressed in a pin-striped suit. |
+| happy for | to show happiness for someone or something | I was happy for my sister who graduated from college. |
+| interested in | giving attention to something, expressing interest | I am interested in musical theater. |
+| jealous of | to feel resentful or bitter toward someone or something (because of their status, possessions, or ability) | I was jealous of her because she always went on vacation. |
+| thankful for | to express thanks for something | I am thankful for my wonderful friends. |
+| tired of | to be disgusted with, have a distaste for | I was tired of driving for hours without end. |
+| worried about | to express anxiety or worry about something | I am worried about my father’s health. |
+Exercise :
+On a separate sheet of paper, complete the following sentences by writing the correct preposition after the verb.
+1. Meera was deeply ________ (interested in, thankful for) marine biology.
+2. I was ________ (jealous of, disappointed in) the season finale of my favorite show.
+3. Jordan won the race, and I am ________ (happy for, interested in) him.
+4. The lawyer was ________ (thankful for, confused about) the details of the case.
+5. Chloe was ________ (dressed in, tired of) a comfortable blue tunic.
+Tip
+The following adjectives are always followed by the preposition at:
+- Good
+She is really good at chess.
+- Excellent
+Henry is excellent at drawing.
+- Brilliant
+Mariana is brilliant at playing the violin.
+Key Takeaways
+- The prepositions in, at, and on are used to indicate both location and time, but they are used in specific ways.
+- The preposition in is used when expressing the following: year, month, season, time of day (not with night), country, state, and city.
+- The preposition on is used to express day, date, and specific days or dates and surfaces, streets, and transportation modes.
+- The preposition at is used for expressions of time, with night, and with addresses and locations.
+- Prepositions often follow verbs to create expressions with distinct meanings that are unique to English.
+- Prepositions also follow adjectives to create expressions with distinct meanings that are unique to English.
+Writing Application
+Write about a happy childhood memory using as many prepositions followed by verbs and adjectives as you can. Use at least ten. When you are finished, exchange papers with a classmate and correct any preposition errors you find.
+7.11: Preposition Use is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

@@ -1,0 +1,391 @@
+Lesson 19 material: Grammar: Past Tense Verbs and Forming Questions
+English Stage 1 (B1) · Unit 2: Getting to Know You
+
+=== 1.6: Grammar: Past Tense Verbs ===
+From "Getting to Know You - An Intermediate Integrated-Skills Module for English Learners" by Sara Ferguson, Grossmont College (CC BY-NC-SA). This section: CC BY-NC-SA. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.6%3A_Grammar%3A_Past_Tense_Verbs
+
+This lesson is available as a slide presentation.
+(Online slides or activity on the lesson web page.)
+## Simple Past and Past Continuous
+Compare these sentences. What are the verbs? How is the past tense formed in each sentence?
+- Cody Gibson studied photography in Oregon and Colorado.
+- Cody was studying photography when he decided to change his major.
+## Answers
+- In the first sentence, the verb is "studied," simple past regular verb.
+- In the second sentence, the verbs are "was studying" (past continuous) and "decided" (simple past)
+## Simple Past Form
+Regular verbs use base verb + -ed
+- EX: Decide--decided
+Irregular verbs do not follow one rule
+- EX: Find--found
+- EX: Eat--eaten
+## Past Tense Spelling for Regular Verbs (Adding -ed)
+- Most regular verbs add -ed to the infinitive form
+- EX: Walk--walked
+- Regular verbs ending in -e just add -d
+- EX: Like--liked
+- EX: Receive--received
+- CVC Rule: Regular verbs ending in one stressed vowel + one consonant (except w, x, or y) double the consonant and add -ed
+- EX: Plan--planned
+- EX: Stop--stopped
+- EX: Refer--referred
+- EX: Control--controlled
+- Regular verbs ending in consonant + y change the y to i and add -ed
+- EX: Carry--carried
+- EX: Study--studied
+- EX: Try--tried
+- Regular verbs ending in -c add -ked
+- EX: Picnic--picnicked
+- EX: Traffic--trafficked
+- Default: All other regular verbs add -ed
+- Ending in one or more vowels (except final e)
+- EX: Moo--mooed
+- EX: Ski--skied
+- Ending in two or more consonants
+- EX: Depend--depended
+- EX: Push--pushed
+- EX: Start--started
+- Ending in unstressed syllable and one consonant
+- EX: Market--marketed
+- EX: Number--numbered
+- EX: Question--questioned
+- Ending in two or more vowels + one consonant
+- EX: Explain--explained
+- EX: Rain--rained
+- Ending in vowel + y
+- EX: Enjoy--enjoyed
+- EX: Play--played
+- Ending in w or x
+- EX: Show--showed
+- EX: Tax--taxed
+## Ninety Common Irregular Verbs
+Be--was/were--been
+Beat--beat--beaten
+Become--became--become
+Begin--began--begun
+Blow--blew--blown
+Break--broke--broken
+Bring--brought--brought
+Build--built--built
+Burst--burst--burst
+Buy--bought--bought
+Catch--caught--caught
+Choose--chose--chosen
+Come--came--come
+Cost--cost--cost
+Cut--cut--cut
+Deal--dealt--dealt
+Do--did--done
+Drink--drank--drunk
+Drive--drove--driven
+Eat--ate--eaten
+Forgive--forgave--forgiven
+Freeze--froze--frozen
+Get--got--got/gotten
+Give--gave--given
+Go--went--gone
+Grow--grew--grown
+Have--had--had
+Fall--fell--fallen
+Feed--fed--fed
+Feel--felt--felt
+Fight--fought--fought
+Find--found--found
+Fly--flew--flown
+Forbid--forbade--forbidden
+Forget--forgot--forgotten
+Hear--heard--heard
+Hide--hid--hidden
+Hit--hit--hit
+Hold--held--held
+Hurt--hurt--hurt
+Keep--kept--kept
+Know--knew--known
+Lay--laid--laid
+Lead--led--led
+Leave--left--left
+Let--let--let
+Lie--lay--lain (be in horizontal position) ("lie" is regular when it means not to tell the truth)
+Lose--lost--lost
+Make--made--made
+Meet--met--met
+Pay--paid--paid
+Put--put--put
+Quit--quit--quit
+Read--read--read
+Ride--rode--ridden
+Ring--rang--rung
+Rise--rose--risen
+Run--ran--run
+Say--said--said
+See--saw--seen
+Seek--sought--sought
+Sell--sold--sold
+Send--sent--sent
+Shake--shook--shaken
+Shine--shone--shone
+Sing--sang--sung
+Sit--sat--sat
+Sleep--slept--slept
+Speak--spoke--spoken
+Spend--spent--spent
+Spring--sprang--sprung
+Stand--stood--stood
+Steal--stole--stolen
+Swim--swam--swum
+Swing--swung--swung
+Take--took--taken
+Teach--taught--taught
+Tear--tore--torn
+Tell--told--told
+Think--thought--thought
+Throw--threw--thrown
+Understand--understood--understood
+Wake--woke--woken
+Wear--wore--worn
+Win--won--won
+Write--wrote--written
+## More Irregular Verbs
+A complete list of irregular verbs may be found __here__.
+Suggested lists for learning irregular verbs may be found __here__.
+Irregular verb flashcards for practice may be found __here__.
+## Using Simple Past
+Simple past is used for any completed action(s) in the past. The action may be in the recent or distant past. It may be a single or repeated action.
+- When he was a child, Cody attended 17 different schools.
+- Last week, he got a job with his dream company.
+Which sentence talks about an action in the recent past? Which sentence talks about an action in the distant past? Which sentence talks about a repeated action? Which sentence talks about a single action?
+## Answers
+- The second sentence talks about an action in the recent past.
+- The first sentence talks about an action in the distant past.
+- The first sentence talks about a repeated action.
+- The second sentence talks about a single action.
+## Past Continuous Form
+Two ways to describe the form:
+- "Be" (past tense) + base verb + -ing
+- "Was/were" + present participle
+EX: While we were writing a thank you letter, she was sleeping.
+## Spelling Rules for Adding -ing to a Verb
+| No change | Most verbs: | Add -ing | Read--reading | Talk--talking | Say--saying | Want--wanting |
+| No change | Verbs that end in -y: | Add -ing | Study--studying | Carry--carrying | Play--playing |
+| Change | Verbs that end in -e: | Drop the -e and add -ing | Wake--waking | Make--making | Tape--taping |
+| Change | Verbs that end in -ie: | Change the -ie to -y | Die--dying | Lie--lying |
+| Change | Verbs that end in CVC (consonant, vowel, consonant), one syllable: | Double the last letter | Stop--stopping | Sit--sitting | Ban--banning |
+| Change | Verbs that end in CVC, two syllables: | If the stress is on the last syllable, double the last letter | Begin--beginning | Refer--referring | BUT | Listen--listening | Cancel--canceling |
+## Using Past Continuous
+There are two common uses for past continuous form.
+Use 1: An action in progress is interrupted by another event or time
+- EX: When you arrived, we were writing you a letter
+- EX: At 10:00 AM, she was walking around her neighborhood
+In the first sentence, which action takes longer? Which action interrupts? In the second sentence, what action was she doing when the clock said 10:00 AM?
+## Answers
+In the first sentence, it takes longer to write. Your arrival interrupted the writing. The interruption is in simple present, the longer action is in past continuous. In the second sentence, she was walking (past continuous) when the clock changed to 10:00 AM (simple past).
+Use 2: Two actions in progress at the same time.
+- EX: We were reading while the instructor was writing on the board.
+- EX: While she was walking around the neighborhood, she was getting fresh air and exercise.
+In the first sentence, which action took longer, reading or writing? In the second sentence, which action took longer, walking or getting?
+## Answers
+In the first sentence, reading and writing happened at the same time. We don't know which one took longer. In the second sentence, walking and getting fresh air happened at the same time. They both started and ended at the same time.
+## Videos
+Watch __this video__ to learn about the simple past tense.
+Watch __this video__ to learn about the difference between simple and continuous past.
+Watch __this video__ and __this video__ to learn more about the past continuous form.
+## Practice the Past Tenses
+An achievement is the act of reaching a goal. Examples of achievements include:
+- Completing a difficult class
+- Earning a degree
+- Getting a job
+- Finding an apartment
+- Saving enough money to buy a house or car
+- Raising a healthy family
+- Learning to cook a special dish
+Think of two more examples with your classmates.
+When we achieve a goal, we feel proud. Write a list of three achievements that make you feel proud.
+**Choose one achievement and write a paragraph about it. Describe all the steps you took to achieve your goal. What was difficult about achieving your goal?**
+1.6: Grammar: Past Tense Verbs is shared under a not declared license and was authored, remixed, and/or curated by LibreTexts.
+
+Links on this section's web page:
+- Web page (en.Wikipedia.org): https://en.Wikipedia.org/wiki/English_irregular_verbs
+- Web page (teflpedia.com): https://teflpedia.com/Irregular_verb
+- Web page (quizlet.com): https://quizlet.com/25058528/english-irregular-verbs-flash-cards/
+- Video (YouTube): https://youtu.be/J5E9SWg6_fw
+- Video (YouTube): https://youtu.be/ivV25mL-Vhk
+- Video (YouTube): https://youtu.be/TGwh9BvpE0o
+- Video (YouTube): https://youtu.be/zv9t5ke9Ltw
+
+=== 1.7: Grammar: Forming Questions ===
+From "Getting to Know You - An Intermediate Integrated-Skills Module for English Learners" by Sara Ferguson, Grossmont College (CC BY-NC-SA). This section: CC BY-NC-SA. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.7%3A_Grammar%3A_Forming_Questions
+
+This lesson is available as a slide presentation.
+(Online slides or activity on the lesson web page.)
+## Forming Yes/No Questions with a Main Verb
+Compare these sentences...
+- In 2007, Felipe Valdez moved to the United States to pursue his education
+- Since 2007, he has completed his bachelor's degree
+- He is pursuing his career as an intern at NASA
+What are the verbs? What is the tense of each verb? What is the aspect of each verb? What are the auxiliaries for each verb? Remember, tense = past, present, future, aspect = simple, continuous, perfect, and auxiliary = be, have, do...
+## Answers
+- In the first sentence, the verb is "moved," the aspect is simple, the tense is past, and there is no auxiliary
+- In the second sentence, the verb is "had completed," the tense is present, the aspect is perfect, and the auxiliary is "have"
+- In the third sentence, the verb is "is pursuing," the tense is present, the aspect is continuous, and the auxiliary is "be"
+Compare these questions. Identify the auxiliary, main verb, and subject...
+- Did Felipe Valdez move to the U.S.?
+- Has he completed his bachelor's degree?
+- Is he pursuing his career?
+What order do the auxiliary, main verb, and subject follow? What form does each take? What is the rule for forming yes/no questions with a main verb?
+## Answers
+- In the first sentence, the auxiliary is "did," the main verb is "move," and the subject is "Felipe Valdez;" "move" is the base form, used with simple aspect
+- In the second sentence, the auxiliary is "has," the main verb is "completed," and the subject is "he;" "completed" is the past participle, used with perfect present
+- In the third sentence, the auxiliary is "is," the main verb is "pursuing," and the subject is "he;" "pursuing" is the present participle, used with continuous aspect
+The auxiliary, subject, and main verb follow this order: aux + subject + verb with aspect
+They take the following forms: aux has the tense and main verb has the aspect
+The rule for forming yes/no questions with a main verb is as follows: aux + subject + verb with aspect + complement
+## Forming Yes/No Questions with "Be"
+Compare these sentences...
+- Felipe Valdez attended University of California, Sacramento
+- He was an excellent student
+- He was studying mechanical engineering
+What is the verb in each sentence?
+## Answers
+- The verb is "attended"
+- The verb is "was"
+- The verb is "was studying"
+Compare these questions...
+- Did he attend UC Sacramento?
+- Is he an excellent student?
+- Was he studying mechanical engineering?
+What is the auxiliary verb in each? What is the main verb in each?
+## Answers
+- The auxiliary is "did," the main verb is "attend"
+- The main verb is "are" (be)
+- The auxiliary is "be," the main verb is "studying"
+Rule: When the main verb is "be," use "be" in the same position as the auxiliary; aux + subject + complement. When the main verb is not "be," use an auxiliary to create a question. Auxiliary verbs are "do," "be," and "have"...
+## Forming Information Questions with a Main Verb
+Compare these questions. How are they different?
+- Did Felipe Valdez move to the U.S.?
+- When did Felipe Valdez move to the U.S.?
+- Was he studying mechanical engineering?
+- Where was he studying mechanical engineering?
+Which questions ask for the answer "yes" or "no?" Which questions ask for more information? Do the auxiliary, subject, and verb follow the same order in information questions as they do in yes/no questions?
+## Answers
+The first sentence in each pair asks for the answer "yes" or "no." The second question in each pair asks for more information. Yes, the auxiliary, subject, and verb follow the same order in information questions as they do in yes/no questions
+## What is the Pattern for Information Questions?
+Wh + aux + subject + verb with aspect + complement. This pattern works for all tenses
+Check the pattern above on the questions below...
+- When was he studying mechanical engineering?
+- Where did he complete his bachelor's degree?
+- How did he design the space vehicle controls?
+- Why has he become an intern at NASA?
+## Questions About the Subject
+Questions about the subject follow a different pattern
+- Scientists have studied space for many years
+Compare the two questions. What is the answer to each question?
+- Who has studied space for many years?
+- What have scientists studied for many years?
+What is the question order in the first question? What is the question order in the second question?
+## Answers
+- The answer to the first question is "scientists"
+- The answer to the second question is "space"
+The question order in the first question is "who/what" + verb (with tense/aspect in third singular) + complement
+The question order in the second sentence is wh + auxiliary + subject + verb (with aspect)
+Here is another example...
+- The scientists warned the mayor about the meteor
+Compare these two questions. What is the answer to each question?
+- Who warned the mayor about the meteor?
+- Who did the scientists warn about the meteor?
+Which question is asking about the subject? What is the question word order in each question?
+## Answers
+- The answer to the first question is "scientists"
+- The answer to the second question is "the mayor"
+The first question is asking about the subject. The word order in the first question is "who/what" + verb (with tense/aspect in third singular) + complement and the word order in the second question is wh + auxiliary + subject + verb (with aspect)
+## Questions with a Noun Phrase in the Question Word
+Some questions have the subject or object in the question word. These include "how many ________," "how much ________," "what kind of ________," and "which ________"
+Compare these sentences...
+- How many students are attending UC Sacramento?
+- How many awards has Felipe won?
+Which question has a question word as the subject? Which question has a question word as an object? Does the verb always agree with the subject?
+## Answers
+The first question has a question word as the subject. The second question has a question word as an object. Yes, the verb always agrees with the subject
+## Key Takeaways
+- Auxiliary words are "do," "be," "have," and modals
+- Question words are "who," "what," "when," "where," "why," and "how"
+- Tenses are past, present, and future
+- Verb with aspects means:
+- Continuous: verb + -ing (present participle)
+- Simple: base form
+- Perfect: past participle
+- Yes/no questions will use the order: aux + subject + verb with aspect
+- Information questions will use the order wh + auxiliary + subject + verb with aspect
+- Questions about the subject are the exception. They use:
+- "Who/what" + verb with tense and aspect + complement
+## Videos and Other Resources
+Watch __this video__ and __this video__ for more information about forming questions in English...
+Still not sure about subject questions? Try __this video and written explanation__...
+## Practice Question Formation
+Write questions about the profile below...
+Leslie Reynolds began as a law enforcement ranger in Yosemite National Park. Then she went on to work at Grand Canyon and Shenandoah National Parks, serving these parks as an officer, medic, instructor, investigator, and even counselor. She has stepped up in many life-saving situations in her 21-year career; she has helped save hikers suffering from heat exhaustion in the Grand Canyon, injured climbers stuck and needing helicopter rescue, and victims of serious motor vehicle accidents. Because she understands that prevention and education is effective in saving lives, Reynolds helped develop the Preventative Search & Rescue (PSAR) programs at Yosemite and Shenandoah National Parks. She has also served as a member of the Critical Incident Stress Management Team, responding to numerous major traumatic events and helping team members cope with what they have been through and seen. As the current chief ranger at Cape Cod National Seashore, Reynolds continues to inspire the new generation of park rangers and lead through example.
+- Leslie Reynolds began her career at Yosemite National Park
+- Where...
+- Leslie Reynolds worked as an officer, medic, instructor, investigator, and counselor
+- How many jobs...
+- Leslie has helped save hikers, climbers, and accident victims
+- Who...
+- Because she understands the importance of prevention and education, Leslie developed the PSAR programs
+- Why...
+- Leslie has worked for the National Park Service for 21 years
+- How long...
+## Answers
+- Where did Leslie Reynolds begin her career?
+- How many jobs did Leslie Reynolds do?
+- Who has Leslie helped save?
+- Why did Leslie develop the PSAR programs?
+- How long has Leslie worked for the National Park Service?
+1.7: Grammar: Forming Questions is shared under a not declared license and was authored, remixed, and/or curated by LibreTexts.
+
+Links on this section's web page:
+- Slides (Google Slides): https://docs.google.com/presentation/d/1o86HJUKvP-9Bsm4zeaUw5Bm4B_sVjbu5NYkjMLUB6kA/edit?usp=sharing
+- Video (YouTube): https://youtu.be/oyVw_yNXArg
+- Video (YouTube): https://youtu.be/SN-H-CMp82o
+- this video and written explanation: https://learningenglish.voanews.com/a/forming-questions-part-1-subject-questions/4550920.html
+
+=== 4.3: Past Tense Practice: Dictogloss Activity ===
+From "Getting to Know You - An Intermediate Integrated-Skills Module for English Learners" by Sara Ferguson, Grossmont College (CC BY-NC-SA). This section: CC BY-NC-SA; authored, remixed or curated by Sara Ferguson. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/05%3A_For_the_Instructor/5.03%3A_Section_3-
+
+## For the Instructor
+Choose a short reading below. Read and discuss the pre-reading questions with the class. Then read the text slowly. Address student questions about unfamiliar vocabulary. Read the text at least three times. Ask students to take notes on the second or third time through.
+Students write a summary of the text, using the correct verb tense. You may have students write individual summaries, then share with a partner, or work in pairs or groups to write a summary. Ask pairs or groups to share their product. Classmates can listen and make corrections, especially in verb tense.
+## Short Reading 1
+Read three times; students take notes then summarize...
+## Pre-reading Questions
+- Do women have the right to vote in the U.S.? In your country? When did women win this right?
+- Do you think there should be more women in politics? Why or why not?
+## Text
+Jeannette Rankin was born on June 11, 1880. Her parents were John and Olive Rankin. She grew up in Montana and graduated from the University of Montana in 1902. After she graduated, she worked for women's right to vote in Washington State and Montana. She stayed in the congress for one term. She ran for congress again in 1940 and won. She was a pacifist. This means she was against war and believed the U.S. should not participate in any war. She voted against the U.S. joining World War 1 in 1917 and World War 2 in 1941. She was the only congressperson who voted against joining World War 2.
+## Short Reading 2
+Read three times; students take notes then summarize...
+## Pre-reading Questions
+- What do you know about climate change?
+- Who are some famous climate change activists?
+- What do climate change activists do?
+## Text
+Greta Thunberg is a leader in the movement against climate change. She was born on January 3, 2002 in Sweden. In 2018, she began spending her school days outside the Swedish parliament. She held a sign that said "School strike for climate." She wanted them to take stronger action to stop climate change. At first, she was alone, but soon, other students joined her protests. Together, they organized a school climate strike called Fridays for the Future.
+Thunberg addressed the United Nations Climate Change Conference in 2018. Students began striking every week around the world. In 2019, millions of students protested around the world, asking for stronger action to stop the climate crisis.
+In May 2019, *Time* magazine showed Thunberg on their cover. They called her the person of the year. In September 2019, she addressed the UN Climate Action Summit in New York. She was also nominated for the Nobel Peace Prize in 2019.
+## Short Reading 3
+Read three times; students take notes then summarize...
+## Pre-reading Questions
+- Have you ever swum in the ocean?
+- What are some dangers of swimming in the ocean?
+- What is the farthest a human can swim?
+## Alternative Pre-reading
+Diana Nyad's TED talk is available __here__...
+## Text
+Diana Nyad is the first person to swim from Havana, Cuba to Florida without a shark cage. She swam 110 miles (180 kilometers) and fifty-three hours. She was 64 years old when she accomplished her goal.
+How did she do it?
+Nyad attempted the swim five times from 2010 to 2013 and did not succeed until her fifth try in 2013. Each time she tried, she had to stop because of storms, jellyfish stings, asthma, and shoulder pain. On Sept. 2, 2013, she reached her goal despite these setbacks.
+She trained by swimming eight to fourteen hours in the ocean every other week. While she was training, she gathered a team of about 35 people. These people helped her while she was swimming. One person paddled beside her in a kayak and used a device to keep sharks away from her. Others helped her put on a suit to keep jellyfish from stinging her. In order to help her swim in a straight line, her team dragged a streamer during the day and LED lights at night behind a boat and she followed them. To keep her mind busy while she was swimming, she thought about books and movies, counted, and sang.
+When asked about her motivation, she answered, "Because I'd like to prove to the other 60-year-olds that it is never too late to start your dreams."
+(Picture: File:Diana Nyad routes.jpg - Wikimedia Commons)
+Figure: Nyad's Havana to Key West swimming routes since 1978
+
+Links on this section's web page:
+- TED talk: https://www.ted.com/talks/diana_nyad_never_ever_give_up

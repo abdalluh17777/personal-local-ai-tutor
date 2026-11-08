@@ -1,0 +1,65 @@
+High-Intermediate Academic Grammar for ESL Students (Al Haider)
+Gerunds and Infinitives
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/05%3A_Appendices/Appendix_A%3A_Grammar/15%3A_Gerunds_and_Infinitives
+License: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform
+
+## 5.4.1. **Verbs Followed by Gerunds**
+| admit | anticipate | appreciate | avoid |
+| consider | defend | delay | deny |
+| discontinue | discuss | dislike | enjoy |
+| explain | fear | finish | go (expression) |
+| imagine | keep | mention | miss |
+| practice | recommend | suggest | understand |
+Table 33 Verbs Followed by Gerunds
+## 5.4.2. **Verbs Followed by Infinitives**
+| agree | appear | arrange | ask |
+| attempt | choose | decide | demand |
+| deserve | expect | fail | get |
+| hope | learn | need** | offer |
+| pay | plan | pretend | seem |
+| strive | struggle | tend | threaten |
+| wait | want** | advise* | allow* |
+| ask* | encourage* | expect* | force* |
+| invite* | order* | remind* | tell* |
+Table 34 Verbs Followed by Infinitives
+* verb + noun/pronoun + infinitive
+** verb + infinitive or verb + noun/pronoun +infinitive
+1. Geraldo **wants to transfer** to a university.
+2. His mother **wants him to stay** close to home.
+3. Habib **offered to buy** me coffee.
+## 5.4.3. **Nouns Followed by Infinitives**
+| ability | advice | arrangement | attempt |
+| chance | choice | decision | demand |
+| dream | failure | goal | intention |
+| motivation | need | offer | opportunity |
+| permission | plan | promise | proposal |
+| reminder | request | requirement | suggestion |
+| tendency | way | willingness | wish |
+Table 35 Nouns Followed by Infinitives
+*Infinitives of purpose also follow nouns; however, there is a difference. Notice in the example *I went to the store to buy the missing ingredients* the infinitive **to buy** does **not** describe **the store**. In the example *I am happy with his decision to take the day off* **to take** is describing **the decision**.
+## 5.4.4. **Verbs Followed by Either a Gerund or Infinitive with No Significant Change in Meaning**
+| begin | continue | hate | like |
+| love | prefer | propose | start |
+Table 36 Verbs Followed by Either a Gerund or Infinitive with No Significant Change in Meaning
+## 5.4.5. **Verbs Followed by a Gerund or Infinitive with a Significant Change in Meaning**
+| forget | quit | regret | remember |
+| stop | try |
+Table 37 Verbs Followed by a Gerund or Infinitive with a Significant Change in Meaning
+## 5.4.6. **Verb Tense in Direct and Reported Speech**
+| **Number** | **Direct Speech** | **Reported Speech** | **Change** |
+| **1.** | The student said, “I study hard.” | He said *that he studied hard. | simple present to simple past |
+| **2.** | The student **says, “I study hard.” | He says *that he studies hard. | no verb tense change |
+| **3.** | He said, “I am studying hard.” | He said *that he was studying hard. | present progressive to past progressive |
+| **4.** | He said, “I will study hard. | He said *that he would study hard. | simple future will to would |
+| **5.** | He said, “I am going to study hard.” | He said *that he was going to study hard. | future “be going to” to “was/were going to” |
+| **6.** | He **says, “I am going to study hard.” | He says *that he is going to study hard. | no verb tense change |
+| **7.** | He said, “I can study hard.” | He said *that he could study hard. | can to could |
+| **8.** | He said, “I have studied hard. | He said *that he had studied hard. | present perfect to past perfect |
+| **9.** | He **says, “I have studied hard.” | He says *that he has studied hard. | no verb tense change |
+| **10.** | He said, “I studied hard.” | He said *that he had studied hard. | simple past to past perfect |
+| **11.** | He told them, “Do your homework.” | He told them to do their homework. | imperative to infinitive |
+| **12.** | He asked, “Do you want a job?” | He asked if I wanted a job. | yes or no question to if or whether or not (for alternatives) |
+Table 38 Verb Tense in Direct and Reported Speech
+*The word “that” is optional in the reported speech sentences. In fact, native speakers usually do not say the “that.” It is understood to be there by native speakers, however. Common verbs used for reporting words are as follows: say, tell, ask, inquire, respond, answer, reply, state, comment, report, complain, announce, explain, remark, note. In reported speech, these verbs are almost always used in the past tense.
+**When the reporting verb (for example, say) is in the simple present, present perfect, or simple future, the reported speech does not change tense from the direct speech. When the reporting verb is in the present tense, this usually indicates immediate reporting, so the indirect speech is in the simple present.
+This page titled Gerunds and Infinitives was last modified on Sat, 01 Feb 2025 19:06:28 GMT and is shared under a CC BY 4.0 license and was authored, remixed, and/or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform.

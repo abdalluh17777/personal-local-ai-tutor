@@ -1,0 +1,4 @@
+http://imgs.xkcd.com/comics/null_hypothesis.png | http://imgs.xkcd.com/comics/null_hypothesis.png
+http://imgs.xkcd.com/comics/conditional_risk.png | http://imgs.xkcd.com/comics/conditional_risk.png
+https://correlaid.org/en/blog/understand-p-values/ | https://correlaid.org/en/blog/understand-p-values
+source content | https://kpu.pressbooks.pub/psychmethods4e

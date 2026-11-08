@@ -1,0 +1,46 @@
+[project]
+name = "personal-tutor"
+version = "0.1.0"
+description = "Local personal tutor and assistant: works on any curriculum it is given, with long-term memory and English voice conversation"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn>=0.30",
+    "python-multipart>=0.0.9",
+    "httpx>=0.27",
+    "pypdf>=5.0",
+    "faster-whisper>=1.2.1",
+    "kokoro-onnx>=0.6.1",
+    # CUDA 12 runtime for Whisper (CTranslate2) and Kokoro (ONNX Runtime) on the GPU
+    "nvidia-cublas-cu12>=12.9.2.10",
+    "nvidia-cudnn-cu12>=9,<10",
+    # 1.26 is the last ONNX Runtime built for CUDA 12; 1.27+ needs CUDA 13, whose pip wheels are Linux-only
+    "onnxruntime-gpu[cuda,cudnn]>=1.26,<1.27",
+    # faster-whisper 1.2.1 passes av.open(metadata_errors=...), which PyAV 19 removed
+    "av<19",
+    "pronouncing>=0.2",
+    # free GPU memory before the pronunciation model loads (NVIDIA's NVML)
+    "nvidia-ml-py>=12",
+]
+
+[dependency-groups]
+dev = [
+    "psutil>=7.2.2",
+    "pytest>=8",
+    "websockets>=17.1",
+]
+
+[tool.uv]
+# faster-whisper and kokoro-onnx both require the CPU build "onnxruntime". The GPU build provides the
+# same Python module (CPU included) and the two cannot be installed together, so the CPU one is dropped.
+override-dependencies = ["onnxruntime; sys_platform == 'never'"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app/tutor"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

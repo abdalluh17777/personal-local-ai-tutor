@@ -1,0 +1,80 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.1: Sentence Structure
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.01%3A_Sentence_Structure
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Identify the basic structures of sentences.
+2. Determine ways to turn sentences into questions.
+3. Define adjectives and how they are used.
+If your first language is not English, you will most likely need some extra help when writing in Standard, or formal, English. New students of Standard English often make similar kinds of errors. Even when you have been speaking English for a long time, you may not feel as confident in your written English skills. This chapter provides an overview of English grammar and covers the most common errors made by English language learners and helps you avoid similar mistakes in your college writing.
+## Basic Sentence Structures
+The most basic sentence structure in English is a subject plus a verb. A subject performs the action in the sentence, and the verb identifies the action. Keep in mind that in some languages, such as Spanish and Italian, an obvious subject does not always perform the action in a sentence; the subject is often implied by the verb. However, every sentence in English must have a subject and a verb to express a complete thought.
+[Image: 7.1.1.png]
+Figure 
+Not all sentences are as simple as a subject plus a verb. To form more complex sentences, writers build upon this basic structure. Adding a prepositional phrase to the basic sentence creates a more complex sentence. A preposition is a part of speech that relates a noun or a pronoun to another word in a sentence. It also introduces a prepositional phrase. If you can identify a preposition, you will be able to identify a prepositional phrase.
+[Image: 7.1.2.png]
+Figure 
+On is the preposition. On the couch is the prepositional phrase.
+| **Common Prepositions** |
+| about | beside | off |
+| above | between | on |
+| across | by | over |
+| after | during | through |
+| against | except | to |
+| along | for | toward |
+| among | from | under |
+| around | in | until |
+| at | into | up |
+| before | of | with |
+| behind | like | without |
+Another sentence structure that is important to understand is subject + verb + object. There are two types of objects: direct objects and indirect objects.
+A direct object receives the action of the verb.
+[Image: 7.1.3.png]
+Figure 
+The letter directly receives the action of the verb writes.
+Tip
+A quick way to find the direct object is to ask *what?* or *who?*
+**Sentence:** Maurice kicked the ball.
+*What* did Maurice kick? The direct object, *ball*.
+**Sentence:** Maurice kicked Tom by accident.
+*Who* did Maurice kick? The direct object, *Tom*.
+An indirect object does not receive the action of the verb.
+[Image: 7.1.4.png]
+Figure 
+The action (writes) is performed for or to the indirect object (me).
+Tip
+Even though the indirect object is not found after a preposition in English, it can be discovered by asking *to whom?* or *for whom?* after the verb.
+**Sentence:** Dad baked the children some cookies.
+For whom did Dad bake the cookies? The indirect object, *children*.
+## The Structure of Questions
+English speakers rely on the following two common ways to turn sentences into questions:
+1. Move the helping verb and add a question mark.
+2. Add the verb *do*, *does*, or *did* and add a question mark.
+Move the helping verb and add a question mark.
+**Sentence:** Sierra can pack these boxes.
+**Question: Can** Sierra pack these boxes**?**
+Add the verb *do*, *does*, or *did*, and add a question mark:
+**Sentence:** Jolene skated across the pond.
+**Question: Did** Jolene skate across the pond**?**
+## Adjectives
+An adjective is a kind of descriptive word that describes a noun or a pronoun. It tells *which one*, *what kind*, and *how many*. Adjectives make your writing more lively and interesting. Keep in mind, a common error that English language learners make is misplacing the adjectives in a sentence. It is important to know where to place the adjective in a sentence so that readers are not confused.
+If you are using more than one adjective to describe a noun, place the adjectives in the following order before the noun:
+1. **Opinion:** an interesting book, a boring movie, a fun ride
+2. **Size:** a large box, a tiny turtle, a tall woman
+3. **Shape:** a round ball, a long hose, a square field
+4. **Age:** a new day, an old horse, a modern building
+5. **Color:** an orange sunset, a green jacket, a red bug
+6. **Ethnicity:** Italian cheese, French wine, Chinese tea
+7. **Material:** silk shirt, wool socks, a cotton dress
+Tip
+Adjectives can also be placed at the end of a sentence if they describe the subject of a sentence and appear after the verb. This is called a predicate adjective.
+**Sentence:** My English teacher is well-meaning and deliberate.
+Key Takeaways
+- The most basic sentence structure is a subject plus a verb that expresses a complete thought.
+- Adding a prepositional phrase or a direct or indirect object to a sentence makes it more complex.
+- English speakers change a sentence into a question in one of the following two ways: moving the helping verb and adding a question mark or adding the verb do, does, or did and adding a question mark.
+- Adjectives follow a particular order before the noun they describe. The order is opinion, size, shape, age, color, ethnicity, and material.
+Writing Application
+Write a paragraph about a memorable family trip. Use at least two adjectives to describe each noun in your paragraph. Proofread your paragraph, and then exchange papers with a classmate. Check your classmate’s use of adjectives to make sure they are correct.
+This page titled 7.1: Sentence Structure was last modified on Tue, 01 Sep 2020 19:27:59 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

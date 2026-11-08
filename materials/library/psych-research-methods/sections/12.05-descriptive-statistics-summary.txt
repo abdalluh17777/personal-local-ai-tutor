@@ -1,0 +1,77 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+12.5: Descriptive Statistics (Summary)
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/12%3A_Descriptive_Statistics/12.05%3A_Descriptive_Statistics_(Summary)
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform
+
+## Key Takeaways
+- Every variable has a distribution—a way that the scores are distributed across the levels. The distribution can be described using a frequency table and histogram. It can also be described in words in terms of its shape, including whether it is unimodal or bimodal, and whether it is symmetrical or skewed.
+- The central tendency, or middle, of a distribution can be described precisely using three statistics—the mean, median, and mode. The mean is the sum of the scores divided by the number of scores, the median is the middle score, and the mode is the most common score.
+- The variability, or spread, of a distribution can be described precisely using the range and standard deviation. The range is the difference between the highest and lowest scores, and the standard deviation is the average amount by which the scores differ from the mean.
+- The location of a score within its distribution can be described using percentile ranks or *z* scores. The percentile rank of a score is the percentage of scores below that score, and the *z* score is the difference between the score and the mean divided by the standard deviation.
+- Differences between groups or conditions are typically described in terms of the means and standard deviations of the groups or conditions or in terms of Cohen’s *d* and are presented in bar graphs.
+- Cohen’s *d* is a measure of relationship strength (or effect size) for differences between two group or condition means. It is the difference of the means divided by the standard deviation. In general, values of ±0.20, ±0.50, and ±0.80 can be considered small, medium, and large, respectively.
+- Correlations between quantitative variables are typically described in terms of Pearson’s *r* and presented in line graphs or scatterplots.
+- Pearson’s *r* is a measure of relationship strength (or effect size) for relationships between quantitative variables. It is the mean cross-product of the two sets of *z* scores. In general, values of ±.10, ±.30, and ±.50 can be considered small, medium, and large, respectively.
+- In an APA-style article, simple results are most efficiently presented in the text, while more complex results are most efficiently presented in graphs or tables.
+- APA style includes several rules for presenting numerical results in the text. These include using words only for numbers less than 10 that do not represent precise statistical results, and rounding results to two decimal places, using words (e.g., “mean”) in the text and symbols (e.g., “*M*”) in parentheses.
+- APA style includes several rules for presenting results in graphs and tables. Graphs and tables should add information rather than repeating information, be as simple as possible, and be interpretable on their own with a descriptive caption (for graphs) or a descriptive title (for tables).
+- Raw data must be prepared for analysis by examining them for possible errors, organizing them, and entering them into a spreadsheet program.
+- Preliminary analyses on any data set include checking the reliability of measures, evaluating the effectiveness of any manipulations, examining the distributions of individual variables, and identifying outliers.
+- Outliers that appear to be the result of an error, a misunderstanding, or a lack of effort can be excluded from the analyses. The criteria for excluded responses or participants should be applied in the same way to all the data and described when you present your results. Excluded data should be set aside rather than destroyed or deleted in case they are needed later.
+- Descriptive statistics tell the story of what happened in a study. Although inferential statistics are also important, it is essential to understand the descriptive statistics first.
+## References
+Ollendick, T. H., Öst, L.-G., Reuterskiöld, L., Costa, N., Cederlund, R., Sirbu, C.,…Jarrett, M. A. (2009). One-session treatments of specific phobias in youth: A randomized clinical trial in the United States and Sweden. *Journal of Consulting and Clinical Psychology, 77*, 504–516.
+Cohen, J. (1992). A power primer. *Psychological Bulletin, 112*, 155–159.
+Hyde, J. S. (2007). New directions in the study of gender similarities and differences. *Current Directions in Psychological Science, 16*, 259–263.
+Carlson, K. A., & Conard, J. M. (2011). The last name effect: How last name influences acquisition timing. *Journal of Consumer Research, 38*(2), 300-307. doi: 10.1086/658470
+MacDonald, T. K., & Martineau, A. M. (2002). *Self-esteem, mood, and intentions to use condoms: When does low self-esteem lead to risky health behaviors? Journal of Experimental Social Psychology, 38*, 299–306.
+McCabe, D. P., Roediger, H. L., McDaniel, M. A., Balota, D. A., & Hambrick, D. Z. (2010). *The relationship between working memory capacity and executive functioning. Neuropsychology, 24*(2), 222–243. doi:10.1037/a0017619
+Brown, N. R., & Sinclair, R. C. (1999). Estimating number of lifetime sexual partners: Men and women do it differently. *The Journal of Sex Research, 36,* 292–297.
+Bem, D. J. (2003). Writing the empirical journal article. In J. M. Darley, M. P. Zanna, & H. L. Roediger III (Eds.), *The complete academic: A career guide* (2nd ed., pp. 185–219). Washington, DC: American Psychological Association.
+Schmitt, D. P., & Allik, J. (2005). Simultaneous administration of the Rosenberg Self-Esteem Scale in 53 nations: Exploring the universal and culture-specific features of global self-esteem. *Journal of Personality and Social Psychology, 89*, 623–642.
+Buss, D. M., & Schmitt, D. P. (1993). Sexual strategies theory: A contextual evolutionary analysis of human mating. *Psychological Review, 100*, 204–232.
+### Exercises
+- Practice: Make a frequency table and histogram for the following data. Then write a short description of the shape of the distribution in words.
+  - 11, 8, 9, 12, 9, 10, 12, 13, 11, 13, 12, 6, 10, 17, 13, 11, 12, 12, 14, 14
+- Practice: For the data in Exercise 1, compute the mean, median, mode, standard deviation, and range.
+- Practice: Using the data in Exercises 1 and 2, find
+  - the percentile ranks for scores of 9 and 14
+  - the *z* scores for scores of 8 and 12.
+- Practice: The following data represent scores on the Rosenberg Self-Esteem Scale for a sample of 10 Japanese university students and 10 American university students. (Although hypothetical, these data are consistent with empirical findings [Schmitt & Allik, 2005][1].) Compute the means and standard deviations of the two groups, make a bar graph, compute Cohen’s *d*, and describe the strength of the relationship in words.
+| **Japan** | **United States** |
+| 25 | 27 |
+| 20 | 30 |
+| 24 | 34 |
+| 28 | 37 |
+| 30 | 26 |
+| 32 | 24 |
+| 21 | 28 |
+| 24 | 35 |
+| 20 | 33 |
+| 26 | 36 |
+- Practice: The hypothetical data that follow are extraversion scores and the number of Facebook friends for 15 university students. Make a scatterplot for these data, compute Pearson’s *r*, and describe the relationship in words.
+| **Extraversion** | **Facebook Friends** |
+| 8 | 75 |
+| 10 | 315 |
+| 4 | 28 |
+| 6 | 214 |
+| 12 | 176 |
+| 14 | 95 |
+| 10 | 120 |
+| 11 | 150 |
+| 4 | 32 |
+| 13 | 250 |
+| 5 | 99 |
+| 7 | 136 |
+| 8 | 185 |
+| 11 | 88 |
+| 10 | 144 |
+- Practice: In a classic study, men and women rated the importance of physical attractiveness in both a short-term mate and a long-term mate (Buss & Schmitt, 1993)[2]. The means and standard deviations are as follows. Men / Short Term: *M* = 5.67, *SD* = 2.34; Men / Long Term: *M* = 4.43, *SD* = 2.11; Women / Short Term: *M* = 5.67, *SD* = 2.48; Women / Long Term: *M* = 4.22, *SD* = 1.98. Present these results
+  - in writing
+  - in a figure
+  - in a table
+- Discussion: What are at least two reasonable ways to deal with each of the following outliers based on the discussion in this chapter? (a) A participant estimating ordinary people’s heights estimates one woman’s height to be “84 inches” tall. (b) In a study of memory for ordinary objects, one participant scores 0 out of 15. (c) In response to a question about how many “close friends” she has, one participant writes “32.”
+## References
+1. Schmitt, D. P., & Allik, J. (2005). Simultaneous administration of the Rosenberg Self-Esteem Scale in 53 nations: Exploring the universal and culture-specific features of global self-esteem. *Journal of Personality and Social Psychology, 89*, 623–642. ↵
+2. Buss, D. M., & Schmitt, D. P. (1993). Sexual strategies theory: A contextual evolutionary analysis of human mating. *Psychological Review, 100*, 204–232. ↵
+This page titled 12.5: Descriptive Statistics (Summary) was last modified on Fri, 11 Nov 2022 07:00:37 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform.

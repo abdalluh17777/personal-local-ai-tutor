@@ -1,0 +1,10 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+13.1: Prelude to Inferential Statistics
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/13%3A_Inferential_Statistics/13.01%3A_Prelude_to_Inferential_Statistics
+License: CC BY-NC-SA 4.0; authored, remixed or curated by LibreTexts
+
+Recall that Matthias Mehl and his colleagues, in their study of sex differences in talkativeness, found that the women in their sample spoke a mean of 16,215 words per day and the men a mean of 15,669 words per day (Mehl, Vazire, Ramirez-Esparza, Slatcher, & Pennebaker, 2007)[1]. But despite this sex difference in their sample, they concluded that there was no evidence of a sex difference in talkativeness in the population. Recall also that Allen Kanner and his colleagues, in their study of the relationship between daily hassles and symptoms, found a correlation of +.60 in their sample (Kanner, Coyne, Schaefer, & Lazarus, 1981)[2]. But they concluded that this finding means there *is* a relationship between hassles and symptoms in the population. This assertion raises the question of how researchers can say whether their sample result reflects something that is true of the population. The answer to this question is that they use a set of techniques called inferential statistics, which is what this chapter is about.
+## References
+1. Mehl, M. R., Vazire, S., Ramirez-Esparza, N., Slatcher, R. B., & Pennebaker, J. W. (2007). Are women really more talkative than men? *Science, 317*, 82.
+2. Kanner, A. D., Coyne, J. C., Schaefer, C., & Lazarus, R. S. (1981). Comparison of two modes of stress measurement: Daily hassles and uplifts versus major life events. *Journal of Behavioral Medicine, 4*, 1–39.
+13.1: Prelude to Inferential Statistics is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by LibreTexts.

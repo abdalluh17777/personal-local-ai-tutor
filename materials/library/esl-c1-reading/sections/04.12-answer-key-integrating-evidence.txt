@@ -1,0 +1,45 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+4.12: Answer Key- Integrating Evidence
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.12%3A_Answer_Key-_Integrating_Evidence
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## 4.3 Using Evidence to Support Claims
+## Using different types of evidence
+Here is a sample body paragraph. Evidence added is noted in square brackets and bold after the sentence containing evidence:
+Public schools should help immigrant children to maintain their heritage language. This is because without support, most immigrant children will lose their mastery of the home language by the time they are in high school (Mata-McMahon). **[Fact]** However, being bilingual carries significant advantages. According to Jennifer McMahon, University of Maryland professor, "Bilingual people tend to be better at connecting with others from different ethnic backgrounds and cultures. They are also better at solving problems". **[Quotation from an expert]** I have myself observed this with my friend's children. I have one friend from Peru whose son attended a bilingual private school and can read and write in both Spanish and English. Although he is only thirteen, he is very confident interacting with other people when he travels and is overall very comfortable in most social situations. **[Personal observation]** This opportunity should not be available just to children whose parents are able to afford special private schools. Instead, the United States should recognize that importance of cultivating the skills of all multilingual children to help them become leaders in an increasingly diverse society.
+## 4.4 Knowing When to Cite
+## Deciding if you should cite
+1. This is a statistic and a fact. This needs a citation. Here is the citation: (Tesch).
+2. This is anecdotal evidence: No citation is needed for this statement, but you cannot use it as the sole support for the point you are making. You must also include evidence from your research.
+3. This statement is obviously true, and does not require a citation.
+4. This may or may not be true. You need to cite evidence to support this statement. Here is the citation: (San Diego, Rumbaut and Cornelius qtd. in Tran 261)
+## 4.5 Choosing Appropriate Evidence
+## Finding evidence that supports your point
+Which quotation from this article provides the best support for the point you want to make?
+**Children of immigrants who continue to develop their fluency in their home languages while learning English have an economic advantage as adults.**
+1. "For all the research that supports childhood bilingualism, it is only recently that scholars have begun to understand bilingualism in adults’ professional lives."
+Not good evidence. This does mention professional lives, but the focus of the sentence is on people doing research about bilingualism, not on the actual effects of bilingualism on people's career success.
+2. "Historically notorious for their English monolingualism, a recent Gallup poll reports that in this nation of immigrants, only one in four American adults now reports being conversationally proficient in another language."
+Not good evidence. This gives facts about how many adults are monolingual, but does not talk about the consequences of keeping a second language. It is often tempting to pick a quote with a statistic, but make sure the statistic relates directly to your point.
+3. "Not only are bilingual young adults more likely to graduate high school and go to college, they are also more likely to get the job when they interview. Even when being bilingual is not a requirement, an interview study of California employers shows that employers prefer to both hire and retain bilinguals."
+Good evidence! This one directly supports your point, and adds something more specific beyond just repeating your point.
+4. "Research links bilingualism to greater intellectual focus, as well as a delay in the onset of dementia symptoms. Frequent use of multiple languages is also linked to development of greater empathy."
+Not good evidence. These are three wonderful advantages of bilingualism that you might use in a different part of your paper, but none of them specifically talks about career success.
+## 4.7: Introducing and Explaining Evidence
+## Choosing effective reporting verbs
+1. says: “If you look at modern hunter-gatherers, they are almost all multilingual,” **says** Thomas Bak.
+2. concludes: "From this [study], Ervin-Tripp **concludes** that human thought takes place within language mindsets, and that bilinguals have different mindsets for each language..." (concludes/insists/warns)
+3. explains: "When I did the same test again after completing the...task, I was significantly better at it, just as Athanasopoulos has predicted. 'Learning the new language improved your performance the second time around,” he **explains**. (denies/explains/argues)
+4. suggests: "The result of my test in Athanasopoulos’s lab **suggests** that just 45 minutes of trying to understand another language can improve cognitive function." (questions/maintains/suggests)
+5. tells: "Strowger **tells** me that the program has had many benefits in addition to their grades, including improving students’ engagement and enjoyment, increasing their awareness of other cultures so that they are equipped as global citizens, widening their horizons, and improving their job prospects."
+## 4.8 Avoiding plagiarism
+## Recognizing plagiarism
+Scenarios 1, 2, and 4 would likely be considered plagiarism. It’s important to check with your instructor if you have questions about what is acceptable in a specific situation.
+## Identifying paraphrasing and patchwriting
+This is patchwriting (and therefore plagiarism). Although the words have been changed, the sentence structure is very similar to the original.
+## 4.10: Language Toolkit
+## Check your understanding of ellipses and square brackets
+1. This is a correct use of square brackets.
+2. This is not correct. Too much of the original sentence has been taken out and it changes the meaning.
+3. This is not correct. The words that were added changed the meaning of the original.
+This page titled 4.12: Answer Key- Integrating Evidence was last modified on Sun, 09 Mar 2025 17:17:24 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

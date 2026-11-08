@@ -1,0 +1,107 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.5: Pronouns
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.05%3A_Pronouns
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Recognize subject and object pronouns.
+2. Identify possessive pronouns.
+3. Determine common pronoun errors.
+A **pronoun** is a word that can be used in place of the noun. We use pronouns so we do not have to repeat words. For example, imagine writing the following sentence: Afrah put her scarf on because Afrah was cold. The sentence sounds a bit strange because Afrah is named twice; however, if you use a pronoun, the sentence will be shorter and less repetitive. You might rewrite the sentence to something similar to the following: Afrah put her scarf on because she was cold. She refers to Afrah, so you do not have to write the name twice.
+## Types of Pronouns
+Subject pronouns are often the subject of a sentence —“who” and “what” the sentence is about.
+**Sentence: She** loves the desserts in France.
+*She* is the subject.
+**Sentence:** By lunch time, **they** were hungry.
+*They* is the subject.
+Object pronouns are often the object of the verb — “who” or “what” was acted upon.
+**Sentence:** Beza’s thoughtfulness touched **him**.
+*Him* is the object of the verb *touched*.
+**Sentence:** We lifted **it**.
+*It* is the object of the verb *lifted*.
+Tip
+The masculine subject pronoun is he, and the masculine object pronoun is him. The feminine subject pronoun is she, and the feminine object pronoun is her.
+A pronoun that shows possession or ownership is called a possessive pronoun.
+**Sentence:** The teacher took **her** apple and left.
+The pronoun *her* shows the teacher owns the apple.
+**Sentence:** The hikers spotted **their** guide on the trail.
+The pronoun *their* shows the hikers follow the guide who was assigned to the hikers.
+Table : Table of Pronoun Types
+| Subject Pronouns | I, you, he, she, it, we, they |
+| Object Pronouns | me, you, him, her, it, us, them |
+| Possessive Pronouns | my (mine), your(s), his, hers, its, our(s), their(s) |
+| Relative Pronouns | who, whose, whom, which, that |
+Exercise :
+On a separate sheet of paper, complete the following sentences by circling the correct pronoun.
+1. Unfortunately, the house was too expensive for (we, us, they).
+2. I completed (mine, my, your) research paper, and she completed (his, hers, theirs).
+3. My dog Buster is old, but (he, it, them) is very playful.
+4. That ring belongs to my father, so it is (hers, his, theirs).
+5. I cannot find my textbook, so I think (they, it, he) is lost.
+## Common Pronoun Errors
+English language learners often make the same errors when using pronouns. The following examples illustrate common errors.
+**Incorrect: Me** and Daniela went to the restaurant for lunch.
+This sentence is incorrect because an object pronoun (*me*) is used instead of a subject pronoun.
+**Correct:** Daniela and **I** went to the restaurant for lunch.
+This sentence is now correct because a subject pronoun (*I*) is used.
+**Incorrect:** Marco put her grocery bag on the counter.
+This sentence is incorrect because the pronoun *her* refers to a female, and Marco is a male.
+**Correct:** Marco put **his** grocery bag on the counter.
+This sentence is now correct because the male pronoun *his* refers to the male person, *Marco*.
+**Incorrect:** The woman she went to work earlier than usual.
+This sentence is incorrect because the subject *the woman* is repeated by the pronoun *she*. Sometimes this is a feature of oral speech, but never of written text.
+**Correct: The woman** went to work earlier than usual. **OR**
+**Correct: She** went to work earlier than usual.
+These sentences are now correct because the unnecessary repeated subject has been removed.
+Exercise :
+On a separate sheet of paper, correct the following sentences that have pronoun errors. If the sentence is correct as it is, write OK.
+1. Us are going to the county fair this weekend.
+2. Mohamed did not want to see a movie because she had a headache.
+3. The teacher congratulated Maria and me.
+4. The eighth grade students they were all behaving mysteriously well.
+5. Dominique and he received the best grade on the grammar test.
+## Relative Pronouns
+A relative pronoun is a type of pronoun that helps connect details to the subject of the sentence and may often combine two shorter sentences. The relative pronouns are *who*, *whom*, *whose*, *which* or *that* and sometimes *when* and *where.*
+**Sentence:** A relative pronoun is a type of pronoun.
+The subject of this sentence is *a relative pronoun*. The clause *is a type of pronoun* gives some information about the subject.
+The relative pronoun *that* may be added to give more details to the subject.
+**Sentence using a relative pronoun:** A relative pronoun is a type of pronoun **that** helps connect details to the subject of the sentence.
+Tip
+Remember the following uses of relative pronouns:
+- Who, whom, and whose refer only to people.
+- Which refers to things.
+- That refers to people or things.
+The following examples show how a relative pronoun may be used to connect two sentences and to connect details to the subject.
+**Sentence 1:** Gossip is a form of communication.
+**Sentence 2:** It is a waste of time and energy.
+**Combination of 1 and 2:** Gossip is a form of communication **that** is a waste of time and energy.
+Notice how the relative pronoun *that* replaces the subject *it* in sentence 2.
+*That* is called a relative pronoun because it connects the details (*is a waste of time and energy*) to the subject (*Gossip*).
+**Sentence 1:** My grandmother is eighty years old.
+**Sentence 2:** She collects seashells.
+**Combination of 1 and 2:** My grandmother, **who** is eighty years old, collects seashells.
+Notice how the relative pronoun *who* replaces the subject *she* in sentence 2.
+*Who* is called a relative pronoun because it connects the details (*is eighty years old*) to the subject (*My grandmother*).
+Exercise :
+On a separate sheet of paper, complete the following sentences by selecting the correct relative pronoun.
+1. He showed me a photo (who, that) upset me.
+2. Soccer is a fast moving game (who, that) has many fans worldwide.
+3. Juan is a man (which, who) has high standards for everything.
+4. Jamaica is a beautiful country (that, who) I would like to visit next year.
+5. My mother only eats bananas (who, that) are green.
+Exercise :
+On a separate sheet of paper, combine the two sentences into one sentence using a relative pronoun.
+1. Sayed is a dependable person. He will never let you down.
+2. I rode a roller coaster. It was scary.
+3. At the beach, I always dig my feet into the sand. It protects them from the hot sun.
+4. Sova is trying not to use so many plastic products. They are not good for the environment.
+5. My Aunt Cynthia is teaching me how to drive. She has never been in accident or gotten a ticket.
+Key Takeaways
+- A pronoun is used in place of a noun.
+- There are several types of pronouns, including subject and object pronouns, possessive pronouns, and relative pronouns.
+- Subject pronouns are the “who” and “what” the sentence is about.
+- Object pronouns are the “who” and “what” that receives the action.
+- A possessive pronoun is a pronoun showing ownership.
+- Common pronoun errors include mixing up subject, object, and gender pronouns, and repeating the subject of a sentence with a pronoun.
+- Relative pronouns help combine two separate sentences.
+This page titled 7.5: Pronouns was last modified on Fri, 11 Sep 2020 16:44:58 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

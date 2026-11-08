@@ -1,0 +1,215 @@
+{
+  "title": "Building Academic Writing Skills",
+  "url": "https://harpercollege.pressbooks.pub/academic-writing-skills",
+  "license": "CC BY-NC-SA (Attribution NonCommercial ShareAlike)",
+  "authors": "Lin Cui",
+  "chapters": [
+    {
+      "title": "Front Matter",
+      "sections": [
+        {
+          "title": "Introduction to the Book",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/front-matter/introduction/",
+          "file": "sections/00.01-introduction-to-the-book.txt",
+          "words": 0,
+          "exercises": 0
+        }
+      ]
+    },
+    {
+      "title": "Part One Academic Writing Essentials",
+      "sections": [
+        {
+          "title": "Unit 1 Introduction to Academic Writing",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-1-introduction-to-academic-writing/",
+          "file": "sections/01.01-unit-1-introduction-to-academic-writing.txt",
+          "words": 3072,
+          "exercises": 3
+        },
+        {
+          "title": "Unit 2 The Writing Process",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-2the-writing-process/",
+          "file": "sections/01.02-unit-2-the-writing-process.txt",
+          "words": 5122,
+          "exercises": 2
+        },
+        {
+          "title": "Unit 3 Parts and Characteristics of a Good Paragraph",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-3parts-of-a-paragraph/",
+          "file": "sections/01.03-unit-3-parts-and-characteristics-of-a-good-paragraph.txt",
+          "words": 10220,
+          "exercises": 17
+        }
+      ]
+    },
+    {
+      "title": "Part Two Paragraph Writing Skills and Essay Introduction",
+      "sections": [
+        {
+          "title": "Unit 4 Enumerative Paragraphs",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-4enumerative-paragraphs/",
+          "file": "sections/02.01-unit-4-enumerative-paragraphs.txt",
+          "words": 7292,
+          "exercises": 8
+        },
+        {
+          "title": "Unit 5 Narrative Paragraphs",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-5narrative-paragraphs/",
+          "file": "sections/02.02-unit-5-narrative-paragraphs.txt",
+          "words": 9279,
+          "exercises": 13
+        },
+        {
+          "title": "Unit 6 Essay Introduction",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-6essay-introduction/",
+          "file": "sections/02.03-unit-6-essay-introduction.txt",
+          "words": 5872,
+          "exercises": 5
+        }
+      ]
+    },
+    {
+      "title": "Part Three Editing / Grammar Skills",
+      "sections": [
+        {
+          "title": "Unit 7 Sentence Essentials",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-7sentence-essentials/",
+          "file": "sections/03.01-unit-7-sentence-essentials.txt",
+          "words": 7393,
+          "exercises": 16
+        },
+        {
+          "title": "Unit 8 Three Common Errors in Sentence Structure and Punctuation",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-8three-common-errors/",
+          "file": "sections/03.02-unit-8-three-common-errors-in-sentence-structure-and-punctua.txt",
+          "words": 5992,
+          "exercises": 15
+        },
+        {
+          "title": "Unit 9 Verb Basics in Academic Writing",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-9verb-basics-in-academic-writing/",
+          "file": "sections/03.03-unit-9-verb-basics-in-academic-writing.txt",
+          "words": 3938,
+          "exercises": 20
+        },
+        {
+          "title": "Unit 10 Subject-Verb Agreement",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-10subject-verb-agreement/",
+          "file": "sections/03.04-unit-10-subject-verb-agreement.txt",
+          "words": 4703,
+          "exercises": 8
+        },
+        {
+          "title": "Unit 11 Expressing Meaning in Present Tenses",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-11-expressing-meaning-in-present-tenses/",
+          "file": "sections/03.05-unit-11-expressing-meaning-in-present-tenses.txt",
+          "words": 3924,
+          "exercises": 6
+        },
+        {
+          "title": "Unit 12 Expressing Meaning in Past Tenses",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-12-expressing-meaning-in-past-tenses/",
+          "file": "sections/03.06-unit-12-expressing-meaning-in-past-tenses.txt",
+          "words": 3706,
+          "exercises": 7
+        },
+        {
+          "title": "Unit 13 Expressing Meaning in Future Tenses",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-13expressing-meaning-in-future-tenses/",
+          "file": "sections/03.07-unit-13-expressing-meaning-in-future-tenses.txt",
+          "words": 2954,
+          "exercises": 4
+        },
+        {
+          "title": "Unit 14 Expressing Meaning in Mixed Tenses",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-14expressing-meaning-in-mixed-tenses/",
+          "file": "sections/03.08-unit-14-expressing-meaning-in-mixed-tenses.txt",
+          "words": 3100,
+          "exercises": 5
+        },
+        {
+          "title": "Unit 15 Modals",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-15modals/",
+          "file": "sections/03.09-unit-15-modals.txt",
+          "words": 3982,
+          "exercises": 3
+        },
+        {
+          "title": "Unit 16 Nouns",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-16nouns/",
+          "file": "sections/03.10-unit-16-nouns.txt",
+          "words": 4794,
+          "exercises": 4
+        },
+        {
+          "title": "Unit 17 Pronouns",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-17pronouns/",
+          "file": "sections/03.11-unit-17-pronouns.txt",
+          "words": 4926,
+          "exercises": 12
+        },
+        {
+          "title": "Unit 18 Word Forms",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-18word-forms/",
+          "file": "sections/03.12-unit-18-word-forms.txt",
+          "words": 4985,
+          "exercises": 24
+        },
+        {
+          "title": "Unit 19 Word Orders",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-19word-orders/",
+          "file": "sections/03.13-unit-19-word-orders.txt",
+          "words": 3697,
+          "exercises": 29
+        },
+        {
+          "title": "Unit 20 Editing / Grammar Review",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-20editing-review/",
+          "file": "sections/03.14-unit-20-editing-grammar-review.txt",
+          "words": 4736,
+          "exercises": 10
+        }
+      ]
+    },
+    {
+      "title": "Part Four Appendices",
+      "sections": [
+        {
+          "title": "Appendix A  Non-Stop Non-Translation (NSNT) Free Writing with Additional Weekly Prompts",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/appendix-a-non-stop-non-translation-nsnt-free-writing-with-additional-prompts/",
+          "file": "sections/04.01-appendix-a-non-stop-non-translation-nsnt-free-writing-with-a.txt",
+          "words": 3540,
+          "exercises": 2
+        },
+        {
+          "title": "Appendix B Capitalization",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/appendix-bcapitalization/",
+          "file": "sections/04.02-appendix-b-capitalization.txt",
+          "words": 861,
+          "exercises": 0
+        },
+        {
+          "title": "Appendix C Punctuation",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/appendix-c-punctuation/",
+          "file": "sections/04.03-appendix-c-punctuation.txt",
+          "words": 1017,
+          "exercises": 1
+        },
+        {
+          "title": "Appendix D Irregular Verbs",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/appendix-d-irregular-verbs/",
+          "file": "sections/04.04-appendix-d-irregular-verbs.txt",
+          "words": 796,
+          "exercises": 0
+        },
+        {
+          "title": "Appendix E Answer Key to Some Non-Interactive Exercises",
+          "url": "https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/appendix-e-answer-key-to-non-interactive-exercises/",
+          "file": "sections/04.05-appendix-e-answer-key-to-some-non-interactive-exercises.txt",
+          "words": 18,
+          "exercises": 0
+        }
+      ]
+    }
+  ]
+}

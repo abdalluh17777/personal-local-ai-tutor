@@ -1,0 +1,45 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.4: Essay Introductions
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.04%3A_Essay_Introductions
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## The purpose of an introduction
+The introduction of an essay is like a frame for the essay, similar to the frame in figure 2.4.1. That framing helps your audience better understand the argument of your writing by preparing reader for the ideas that are to come in the body of your essay.
+[Image: Blue picture frame with no picture inside]
+Figure 2.4.1 A frame. "Single-Sheet Picture Frame" by Michał Kosmulski is licensed under CC BY-NC 2.0
+Not only does a good introduction capture your reader’s attention and make them want to read on, but it also gives the reader the information they need to understand what you are writing in your paper.
+But just because the introduction comes at the beginning, it doesn’t have to be written first. Many writers compose their introductions last, once they are sure of the main points of their essay and have had time to construct a thought provoking beginning, and a clear, cogent thesis statement.
+## Parts of an introduction paragraph
+The introduction consists of three parts: a hook, background information, and a thesis:
+## Hook: Introduce the topic and get readers interested
+The purpose of a hook is to provide a general statement about your topic and to engage your reader and get your audience excited about reading your essay. You may begin with a question, offer a statistic, share an interesting fact, tell a story, provide a quotation, describe an event, pose a problem, etc.
+Here are some different strategies for writing a hook and example hooks.
+- **General Statement**: It is hard to admit that we may be affected by other peoples' stereotypes of us.
+- **Proverb:** According to an African proverb, "Until the lion learns to write, every story will glorify the hunter."
+- **Quotation:** "We believe the one who has power. He is the one who gets to write the story. So when you study history, you must ask yourself: Whose story am I missing? Whose voice was suppressed so that this voice could come forth?" wrote the author Yaa Gyasi in her novel *Homegoing.*
+- **Question:** Did you know that what others assume about you can affect how well you perform on a test?
+- **Story:** When I was growing up in my country, I loved giving public speeches. I would participate in speech competitions against children in other schools, and I often one. When I started school in the US, I was excited when we had the chance to give presentations. I knew that I was probably the most prepared student in the class, and that my body language, expressions, and tone of voice could draw listeners in. However, right before I gave my presentation, a classmate said to me, "Even though you are not a native English speaker, I think you can do a good job." I think she meant to be kind, but I was shocked. I went on to give my speech, but I was distracted and did poorly.
+## Background: Build context for your essay
+The background information defines your topic and shows why your topic matters. It provides context for your thesis statement. You may introduce important sources, define key terms, share a brief history, explain the debate, etc.
+Here is the background information for a summary/response essay. For this kind of essay, the background information includes a summary:
+This is just one of the findings reported by Kristy McRaney and her colleagues in “Stereotype Threat,” a chapter in the textbook *The Psychology of Gender.* In this chapter, McRaney and her colleagues discuss a number of studies that examine the phenomenon known as stereotype threat: a situation in which someone is stereotyped, is aware of the stereotype, and is taking part in an activity related to the stereotype (par. 1). According to research reported by McRaney et al., “being aware that *others* believe [the stereotype], is enough to create a stereotype threat outcome” of poorer performance (par. 5). McRaney and her colleagues also look at research exploring *why* stereotype threat impacts test performance, including the commonly-accepted theory by Toni Schmader that preoccupation with a stereotype threat means that the test-taker “ties up valuable cognitive resources” which “impacts the capacity that one has to draw on their memory and to attend and focus on the task before them” (par. 8). Finally, their article acknowledges and responds to criticism of the idea of stereotype threat (McRaney et al. par 9).
+## Thesis statement: Roadmap to your essay
+Your thesis statement drives your essay. It's your controlling idea.
+- What do you intend to prove in your essay?
+- What is your position about the topic, and your reasons for believing it?
+A thesis is generally one sentence, but it can be longer for a long essay. It should present your idea, not an announcement of what you will do (ie, "In this essay, I will give three examples of...."). In the U.S., a thesis statement usually comes at the end of an introduction paragraph. Here is a strong thesis statement:
+Overall, McRaney and her colleagues make an understandable and compelling argument for the existence of stereotype threat; the information they present is engaging, seems balanced, and helped me make sense of my own experiences.
+## Let's put it all together
+Here is an example of a complete introduction paragraph, with a hook, background, and thesis statement:
+Did you know that what others assume about you can affect how well you perform on a test? This is just one of the findings reported by Kristy McRaney and her colleagues in “Stereotype Threat,” a chapter in the textbook *The Psychology of Gender.* In this chapter, McRaney and her colleagues discuss a number of studies that examine the phenomenon known as stereotype threat: a situation in which someone is stereotyped, is aware of the stereotype, and is taking part in an activity related to the stereotype (par. 1). According to research reported by McRaney et al., “being aware that *others* believe [the stereotype], is enough to create a stereotype threat outcome” of poorer performance (par. 5). McRaney and her colleagues also look at research exploring *why* stereotype threat impacts test performance, including the commonly-accepted theory by Toni Schmader that preoccupation with a stereotype threat means that the test-taker “ties up valuable cognitive resources” which “impacts the capacity that one has to draw on their memory and to attend and focus on the task before them” (par. 8). Finally, their article acknowledges and responds to criticism of the idea of stereotype threat (McRaney et al. par 9). Overall, McRaney and her colleagues make an understandable and compelling argument for the existence of stereotype threat; the information they present is engaging, seems balanced, and helped me make sense of my own experiences.
+## Identifying the parts of an introduction
+Try this!
+Here is another sample introduction. Can you find the hook, background, and thesis statement?
+Have you ever realized that your first impression about someone was wrong? It is common to have this experience, but it can be useful to understand more about why you thought this. Were your first impressions based on someone's race, gender, general appearance, age, etc.? Chimamanda Adichie describes a similar experience in her TED talk, “The Danger of a Single Story." When she started to write her writing was only influenced by British and American books that she used to read and she was not influenced by her everyday reality. She thought that all books are the same. Later she read books written by African writers like Chinua Achebe and Camara Laye, Adichie felt familiar with the places and characters in the stories. She understood that people like her exist in stories and that knowing only a single story is a danger and it leads to creating stereotypes. "Single stories" develop from making assumptions about others based on hearsay or the media, so the way to combat them is to increase opportunities for genuine interaction between people from different backgrounds.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Susie Naughton, Santa Barbara City College. License: CC BY NC.
+Sample introduction paragraph on stereotype threat by Clara Zimmerman, Porterville College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+The Purpose of an Introduction is adapted from the Excelsior Online Writing Lab's Introductions. License: CC BY.
+This page titled 2.4: Essay Introductions was last modified on Sun, 09 Mar 2025 17:17:23 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

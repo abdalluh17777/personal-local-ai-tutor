@@ -1,0 +1,167 @@
+Lesson 46 material: Academic Voice and Clarity
+English Stage 3 (C1) · Unit 5: Argument and Academic Style
+
+=== 6.1: Introduction ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.01%3A_Introduction
+
+## What will we learn in this chapter?
+In this chapter, you will learn about clarity and style in academic English writing along with strategies for writing clear, lively, and effective essays. You will read and identify elements of clarity and style in others’ writing and apply these ideas to your own writing. You will also practice revising writing for greater clarity and appropriate academic style, focusing on word selection and sentence variety.
+## Why is this important?
+Expressing your ideas clearly and with your audience in mind is central to effective communication. You don’t want your audience to have to work too hard to understand your message; if they are distracted by your writing, they may lose interest or not be able to fully understand the ideas you’re expressing. If you are writing an argument, they may be less likely to agree with you. On the other hand, a clear, well-written argument may convince skeptical readers to change their minds. Learning strategies to revise for clarity and conciseness will help you achieve this goal of effective communication.
+## What theme will this chapter focus on?
+California is known for its abundant agriculture; in fact, California’s Central Valley is known as “the salad bowl” of the nation. However, many residents of the state cannot easily access or afford fresh produce grown here. They live in areas known as food deserts -- areas with limited access to affordable, healthy foods. The readings in this chapter will explore this issue and consider some solutions.
+(Picture: A row of fields with farmworker vehicles.)
+Figure: "The Nation's Salad Bowl" by Malcolm Carlaw is licensed under CC BY 2.0
+## Learning objectives
+In this chapter, you will learn to
+- write in an academic voice.
+- use specific strategies to write clear, strong sentences.
+- identify an author's tone and intentionally modify your own tone.
+- use effective word choice and sentence variety to communicate clearly.
+- identify and revise common errors that get in the way of clear writing.
+## Licensing and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+
+=== 6.2: Sample Student Research Essay Draft- Food Deserts ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.02%3A_Sample_Student_Research_Essay_Draft-_Food_Deserts
+
+## Reading: Draft of student essay on food deserts
+*Note: This sample is a rough draft that is not intended to be a model of a polished, finished essay. Since the chapter focuses on clarity and style, the essay can be used as the "before'" version for practicing revision.*
+Amanda Wu
+17 May 2019
+Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status
+Have you ever had trouble finding a supermarket when you wanted to purchase fresh vegetables and fruits? Have you ever wondered why there are no supermarkets in certain areas? This phenomenon is especially interesting as people have begun to pay more attention to a healthy diet and lean towards purchasing healthy food, and more and more natural and organic-food stores have opened in recent years. As explained by Michael Pollan, a food detective and expert and the author of *The Omnivore’s Dilemma*, organic food is considered healthy because “it is grown without chemical fertilizers or pesticides” (133). Even though there are organic grocery stores like Whole Foods seemingly everywhere, it is difficult for some people of lower socioeconomic status, who live in food deserts, to access healthy food due to lack of accessibility and affordability. According to American FactFinder, the median family income in the United States was $70,850 in 2017 (“American FactFinder—Results”). This means that families with a median income below $70,850 are considered to have lower socioeconomic status. Gloria Howerton, professor in the Geography Department at the University of Georgia and the author of “‘Oh Honey, Don't You Know?’ The Social Construction of Food Access in a Food Desert,” mentions that people of lower socioeconomic status usually live in food deserts (741). A food desert is an area where there is a lack of fresh vegetable and fruit providers, such as supermarkets or farmers' markets. Food deserts that exist in places like West Oakland, California, contribute to inequitable health outcomes; however, some solutions are in place to improve this situation.
+It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because there is a lack of outlets for fresh produce in their community. As Alana Rhone, an Agricultural Economist, and colleagues report, there’s a website known as the Food Access Research Atlas (FARA) that “allows users to investigate access to food stores at the census-tract level” (1). According to the United States Department of Agriculture ERS, the measure of food access is based on proximity to the nearest store, and the number of households without a vehicle (“Documentation” para 2). As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and one-third of its residents do not have vehicles. For urban areas, such as West Oakland, the USDA defines that “a tract is considered low access if at least 100 households are more than a half-mile from the nearest supermarket and have no access to a vehicle” (“Documentation” para 8). Given the facts above, one can reasonably assume that if people don’t have a car and need to take a bus to access healthy food, it will cause inconvenience and lower their willingness to purchase healthy food. It’s harder to calculate the time it will take to go on the supermarket trip when one is taking public transportation. As a result, if one buys fresh milk but has to spend much time on taking public transportation to return home from a supermarket, the fresh milk may spoil. In contrast, if people own private vehicles, they can easily plan the trip and be willing to travel longer distances to a supermarket to purchase healthy food. Therefore, it’s hard for residents of West Oakland who live in food deserts to access healthy produce since there are insufficient outlets to fresh food in their community.
+It’s also tough for people of lower socioeconomic status to buy healthy food because they cannot afford high-end organic food. According to American FactFinder, the median family income in West Oakland was $35,037 in 2017, which is below the U.S. median family income of $70,850. Based on the data above, residents in West Oakland are considered to be of a lower socioeconomic status. As mentioned previously, organic food has no chemical fertilizers or pesticides, and as stated by Columbia Electronic Encyclopedia, the 6th Edition. 2019, “organic farming requires more manual labor and attention” (“Organic food.”), so its price is higher than conventional food. Take salted butter as an example; one box of four bars of organic salted butter costs $5.29, while one box of non-organic salted butter only costs $3.49 (as listed on the Whole Foods website). Additionally, as reported by an article, “Socioeconomic Status and Risk Factors for Cardiovascular Disease: Impact of Dietary Mediators,” written by many Medical Doctor and Doctor of Philosophy, “Low-income families purchase low-cost items” because “the price of fruit and vegetables was the most determinative barrier in the consumption of these products from low-income families” (Psaltopoulou Chapter: 2.2. Cost). People with lower income may face the difficulty of living a self-sufficient life, much less purchase high-end organic food. Due to the lower income, if people of lower socioeconomic status frequently purchase high-end organic food, it will increase their financial burden. They often tend to consume cheaper and less healthy produce such as processed food because the price point is lower, and the portion is larger than that of organic food. As a result, it will be challenging for people with lower income to access healthy food.
+However, many residents of West Oakland believe that corner liquor stores are cheaper and more convenient than supermarkets. Admittedly, it is true. They think this because there are many corner liquor stores nearby, and that is convenient for them. They can buy everything they need in a corner liquor stores store and don’t have to travel long distances to a supermarket to access healthy food. Research on Google Maps shows there are at least ten corner liquor stores but no supermarkets like Whole Foods in West Oakland. As stated by Sam Bloch, the author of “Why Do Corner Stores Struggle to Sell Fresh Produce” and a professional writer for *The New York Times*, *L.A. Weekly*, and Artnet, most of the corner stores “don’t have walk-in refrigerators” (para 13). Thus, they cannot sell many types of fresh produce because they do not have refrigerators to keep the produces fresh; the food may spoil before being sold. As a result, liquor stores rarely provide healthy food choices, such as fresh vegetables and fruits, meat, or dairy. Hence, even if many liquor stores nearby are convenient, one is barely able to find healthier produce. In the long-term, those that constantly shop at corner liquor stores may only gain convenience but lose in health and well-being.
+Although the lack of accessibility and affordability may obstruct people of lower socioeconomic status who live in food deserts to access healthy food, luckily there are some existing resources that one can make good use to improve this situation, such as food hubs and community gardens. According to Jim Downing, the executive editor of UCANR's research journal California Agriculture, food hubs are nonprofit organizations and “are designed to enable small and mid-scale farms to efficiently reach larger and more distant market channels like campuses and school districts, hospitals and corporate kitchens” (para 5). For instance, Mandela Foods Distribution, a Mandela Marketplace social enterprise, delivers fresh fruits and vegetables to corner stores in low-income neighborhoods in West Oakland (Downing para 6). Food hubs supply fresh vegetables and fruits to low-income communities, and it increases access to healthy foods for residents of West Oakland. Residents can obtain fresh and healthy food through food hubs at Mandela Marketplace. Another resource that helps residents to access healthy food is learning how to grow vegetables and fruits in community gardens. According to Centers for Disease Control and Prevention, “Establishing a community garden where participants share in the maintenance and products of the garden and organizing local farmers markets are two efforts that community members themselves can do” (“Food Desert” para 4). Community gardens provide places that allow people to plant food for themselves. One of the famous community gardens is known as City Slicker Farms. The goal of City Slicker Farms is “to empower West Oakland community members to meet the basic need for fresh, healthy food by creating sustainable, high-yield urban farms and backyard gardens” (para 1). There are many plots provided to residents to plant vegetables and fruits and to exchange and discuss their gardening experiences at the farm. If residents can make good use of food hubs or community gardens, they can access to healthy food and learn how to grow fresh vegetables and fruits themselves.
+This case study shows that the difficulties people of lower socioeconomic status who live in food deserts face in accessing healthy food are lower-income and a lack of supermarkets. Helping people of lower socioeconomic status increase their income to afford healthy produce or building many supermarkets that sell healthy produce may be not easy to achieve. However, to recognize this situation and make good use of existing resources to access healthy food are significant and feasible. For long-term health, people need to consume more healthy food instead of less healthy food such as processed food. In other words, people who consistently consume processed food may negatively affect their health. Since many processed foods have high amounts of added sugar and sodium, they may be associated with some diseases, such as diabetes and heart disease. In brief, people should consume unhealthy food as least as possible. Planting fresh vegetables and fruits in community gardens or going to Mandela Foods Distribution where food hubs supply much fresh food for residents are some of the ways for people who have trouble finding fresh food to access healthy produce. These may be the best ways for people who live in food deserts and belong to a lower socioeconomic status to receive the greatest benefits from limited resources.
+Works Cited
+“American FactFinder—Results.” *American FactFinder - Results*, 5 Oct. 2010.
+Bloch, Sam. “Why Do Corner Stores Struggle to Sell Fresh Produce?” *New Food Economy*, 21 Feb. 2019.
+“Documentation.” *Economic Research Service*, United States Department of Agriculture.
+Downing, J. “Food Hubs: The Logistics of Local.” *California Agriculture*, University of California, Agriculture and Natural Resources, 13 Sept. 2017.
+“Food Desert: Gateway to Health Communication: CDC.” *Centers for Disease Control and Prevention*, Centers for Disease Control and Prevention, 15 Sept. 2017.
+Howerton, Gloria, and Amy Trauger. “‘Oh Honey, Don’t You Know?’ The Social Construction of Food Access in a Food Desert.” *ACME: An International E-Journal for Critical Geographies*, vol. 16, no. 4, Dec. 2017, pp. 740–760. *EBSCOhost*.
+“Organic Food.” *Columbia Electronic Encyclopedia, 6th Edition*, Jan. 2019, p. 1. *EBSCOhost.*
+Psaltopoulou, Theodora, et al. “Socioeconomic Status and Risk Factors for Cardiovascular Disease: Impact of Dietary Mediators.” *Hellenic Journal of Cardiology*, Elsevier, 1 Feb. 2017.
+Pollan, Michael. *Young Readers Edition: The Omnivore’s Dilemma: The Secrets behind What You Eat.* New York: Dial, 2009. Print.
+Rhone, Alana, et al. “Low-Income and Low-Supermarket-Access Census Tracts, 2010-2015.” *AgEcon Search*, 1 Jan. 2017.
+"Salted Butter". Whole Foods. *Products.wholefoodsmarket.com.*
+## Licenses and Attributions
+### CC Licensed Content: Original
+Authored by Amanda Wu, Laney College. License: CC BY NC.
+
+Links on this section's web page:
+- “Documentation.”: http://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/#definitions
+
+=== 6.3: Finding Your Academic Voice ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.03%3A_Finding_Your_Academic_Voice
+
+## What is academic writing?
+Have you ever noticed that the way people speak in everyday conversation is very different from what you would read or write in a college class? Academic writing, the writing we do in college classes, does not come naturally to most people, whether they are native English speakers or not.
+To effectively write in the U.S. English academic style,
+- use clear, specific word choice and sentence constructions (including active voice as much as possible)
+- build unity and coherence by staying focused on the main topic at hand
+- use mostly third-person voice to build your argument:
+- incorporate outside sources
+- mostly avoid using personal experience or discussing your process of writing the paper
+In the following sections, we’ll focus on ways to achieve clarity and good academic style in your writing. Remember that writing is a process, and it is usually best to wait until you are done with a full draft to apply these ideas. When your thesis and support are clear, it is much easier to clarify your message on the sentence level. Your job, like the task of the scientist in Figure 6.3.1, is to communicate a complex idea accurately to your audience.
+(Picture: scientist talking over a tray of yam plants)
+Figure: Scientist, Hidehiko Kikuno explaining yam vine propagation technique by the International Institute of Tropical Agriculture is licensed under CC-BY-NC 2.0
+## Analyzing academic voice
+Now let's take a look at the student essay in terms of academic voice:
+Try this!
+Based on the information above, which of the following excerpts from student writer Amanda’s introduction best fits our definition of effective academic writing?
+1. Have you ever had trouble finding a supermarket when you wanted to get fresh vegetables and fruits? Have you ever wondered why there are no supermarkets in certain areas? I’ve noticed these things happening as people have begun to pay more attention to eating and buying healthy things. Last year a Whole Foods opened in my neighborhood.
+2. Have you ever had trouble finding a supermarket when you wanted to purchase fresh vegetables and fruits? Have you ever wondered why there are no supermarkets in certain areas? This phenomenon has become especially evident as people pay more attention to a healthy diet and lean towards purchasing healthy food.
+For suggested answers and comments, see 6.15: Clarity and Style Answer Key.
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- What features of academic writing does it share with our definition?
+- What features might be missing or could be improved?
+Throughout this chapter, you will follow Amanda’s journey as she revises a research essay about food deserts in Oakland, California. You will give her advice on revising for clarity and style and practice applying these techniques to your own writing.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu. License: CC BY.
+## CC Licensed Content: Previously published
+First paragraph on "What is academic writing" is adapted from "Academic Style" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+
+Links on this section's web page:
+- "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status": https://docs.google.com/document/d/1OAGtg25jl8eLO9hyAULGKSzs5mZiFnvZPR2GxoBeSRE/edit
+
+=== 6.4: Writing with Clarity ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.04%3A_Writing_with_Clarity
+
+## What is clarity?
+Writing clear, precise sentences will help your audience understand your message and make your writing more effective. Like the camera lens focused on the flower in the foreground of figure 6.4.1, your choice of words and the way you build your sentences can bring your ideas into focus for your reader.
+(Picture: close-up of a flower in front of blurred background of cranberries)
+Figure: 20160916-AMS-LSC-2988 by U.S. Department of Agriculture is licensed as __Public domain__
+## Strategies for writing with clarity
+- avoiding wordiness
+- choosing active voice where appropriate
+- using clear pronoun references
+- using strong and specific rather than general words
+In this section, we will examine each of these strategies more closely.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+
+=== 6.6: Using Clear Pronoun References ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.06%3A_Using_Clear_Pronoun_References
+
+## Pronouns and antecedents
+A pronoun is a word that takes the place of a noun. Pronouns include words such as *he, she, it*, *they, this, these, them***,** or *those*. The antecedent is the noun that the pronoun is referring to. Just like a price tag on a produce shelf needs to point directly to the item it is pricing (see figure 6.6.1), a pronoun needs to clearly point to its antecedent.
+(Picture: Supermarket shelf with vegetables and price tags)
+Figure: "Organic Vegetables" is licensed under CC0 1.0.
+Examples:
+- Many *people* [antecedent] started shopping at the new supermarket when it opened, but *they* [pronoun] weren’t buying much produce or other healthy foods.
+- If *residents* [antecedent] can make good use of food hubs or community gardens, *they* [pronoun] can access healthy food and learn how to grow fresh vegetables and fruits *themselves* [pronoun].
+If the pronoun and its antecedent don’t clearly match up, this can lead to confusion about the meaning and make your sentence less precise. Make sure each pronoun has a single, clear antecedent.
+**Unclear:** Some researchers suggest that the idea food deserts exist because a lack of demand for healthy foods by patrons is flawed; they are taking another look at this narrative.
+In this sentence, it’s a little hard to tell who the pronoun *they* is referring to, because there are two nouns that might be the antecedent: *researchers* and *patrons.* While logically it makes sense that *they* refers to *researchers*, *patrons* is closer to the pronoun. It’s better to revise this sentence.
+**Clearer:** Some researchers suggest that the idea food deserts exist because a lack of demand for healthy foods by patrons is flawed; these researchers are taking another look at this narrative.
+## Pronouns and antecedents in action
+Now let's take a look at the student essay in terms of clear pronoun references:
+Try this!
+Look at the second paragraph of Amanda’s essay. Focus on the first and third sentences (in [**brackets**]).
+- Find the pronouns and their antecedents. Are the relationships between them clear?
+- Is there anything Amanda could further clarify?
+[**It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because there is a lack of outlets for fresh produce in their community.**] As Alana Rhone, an Agricultural Economist, and colleagues report, there’s a website known as the Food Access Research Atlas (FARA) that “allows users to investigate access to food stores at the census-tract level” (1). [**According to the United States Department of Agriculture ERS, the measure of food access is based on proximity to the nearest store, and the number of households without a vehicle (“Documentation” para 2).**] As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and one-third of its residents do not have vehicles. For urban areas, such as West Oakland, the USDA defines that “a tract is considered low access if at least 100 households are more than a ½-mile from the nearest supermarket and have no access to a vehicle” (“Documentation” para 8). Given the facts above, one can reasonably assume that if people don’t have a car and need to take a bus to access healthy food, it will cause inconvenience and lower their willingness to purchase healthy food. It’s harder to calculate the time it will take to go on the supermarket trip when one is taking public transportation. As a result, if one buys fresh milk but has to spend much time on taking public transportation to return home from a supermarket, the fresh milk may spoil. In contrast, if people own private vehicles, they can easily plan the trip and be willing to travel longer distances to a supermarket to purchase healthy food. Therefore, it’s hard for residents of West Oakland who live in food deserts to access healthy produce since there are insufficient outlets to fresh food in their community.
+## Checking your own pronoun use
+Now let's apply this to your writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- Choose one or two sentences and underline the pronouns and their antecedents. Are the relationships between them clear?
+- Can you clarify anything?
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu. License: CC BY.
+
+Links on this section's web page:
+- "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status": https://docs.google.com/document/d/1OAGtg25jl8eLO9hyAULGKSzs5mZiFnvZPR2GxoBeSRE/edit
+
+=== Answer key from the book: 6.15: Answer Key- Clarity and Style ===
+## 6.3: Finding Your Academic Voice
+## Analyzing academic voice
+The first excerpt starts with a hook -- a question or questions to get the reader interested in the topic. After the hook, Amandaa continues with a personal story in the first person. Next, the writer continues discussing a personal experience. Although this experience is related, it’s not exactly the same topic, and it’s unclear what the main idea is.
+The second excerpt begins the same way, but Amanda continues in the third person and it’s clear that the information is unified around one single topic. The information in the second part of the excerpt clearly relates back to the initial questions.
+Based on what we know about academic writing, the second excerpt, which is a revised version of the first, is a closer fit to our definition. It’s a more effective example of academic writing.
+## 6.7: Using Active Voice
+## Identifying active vs. passive voice
+Sentence 1 is best because it is in active voice: it focuses on the subject (pesticides) doing actions (eliminating, killing) to objects (destructive insects, bees).
+Sentence 2 is in passive voice: it technically conveys the same information, but it focuses on the objects (destructive insects, bees) and adds the subject (pesticides) in a way that sounds like extra information. It's not wrong, but it's less clear.
+Sentence 3 is in passive voice and doesn't name the subject (pesticides) at all.
+## Identifying passive voice in a paragraph
+These sentences use passive voice:
+1. It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough fresh produce is sold by stores in their communities.
+2. As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and vehicles are not owned by one-third of its residents.
+3. Given the facts above, it can reasonably be assumed that if people don’t have a car and taking the bus is needed to access healthy food, it will cause inconvenience and their willingness to purchase healthy food will be diminished.
+How could you revise each sentence to use active voice? Ask yourself who or what is doing the action in each clause, and make that the subject. Here are possible revisions:
+1. It’s difficult for people of lower socioeconomic status who live in food deserts to access healthy food because not enough stores in their communities sell fresh produce.
+2. As specified by FARA, 33% of residents in West Oakland are at least one mile away from any supermarket, and one-third of its residents do not own vehicles.
+3. Given the facts above, it can reasonably be assumed that if people don’t have a car and need to take the bus to the market, they will be less willing to purchase healthy food.

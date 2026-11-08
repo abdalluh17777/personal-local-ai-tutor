@@ -1,0 +1,234 @@
+High-Intermediate Academic Grammar for ESL Students (Al Haider)
+5.4: Grammar Presentation-Modals
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/02%3A_Unit_2._American_History/05%3A_Indigeonous_People/5.04%3A_Grammar_Presentation-Modals
+License: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform
+
+Modal auxiliaries are helping verbs that are used only with a main verb to help express mood.
+The following is the basic formula for using a modal auxiliary:
+**Positive statements**: Subject + modal auxiliary + base verb.
+**Example positive statement**: James may call.
+**Yes or no question:** Modal auxiliary + subject + base verb?
+**Example yes or no question**: Should I drive?
+There are eight main modal auxiliaries in English.
+| **Modal Auxiliary** | **Use** | **Modal Auxiliary + Main Verb** |
+| **can** | Expresses an ability; | possibility; | or a polite request. | I can lift this forty-pound box. (ability) | We can embrace green sources of energy. (possibility) | Can you give me a piece of paper? (polite request) |
+| **could** | Expresses an ability in the past; | a present possibility/suggestion; | a past or future permission; | or a polite request. | I could beat you at chess when we were kids. (past ability) | We could bake a pie! (present possibility/suggestion) | Could we pick some flowers from the garden? (future permission) | Could you pass the handout to me? (polite request) |
+| **may** | Expresses uncertain future action; | permission; | or a polite request. | I may attend the concert. (uncertain future action) | You may begin the exam. (permission) | May I attend the concert (polite request) |
+| **might** | Expresses uncertain action | I might attend the concert (uncertain action) |
+| **should** | Expresses obligation; | expectation; | or advisability. | I should mail my RSVP. (obligation) | She should be passing all her classes. (expectation) | Should I call my mother? (advisability) |
+| **will** | Expresses intended future action; | ask a favor; | ask for information | I will get an A in this class. (intended future action) | Will you buy me some chocolate? (favor) | Will you be finished soon? (information) |
+| **would** | States a preference/request; | polite request; | explain an action; | introduce habitual past actions | I would like the steak, please. (preference/request) | Would you please move the books? (polite request) | I would go with you if I didn't have to babysit tonight. (explain an action) | He would write to me every week when we were dating. (habitual past action) |
+| **must** | Expresses obligation; | or an inference. | We must be on time for class. (obligation) | He must be sick. (inference) |
+Table 14 English Modals
+“Table 14 English Modals” is derived from “__Writing for Success__” by Lynne Bost, Barbara Hall, Michelle Kassorla, Karen McKinney-Holley, Kirk Swenson, and Rebecca Weaver licensed under __CC BY__.
+## 2.1.4.1. **Possibility and Inference**
+We can express certainty with modals of possibility. If you are 100% certain, then no modal is necessary, but if you’re almost certain then use the modal *must*. If you’re less than 50% certain, then use *may*, *might*, or *could*.
+When your teacher is absent, you might infer these possibilities:
+She is sick. (100% certain)
+She **must** be sick. (95% certain)
+She **may** be sick. (less than 50% certain)
+She **might** be sick. (less than 50% certain)
+She **could** be sick. (less than 50% certain)
+For more information on this topic, watch these videos: __Modals of Possibility- May, Might, and Could__ and __Modal of Certainty-Present__
+[Video: https://www.youtube.com/embed/xE-04vBz3fg]
+[Video: https://www.youtube.com/embed/A18UlngR2SY]
+## 2.1.4.1.1. **Exercise 3-Inference Practice**
+Below is a list of situations. Give one sentence with *must* for a strong inference (guess), and write another sentence with a less likely possibility. Use the example to guide you.
+Example: Your teacher’s eyes are red.
+95% certain: She **must** have allergies.
+Less than 50% certain: She **might** be high on drugs.
+1. A restaurant is busy.
+2. Your classmate is using crutches.
+3. You see a dog at your friend’s house.
+4. Your classmate is sad after receiving her exam results.
+5. Your classmate is coughing.
+6. Your friend is wearing a sun hat and swim suit.
+7. Your stomach is making noises.
+8. You hear an ambulance.
+9. You received a high grade on your homework.
+10. You see your family member at the train station.
+## 2.1.4.2. **Polite Requests**
+*Could, would*, and *may* are equally polite when making a request. However, *can* is less formal but still polite. *Can* is used with someone you are familiar with or close to. *May* is used when asking permission or a request, so the subject of the request is “I”; the other modals can be used with any subject. Although all these modals are polite, it is still recommended to use please with these modals. See the examples below.
+1. **May** I (please) have a cup of water (please)?
+2. **Could** I (please) have a cup of water (please)?
+3. **Can** I (please) have a cup of water (please)?
+4. **Would** you (please) give me a cup of water (please)?
+5. **Could** you (please) give me a cup of water (please)?
+6. **Can** you (please) give me a cup of water (please)?
+7. **Would you mind giving** me a cup of water (please)?
+For more information on this topic, watch these videos: __Modal Verbs used for asking Permission and Making Requests__ and __Modal Verbs: Making Requests__
+## 2.1.4.2.1. **Exercise 4-Polite Requests**
+Look at the following situations and write how you would politely request what is needed.
+1. You are emailing your instructor. You want to make an appointment to review the exam results.
+2. You want to schedule time off from work so that you can visit your family in another city. You will ask your supervisor.
+3. You are at the doctor’s office waiting room. You have been waiting for a while and need to leave soon. The receptionist is available to ask about the wait time.
+4. You want to use your brother’s car since yours broke down.
+5. You are with your classmate and want to use her phone to call your mom to pick you up.
+## 2.1.4.3. **Advisability, Expectations, Obligation, and Necessity**
+**Should** can be used to give advice, expectations, and obligations. However, when stating a strong necessity, use **must** or **have to**.
+1. You **should** drink hot water with honey. (advice)
+2. You **should** be finished with your reading by now. (expectation)
+3. I **should** be at work at 9AM. (obligation)
+4. I **must** be a work at 9AM. (necessity)
+5. I **have to** be at work at 9AM. (necessity)
+For more information on this topic, watch these videos: __Need to, Have to, & Must: Necessity__ and __Modals for Advice: Should & Should Not__
+[Video: https://www.youtube.com/embed/3gcA2rbUZ80]
+[Video: https://www.youtube.com/embed/JUIaJf-x6_U]
+## 2.1.4.3.1. **Exercise 5-Should or Must**
+Complete the sentences with either should or must. Both answers are possible, but the meaning is different. Use the most appropriate word for the intended meaning.
+1. According to my counselor, I ____________ take 12 more units to graduate.
+a. should
+b. must
+2. According to my counselor, I ____________ meet with a tutor to improve my writing.
+a. should
+b. must
+3. We ____________ eat healthy.
+a. should
+b. must
+4. Plants ____________ have sun in order to live.
+a. should
+b. must
+5. You ____________ submit your homework in order to receive credit.
+a. should
+b. must
+## 2.1.4.4. **Modals Expressing Past Tense**
+**Used to, would**, and **could** can be used to express past situations that are no longer true in the present time. Look at the examples.
+1. I **used to** travel to many countries. (past habitual action)
+2. I **would** visit new and exciting places. (past habitual action)
+3. I **could** handle the long flights with no problems. (past ability)
+4. I **had to** save my money to buy my plane tickets. (past necessity)
+Examples 1 and 2 show that an action occurred regularly, but it no longer happens today. In the third example, **could** signals an ability I once had, but I no longer have. The last example shows past necessity with **had to**.
+For more information on this topic, watch this video: __Past Modals__ and __Difference Between Used to and Would__
+[Video: https://www.youtube.com/embed/4nnPVne2C5w]
+[Video: https://www.youtube.com/embed/VFk5x2WupBY]
+## 2.1.4.4.1. **Exercise 6-Listening Practice**
+Listen to Rachel talk about her childhood. Mark the sentences below as true or false. Follow this __link for the listening.__
+[Video: https://www.youtube.com/embed/AyBLyhLa5Ys]
+1. Rachel lives on a farm now.
+a. True
+b. False
+2. She hung out with her friends on the weekends.
+a. True
+b. False
+3. She had the ability to lift heavy items.
+a. True
+b. False
+4. She didn’t need to work on the farm if the weather was bad.
+a. True
+b. False
+## 2.1.4.5. **Modals Expressing Regrets and Criticism**
+Sometimes we regret past actions or inactions. Sometimes we criticize others for their past actions or inactions. Modal help express regrets and criticism. Look at the examples.
+1. I did not wear a jacket. Now it’s cold. I **should have brought** a jacket. (regret)
+2. I ate a lot of chocolate. Now my stomach hurts. I **should not have eaten** all the chocolate. (regret)
+3. You are late. You did not tell me. You **might have called** me to say you were late. (criticism)
+4. You didn’t keep my secret. You **could have kept** my secret! (criticism)
+Let’s look at the formation of regrets and criticism.
+**Regret**: Subject + should/should not + have + past participle.
+**Criticism**: Subject + might/could + have + past participle.
+**Contractions**: Subject + should’ve/shouldn’t have/might’ve/could’ve + past participle.
+For more information on this topic, watch this video: __Using Perfect Modals to Express Regrets-English Grammar__
+[Video: https://www.youtube.com/embed/hCaU3qHbGQU]
+## 2.1.4.5.1. **Exercise 7-Expressing Regret and Criticism**
+Rewrite the sentences with the correct form for the modal in parentheses. Your sentences might be affirmative or negative. Use the example to guide you.
+Example: I told Jennifer my secret. She talks a lot.
+(Should) I shouldn’t have told Jennifer my secret.
+Example 2: I didn’t do my homework.
+(Should ) I should have done my homework.
+1. I have spinach in my teeth. You didn’t tell me!
+(Might)
+2. The electricity bill is late. You sent the payment through the mail.
+(Could)
+3. I made a lot of food for dinner. Now, I have a lot of leftovers.
+(Should)
+4. I didn’t bring an umbrella to class. The forecast predicted heavy rain.
+(Should)
+5. Maria waited to sign up for Political Science. Now the only instructor available has bad reviews.
+(Might)
+6. Huy’s car broke down. He was absent for class and missed an important exam. His teacher won’t let him make it up.
+(Could)
+## 2.1.4.5.2. **Exercise 8-What a Mess!**
+Look at the picture of Yvonne’s room. What a mess! Create 5 sentences criticizing here. What should/could/might she have done? Use the example to guide you.
+Example: Yvonne could have put her computer on her desk.
+[Image: Image 14 What a Mess!]
+## 2.1.4.5.3. **Exercise 9-Should Present vs Past Tense**
+Read the sentences that include **should**. Select whether should is expressing advisability in the present or past.
+1. You should wear a jacket to the performance tonight.
+a. present
+b. past
+2. Latif should have driven slower.
+a. present
+b. past
+3. He should have managed his time better. Now, he’s suffering the consequences.
+a. present
+b. past
+4. Brandi should open a new salon to accommodate all her beautiful clients.
+a. present
+b. past
+5. Bridget should take time to relax.
+a. present
+b. past
+6. Rylee should have attended the planning meeting. Now her club wants to exclude her from the event.
+a. present
+b. past
+7. Grades should be entered no later than the Monday after the end of the semester.
+a. present
+b. past
+8. Nancy should retire soon so that she can spend time with her grandson.
+a. present
+b. past
+9. Abigale should have followed her teacher’s directions.
+a. present
+b. past
+10. Ricardo should have worked in the garden before it started raining. Now he has a cold.
+a. present
+b. past
+## 2.1.4.5.4. **Exercise 10-Listening Practice for Regrets and Criticism**
+The weekend flew by! Listen to Rachel talk about her regrets. Follow __this link for the listening__.
+[Video: https://www.youtube.com/embed/Xx2wPR8SSlA]
+1. Select the activities she did.
+a. do homework
+b. call Grandma Betty
+c. call Kathy
+d. buy groceries
+e. clean the house
+f. watch the new series on Netflix
+g. do laundry
+h. go to Asha’s house
+## 2.1.4.6. **Common Errors**
+Be aware of these four common errors when using modal auxiliaries:
+Using an infinitive instead of a base verb after a modal
+Incorrect: I can to move this heavy table.
+Correct: I can move this heavy table.
+Using a gerund instead of a base verb after a modal
+Incorrect: I could moving to the United States.
+Correct: I could move to the United States.
+Using two modals in a row
+Incorrect: I should must renew my passport.
+Correct: I must renew my passport.
+Correct: I should renew my passport.
+Leaving out a modal
+Incorrect: I renew my passport.
+Correct: I must renew my passport.
+“Common Errors” is derived from “__Writing for Success__” by Lynne Bost, Barbara Hall, Michelle Kassorla, Karen McKinney-Holley, Kirk Swenson, and Rebecca Weaver licensed under __CC BY__.
+## 2.1.4.6.1. **Exercise 11-Common Modal Auxiliary Errors**
+The sentences have errors related to modal auxiliaries. Identify and correct the errors.
+1. She should to make dinner for her family every night.
+2. He must drives his mother to the store tonight
+3. It might raining in New York now.
+4. I could played baseball every day when I was a boy.
+5. I would ate dinner with my mother and father every day.
+6. The girl has play with her friends after school tomorrow.
+7. He musts goes to the doctor for the cut on his head.
+8. Children should not be play with matches.
+9. My big brother could ate a lot of food when he were a boy.
+10. He might not sees the spider on his shirt.
+11. I could be played football when I was a young man.
+12. It may raining tonight.
+13. His sister must goes to school every day next week.
+14. The boys and their father would worked on the farm all day when they was younger.
+15. We had to do a lot of homework tomorrow evening.
+16. He have to finishes his homework before he can goes to the party with his friends.
+17. He must finishes his composition before he cans goes outside to play.
+18. He must always eats all the food on his plate before he can leaves the table.
+“Common Modal Auxiliary Errors” is derived from “__Modal Verb Form Errors Analysis and Structure Exercise__” by Don Bissonnette under __CC BY-NC.__
+This page titled 5.4: Grammar Presentation-Modals was last modified on Sat, 01 Feb 2025 19:06:31 GMT and is shared under a CC BY 4.0 license and was authored, remixed, and/or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform.

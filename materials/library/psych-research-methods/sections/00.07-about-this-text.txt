@@ -1,0 +1,87 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+About this Text
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/00%3A_Front_Matter/07%3A_About_this_Text
+License: CC BY-NC-SA  4.0
+
+This textbook is an adaptation of one written by [unnamed original author] and adapted by The Saylor Foundation under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License without attribution as requested by the work’s original creator or licensee. The original text is available here: www.saylor.org/site/textbooks/
+The first Canadian edition (published in 2013) was authored by Rajiv S. Jhangiani (Kwantlen Polytechnic University) and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. Revisions included the addition of a table of contents, changes to Chapter 3 (Research Ethics) to include a contemporary example of an ethical breach and to reflect Canadian ethical guidelines and privacy laws, additional information regarding online data collection in Chapter 9 (Survey Research), corrections of errors in the text and formulae, spelling changes from US to Canadian conventions, the addition of a cover page, and other necessary formatting adjustments.
+The second Canadian edition (published in 2015) was co-authored by Rajiv S. Jhangiani (Kwantlen Polytechnic University) and I-Chant A. Chiang (Quest University Canada) and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Revisions included: (throughout) language revision, spelling & formatting, additional video links and website links, interactive visualizations, figures, tables, and examples; (Chapter 1) the Many Labs Replication Project; (Chapter 2) double-blind peer review, contemporary literature databases, how to read academic papers; (Chapter 3) Canadian ethics; (Chapter 4) laws, effects, theory; (Chapter 5) fuller description of the MMPI, removal of IAT, validity descriptions; (Chapter 6) validity & realism descriptions, Latin Square design; (Chapter 7) Mixed-design studies, qualitative-quantitative debate; (Chapter 8) 2 × 2 factorial exercise; (Chapter 9) Canadian Election Studies, order and open-ended questions; (Chapter 13) p-curve and BASP announcement about banning p-values; “replicability crisis” in psychology; (Glossary) added key terms.
+The second U.S. edition (published in 2017) was authored by Dana C. Leighton (Southern Arkansas University) and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Revisions included reversion of spelling from Canadian English to U.S. English and the addition of a cover photo: “Great Wave off Kanagawa” after Katsushika Hokusai (葛飾北斎) is public domain.
+The third U.S. edition (published in 2017) was authored by Carrie Cuttler (Washington State University) and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Revisions included general reorganization, language revision, spelling, formatting, additional video links, and examples throughout. More specifically, the overall model section was moved from Chapter 1 to Chapter 2, new sections were added to Chapter 1 on methods of knowing and goals of science, and a link on the replication crisis in psychology was added to Chapter 1. Chapter 2 was also reorganized by moving the section on reviewing the research literature to earlier in the chapter and taking sections from Chapter 4 (on theories and hypotheses), moving them to Chapter 2, and cutting the remainder of Chapter 4. Sections of Chapter 2 on correlation were also moved to Chapter 6. New sections on characteristics of good research questions, an overview of experimental vs. non-experimental research, a description of field vs. lab studies, and making conclusions were also added to Chapter 2. Chapter 3 was expanded by adding a definition of anonymity, elaborating on the Belmont Report (the principles of respect for persons and beneficence were added), and adding a link to a clip dispelling the myth that vaccines cause autism. Sections from Chapter 4 (on defining theories and hypotheses) were moved to Chapter 2 and the remainder of the previous Chapter 4 (on phenomenon, theories, and hypotheses) was cut. Chapter 5 was reorganized by moving the sections on four types of validity, manipulation checks, and placebo effects to later in the chapter. Descriptions of single factor two-level designs, single factor multi-level designs, matched-groups designs, order effects, and random counterbalancing were added to Chapter 5 and the concept of statistical validity was expanded upon. Chapter 6 was also reorganized by moving sections describing correlation coefficients from Chapters 2 and 12 to Chapter 6. The section of the book on complex correlation was also moved to Chapter 6 and the section on quasi-experiments was moved from Chapter 6 to its own chapter (Chapter 8). The categories of non-experimental research described in Chapter 6 were change to cross-sectional, correlational, and observational research. Chapter 6 was further expanded to describe cross-sectional studies, partial correlation, simple regression, the use of regression to make predictions, case studies, participant observation, disguised and undisguised observation, and structured observation. The terms independent variable and dependent variable as used in the context of regression were changed to predictor variable and outcome/criterion variable respectively. A distinction between proportionate stratified sampling and disproportionate stratified sampling was added to Chapter 7. The section on quasi-experimental designs was moved to its own chapter (Chapter 8) and was elaborated upon to include instrumentation and testing as threats to internal validity of one-group pretest-posttest designs, and to include sections describing the one-group posttest only design, pretest-posttest nonequivalent groups design, interrupted time-series with nonequivalent groups design, pretest-posttest design with switching replication, and switching replication with treatment removal designs. The section of Chapter 9 on factorial designs was split into two sections and the remainder of the chapter was moved or cut. Further, examples of everyday interactions were added and a description of simple effects was added to Chapter 9. The section on case studies that appeared in Chapter 10 was edited and moved to Chapter 6. Further, labels were added to multiple-baseline across behaviors, settings, and participants designs, and a concluding paragraph on converging evidence was added to Chapter 10. Only minor edits were made to the remaining chapters (Chapters 11, 12, and 13).
+This fourth edition (published in 2019) was co-authored by Rajiv S. Jhangiani (Kwantlen Polytechnic University), Carrie Cuttler (Washington State University), and Dana C. Leighton (Texas A&M University—Texarkana) and is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Revisions throughout the current edition include changing the chapter and section numbering system to better accommodate adaptions that remove or reorder chapters; continued reversion from the Canadian edition; general grammatical edits; replacement of “he/she” to “they” and “his/her” to “their”; removal or update of dead links; embedded videos that were not embedded; moved key takeaways and exercises from the end of each chapter section to the end of each chapter; a new cover design. In addition, the following revisions were made to specific chapters:
+- Chapter 1:
+  - Updated list of empirically supported therapies.
+- Chapter 2:
+  - Added description of follow-up research by Drews, Pasupathi, and Strayer (2004) demonstrating that cell phone conversations while driving carry a greater risk than conversations with a passenger
+  - Added the term meta-analysis along with a definition of this term
+  - Replaced terms men and women with males and females
+  - Updated the description of the number of records returned with different search terms to a broader description of the relative number of records (that will not change as more articles are added to PsychINFO)
+  - Replaced the term “operationally define” variables with a more general statement about measuring variables since the term operational definition is not formally defined until later in the text
+  - Added a citation for Zajonc’s (1965) research
+  - Added a brief description of factors (i.e., small sample size, stringent alpha level) that increase the likelihood of a Type II error.
+- Chapter 3:
+  - Removed titles of tables in references to tables
+  - Added statement that many people, including children, have died as a result of people avoiding the MMR vaccine
+  - Added a statement about self-plagiarizing being unethical and provided an example of submitting the same assignment in multiple classes
+  - Explained the respect for persons principle
+  - Revised the levels of IRB review to match terminology used in federal regulations
+  - Footnotes for references were made actual footnotes in Pressbooks
+- Chapter 4:
+  - Removed potentially offensive or stigmatizing examples
+  - Clarified definition of levels of measurement
+  - Added citations for the various scales described
+  - Added further description of why IQ is measured on an interval scale
+  - Added descriptions of the indicators of central tendency that are appropriate to compute and report for each of the scales of measure (nominal, ordinal, interval, ratio)
+  - Added a paragraph on operationally defining the construct that reviews the process of transferring a conceptual definition to something that can be directly observed and measured
+  - Added brief description of PsycTESTS and link to these tests
+  - Removed the statement that family and friends can serve as good pilot subjects
+- Chapter 5:
+  - Clarified the distinction between independent and dependent variables
+  - Moved up the discussion of a control condition
+  - Briefly discussed research ethics within the description of the study by Guéguen & de Gail (2003)
+  - More clearly defined a power analysis and emphasized the importance of conducting one
+  - Referenced confounds within the discussion of internal validity
+  - Noted that within-subjects experiments require fewer participants
+  - Removed duplicate reference
+  - Added citations
+  - Updated language
+- Chapter 6:
+  - Clarified when non-experimental approaches are appropriate
+  - Added information about Milgram’s non-experimental study of obedience to authority
+  - Added a discussion of cross-sectional, longitudinal, and cross-sequential studies
+  - Revised organization of non-experimental approaches
+  - Removed description of experimenter-selected independent variable
+  - Specified types of variables that may be measured in correlational research
+  - Added an example of a correlational study that uses categorical variables
+  - Added a factor analysis table
+  - Listed more examples of nonstatistical data analysis techniques
+  - Added a table to summarize some differences between quantitative and qualitative research
+  - Described some group dynamics and personality characteristics that might influence participation in focus groups
+  - Discussed Festinger’s research on cognitive dissonance that used disguised participant observation
+  - Described the Hawthorne effect
+  - Added an example of a study that used structured observation within a laboratory environment
+- Chapter 7:
+  - Clarified language concerning data collection methods vs. research designs
+  - Mentioned randomizing the order of presentation of questions as another way of reducing response order effects
+  - Explained reverse coding
+  - Described additional types of non-probability sampling
+  - Reiterated the importance of conducting a power analysis
+  - Added common online data collection sites
+- Chapter 8:
+  - Discussed how the inclusion of a control group rules out threats to internal validity within a one-group design study
+- Chapter 9:
+  - Clarified discussion of non-experimental factorial designs.
+- Chapter 10: No substantive changes
+- Chapter 11:
+  - Added regional psychology association conferences to list of conferences
+  - Condensed and clarified discussion of final manuscripts
+  - Updated discussion of open sharing of results to acknowledge some journals that require open data
+  - Added explanation of person-first language
+- Chapter 12:
+  - Corrected erroneous APA style recommendations and added references to specific Publication Manual sections
+  - Standardized the use of the terms “figure” and “chart” to better correspond with APA style
+  - Minor changes to discussion of poster formatting
+  - Moved list of conferences to end of discussion to not break up the material
+- Chapter 13:
+  - Defined p-hacking and clarified discussion of p-hacking
+  - Made definition of *p*-value more technically correct

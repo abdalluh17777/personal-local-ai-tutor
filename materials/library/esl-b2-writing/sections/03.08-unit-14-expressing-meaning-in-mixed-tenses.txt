@@ -1,0 +1,164 @@
+Building Academic Writing Skills
+Unit 14 Expressing Meaning in Mixed Tenses
+Source: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-14expressing-meaning-in-mixed-tenses/
+License: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui
+
+# Unit 14 Expressing Meaning in Mixed Tenses
+**Learning Objectives**
+1. To learn the verb tense shift strategies
+2. To identify the correlation between time expressions and verb tenses through multiple examples
+3. To understand and practice tense shifts in a variety of writing situations
+# I. Pretest
+[Image: history books]
+history books
+The following ten sentences are about Amy’s interests and study. Some verbs are bold-faced. If the bold-faced part in the sentence is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. My friend Amy **has just graduated** from college.
+   Options: correct | just graduate
+   Answer: correct
+Q: 2. Amy **is majoring** in computer science and history in her college.
+   Options: correct | majored
+   Answer: majored
+Q: 3. In her first two years of college, she **has concentrated** in computer science only because a degree in computer would help her find a job more easily.
+   Options: concentrated | correct
+   Answer: concentrated
+Q: 4. However, her interest in history **no change**.
+   Options: correct | did not change
+   Answer: did not change
+Q: 5. In her third year in college, Amy finally **decided** to add a second major and take history courses.
+   Options: correct | has decided
+   Answer: correct
+Q: 6. It was challenging to have double majors, but Amy was glad that she **is doing** something she had passion for.
+   Options: correct | was doing
+   Answer: was doing
+Q: 7. On graduation day last week, Amy was proud of what she **accomplished**.
+   Options: correct | had accomplished
+   Answer: had accomplished
+Q: 8. She has found a position as a computer analyst and **start** her job next month.
+   Options: correct | is starting
+   Answer: is starting
+Q: 9. When she **will establish** her financial stability in a few years, Amy is going to do some research for the local historical society.
+   Options: correct | establishes
+   Answer: establishes
+Q: 10. She will happily use her history knowledge when that time **will come**.
+   Options: comes | correct
+   Answer: comes
+# II. Strategies in Correctly Switching Verb Tenses
+This unit culminates[1] Unit 9 through 13 and serves as a review of what you have learned about verbs.
+It is very common to rely on more than one or two tenses in expressing your ideas effectively and in helping your readers understand you clearly. In fact, an integration of present, past, and/or future tenses is often necessary in many forms of writing. Therefore, it is important not only to understand each individual tense well but also to switch between tenses within the same piece of writing. Here are some strategies:
+**1. Understand the individual tenses.**
+Study each verb tense and know the differences between different tenses. Review Unit 9 through 13 whenever needed.
+**2. Match verb tense changes with time expressions**.
+The verb tense and the time expressions go hand in hand. For example, when you switch from present to past or from future back to present in the middle of your paragraph or essay, you need to switch your time words. Mark your verbs and time words for self check. For instance, you may underline the verbs and highlight the time expressions, as shown in Exercise 1 below.
+**3. Match verb forms with verb tenses**.
+Once you decide on the correct verb tense, think what verb form corresponds[2] to this particular tense. Remember that verb tenses and verb forms also have to match each other.
+**4. Pay attention to the context**.
+Sometimes, a time word is omitted to make the flow of ideas more natural. When this occurs, there should be clear in-context clues[3] to help the readers follow your thoughts.
+**5. Imagine that you are the reader**.
+Think about what you want your readers to understand. Look at your writing from a reader’s perspective. Read your writing out loud and listen to yourself. Do you understand the sequence of actions or the flow of logic clearly?
+**6. Proofread**.
+Always proofread before submitting your writing. You will be surprised how many errors you are able to catch and fix.
+**Exercise 1.** Discuss how many times the verb tense is changed in the following sentences. Then discuss how the verb tenses (underlined) and time words and related expressions (boldfaced) work together to create clear meaning.
+1. My brother __liked__ history **in high school**. However, he __fell__ in love with science **when he started college**. **Now** he __is enjoying__ physics, chemistry, and ecology courses in addition to a world history class.
+2. My friend Lucy __was__ a history major **in college** and __has been teaching__ world history in a local high school **for the last four years**. She **always** __says__ that the mankind’s best teacher __is__ its own past. I __agree__, but l __like__ to look ahead and imagine what the **future** __will be like__.
+3. **By the time** the Internet __was invented__, students __had learned__ history through books and movies. **Since the Internet started**, YouTube videos __have become__ one of the popular means of learning.
+# III. Time Words in Switching Tenses
+**Seasons : Clothes = Time Words: Verb Tenses**
+The above analogy[4] will help you understand the relationship between verb tenses and time words. The seasons decide what clothes you wear: In summer, you wear a T-shirt, while a coat is needed in winter. In the same way, time words determine the verb tenses: yesterday for past tenses and tomorrow for future tenses.
+Of course, you may prefer out-of-season clothes. In writing, there are also exceptions to the above principle, but they are rare.
+Below is a compilation[5] of times words and tenses. The chart is just for general reference. When you write, focus on your context as well as the following time expressions.
+| **Verb Tenses and Forms** | **Time Words and Related Expressions** |
+| **Simple Present:** | ***“Be” verbs: am, is, are*** | ***“Do” verbs: work / works*** | always, frequently, usually, often, generally, sometimes, seldom, rarely, hardly ever, never … | every day, each night, once a week, on Tuesdays … |
+| **Present Progressive:** | ***am/is/are working*** | now, right now, at the moment, at the current moment, at present … | today, these days, nowadays, currently, this semester … |
+| **Present Perfect:** | ***“Be” verbs: have/has been*** | ***“Do” verbs: have/has worked*** | since, for, recently, lately, so far, to date, till now, in the past/last two weeks … | already, before, just, never, yet … | once, two times, a few times, many times, … | today, these days, this week, all life … | no time words |
+| **Present Perfect Progressive:** | ***have/has been working*** | since, for, recently, lately, so far, to date, till now, in the past/last two weeks … | today, these days, this week, all life … | no time words |
+| **Simple Past:** | ***“Be” verbs: was, were*** | ***“Do” verbs: worked*** | yesterday, last night, two years ago, in 2000 … | always, frequently, usually, often, generally, sometimes, seldom, rarely, hardly ever, never … | every day, each night, once a week, on Tuesdays … |
+| **Past Progressive:** | ***was/were working*** | at this time yesterday, at 9 am this morning, at that moment, at that time… | when | while |
+| **Past Perfect:** | ***“Be” verbs: had been*** | ***“Do” verbs: had worked*** | by then, by that time, by + a specific past time, by + a past time clause … | when, until, as soon as, before, after … |
+| **Simple Future:** | ***“Be” verbs: will be*** | ***“Be” verbs: am/is/are going to be*** | ***“Do” verbs: will work*** | ***“Do” verbs: am/is/are going to work*** | later today, tomorrow, next week, in 2035 … | soon, in the future, in the near future, … |
+**Exerciser 2.** Use the sentences in Exercise 1 as examples. Underline the main verbs and highlight related time expressions in the following paragraph about the American dream. Then discuss how the verb tenses and time words work together to express clear meaning.
+[Image: houses in the suburbs]
+houses in the suburbs
+The American Dream
+For many generations, the American dream has promised an equal society and material prosperity. For millions of Americans in the 1950s, the American Dream meant the chance to have a house of their own, a car, a dog, and two kids. The Big Three – Ford, General Motors, and Chrysler – began producing more cars. The construction of thousands of miles of high-speed roads started. At the same time, many families decided to have more children after the Second World War, and the country enjoyed a postwar[6] baby boom[7]. Meanwhile, thousands of people began to move to the suburbs. With the ability to own a home, many Americans soon enjoyed better living conditions than their parents. Shopping centers and fast food restaurants made the suburban life easier. The American dream had gained[8] a new meaning by then. Today, suburbs are still attracting people for better schools, fewer crimes, and wider space.
+*Adapted from “Suburban Growth”*
+*http://www.oercommons.org/courses/american-history-from-pre-columbian-to-the-new-millennium-ushistory-org/view. Last accessed on September 22, 2021.*
+# IV. Unit Review Practice
+**Exercise 3.** Read the following paragraph about American activism. Based on the underlined time expressions, fill in the blanks with the correct verb tenses. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+[Image: Martin Luther King Jr. and other people]
+Martin Luther King Jr. and other people
+[Interactive exercise]
+Task: .
+   Activism in the U.S. The United States has had (have) a long history of activists seeking social, political, economic, and other changes to America. American sociopolitical activism [became] (become) especially prominent during the 1950s . The African American civil rights movement [led] (lead) the way. Martin Luther King Jr. [was] (be) one of the most well-known leaders at that time . Since then, the United States [has remained] (remain) a land of nearly constant change to bring about American democracy. It [seems] (seem) likely that Americans [will stay/are going to stay] (stay) enthusiastic activists in the future.
+*Adapted from “Activism in the US”. https://www.oercommons.org/courses/activism-in-the-us/view. Last accessed on September 22, 2021.*
+**Exercise 4.** The following paragraph is about a famous case “Brown v. Board of Education” in the American history. Based on the underlined time expressions, fill in the blanks with the correct verb tenses. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+[Image: a yellow school bus on the road]
+a yellow school bus on the road
+[Interactive exercise]
+Task: Fill in the missing words
+   Brown v. Board of Education In America nowadays , families of different races and backgrounds send (send) their sons and daughters to the same public schools in their home districts, but the situation [was] (be) very different in the past . The change [started] (start) with a lawsuit called “Brown v. Board of Education of Topeka”. In the early 1950s , public schools in the U.S. [were] (be) segregated. This means that the black and white children [could] (can) not study in the same schools. In 1951 , the public school district in Topeka, Kansas [refused] (refuse) to enroll Linda Brown, a 7-year-old African American girl, at the school closest to her home. Instead, she [had] (have) to ride a bus to a segregated black elementary school farther away. The Brown family and twelve other local black families in similar situations then [filed] (file) a lawsuit in U.S. federal court against the Topeka Board of Education. They [argued] (argue) that the segregation policy [was] (be) unconstitutional. In 1954, the Supreme Court [decided] (decide) unanimously against racial segregation in public schools. The decision [was] (be) important for integration and [was] (be) a major victory of the civil rights movement. Even to this day , the winning of the case [has been affecting] (affect) many areas of American policy.
+*Adapted from https://en.wikipedia.org/wiki/Brown_v._Board_of_Education, last accessed on September 25, 2021.*
+**Exercise 5.** Read the following paragraph about Clarence Earl Gideon. There are ten more errors in the use of verb tenses (not including the example). Find the errors and correct them. Use the time words and context as your guide. The first one is an example.
+Clarence Earl Gideon
+[Image: a pen and a notebook with the word "lawyer"]
+a pen and a notebook with the word “lawyer”
+Clarence Earl Gideon was born in a city in Missouri in 1910. He **~~*ha*~~*~~s~~ (had)* **a very hard childhood and ran away from home at age fourteen. He committed robbery, burglary[9], and other crimes. As a result, he was arrested multiple times. On June 3, 1961, he break into a pool hall in Panama City, Florida. After he was arrested, he has no money to hire a lawyer to represent[10] him in the court. Clarence had to act as his own lawyer. He does not have an education, nor does he have any legal training. Naturally, he lose the case and was sentenced to five years in prison. However, Clarence believed that the court not give him a fair trial. He did not give up. He appealed[11] to the Florida Supreme Court, but the court decision remained the same. He then asked the help of the U.S. Supreme Court[12]. The Court appointed a lawyer to represent him. With the help of the lawyer, Clarence had received a new trial, and he was finally set free. Clarence Earl Gideon died of cancer in Florida in 1972.
+Clarence did not just help himself. He helped many others. Before his case, the court send many people to Florida jails because they could not afford a lawyer. After his case, those people had new trials, and some of them have been able to go home. Since then, the U.S. courts allow poor people to have legal representation without spending too much money. Now it is the law that every defendant[13] has a right to a lawyer.
+*Adapted from https://en.wikipedia.org/wiki/Clarence_Earl_Gideon. Last accessed on September 26, 2021.*
+**Exercise 6.** Choose one of the following topics to write one or more paragraphs. Use appropriate time words and verb tenses.
+1. Write about a social justice issue in your native country or in the U.S.
+2. Write about an important event in the history of your native country and its causes.
+3. Write about an important event in the world history and its effects.
+4. Write about a worsening environmental issue, the reasons for it, and its possible solutions.
+5. Write about a period of your life, for example, your teenage years.
+**NSNT Practice**
+[Image: a pen writing in a notebook]
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that you have not written about. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the use of verbs and time words. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+[Image: a page in a dictionary]
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: culminate -> verb, reach the final or highest point
+Card: correspond -> verb, match, fit
+Card: clue -> noun, a hint or an idea to help others understand
+Card: analogy -> noun, a comparison based on similarities
+Card: compilation -> noun, collection, gathering
+Card: burglary -> noun, a crime of breaking into other people's house to steal things
+Card: represent -> verb, to speak for a person and defend that person in the court
+Card: appeal -> verb, formally ask a higher court to review the case
+Card: U.S. Supreme Court -> noun phrase, the highest court in the United States
+Card: defendant -> noun, a person who is charged with a crime and who appears in a court
+Card: postwar -> adjective, after the war
+Card: baby boom -> noun phrase, a time when many babies are born
+Card: gain -> verb, get, obtain
+**Summary**
+1. Use appropriate time words and related expressions to signal the verb tense shift.
+2. The verb tense, verb form, and time words must match each other.
+3. Remember **Seasons : Clothes = Time Words: Verb Tenses**
+4. Always proofread before submitting your writing.
+## Media Attributions
+- history books is licensed under a Public Domain license
+- houses in the suburbs © Photo by David McBee from Pexels
+- Martin Luther King Jr. and other people © Photo by Unseen Histories on Unsplash
+- a yellow school bus on the road © Photo by Maximilian Simson on Unsplash
+- a pen and a notebook with the word “lawyer” © Photo by RODNAE Productions from Pexels
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. culminate: verb, reach the final or highest point ↵
+2. correspond: verb, match, fit ↵
+3. clue: noun, a hint or an idea to help others understand ↵
+4. analogy: noun, a comparison based on similarities ↵
+5. compilation: noun, collection, gathering ↵
+6. postwar: adjective, after the war ↵
+7. baby boom: noun phrase, a time when many babies are born ↵
+8. gain: verb, get, obtain ↵
+9. burglary: noun, a crime of breaking into other people's house to steal things ↵
+10. represent: verb, to speak for a person and defend that person in the court ↵
+11. appeal: verb, formally ask a higher court to review the case ↵
+12. the U.S. Supreme Court: noun phrase, the highest court in the United States ↵
+13. defendant: noun, a person who is charged with a crime and who appears in a court ↵

@@ -1,0 +1,51 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+3.9: Writing an Annotated Bibliography
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.09%3A_Writing_an_Annotated_Bibliography
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Writing an annotated bibliography
+Your instructor may ask you to evaluate your sources by writing an annotated bibliography. We create annotated bibliographies in order to start researching and organizing sources before actually writing a research paper. Writing an annotated bibliography helps you to think critically about which sources you are using, how reliable they are, and how they will be useful.
+The annotated bibliography is a list of sources that you may decide to use in your paper alone with extra notes (annotation). Each source, or entry, generally has two parts: a **complete citation** and a paragraph that includes both a **summary** and **evaluation.**
+## Summary
+In the first sentence of your summary, include the **author’s name + reporting verb, the main idea,** and the type of source (magazine, website, academic journal article, book, film, etc.).
+Here are some sentence frames you can use for your summary:
+- In this [*type of source]*, [*author's name*] explains [*main idea].*
+- According to [*author's name*] in this [*type of source*]**,** [*main idea*].
+- [*Author's name*] claims in this [*type of source]* that [*main idea*].
+## Evaluation
+Here are some questions that you can think about as you write your evaluation:
+- How credible is the source?
+- Are there any biases?
+- Why it is this relevant to your topic?
+- How will you use it in your paper?
+Here are some sentence frames you can use for your evaluation:
+- This source seems credible because….
+- This source may be considered biased because….
+- The research strongly supports my research question because….
+- I plan to use this in the [introduction/background/cause/effect, etc.] section of my paper to show….
+## Reading an annotated bibliography
+As you read this sample annotated bibliography, think about these questions:
+- Which strategies does the writer use to evaluate the article?
+- What are strengths of this? How can it be improved?
+- Does the writer have enough sources to support her thesis? Why or why not?
+- Which sources seem strongest for supporting her point?
+- Compare this annotated bibliography to the final research paper. Did the writer use all of these sources in her final draft? Why do you think this may be?
+## Sample Student Annotated Bibliography
+Lily Liu De Li
+**Working thesis**: Although minority faculty members play an important role on campuses, their contributions are often not recognized and colleges should find more ways to support and retain them.
+Cleveland, Roger, et al. "Cultural Taxation." *Encyclopedia of Diversity and Social Justice*, edited by Sherwood Thompson, Rowman & Littlefield Publishers, 1st edition, 2014. *Credo Reference.*
+Cleveland, et al. state in this encyclopedia article that minority faculty in the academic workplace face obstacles and prejudices. Diverse faculty are expected to take on extra roles to help the campus, which takes up time and increases their work pressure. This is an article from the Encyclopedia of Diversity and Social Justice which was published by Rowman & Littlefield. I chose this article because it will be used for one of my concessions.
+Han, I., and A. J. Onchwari. “Development and Implementation of a Culturally Responsive Mentoring Program for Faculty and Staff of Color”. *Interdisciplinary Journal of Partnership Studies*, vol. 5, no. 2, July 2018, p. Article 3, doi:10.24926/ijps.v5i2.1006.
+In their academic article, Han and Onchwari describe a mentoring program that was set up to support faculty of color at a university that is mostly white. They first explain why it is important to have faculty of color and then review the problems that faculty of color face. Then, they explain how the mentoring program provided more of a community for the people who participated in it. This is a credible article because Han and Onchwari are professors of education and have studied this problem on their own campus. In addition, the article was published in an academic journal. I can use this in my background of my paper to give evidence that faculty of color are underrepresented but serve a very important role. I can also use it in my paragraphs that look at solutions to the problem since mentoring seems very effective.
+Johnson Barbara J., and Kyle J. Scafide. "Faculty Diversity." *Encyclopedia of Education,* edited by James W. Guthrie, 2nd ed., vol. 3, Macmillan Reference USA, 2002, pp. 775-779. Gale In Context: *Opposing Viewpoints.*
+Johnson and Scafide claim in this encyclopedia article that to overcome the problems minority faculty face, campuses should make efforts to hire and retain them.This is an article from the Encyclopedia of Education (Vol.3. 2nd ed.) which was published by Gale. It seems unbiased and is written for an educated general audience. Barbara J. Johnson was a Professor of English and Comparative Literature and the Fredric Wertham Professor of Law and Psychiatry in Society at Harvard University. This article strongly supports my research question because it offers ideas about how the campus can deal with the problems that I discuss in my paper.
+Peele, Thomas and Daniel J. Willis. “California's Failure to Diversify Community College Faculty Tied to Arcane State Law.” *EdSource*, 2 Mar. 2021.
+Peele and Willis report on how there are few professors of color at California community colleges and how state laws for increasing faculty diversity are weak. They cite statistics about diversity and also quote from Latino college students to show why diversity is important. It also talks about causes, including the lack of candidates and low respect that community college professors get, and possible solutions. This is from a website that provides journalism about education in California. It is recent so the statistics are probably still up to date, and it is directly relevant to my research question. I will use this as background to demonstrate there there is a problem and to provide student voices in my article.
+Reid, Pamela Trotman, and Sue Rosenberg Zalk. "Academic Environments: Gender and Ethnicity in U.S. Higher Education." *Encyclopedia of Women and Gender*: *Sex Similarities and Differences and the Impact of Society on Gender*, edited by Judith Worell, Elsevier Science & Technology, 1st edition, 2001. *Credo Reference.*
+In this encyclopedia article, Pamela Reid and Sue Zalk suggest that minority faculty can overcome questioning their own abilities by building self-confidence and affirming their own capability. This is an article from the *Encyclopedia of Women and Gender: Sex Similarities and Differences and the Impact of Society on Gender,* so it mostly focuses on women but also connects their experiences with minority faculty. Pamela Reid Ph.D. is a developmental psychologist and the past President Emerita of the University of St. Joseph in Connecticut and Sue Rosenberg Zalk is a psychologist, so they have a background in this area. I choose this article because it explains "imposter syndrome," which may affect some minority members of the field. I am considering addressing this syndrome as one of the challenges facing faculty members.
+Valeri, Mauro. "Ethnic Minority." *Dictionary of Race, Ethnicity & Culture,* Guido Bolaff, et al., Sage UK, 1st edition, 2003. *Credo Reference.*
+According to this reference article by Mauro Valeri, minority group members have less representation and power than people of the majority group. This is an article from the dictionary of Race, Ethnicity & Culture, so it seems scholarly. Mauro Valeri is a sociologist and university professor. This article shares some issues related to minority representation that I may use to set the scene in the background part of my introduction.
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+Sample Annotated Biography written by Lily Liu De Li. License: CC BY.
+This page titled 3.9: Writing an Annotated Bibliography was last modified on Sun, 09 Mar 2025 17:17:29 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

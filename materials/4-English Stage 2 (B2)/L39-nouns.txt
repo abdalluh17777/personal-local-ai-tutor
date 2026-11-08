@@ -1,0 +1,287 @@
+Lesson 39 material: Nouns
+English Stage 2 (B2) · Unit 4: Words, Word Order and the Essay
+
+=== Unit 16 Nouns ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-16nouns/
+
+# Unit 16 Nouns
+**Learning Objectives**
+1. To learn different types of nouns: proper nouns, common nouns, count nouns, noncount nouns, singular nouns, and plural nouns
+2. To identify and understand the above types of nouns in a variety of contexts through multiple examples
+3. To apply different rules and uses of nouns through a variety of writing situations
+# **I. Pretest**
+(Picture: U.S. government new food plate icon)
+U.S. government new food plate icon
+In the following ten sentences about the U.S. government’s new plate food groups, some nouns are bold-faced and may contain mistakes. If the bold-faced part in the sentence is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. Good nutrition is essential in keeping **people** healthy.
+   Options: correct | peoples
+   Answer: correct
+Q: 2. According to the U.S. government’s New Food Plate Guidelines, a healthy diet should include five food **group** : fruits, vegetables, proteins, grains, and dairy.
+   Options: correct | groups
+   Answer: groups
+Q: 3. The 2020 MyPlate model shows **a plate** with these five food groups in a place setting.
+   Options: a plates | correct
+   Answer: correct
+Q: 4. The fruit group includes apples, grapes, **blueberry**, and many others.
+   Options: blueberries | correct
+   Answer: blueberries
+Q: 5. **Vegetable** have many different types: leafy vegetables like kale, starchy vegetables like potatoes, and so on.
+   Options: correct | Vegetables
+   Answer: Vegetables
+Q: 6. Meats, nuts, beans, and seafood are **example** of proteins.
+   Options: correct | examples
+   Answer: examples
+Q: 7. The grain group consists of **bread**, pasta, tortillas, rice, oatmeal, and many others.
+   Options: breads | correct
+   Answer: correct
+Q: 8. Milk, yogurt, cheese, and other dairy products should also be a part of a healthy **diets**.
+   Options: correct | diet
+   Answer: diet
+Q: 9. How many servings of each food group should a person eat daily? It depends on many **factor** such as the age, sex, weight, and health condition.
+   Options: correct | factors
+   Answer: factors
+Q: 10. Building healthy eating habits is important to everyone. Every bite counts! For more **informations**, please go to https://www.myplate.gov/.
+   Options: correct | information
+   Answer: information
+*Adapted from myplate.gov. Last accessed on April 2, 2021.*
+# **II. Types of Nouns**
+Nouns are names: names of people, names of places, names of things, and names of ideas. There are different ways to classify nouns. A few usual ones are described below.
+(Picture: types of nouns)
+types of nouns
+# **III. Proper Nouns and Common Nouns**
+| **Proper** | **nouns** | Proper nouns are usually specific names of people, places, organizations, and others. The first letters are usually capitalized. | Abraham Lincoln, Albert Einstein, Ann, Vrej… | Central America, Australia, Illinois, Chicago, Michigan Avenue, Grand Park… | the United Nations, the Department of Agriculture, Harper College, Smoque BBQ, Jewel Osco… |
+| **Common** | **nouns** | Common nouns are general names. The first letters are usually not capitalized. | president, scientist, friends, professors… | restaurants, organization, office, city, colleges, stores… | computer, classes, safety… |
+Proper nouns (**bold-faced**) and common nouns (__underlined__) are often used in the same sentences.
+1. **Gogi** and **Smoque BBQ** are two of the most famous __restaurants__ in **Chicago**. (https://guide.michelin.com/en/restaurants)
+2. **Harper College** offers **Culinary Arts Certificate** to __students__ interested in becoming __cooks__ or __chef’s assistants__.
+3. There are many grocery __stores__ in my __neighborhood__ such as **Jewel Osco** and **Whole Foods**.
+4. **The United States** government has published **Dietary Guidelines for Americans (DGA), 2020-2025**. This __document__ provides many __guidelines__ for a healthy __diet__.
+**Exercise 1.** Read each sentence carefully and identity the types of nouns used in each. The first one is an example.
+***Example***:
+*Two United States government agencies, the Secretaries of Agriculture and Health and Human Services, publish the Dietary Guidelines for Americans every five years.*
+***Proper nouns**: United States, Secretaries of Agriculture, Health and Human Services, Dietary Guidelines for Americans*
+***Common nouns**: government, agencies, recommendations, years*
+1. The Guidelines provide advice on what to eat more and what to eat less in order to stay healthy.
+2. The Dietary Guidelines for Americans, 2020-2025 offers recommendations for each life stage, from birth through older adulthood
+3. There are three key principles: choose mainly from the food with high nutrition, select a variety of choices from each of the five food groups, and pay attention to the portion size.
+4. It is never too early or too late to improve dietary choices for a healthy lifestyle.
+*Adapted from “Make Every Bite Count with the Dietary Guidelines for Americans”.*
+*https://www.dietaryguidelines.gov/sites/default/files/2020-12/DGA_2020-2025_Infographic_MakeEveryBiteCount.pdf . Last accessed on September 27, 2021.*
+# **IV. Singular Nouns and Plural Nouns**
+| **Singular** | **nouns** | Singular nouns refer to one person, one place, one thing, one idea… | one egg, one meal, one supermarket, one computer, one store, one office… | an egg, an office, a meal, a supermarket, a computer, a store… |
+| **Plural** | **nouns** | Plural nouns refer to two or more people, places, things, ideas .. | two eggs, three offices, four meals, five supermarkets, several computers, many stores… |
+Singular nouns (__underlined__) and plural nouns (**bold-faced**) are often used in the same sentences.
+1. One __egg__ contains many **nutrients**.
+2. Most **people** eat three **meals** a __day__, with a __snack__ in between.
+3. There are many **stores** in my __neighborhood__. Some sell **computers**, and some sell **groceries**.
+Most count nouns follow fixed patterns in forming their plural forms, but some are irregular.
+| **From singular nouns to plural nouns** | **Examples** |
+| **For most singular nouns,** | **add “s”.** | apple – apples, cucumber – cucumbers, grape – grapes… |
+| **For nouns ending in “ch, sh, x,-s,** | **-ss, z”,** | **add “es”.** | glass – glasses, dish – dishes, brush – brushes, | church – churches, bus – buses, box – boxes… |
+| *Exceptions:* | quiz – quizzes, ox – oxen |
+| **For nouns ending in “vowel + y”,** | **add “s”.** | **(Vowels are a, e, i, o, u.)** | day – days, key – keys, boy – boys, toy – toys… |
+| **For nouns ending in** | **“consonant + y”,** | **delete “y” and add “ies”.** | family – families, lady – ladies, butterfly – butterflies, strawberry – strawberries… |
+| **For nouns ending in “vowel + o”,** | **add “s”.** | radio – radios, video – videos, zoo – zoos… |
+| **For nouns ending in “consonant + o”,** | **add “es”.** | hero – heroes, potato – potatoes, tomato – tomatoes… |
+| *Exceptions:* | piano – pianos, auto – autos, photo – photos … |
+| **For nouns ending in “f” or “fe”,** | **delete “f” or “fe” and add “ves”:** | leaf – leaves, life – lives, knife – knives, shelf – shelves, half – halves, loaf – loaves, wife – wives, wolf – wolves… |
+| *Exceptions:* | chef – chefs, cliff – cliffs, sheriff – sheriffs, roof – roofs, belief – beliefs… |
+| **For some nouns, their plural forms are irregular:** | man – men, woman – women, | child – children, | person – people (more common than “persons”), | foot – feet, tooth – teeth, goose – geese, | mouse – mice, | crisis – crises, analysis – analyses… |
+| **Some nouns *usually* remain singular for both singular and plural forms.** | sheep – sheep, deer – deer, moose -moose, fish – fish, shrimp – shrimp… |
+| **Some nouns always appear in plural forms.** | glasses, scissors, jeans, pants, pajamas, shorts… |
+**Exercise 2.** Choose the singular or plural forms of the nouns to finish the following paragraph about the Dietary Guidelines. Type your choices in the boxes. You will receive instant feedback. When you finish the entire exercise you may retry or see all the answers.
+(Picture: cover of Dietary Guidelines for Americans, 2020-2025)
+cover of Dietary Guidelines for Americans, 2020-2025
+***Example:***
+*There are many __________ (idea, **ideas**) to keep us healthy in the Dietary Guidelines for Americans.*
+[Interactive exercise]
+Task: .
+   One [suggestion] (suggestion, suggestions) is to eat more [vegetables] (vegetable, vegetables). It is recommended that we eat two and a half [cups] (cup, cups) of vegetables a day. Unfortunately, many people in the U.S., including [adults] (adult, adults) and [children] (child, children) do not eat enough vegetables. The Dietary Guidelines will help people follow a healthy [diet] (diet, diets).
+# V. Count and Noncount Nouns
+| **Count** | **nouns** | When people or things can be counted by 1, 2, 3…, they are usually count nouns. If there are more than one, use the plural form. | one brother, two sisters … | one pound, two cups, three eggs … |
+| **Noncount** | **nouns** | Some things cannot be counted or are too small to be counted. They are usually noncount nouns. | Noncount nouns are always singular. | water, coffee, snow, rice, sand, salt … | English, math, biology … | danger, love, anger … |
+Count nouns (__underlined__) and noncount nouns (**bold-faced**) are often used in the same sentences or groups of sentences.
+1. My __meal__ often includes **rice**, some __vegetables__, and some **seafood**.
+2. In our nutrition __class__, we are discussing the five food __groups__. We are surprised that a __cup__ of 100% fruit **juice** is considered a __serving__ of **fruit**.
+3. Many __people__ read the Nutrition Facts __label__ when they buy **food**. The __label__ tells them a lot of useful **information**.
+4. **Overweight** and **obesity** can cause many __diseases__.
+**Exercise 3.** There is one error in the use of count or noncount noun in each of the following sentences about the Nutrition Facts labels. Find the error and correct it.
+***Example***:
+*There is a lot of **__advices__** (**advice**) on leading a healthy life.*
+1. The Nutrition Facts label tells consumers a lot of informations about the food they are buying.
+2. It lists how many servings there are in the package, how many calories each serving has, and how many gram of nutrients each serving contains.
+3. In the label for frozen lasagna below, there are four serving in the package, and each serving equals 1 cup, with 280 calories.
+4. Knowing how many servings we are eating is important. If we have 2 servings of lasagna for dinner, we will eat 2 cup, with 560 calories and 18 grams of fat!
+5. We should always remember to add vegetables to the dinner plate: tomatoes, peppers, corns, and others.
+6. Eating healthy seems like a lot of works, but it is worth our time and efforts.
+(Picture: nutrition facts label for frozen lasagna)
+nutrition facts label for frozen lasagna
+# VI. Rules in Using Nouns
+**1. Do not put “a/an” or a number (one, two…) in front of a noncount noun. Do not add an “s” to the end of it.**
+- The restaurant has installed ~~three new equipments~~: a big-screen TV and two deep freezers.
+- The restaurant has installed __some new equipment__: a big-screen TV and two deep freezers.
+- The restaurant has installed __three pieces of new equipment__: a big-screen TV and two deep freezers.
+- Each customer will receive a free dessert: a large strawberry dipped in ~~a chocolate~~.
+- Each customer will receive a free dessert: a large strawberry dipped in __chocolate__.
+**2. Do not put “a/an” in front of a count noun and add an “s” after it at the same time.**
+- Many children eat ~~an apples~~ every day.
+- Many children eat __an apple__ every day.
+- Many children eat __apples__ every day.
+**3. Singular count nouns usually cannot stand alone. They need some kind of “determiners” in front of them. These “determiners” include articles (a, an, the), numbers (one, two…), possessive adjectives (my, his, your…), or demonstrative adjectives (this, that).**
+- I eat ~~apple~~ every day.
+- I eat __an apple__ every day.
+- I eat __one apple__ every day.
+- Please join ~~discussion~~ on healthy living next Monday.
+- Please join __our discussion__ on healthy living next Monday.
+- Please join __the discussion__ on healthy living next Monday.
+- ~~Label~~ shows how much fat one serving of lasagna has.
+- __This label__ shows how much fat one serving of lasagna has.
+**4. Use the singular form of the verb with a singular count noun. Use the plural form of the verb with a plural count noun. Use the singular form of the verb with a noncount noun. The pronouns also change accordingly.**
+- A medium __tomato__ **has** about twenty-two calories and one gram of protein. __It__ **does not contain** any cholesterol.
+- Fresh __tomatoes__ **are** on sale in the supermarket near my home. __They__ **taste** great.
+- There **__are__** two __slices__ of bread in my lunch box. I will use __them__ to make a sandwich.
+- My __sandwich__ **is** delicious and healthy. __It__ **contains** two slices of whole wheat bread, two pieces of iceberg lettuce, a slice of low-fat shedder cheese, and a piece of grilled chicken breast.
+*For more explanations and examples of subject-verb agreement, please refer to Unit 10. Open Unit 10 here.*
+*For more explanations and examples of noun-pronoun agreement, please refer to Unit 19. Open Unit 17 here.*
+**5. In the phrase “one of ________”, use a plural noun, but use the singular form of the verb because the subject is “one”.**
+- According to the Dietary Guidelines for Americans, 2020-2025, __one of the daily goals__ **is** to have 85% of our calories from nutrient-dense[1] foods and beverages[2].
+- (Picture: MyPlate.gov dairy logo)
+MyPlate.gov dairy logo
+- __One of the five food groups__ **contains** dairy. For children two to three years old, dairy is especially important.
+- __One of the nutrients__ from dairy **is** calcium. It helps children build stronger bones.
+**6. Some nouns are used in the singular form even though they imply plural meaning. This is because they act like adjectives. Adjectives in English are always singular.**
+- Nutrition 101, also called Fundamentals of Nutrition, carries 3 credit hours at Harper College. It is __a 3-credit-hour course__.
+- It is interesting to notice that anyone 9 years or older should take the same amount of dairy: 3 cups a day. This means that __9-year-old boys or girls__ should not take in more diary than 4__0-year-old men or women__.
+- It seems that the daily dairy needs are the same for __a growing 12-year- old boy__ and __a mature 60-year-old man__.
+*Adapted from https://www.myplate.gov/eat-healthy/dairy. Last accessed on September 27, 2021.*
+**7. Use the singular form of a count noun after “each” and “every”.**
+- __Each glass__ is filled with juice for children and wine for adults.
+- __Every gues__t is having a fun time.
+**Exercise 4.** There is one error in the use of noun or its “determiner” in each of the following sentences about healthy eating. Correct the noun or its determiner. Do not change anything else in the sentence.
+***Example***:
+(Picture: some oranges and a glass of juice)
+some oranges and a glass of juice
+*If we are concerned about our weight, drinking skim milk instead of whole milk might help us lose **~~an extra pounds~~. (extra pounds or an extra pound)***
+1. Although juice is a convenient source of vitamin, it is low in fiber.
+2. It is better to have whole orange than a cup of orange juice.
+3. One of the problem in the modern diet is having too much sodium.
+4. When we eat cooked bean from a can, we should dump[3] the sauce in the can and rinse the beans with water before eating them. That way, we will take in less sodium.
+5. A five-courses meal may look delicious, but it almost always has too much fat, cholesterol, and sodium contents.
+6. A two-years-old child should eat about three ounces of grains every day. A child nine years old should eat about five ounces.
+7. If the children are nine year old, they should eat about five ounces of grains every day.
+8. We should not forget to drink a water every day.
+9. One of the best way for us to stay healthy is to watch what we eat and drink daily.
+10. At last night’s party, the hosts[4] made sure that every dishes was hot and decorated with garnish[5] made of vegetables.
+*Some information adapted from https://www.myplate.gov/myplate-plan/results/1000-calories-ages-2-3*
+*and https://www.myplate.gov/your-myplate-plan-1400-calories-ages-9-13.*
+*Last accessed on September 27, 2021.*
+# VII. Unit Review Practice
+**Exercise 5.** You may often hear sayings about food. Choose a saying below and free write for five minutes whether or not you agree and why you think so. The authors’ names are included in the parentheses. If you are interested in them, you can search for their information online later.
+1. Life is uncertain[6]. Eat dessert first. (Ernestine Ulmer)
+2. The secret of success in life is to eat what you like and let the food fight it out inside. (Mark Twain)
+3. All happiness depends on a leisurely[7] breakfast. (John Gunther)
+4. One cannot think well, love well, sleep well, if one has not dined[8] well.
+4. (Virginia Woolf, A Room of One’s Own)
+5. There is no love sincerer than the love of food. (George Bernard Shaw, Man and Superman)
+6. One must eat to live, not live to eat. (Jean-Baptiste Poquelin)
+7. Take care of your body. It’s the only place you have to live. (Jim Rohn)
+**Exercise 6.** The following paragraph is about nutrition needs of vegetarians[9]. In the underlined nouns, find twelve more errors (not including the example). Correct the errors. The first one is an example.
+(Picture: a plate of vegetables)
+a plate of vegetables
+Nutrients for Vegetarians
+The American Academy of Nutrition and Dietetics advises vegetarians to meet the daily needs of five important **__*nutrient*__ *(nutrients).*** They are __calcium__, __iron__, protein, Vitamin B12, and Vitamin D. If some vegetarians do not eat dairy __product__, they should get their __calciums__ from plant-based foods such as tofu and almond milk. Iron is another essential __nutrients__, and vegetarians should get it from dark, leafy vegetables like __spinaches__ and chard. One of the iron __source__ is fortified breakfast cereals. For example, a __cup__ of multigrain cheerios provides about 75% daily __value__ of iron. Since vegetarians do not eat meat, protein can be taken from __beans__, __nut__, and whole grains. For those who do not eat __egg__ or dairy products, a Vitamin B12 __supplements__ is recommended. Fortified cereals are also a convenient and inexpensive __sources__. The same cup of multigrain cheerios contains about 75% daily value of Vitamin B12. Another essential __nutrients__ is Vitamin D. Not many foods naturally contain Vitamin D, so it is important for __vegetarian__ who do not eat dairy __products__ to get adequate __sunlights__ or take a Vitamin D __supplement__.
+*Adapted from https://www.eatright.org/food/nutrition/vegetarian-and-special-diets/food-sources-of-important-nutrients-for-vegetarians. Last accessed on September 28, 2021.*
+**Exercises 7.** In the following paragraph about my grandmother and me, there are twelve more errors in the use of nouns (not including the example). Find the errors and correct them. The first one is an example.
+With My Grandma in the Kitchen
+Learning to cook from my grandmother remains one of the sweetest memories in my life. She taught me how to cook while I was living with her during my high school years. At that time, she was in her 60s and had been preparing meals for the family for decades. One of my favorite **~~*dish*~~ *(dishes)* **to make was broccoli apple salad. She would get fresh ingredient from a local grocery stores in the morning, and we would make the salad in the afternoon after I came back from school. There was not a lot of homeworks then, so I was able to enjoy my times with my grandma in the kitchen. ***(four more errors in this paragraph)***
+When I got home, she had already laid all the ingredients on the kitchen table: a pound of broccoli, two apple, a small onions… We would wash every apple and every broccoli florets. I even rinsed[10] each walnut piece and every raisins under water as well. The fun part was to make the sauce by mixing mayonnaise, lemon juice, salt, and sugar. ***(four errors in this paragraph)***
+My grandma would add each ingredients a little at a time to make sure all was mixed perfectly. However, I did not have the patiences, and I was usually hungry by then. I would use a huge spoons to shovel sugar and salt into the mix, which usually turned out to be either too sweet or too salty[11]. This often led to a loving scolding from my grandma, but I knew that she loved me and would never get upset with me. Many year have passed, but my memories with my grandma in the kitchen have always been dear to my heart. ***(four errors in this paragraph)***
+**Exercise 8**. Read the following recipe. There are ten more errors in the use of nouns (not including the example). Find the errors and correct them.
+(Picture: a plate of salmon fillet with vegetables)
+a plate of salmon fillet with vegetables
+Baked Soy Ginger Salmon
+A plate of baked soy ginger salmon is a weekly fixture[12] on my family’s dinner table. It is very easy to make when I follow the following ***~~step~~ (steps*)**. The first step is to get all the ingredient ready. I need one pounds of salmon fillet and one teaspoon of each: seasoned salt, cooking wines, and vegetable oil. Besides, I prepare two teaspoon of low sodium soy sauce, half a teaspoon of sugars, and half a cup of water. There are two more dry ingredients: some thin slice of ginger roots and green onions for flavor. When everything is ready, sprinkle seasoned salt over the salmon fillet and keep it refrigerated for 30 minute. Mix the remaining ingredients in a bowl. At the same time, preheat the oven to 350 degree Fahrenheit. Line a tray with a piece of aluminum foil. The aluminum foil is essential because I will not need to scrub the stains off the tray later. As soon as the oven reaches the desired temperature, place the marinated fillet in the center of the tray and pour the rest of the ingredients over the fillet. Put the tray in the center rack of the oven and bake for 20 to 25 minutes. Put the baked fillet on a plate, garnish with some colorful vegetable. An easy-to-make dishes is created for my family to enjoy!
+**Exercise 9.** Click the weblink below to open “Dietary Guidelines for Americans, 2020-2025”. Follow the instructions below.
+*https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf*
+1. Turn to page i and ii (Table of Contents) to choose a topic you are interested in. Then go to the given page(s) for that topic.
+2. Read the information there and highlight all the nouns.
+3. Free write for five minutes what you have learned from the information on the page you have just read. What is the information? Is it new to you? How will it impact your diet?
+4. Exchange your work to share ideas with your partner.
+**Exercise 10.** Look for a recipe in the weblink below. Examine the ingredients and the amount of each ingredient. Then look at the Nutrition information and MyPlate Food Groups below the recipe.
+Write a review of this recipe. In what ways do you like or dislike about it? You can submit your review right there on the website.
+*https://www.myplate.gov/myplate-kitchen/recipes*
+**Exercise 11.** Discuss or write a paragraph for each of the following topics.
+1. What is your favorite food from your native country? What food group does it belong to? Why is it your favorite? Is it available in stores in the U.S.? Share a picture and a recipe if possible.
+2. Choose two food items that you eat on a regular basis. Search for their Nutrition Facts labels online (for example, google.com). Discuss the serving size, number of servings, number of calories, grams of fat, etc. Then discuss whether or not these items contribute to a healthy diet.
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that you have not written about. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the use of nouns. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: nutrition-dense -> adjective, full of nutrients
+Card: beverage -> noun, a drink
+Card: dump -> verb, drop, empty out
+Card: host -> noun, a person who receives and entertains guests in his home
+Card: garnish -> noun, food or drink decoration to increase flavor, color, etc.
+Card: uncertain -> adjective, unsure
+Card: leisurely -> adjective, relaxing
+Card: dine -> verb, eat
+Card: vegetarian -> noun, a person who eats only vegetables
+Card: rinse -> verb, wash lightly by pouring water over something
+Card: salty -> adjective, containing too much salt
+Card: fixture -> noun, something that is fixed in a place
+**Summary**
+1. Nouns are names of people, places, things, ideas, etc. There are different types of nouns.
+2. Proper nouns are specific names of people, places, and organizations. Common nouns are general names.
+3. Count nouns are in their singular forms when referring to one and in their plural forms when referring to two or more. Noncount nouns are always singular.
+4. The following uses about nouns are important:
+- Do not put “a/an” or a number (one, two…) in front of a noncount noun. Do not add an “s” to the end of it.
+- Do not put “a/an” in front of a count noun and add an “s” after it at the same time.
+- Singular count nouns usually cannot stand alone. They need a “determiner” in front of them, such as articles (a, an, the), numbers (one, two…), possessive adjectives (my, his, your…), or demonstrative adjectives (this, that).
+- Singular nouns are followed by the singular forms of verbs and pronouns. Plural nouns are followed by the plural forms of verbs and pronouns.
+- In the phrase “one of ________”, use a plural noun, but use the singular form of the verb.
+- Some nouns like the word “year” in “a __ten-year-old__ boy” are used in the singular form when they are part of an adjective.
+- Use the singular form of a count noun after “each” and “every”.
+## Media Attributions
+- U.S. government new food plate icon © U.S. Depart of Agriculture
+- types of nouns © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- cover of Dietary Guidelines for Americans, 2020-2025 © United States Department of Agriculture
+- nutrition facts label for frozen lasagna © United States Food and Drug Administration
+- MyPlate.gov dairy logo © United States Department of Agriculture is licensed under a Public Domain license
+- some oranges and a glass of juice © Photo by aliet kitchen on Unsplash
+- a plate of vegetables © Photo by Polina Tankilevitch from Pexels
+- a plate of salmon fillet with vegetables © Photo by Caroline Attwood on Unsplash
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. nutrition-dense: adjective, full of nutrients ↵
+2. beverage: noun, a drink ↵
+3. dump: verb, drop, empty out ↵
+4. host: noun, a person who receives and entertains guests in his home ↵
+5. garnish: noun, food or drink decoration to increase flavor, color, etc. ↵
+6. uncertain: adjective, unsure ↵
+7. leisurely: adjective, relaxing ↵
+8. dine: verb, eat ↵
+9. vegetarian: noun, a person who eats only vegetables ↵
+10. rinse: verb, wash lightly by pouring water over something ↵
+11. salty: adjective, containing too much salt ↵
+12. fixture: noun, something that is fixed in a place ↵
+
+Links on this section's web page:
+- Web page (myplate.gov): https://www.myplate.gov/eat-healthy/dairy
+- Web page (myplate.gov): https://www.myplate.gov/myplate-plan/results/1000-calories-ages-2-3
+- A Room of One’s Own: https://www.goodreads.com/work/quotes/1315615
+- Man and Superman: https://www.goodreads.com/work/quotes/376394
+- Web page (eatright.org): https://www.eatright.org/food/nutrition/vegetarian-and-special-diets/food-sources-of-important-nutrients-for-vegetarians
+- Web page (dietaryguidelines.gov): https://www.dietaryguidelines.gov/sites/default/files/2020-12/Dietary_Guidelines_for_Americans_2020-2025.pdf
+- Web page (myplate.gov): https://www.myplate.gov/myplate-kitchen/recipes
+- U.S. government new food plate icon: https://www.myplate.gov/resources/graphics/myplate-graphics
+- cover of Dietary Guidelines for Americans, 2020-2025: https://www.dietaryguidelines.gov/sites/default/files/2021-03/Dietary_Guidelines_for_Americans-2020-2025.pdf
+- nutrition facts label for frozen lasagna: https://www.fda.gov/food/new-nutrition-facts-label/how-understand-and-use-nutrition-facts-label

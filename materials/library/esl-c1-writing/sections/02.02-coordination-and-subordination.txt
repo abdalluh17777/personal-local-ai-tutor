@@ -1,0 +1,114 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+2.2: Coordination and Subordination
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/02%3A_Sentence_Variety_-_How_do_I_Refine_My_Writing/2.02%3A_Coordination_and_Subordination
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Identify coordination and subordination in writing.
+2. Combine sentences and ideas using coordination.
+3. Combine sentences and ideas using subordination.
+In the previous section, we learned how to use different patterns to create sentence variety and to add emphasis to important points in our writing. Next, we will examine two ways in which we can join sentences with related ideas:
+- Coordination - Joining two related ideas of __equal__ importance.
+- Subordination - Joining two related ideas of unequal importance.
+Connecting sentences with coordinate or subordinate clauses creates more coherent paragraphs, and in turn, produces more effective writing. In this section, you will read excerpts from Naomi’s classmate named Joshua, who drafted an essay about wine production. Read this excerpt from Joshua’s essay.
+[Image: 2.2.1.png]
+Figure 
+This section examines several ways to combine sentences with coordination and subordination, using Joshua’s essay as an example.
+## Coordination and Sentence Combining
+This method of combining sentences creates a compound sentence. Coordination joins two independent clauses that contain related ideas of equal importance.
+**Original sentences:** I spent my entire paycheck last week. I am staying home this weekend.
+In their current form, these sentences contain two separate ideas that may or may not be related. Am I staying home this week *because* I spent my paycheck, or is there another reason for my lack of enthusiasm to leave the house? To indicate a relationship between the two ideas, we can use the coordinating conjunction **so**:
+**Revised sentence:** I spent my entire paycheck last week, **so** I am staying home this weekend.
+The revised sentence illustrates that the two ideas are connected. Notice that the sentence retains two independent clauses (*I spent my entire paycheck*; *I am staying home this weekend*) because each can stand alone as a complete idea.
+## Coordinating Conjunctions
+A coordinating conjunction is a word that joins two independent clauses. The most common coordinating conjunctions are *for*, *and*, *nor*, *but*, *or*, *yet*, and *so*. Note that a comma precedes the coordinating conjunction when joining two clauses.
+| **Independent Clause** | **Coordinating Conjunction** | **Independent Clause** | **Revised Sentence** |
+| I will not be attending the dance. | for (indicates a reason or cause) | I have no one to go with. | I will not be attending the dance, for I have no one to go with. |
+| I plan to stay home. | and (joins two ideas) | I will complete an essay for class. | I plan to stay home, and I will complete an essay for class. |
+| Jessie isn’t going to be at the dance. | nor (indicates a negative) | Tom won’t be there either. | Jessie isn’t going to be at the dance, nor will Tom be there. |
+| The fundraisers are hoping for a record-breaking attendance. | but (indicates a contrast) | I don’t think many people are going. | The fundraisers are hoping for a record-breaking attendance, but I don’t think many people are going. |
+| I might go to the next fundraising event. | or (offers an alternative) | I might donate some money to the cause. | I might go to the next fundraising event, or I might donate some money to the cause. |
+| My parents are worried that I am antisocial. | yet (indicates a reason) | I have many friends at school. | My parents are worried that I am antisocial, yet I have many friends at school. |
+| Buying a new dress is expensive. | so (indicates a result) | By staying home I will save money. | Buying a new dress is expensive, so by staying home I will save money. |
+Tip
+To help you remember the seven coordinating conjunctions, think of the acronym FANBOYS: *for*, *and*, *nor*, *but*, *or*, *yet*, *so*. Remember that when you use a coordinating conjunction in a sentence, a comma should precede it.
+## Conjunctive Adverbs
+Another method of joining two independent clauses with related and equal ideas is to use a conjunctive adverb and semicolon. A conjunctive adverb is a linking word that demonstrates a relationship between two clauses. Read the following sentences:
+**Original sentences:** Bridget wants to take part in the next Olympics. She trains every day.
+Since these sentences contain two equal and related ideas, they may be joined using a conjunctive adverb. Now, read the revised sentence:
+**Revised sentence:** Bridget wants to take part in the next Olympics; therefore, she trains every day.
+The revised sentence explains the relationship between Bridget’s desire to take part in the next Olympics and her daily training. Notice that the conjunctive adverb comes after a semicolon that separates the two clauses and is followed by a comma.
+Review the following chart of some common conjunctive adverbs with examples of how they are used:
+| **Function** | **Conjunctive Adverb** | **Example** |
+| Addition | also, furthermore, moreover, besides | Alicia was late for class and stuck in traffic; furthermore, her shoe heel had broken and she had forgotten her lunch. |
+| Comparison | similarly, likewise | Recycling aluminum cans is beneficial to the environment; similarly, reusing plastic bags and switching off lights reduces waste. |
+| Contrast | instead, however, conversely | Most people do not walk to work; instead, they drive or take the train. |
+| Emphasis | namely, certainly, indeed | The Siberian tiger is a rare creature; indeed, there are fewer than five hundred left in the wild. |
+| Cause and Effect | accordingly, consequently, hence, thus | I missed my train this morning; consequently, I was late for my meeting. |
+| Time | finally, next, subsequently, then | Tim crossed the barrier, jumped over the wall, and pushed through the hole in the fence; finally, he made it to the station. |
+Take a look at Joshua’s essay on wine production and identify some areas in which he might use coordination.
+[Image: 2.2.2.png]
+Figure 
+Now look at Joshua’s revised essay. Did you coordinate the same sentences? You may find that your answers are different because there are usually several ways to join two independent clauses.
+[Image: 2.2.3.png]
+Figure 
+Exercise :
+Combine each sentence pair into a single sentence using either a coordinating conjunction or a conjunctive adverb. Then copy the combined sentence onto your own sheet of paper.
+1. Pets are not allowed in Ms. Wallace’s building. She owns several cats and a parrot.
+2. New legislation prevents drivers from sending or reading text messages while driving. Many people continue to use their phones illegally.
+3. The coroner concluded that the young man had taken a lethal concoction of drugs. By the time his relatives found him, nothing could be done.
+4. Amphibians are vertebrates that live on land and in the water. Flatworms are invertebrates that live only in water.
+5. Priya carefully fed and watered her tomato plants all summer. The tomatoes grew juicy and ripe.
+6. When he lost his car key, Olamileykan attempted to open the door with a wire hanger, a credit card, and a paper clip. He called the manufacturer for advice.
+Tip
+When writing an essay or a report, it is important that you do not use excessive coordination. Workplace documents should be clear and concise, so only join two clauses that are logically connected and can work together to make one main point. If you repeat the same coordinating conjunction several times in a sentence, you are probably including more than one idea. This may make it difficult for readers to pick out the most important information in each sentence.
+## Subordination and Sentence Combining
+Subordination is used to join two sentences with related ideas by merging them into a main clause (a complete sentence) and a dependent clause (a construction that relies on the main clause to complete its meaning). This creates a Complex sentence. Coordination allows a writer to give equal weight to the two ideas that are being combined, and subordination enables a writer to emphasize one idea over the other. Take a look at the following sentences:
+**Original sentences:** Farnaz stopped to help the injured man. She would be late for work.
+To illustrate that these two ideas are related, we can rewrite them as a single sentence using the subordinating conjunction *even though*.
+**Revised sentence:** Even though Farnaz would be late for work, she stopped to help the injured man.
+In the revised version, we now have an independent clause (*she stopped to help the injured man*) that stands as a complete sentence and a dependent clause (*even though Farnaz would be late for work*) that is subordinate to the main clause. Notice that the revised sentence emphasizes the fact that Tracy stopped to help the injured man, rather than the fact she would be late for work. We could also write the sentence this way:
+**Revised sentence:** Farnaz stopped to help the injured man even though she would be late for work.
+The meaning remains the same in both sentences, with the subordinating conjunction *even though* introducing the dependent clause.
+Tip
+To punctuate sentences correctly, look at the position of the main clause and the subordinate clause. If a subordinate clause precedes the main clause, use a comma. If the subordinate clause follows the main cause, no punctuation is required.
+## Subordinating Conjunctions
+A subordinating conjunction is a word that joins a subordinate (dependent) clause to a main (independent) clause. Review the following chart of some common subordinating conjunctions and examples of how they are used:
+| **Function** | **Subordinating Conjunction** | **Example** |
+| Concession | although, while, though, whereas, even though | Sarah completed her report even though she had to stay late to get it done. |
+| Condition | if, unless, until | Until we know what is causing the problem, we will not be able to fix it. |
+| Manner | as if, as, though | Everyone in the conference room stopped talking at once, as though they had been stunned into silence. |
+| Place | where, wherever | Rita is in San Jose where she has several important client meetings. |
+| Reason | because, since, so that, in order that | Because the air conditioning was turned up so high, everyone in the office wore sweaters. |
+| Time | after, before, while, once, when | After the meeting had finished, we all went to lunch. |
+Take a look at the excerpt from Jose’s essay and identify some areas in which he might use subordination.
+[Image: 2.2.4.png]
+Figure 
+Now look at Jose’s revised essay and compare your answers. You will probably notice that there are many different ways to subordinate sentences.
+[Image: 2.2.5.png]
+Figure 
+Exercise :
+Combine each sentence pair into a single sentence using a subordinating conjunction and then copy the combined sentence onto your own sheet of paper.
+1. Amir is going to Mexico. There are beautiful beaches in Mexico.
+2. A snowstorm disrupted traffic all over the east coast. There will be long delivery delays this week.
+3. My neighbor had his television volume turned up too high. I banged on his door and asked him to keep the noise down.
+4. Jessica prepared the potato salad and the sautéed vegetables. Brenda marinated the chicken.
+5. Romeo poisons himself. Juliet awakes to find Romeo dead and stabs herself with a dagger.
+Exercise :
+Combine each set of simple sentences into a compound or a complex sentence. Write the combined sentence on your own sheet of paper.
+1. Heroin is an extremely addictive drug. Thousands of heroin addicts die each year.
+2. Shakespeare’s writing is still relevant today. He wrote about timeless themes. These themes include love, hate, jealousy, death, and destiny.
+3. Originally, gay marriage was legal in only six states: Iowa, Massachusetts, Connecticut, Vermont, New Hampshire, and Maine. The Supreme Court ruled it was legal in all states.
+4. Prewriting is a vital stage of the writing process. Prewriting helps you organize your ideas. Types of prewriting include outlining, brainstorming, and idea mapping.
+5. Ernest Hemingway is a famous writer. He also served on the local school board. His house is in Key West, Florida.
+Exercise :
+Copy the paragraph from Jose’s essay onto your own sheet of paper. Then edit using the techniques you have learned in this section. Join the underlined sentences using coordination or subordination. Check your revised sentences for punctuation.
+[Image: 2.2.6.png]
+Figure 
+Key Takeaways
+- Coordination and subordination join two sentences with related ideas.
+- Coordination joins sentences with related and equal ideas, whereas subordination joins sentences with related but unequal ideas.
+- Sentences can be coordinated using either a coordinating conjunction and a comma or a conjunctive adverb and a semicolon.
+- Subordinate sentences are characterized by the use of a subordinate conjunction.
+- In a subordinate sentence, a comma is used to separate the main clause from the dependent clause if the dependent clause is placed at the beginning of the sentence.
+This page titled 2.2: Coordination and Subordination was last modified on Tue, 01 Sep 2020 19:28:00 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

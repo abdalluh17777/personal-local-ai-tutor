@@ -1,0 +1,400 @@
+Lesson 18 material: Three Common Sentence Errors: Fragments, Run-ons and Comma Splices
+English Stage 2 (B2) · Unit 2: Sentences and Paragraph Types · American History
+
+=== Unit 8 Three Common Errors in Sentence Structure and Punctuation ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-8three-common-errors/
+
+# Unit 8 Three Common Errors in Sentence Structure and Punctuation
+**Learning Objectives**
+1. To review the three sentence structure types: simple, compound, and complex
+2. To identify the three common errors: fragments, run-ons, and comma splices
+3. To learn correct punctuation in sentences containing “for example, for instance, such as, like, including”
+4. To practice fixing fragments, run-ons, and comma splices through multiple examples and exercises
+# I. Pretest
+(Picture: a child holding a magnifying glass over a plant)
+a child holding a magnifying glass over a plant
+In the following ten sentences about science, some have the correct sentence structure and punctuation, but some do not. If the sentence is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. Science is very important for all human societies.
+   Options: correct | Science very important for all human societies.
+   Answer: correct
+Q: 2. Because it brings new discoveries and innovations.
+   Options: correct | It brings new discoveries and innovations.
+   Answer: It brings new discoveries and innovations.
+Q: 3. This is why students are required to learn science it is part of their education.
+   Options: correct | This is why students are required to learn science. It is part of their education.
+   Answer: This is why students are required to learn science. It is part of their education.
+Q: 4. High school and college students take science courses. Such as biology, physics, and chemistry.
+   Options: correct | High school and college students take science courses such as biology, physics, and chemistry.
+   Answer: High school and college students take science courses such as biology, physics, and chemistry.
+Q: 5. When they start working. They apply the scientific knowledge to their work.
+   Options: correct | When they start working, they apply the scientific knowledge to their work.
+   Answer: When they start working, they apply the scientific knowledge to their work.
+Q: 6. Advanced science can help a country develop modern technology, it can also promote cooperation among different countries.
+   Options: Advanced science can help a country develop modern technology. It can also promote cooperation among different countries. | correct
+   Answer: Advanced science can help a country develop modern technology. It can also promote cooperation among different countries.
+Q: 7. Science experts are called scientists they do important work.
+   Options: correct | Science experts are called scientists. They do important work.
+   Answer: Science experts are called scientists. They do important work.
+Q: 8. Must all scientists have a college degree? For example, a bachelor’s degree in biology?
+   Options: correct | Must all scientists have a college degree, for example, a bachelor’s degree in biology?
+   Answer: Must all scientists have a college degree, for example, a bachelor’s degree in biology?
+Q: 9. The answer is no, anyone who is interested in science can be a scientist.
+   Options: correct | The answer is no because anyone who is interested in science can be a scientist.
+   Answer: The answer is no because anyone who is interested in science can be a scientist.
+Q: 10. Children can also be scientists, this is good news.
+   Options: Children can also be scientists, and this is good news. | correct
+   Answer: Children can also be scientists, and this is good news.
+# II. Three Common Errors in Sentence Structure and Punctuation
+[Interactive exercise]
+♠♠ Click here to review three types of sentence structure from Unit 7 Sentence Essentials: A complete sentence : It must have a “subject + verb” structure. The first letter of the first word is always capitalized. It must end with a period, a question mark, or an exclamation mark. It must express a complete idea. A simple sentence is an independent clause with one subject-verb group. Science is important. Every country needs scientists and considers their work important. A compound sentence has two independent clauses with two subject-verb groups. They are connected by a coordinating conjunction (FANBOYS) or an adverbial conjunctions such as “moreover” or “however”. Science is important, for it improves people’s lives. Every country needs scientists, but not everyone likes science. Science is important; however, it is not the only factor in improving people’s lives. Science is important; consequently, many students major in science in college. A complex sentence has one dependent clause (a subordinating conjunction + subject + verb) and one independent clause (subject + verb). Science is important because it brings new discoveries and innovations. If the government funds more scientific research, there will be more discoveries and innovations.
+*For detailed explanations and practice in sentence structure and punctuation, open Unit 7 here.*
+The above sentence types are essential in writing. They will help you avoid and correct the three types of common errors:
+- Sentence fragment
+- Run-on sentence
+- Comma splice sentence
+# III. Sentence Fragments
+(Picture: pieces of a puzzle)
+pieces of a puzzle
+A fragment means “a part”, “not a whole”. All the large and small pieces in the image on the right are fragments because they are only parts of a complete puzzle.
+**A sentence fragment** refers to an incomplete sentence, just like the puzzle pieces. While some fragments are acceptable in spoken English, they are serious mistakes in formal writing.
+Read the following conversation:
+*Student A: Do you like science?*
+*Student B: No.*
+*Student A: Why not?*
+*Student B: Because it’s hard for me.*
+In a conversation, it is very common and perfectly fine to have the above incomplete sentences. However, in formal situations, each sentence must express a complete thought and must contain a subject and a verb. Therefore, the conversation would become:
+*Student A: Do you like science?*
+*Student B: No, I don’t.*
+*Student A: Why don’t you like science?*
+*Student B: I don’t like it because it’s hard for me.*
+**Sentence Fragments in Two Common Situations**
+1. Missing subject, missing verb, or missing both subject and verb
+- Is an important class. (no subject)
+- I afraid of science. I not good at it. (no verbs)
+- Too hard. (no subject, no verb)
+- I admire scientists. For their contributions[1]. (second part, no subject, no verb)
+2. A period between dependent and independent clauses in complex sentences
+- Science is very important for all human societies. Because it brings new discoveries and innovations[2].
+- When students graduate. They apply the scientific knowledge to their work.
+**Ways to Fix Sentence Fragments**
+1. Always check for both the subject and the verb in a sentence. If one is missing or both are missing, add the subject, the verb, or both. Sometimes, you can attach the fragment to the complete sentence before or after it. In the following sentences, the subjects are __underlined__, and the verbs are **bold-faced**.
+- __Science__ **is** an important class.
+- __I__ **am** afraid of science. __I__ **am** not good at it.
+- __Science__ **is** too hard.
+- __I__ **admire** scientists for their contributions.
+2. If you see a subordinating conjunction such as “when” and “if”, check to see that there is not a period between the dependent and independent clauses. If the dependent clause is before the independent clause, a comma is needed in between. If the order is reversed[3], do not add a comma.
+- Science is very important for all human societies because it brings new discoveries and innovations.
+- Because science brings new discoveries and innovations, it is very important for all human societies.
+- When students start working, they apply the scientific knowledge to their work.
+- Students apply the scientific knowledge to their work when they start working.
+**Exercise 1.** The following sentences are about citizen scientists. Some of them are complete sentences, but some are fragments. Choose “True” for a complete sentence and “False” for a fragment. You will get instant feedback. If a sentence is a fragment, you will also see the correction in **blue.**
+[Interactive exercise]
+Q (true or false): 1. Most people think that only experts can be scientists, but they are wrong.
+   Answer: True
+[Interactive exercise]
+Q (true or false): 2. Citizen scientists are a group of people like you and me.
+   Answer: True
+[Interactive exercise]
+Q (true or false): 3. Some people interested in science and willing to be part of a science project.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 4. Observe the nature and record the data. For example, how often do squirrels run up and down trees in different seasons?
+   Answer: False
+[Interactive exercise]
+Q (true or false): 5. Other projects can involve measuring the rainfall and reporting the calculations.
+   Answer: True
+[Interactive exercise]
+Q (true or false): 6. Some projects are local, and some others are global.
+   Answer: True
+[Interactive exercise]
+Q (true or false): 7. Most of the citizen scientists are volunteers. From school age children to retirees.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 8. Citizen scientists and professional scientists share ideas and data. When they work on the same project.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 9. Citizen science covers many areas. In botany, ecology, medicine, engineering, and many others.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 10. Because everyone collaborates with each other. Science advancement is a community effort.
+   Answer: False
+**Exercise 2.** The following paragraph explains a citizen science project. There are four additional sentence fragments (not including the example). Find them and correct them. Be careful with punctuation and capitalization. The first one is an example.
+***Example**:*
+*If so. A citizen science project called NeMo-Net might be for you.*
+*Correction: If so, a citizen science project called NeMo-Net might be for you.*
+Playing While Contributing
+Do you like playing computer games? *If so. A citizen science project called NeMo-Net might be for you.* One of the tasks is playing an iPad game to help the National Aeronautics and Space Administration (NASA) classify coral reefs by painting 3D and 2D images of coral. In this project help rebuild underwater environments and create maps. These maps “can be used to better understand and protect coral reefs globally”. This citizen science project covers many subject areas such as animals, biology, climate and weather, computers and technology, geography, nature, and many others. The project started on April 22, 2020 and is still actively recruiting[4] volunteers. After the volunteers are accepted. They will be involved in “annotation, data analysis, data entry…measurement, observation, problem solving, sample analysis”. For more information. Please check https://www.citizenscience.gov/catalog/519/#. You should apply as soon as possible. If you are interested.
+*adapted from https://www.citizenscience.gov/catalog/519/#. Last accessed on June 1, 2020.*
+# IV. Run-On Sentences
+(Picture: some sports cars with one on top of another)
+some sports cars with one on top of another
+The expression “run-on” gives the image of two cars, the second one trying to run on top of the first one – a huge traffic violation[5] causing damage to the cars as well as harm[6] to the people inside.
+Writing follows the same principle. Just as cars must maintain[7] a safe distance from each other, sentences need to be separated by a proper punctuation and/or a conjunction.
+**A run-on sentence** occurs when two complete sentences are written one after another without anything to separate them.
+**Examples of Run-On Sentences**
+1. We have just learned about citizen science have you heard of citizen journalism?
+2. It is a new expression it simply means that ordinary people can publish news stories and photos online.
+3. You have posted messages and photos on Facebook you are a citizen journalist.
+4. You can change your posts you can also delete them.
+In #1 – #4 above, there are actually two complete sentences with two complete ideas in each. The second sentence seems super aggressive[8] and is running on top of the first one.
+**Ways to Fix Run-Ons**
+1. Separate the two sentences with a period and capitalize the first letter of the second sentence.
+- We have just learned about citizen science. Have you heard of citizen journalism?
+- It is a new expression. It simply means that ordinary people can publish news stories and photos online.
+2. Combine the two sentences into a compound sentence by adding a proper coordinating or adverbial conjunction. Add appropriate punctuation.
+- You can change your posts, or you can delete them.
+- You have posted messages and photos on Facebook, so you are a citizen journalist.
+- You have posted messages and photos on Facebook; therefore, you are a citizen journalist.
+3. Combine the two sentences into a complex sentence by adding a proper subordinating conjunction. Add a comma if needed.
+- If you have posted messages and photos on Facebook, you are a citizen journalist.
+4. Combine the two sentences into one simple sentence.
+- You can change or delete your posts.
+**Exercise 3.** The following sentences are about citizen journalism. Each is a run-on sentence. Use one of the strategies above to correct each error. Be careful with punctuation and capitalization.
+***Example**:*
+*People receive news in different ways now it is easier than ever.*
+(Picture: a person video taping an event with a smart phone)
+a person video taping an event with a smart phone
+*Correction: People receive news in different ways. Now it is easier than ever.*
+1. In the past, people relied on newspapers, radios, and TV for news now they check news on their cell phone app or computer.
+2. It is much more convenient to use a digital device it is fast.
+3. Digital technology has made it possible to spread news more quickly people can find out what is going on in the world right away.
+4. They do not need to wait for professional journalists to report news they can read or watch news instantaneously[9] while it is happening.
+5. Anyone with a smart phone can take photos and videos he/she shares them on the social media.
+6. People usually learn about world events within seconds events are happening in the other parts of the globe.
+7. News is not only fast it is free.
+8. People used to pay for newspapers and cable subscriptions news from their smart phone costs no money.
+9. Citizen journalism is changing the way the news is shared is this good?
+10. It depends it can bring both positive and negative results.
+**Exercise 4.** The following paragraph about citizen journalism has five more run-on sentences (not including the example). Correct the errors. Be careful with punctuation and capitalization. The first one is an example.
+***Example**:*
+*On the one hand, it provides news quickly at no cost it may also have more interesting photos, videos, and comments.*
+*Correction: On the one hand, it provides news quickly at no cost. In addition, it may have more interesting photos, videos, and comments.*
+A Mixed Blessing
+Citizen journalism is a mixed blessing. *On the one hand, it provides news quickly at no cost it may also have more interesting photos, videos, and comments.* Sometimes, such news can bring important changes to the world. Most importantly, it is a very powerful tool ordinary citizens can be actively involved in changing the world. On the other hand, the news may not be reliable the citizen journalists are not trained professionally. It is possible that their news is biased[10] it is also possible that the stories are inaccurate[11]. Therefore, readers may be confused or misled[12]. Besides, inappropriate images and reports may affect other people’s privacy or damage their reputation. Another effect is on the traditional media industry and professional journalists. Readers are not buying as many newspapers as before they are not reading news from the authoritative[13] sources. Some newspaper offices have to close down and find new ways to survive. Before the digital technology, people had never thought of sharing and receiving news through citizen journalism it is hard to imagine what news reporting would be like in twenty years.
+# V. Comma Splice Sentences
+(Picture: a fender bender crash)
+a fender bender crash
+While a run-on sentence resembles one car on top of another, a comma splice is similar to two vehicles too close to each other causing a fender bender accident[14].
+Sometimes, students try to correct a run-on sentence by placing a comma in between. They actually have created a new type of mistake called **comma splice**. When two complete sentences are separated by just a comma, it becomes a comma splice issue. It is a tricky and common issue because it is not considered a mistake in some other languages.
+**Examples of Common Splices**
+1. One of the largest news events in 2012 was the 3rd Annual iReport Awards, the event was sponsored by the Cable News Network (CNN).
+2. The goal was to show the best citizen journalism work in stories, photos, and videos, many people were interested.
+3. People from different countries sent more than 100,000 stories to a special CNN website, thirty-six pieces of work were finally nominated[15] for the awards in 2012.
+4. The event showed the power and popularity of citizen journalism, CNN stopped the iReport project in 2015.
+5. The project ended, there had been different issues.
+*Adapted from https://www.cnn.com/2013/04/03/opinion/ireport-awards-hawkins-gaar/index.html, last retrieved on June 14, 2021, and https://en.wikipedia.org/wiki/IReport, last retrieved on June 14, 2021.*
+**Ways to Fix Comma Splices**
+1. Separate the two sentences with a period and capitalize the first letter of the second sentence.
+- People from different countries sent more than 100,000 stories to a special CNN website. Thirty-six pieces of work were finally nominated for the awards in 2012.
+2. Combine the two sentences into a compound sentence by adding a proper coordinating or adverbial conjunction with appropriate punctuation.
+- The goal was to show the best citizen journalism work in stories, photos, and videos; therefore, many people were interested.
+- The event showed the power and popularity of citizen journalism, but CNN stopped the iReport project in 2015.
+3. Combine the two sentences into a complex sentence by adding a proper subordinating conjunction. Add a comma if needed.
+- The project ended because there had been different issues.
+- Because there had been different issues, the project ended.
+4. Combine the two sentences into one simple sentence.
+- One of the largest news events in 2012 was the 3rd Annual iReport Awards sponsored by Cable News Network (CNN).
+**Exercise 5.** The following sentences tell a real experience in sharing information in the social media. Some sentences contain comma splice errors, and some contain run-on mistakes. Identify which type of error it is in each and correct it. Be careful with punctuation and capitalization.
+***Example**:*
+*People do not check facts some terrible mistakes may occur in the social media.*
+*This is a run-on sentence.*
+*Correction: When people do not check facts, some terrible mistakes may occur in the social media.*
+1. This is a true story, it happened a few years ago.
+2. I was in a social media chat group with forty-five former classmates we had attended the same junior high school class many years before.
+3. One day, one of the classmates posted a message, it said that Mr. Wu, one of our teachers, had just passed away.
+4. We were very sad we shared our old memories of that teacher in the chat.
+5. Two days later, a message popped up it was from Mr. Wu!
+6. Some classmates had invited him to join the chat group a while back. He seldom spoke we forgot that he was in the group.
+7. Mr. Wu protested nicely that he was still alive, he even posted his recent photo to prove that.
+8. We were relieved we started to greet him.
+9. The student who had posted the wrong news was embarrassed, we did not blame him.
+10. This incident shows the importance of checking the facts we were pleased that the fact was a happy one in our case.
+**Exercise 6.** The following paragraph about OhmyNews contains six more run-on and comma splice sentences (not including the example). Find the errors and correct them. Be careful with punctuation and capitalization. The first one is an example.
+***Example**:*
+*One of the largest and best known is OhmyNews, it is a news website from South Korea.*
+*Correction: One of the largest and best known is OhmyNews from South Korea.*
+OhmyNews
+There are many citizen journalism news websites. *One of the largest and best known is OhmyNews, it is a news website from South Korea.* It was established by Oh Yeon Ho in 2000 it is the first in Korea for readers to publish news. Oh Yeon Ho was born in 1964 he majored in literature, journalism, and mass communication in his studies. He believes that every citizen is a reporter. The reporters of OhmyNews come from all areas of the society – doctors, office workers, farmers, students, and many others they provide reports on politics, economy, education, culture, and other topics from around the world. OhmyNews is popular the reporters are people in the local communities. It is also powerful, for instance, many people believe that OhmyNews played an important role in the 2002 South Korean presidential election. After the election, President Roh Moo-hyun gave his first interview to OhmyNews, this shows that citizen journalism can be influential in a country’s politics.
+*Adapted for editing purpose from https://en.wikipedia.org/wiki/OhmyNews and http://www.ohmynews.com/. Last retrieved on June 14, 2021.*
+# VI. Sentences with “for Example, for Instance, Like, Such as, Including”
+In Exercise 6, you noticed the expression “for instance”. It is very common to have “for example, for instance, like, such as, including” when you give examples. This also means that the mistakes associated with them are also common.
+**Errors in Giving Examples**
+- Fragment: There are many citizen journalism sites. For example, Global News Voices and Highway Ukraine Citizen Journalism Online.
+- Run-on: There are many citizen journalism sites for example, Global News Voices and Highway Ukraine Citizen Journalism Online are two of them.
+- Comma splice: There are many citizen journalism sites, for example, Global News Voices and Highway Ukraine Citizen Journalism Online are two of them.
+When you correct the errors, you need to consider:
+1. Are these expressions followed by a word, a phrase, or a complete sentence?
+2. How do the punctuation and capitalization change as a result?
+[Interactive exercise]
+♠♠ Click here to review the differences between a phrase and a sentence from Unit 7 Sentence Essentials: A phrase is one or more words used together to form part of an idea but not a complete idea. It does not have a “subject + verb” structure. A sentence must be written with a subject and a verb. It expresses a complete idea. Do not judge a phrase or a complete sentence by how long it is. A phrase can be long, and a sentence can be short. Phrase: interesting photos and videos about butterflies on Twitter yesterday Sentence: I like photography.
+*For detailed explanations and practice in sentence structure and punctuation, open Unit 7 here.*
+There are different ways to include examples, and the following can be a good starting point.
+**Common Ways to Write Examples**
+| Writing Examples with “for Example” or “for Instance” |
+| **complete sentence . For example, complete sentence** | There are many citizen journalism sites. For example, Global News Voices and Highway Ukraine Citizen Journalism Online are two of them. |
+| **complete sentence; for example, complete sentence** | There are many citizen journalism sites; for example, Global News Voices and Highway Ukraine Citizen Journalism Online are two of them. |
+| **complete sentence, for example, words or phrases** | There are many citizen journalism sites, for example, Global News Voices and Highway Ukraine Citizen Journalism Online |
+| “For instance” is used exactly the same ways as “for example”. | There is a comma after “for example” and “for instance”. | Capitalize the letter “F” in “For” only after a period, not after a comma or semi colon. |
+| **Writing Examples with “Such as”, “Like”, or “Including”** |
+| **complete sentence + such as + words or phrases** | There are many citizen journalism sites such as Global News Voices and Highway Ukraine Citizen Journalism Online. |
+| **complete sentence, + such as + words or phrases** | There are many citizen journalism sites, such as Global News Voices and Highway Ukraine Citizen Journalism Online. |
+| “Like” and “including” are used exactly the same as “such as”. | They are not followed by a complete sentence. | The comma before them is optional. | There is no comma after them. |
+*For more explanations and examples with periods, question marks, exclamation marks, commas, semi colons, colons, apostrophes, and quotations marks, please refer to Appendix C Punctuation. Open Appendix C here.*
+**Exercise 7.** The writer of the following sentences wants to give specific examples. You can help by filling in the information on the lines. Pay attention to the punctuation and the structure (word, phrase, sentence).
+***Example**:*
+*There are many sources for people to obtain news from. For example,* __*they can read newspapers and magazines.*__
+1. They can also learn about news from the social media such as ______________________________.
+2. In my native country, older people prefer TV news programs, such as ______________________________.
+3. However, most young people receive news from the social media; for instance, ______________________________.
+4. For me, besides the social media, I also get news from people around me including ______________________________.
+5. Some news websites like ______________________________ are very popular among the older people.
+# VII. Unit Review Practice
+**Exercise 8.** The following sentences are about citizen science in some parts of the world. Each sentence contains a fragment, run-on, or comma splice error. Identify each error and correct it. Be careful with punctuation and capitalization.
+***Example**:*
+*Citizen science is going on in different parts of the world. Including Asia, Australia, Europe, and North America.*
+*The second part is a fragment.*
+*Correction: Citizen science is going on in different parts of the world, including Asia, Australia, Europe, and North America.*
+(Picture: Webpage of European Citizen Science Association)
+***Webpage of European Citizen Science Association***
+1. If you are interested in a project from Asia. Check its website: https://www.facebook.com/CitSciAsia/.
+2. Australia has very active citizen science programs, one of the interesting programs in August 2021 was to match caterpillars to moths. For more information, you can check https://citizenscience.org.au/.
+3. Europe is another huge area for citizen science. The headquarters of the organization is in the Museum für Naturkunde Berlin there are also offices in Brussels and Leiden. For projects and events, you can check https://ecsa.citizen-science.net/.
+4. In the U.S., many different organizations support and fund[16] citizen science. Including the U.S. government agencies as well as nonprofit organizations[17]. The following websites give you more information: https://www.citizenscience.gov/#; https://scistarter.org/citizen-science
+**Exercise 9.** The following paragraph tells a brief history of citizen science. It has one error in fragment, one error in run-on, and one error in comma splice (not including the example). Find the errors and correct them. Be careful with punctuation and capitalization. The first one is an example.
+***Example:***
+*Scientific development has always relied on people in the local communities. Such as school children and retired professionals.*
+*Correction: Scientific development has always relied on people in the local communities, such as school children and retired professionals.*
+The Beginning of Citizen Science
+*Scientific development has always relied on people in the local communities. Such as school children and retired professionals.* Even though many people have heard about the term “citizen science” only recently. The practice of community involvement started as early as 1800s. According to the National Geographic, Wells Cooke was probably one of the first people, he started a program about bird migration[18]. The U.S. government and volunteers started to get involved in collecting information about bird migration patterns. They recorded the information on cards their efforts helped advance[19] scientific research and understanding of birds.
+*Adapted from https://www.nationalgeographic.org/encyclopedia/citizen-science/. Last retrieved on June 16, 2021.*
+**Exercise 10.** The following paragraph about a citizen science project has one error in fragment, one error in run-on, and one error in comma splice (not including the example). Find the errors and correct them. Be careful with punctuation and capitalization. The first one is an example.
+***Example**:*
+*“What’s Your Water Level?” is another citizen science project it is very interesting.*
+*Correction: “What’s Your Water Level?” is another very interesting citizen science project.*
+An Interesting Project
+It is a global project, it is sponsored by a U.S. government agency called the National Oceanic and Atmospheric Administration (NOAA). The project started on February 2, 2017, and it is still seeking more volunteers. They will be taking photographs and recording data of water levels the information will be used to analyze how the changing water levels affect the roads, homes, and businesses. Of course, a camera is necessary, but like all the citizen science projects, curiosity in science and willingness to participate will be the key[20]. If you are interested. You can check the website http://noaa.maps.arcgis.com/apps/MapSeries/index.html?appid=8e4a278576964f47b4fc050e51f344ca.
+**Exercise 11.** Choose one topic from #1-3 and one more from #4-6 to write two paragraphs. In each paragraph, include at least two times total of “for example”, “for instance”, “such as”, “like”, or “including”. Check for fragments, run-ons, and comma splices in your paragraphs. Be careful with punctuation and capitalization.
+1. What are the benefits of citizen science for the science, community, and volunteers? For more ideas, you may watch the TEDx video on YouTube “Citizen Science: Everyone Counts”, by Caren Cooper. https://www.youtube.com/watch?v=G7cQHSqfSzI&t=17s
+2. What would be the potential disadvantages of citizen science? Why do you think so?
+3. Have you ever participated in a citizen science project? If so, describe your project and what you have learned from it. If not, would you be interested in one and why?
+4. Click on the link and read the short report “Citizen Journalism Provided Glimpses of Mumbai Attacks” from New York Times on November 30, 2008. According to the report, how are ordinary citizens transforming the traditional news media? https://www.nytimes.com/2008/11/30/world/asia/30twitter.html .
+5. Do you consider yourself a citizen journalist? If yes, in what way have you been involved in citizen journalism? If not, why not?
+6. Besides citizen science and citizen journalism, what are other ways for ordinary people to contribute to the global, national, or local communities?
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that you have not written about. You may start with the NSNT approach. Then revise and edit your paragraphs. Check for errors in fragments, run-ons, and comma splices. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: contribution -> noun, give money, time, knowledge, etc. for a good purpose
+Card: innovation -> noun, new creation or discovery
+Card: reversed -> adjective, going the opposite direction
+Card: recruit -> verb, look for new members for a group, an organization, etc.
+Card: violation -> noun, an action that breaks the rule or law
+Card: harm -> noun, injury
+Card: maintain -> verb, keep, remain
+Card: aggressive -> adjective, violent and attacking
+Card: instantaneously -> adverb, right away, at the same time
+Card: biased -> adjective, with prejudice
+Card: inaccurate -> adjective, not correct, with mistakes
+Card: mislead -> verb, cause misunderstanding
+Card: authoritative -> adjective, as an expert
+Card: fender bender accident -> noun phrase, a car accident with minor damage to the cars
+Card: nominat -> verb, name, propose
+Card: fund -> verb, give money to
+Card: non-profit organization -> nounn phrase, an organization whose purpose is not to make money
+Card: migration -> noun, move to live in another place
+Card: advance -> verb, move forward
+Card: key -> noun, the most important part
+**Summary**
+1. Three common errors in sentence structure and punctuation are fragments, run-ons, and comma splices.
+2. A sentence fragment is an incomplete sentence. It could be missing the subject, verb, or both. It also occurs when a period is put in between the dependent and independent clauses in a complex sentence.
+3. A run-on sentence is two complete sentences written without anything to separate them.
+4. A comma splice sentence is two complete sentences written with just a comma in between.
+5. There are different ways to fix a sentence fragment:
+- Add a subject, a verb, or both.
+- Delete the period between the dependent and independence clauses in a complex sentence. Add a comma if the dependent clause starts the sentence.
+6. There are different ways to fix a run-on and a comma splice:
+- Separate the two complete sentences with a period.
+- Combine the two parts into a compound sentence.
+- Combine the two parts into a complex sentence.
+- Rewrite the two parts into a simple sentence.
+7. “For example, for instance, like, such as, including” are often used as follows:
+- complete sentence. __For example,__ complete sentence
+- complete sentence. __For instance,__ complete sentence
+- complete sentence__; for example,__ complete sentence
+- complete sentence__; for instance,__ complete sentence
+- complete sentence, __for example,__ words or phrases
+- complete sentence__, for instance,__ words or phrases
+- complete sentence__, like__ words and phrases (The comma is optional.)
+- complete sentence__, such as__ words and phrases (The comma is optional.)
+- complete sentence__, including__ words and phrases (The comma is optional.)
+## Media Attributions
+- a child holding a magnifying glass over a plant © Photo by Katherine Volkovski on Unsplash
+- pieces of a puzzle © Photo by Jonny Gios on Unsplash
+- some sports cars with one on top of another © Photo by Abed Ismail on Unsplash
+- a person video taping an event with a smart phone © Photo by Kym Ellis on Unsplash
+- a fender bender crash © Geremy F. is licensed under a CC BY-NC-SA (Attribution NonCommercial ShareAlike) license
+- Webpage of European Citizen Science Association
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. contribution: noun, give money, time, knowledge, etc. for a good purpose ↵
+2. innovation: noun, new creation or discovery ↵
+3. reversed: adjective, going the opposite direction ↵
+4. recruit: verb, look for new members for a group, an organization, etc. ↵
+5. violation: noun, an action that breaks the rule or law ↵
+6. harm: noun, injury ↵
+7. maintain: verb, keep, remain ↵
+8. aggressive: adjective, violent and attacking ↵
+9. instantaneously: adverb, right away, at the same time ↵
+10. biased: adjective, with prejudice ↵
+11. inaccurate: adjective, not correct, with mistakes ↵
+12. mislead: verb, cause misunderstanding ↵
+13. authoritative: adjective, as an expert ↵
+14. fender bender accident: noun phrase, a car accident with minor damage to the cars ↵
+15. nominate: verb, name, propose ↵
+16. fund: verb, give money to ↵
+17. non-profit organization: noun phrase, an organization whose purpose is not to make money ↵
+18. migration: noun, move to live in another place ↵
+19. advance: verb, move forward ↵
+20. key: noun, the most important part ↵
+
+Links on this section's web page:
+- Web page (citizenscience.gov): https://www.citizenscience.gov/catalog/519/
+- Web page (cnn.com): https://www.cnn.com/2013/04/03/opinion/ireport-awards-hawkins-gaar/index.html
+- Web page (en.wikipedia.org): https://en.wikipedia.org/wiki/IReport
+- Web page (en.wikipedia.org): https://en.wikipedia.org/wiki/OhmyNews
+- Web page (scistarter.org): https://scistarter.org/citizen-science
+- Web page (noaa.maps.arcgis.com): http://noaa.maps.arcgis.com/apps/MapSeries/index.html?appid=8e4a278576964f47b4fc050e51f344ca
+- Video (YouTube): https://youtu.be/G7cQHSqfSzI
+- Web page (nytimes.com): https://www.nytimes.com/2008/11/30/world/asia/30twitter.html
+
+=== Appendix C Punctuation ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/appendix-c-punctuation/
+
+# Appendix C Punctuation
+(Picture: a group of question marks and exclamation marks)
+a group of question marks and exclamation marks
+# I. Common Punctuation Marks
+(Picture: punctuation marks)
+punctuation marks
+# II. Rules for Punctuations
+[Interactive exercise]
+Periods - click here for explanations and examples: A period is used at the end of a statement. It rained last night. It does not snow in this part of the country.
+Question marks - click here for explanations and examples: A question mark is used at the end of a direct question. Did it rain last night? What is the weather like in your hometown?
+Exclamation marks - click here for explanations and examples: An exclamation mark is used to show emotion or emphasis. How beautiful is the night sky! We are going, rain or not!
+Commas - click here for explanations and examples: Commas in English can be complicated. The following are some of the common rules: In a series of three items or more In summer, many people like to take a vacation, practice their hobbies, and spend more time with their loved ones. My cousin Ralph likes to try out new recipes with all sorts of nuts: almonds, walnuts, pecans, hazelnuts, cashews, and many more. 2. After transition signals at the beginning of a sentence First, he toasts the nuts. Next, he leaves them on the pan to cool. 3. After prepositional phrases at the beginning of a sentence On the counter in his kitchen, Ralph has ten pans of different sizes and shapes. For his new broccoli salad, he adds toasted pecans and walnuts. 4. Before coordinating conjunctions in compound sentences (FANBOYS) Ralph’s broccoli salad is tasty, but it contains much fat from the dressing and the nuts. It is high in calories, so I usually eat only a small cup of the salad. 5. After a dependent clause at the beginning of a complex sentence When people compliment on the salad, Ralph always looks truly happy. If someone gently suggests ways for improvement, Ralph is not always gracious. 6. After adverbial conjunctions Ralph is a very likeable young man; however, he is nuts about nuts. He loves nuts; as a result, his holiday gift wish list is always full of nut goodies like peanut brittle. 7. Before (and after) a word or a phrase to explain the noun mentioned right in the previous part of the sentence Last year, he was so surprised to receive a ballet ticket to the Nutcracker, my Christmas gift to him. Five pounds of mixed nuts, my second Christmas gift, will help him with more yummy creations. 8. Between a person and his/her quote I said to him, “I hope you enjoy my gifts!” Ralph answered happily, “I will!” 9. Between the date and the year (no comma for just month and year) Ralph hosted his very first “nutty” party on December 31, 2017. He had his second part right on the next day, January 1, 2018. 10. Between the street name and the city, the city and the state in an address Ralph used to live at 100 Walnut Street, Nuttsville, Virginia. He has moved to 25 Coconut Street, Almond, North Carolina. 11. After salutation in an informal letter and after the closing of any letter Dear Ralph, Thank you for the wonderful chocolate hazelnut shortbread. I really enjoyed it. Love, Linda
+Semi colons - click here for explanations and examples: A semi colon is like a long comma or a short period. Do not capitalize the first letter after a semi colon unless it is a proper name. Between two complete and closely related sentences Sports are common hobbies; baseball is especially popular among school age children. They join Little League teams; their parents usually act as coaches and volunteers. 2. In front of some adverbial conjunctions or transitions These children play to win; nevertheless, the most valuable experience is building friendships. They learn to respect each other; for example, the players usually shake hands with the members of the opponent team no matter which team has won.
+Colons - click here for explanations and examples: A colon indicates “I mean the following”. Before a list of things Here are three important pieces of advice for an online class: treat the class as seriously as a face-to-face class, follow a reasonable schedule, and keep in touch with the professor. Two books are required for most reading courses: a textbook and a novel. 2. After the salutation in a formal business letter Dear Ms. Gonzales: Dear Dr. Khalil:
+Apostrophes - click here for explanations and examples: Apostrophes are used in two main ideas: in contraction and in possessives. In contractions Computer games have become popular in recent years. They’re often on many people’s holiday gift lists. (They are) More and more people like to play those games. It’s become an addiction for them. (It has) 2. In possessives Many stores have separate counters for computer games: adults’ games in one area and children’s games in another. My friend’s favorite game is League of Legends. My cousins’ favorite is Counter-Strike.
+Quotation marks - click here for explanations and examples: Quotation marks are used to quote exact expressions or to cause attention. At the beginning and end of a quote Students often ask professors, “How do we improve our grade?” Professors usually reply, “Focus on improving your skills, and your grade will surely improve.” 2. Around unusual expressions when they are used in an uncommon way When students exchange answers during an exam, they are not “helping” each other. They are actually cheating. It is important to list the source of information when we “borrow” other people’s ideas and use them in our writing.
+## Media Attributions
+- a group of question marks and exclamation marks © "if you ever wondered where all your punctuation went..." by ▓▒░ TORLEY ░▒▓ is licensed with CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/ is licensed under a CC BY-SA (Attribution ShareAlike) license
+- punctuation marks © Lin Cui is licensed under a CC0 (Creative Commons Zero) license

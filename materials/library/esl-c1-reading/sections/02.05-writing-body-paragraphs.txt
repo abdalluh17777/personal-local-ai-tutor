@@ -1,0 +1,86 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.5: Writing Body Paragraphs
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.05%3A_Writing_Body_Paragraphs
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## The parts of a body paragraph
+Body paragraphs support and develop your thesis statement. Each body paragraph should focus on one point, which is usually communicated at the beginning of the paragraph in the form of a **topic sentence**. A strong body paragraph should also contain **supporting evidence**, **analysis** showing how this evidence connects to your topic sentence and thesis statement and, finally, a **concluding sentence**.
+## Noticing the structure of a body paragraph
+Let's look at a sample body paragraph and evaluate how effective it is.
+Notice this!
+Read the following body paragraph. As you read, think about how the body paragraph does or doesn’t fit with our definition above. The thesis statement for this essay is, “The problem with stereotypes is not that they are untrue, but that they are incomplete, and make one story become the only story.”
+Adichie argues that a single story usually provides only one part of a story: just one negative or positive side of a person, yet this becomes their label or their definition. Adichie cites the example of Modupe Akinola, a female African-American professor. When she began teaching at Columbia Business School, students often asked her when the professor would arrive because she did not fit the stereotype of what a professor should look like in the U.S. Stereotypes are "incomplete" and can lead to prejudice as Adichie points out in her TED talk. Due to a lack of exposure, Akinola’s students were probably expecting to see an old white male or possibly a white female professor instead of a young African-American female professor. Also, because of the angry black female stereotype (Eberhardt), during lectures, this may lead students to read Akinola's facial expressions in an incorrect way which may cause confusion.
+If you found the paragraph a little confusing, you aren’t alone (see figure 2.5.1)! For example, this paragraph lacks a clear topic sentence; this makes it more difficult for both readers and the writer of the essay to get a clear grasp of the paragraph’s purpose. The supporting evidence also isn’t sufficiently introduced, and there’s no clear concluding sentence.
+[Image: Woman holding a book and looking confused]
+Figure : "Confused" by CollegeDegrees360 is marked with CC BY-SA 2.0.
+Let’s explore each element of a strong body paragraph in further detail. Then, we’ll come back to this paragraph about stereotypes.
+## Topic sentences
+Each body paragraph should begin with a topic sentence that is directly related to and supportive of your thesis statement. The topic sentence should be an opinion statement and should introduce the main idea of the body paragraph. All of the sentences in the rest of the paragraph should relate to, support, and expand on the topic sentence. Here are some guidelines to keep in mind when writing a topic sentence:
+- The topic sentence is usually the first sentence of a body paragraph
+- Like a thesis statement, a topic sentence should be arguable and specific
+- A topic sentence should be clear, to-the-point, and in your own words (in general, avoid starting the topic sentence with a quotation or paraphrase)
+- A topic sentence can also help the reader transition from one idea in the previous paragraph to the next by referring to a previous idea
+Another way to think about it is this: A topic sentence expresses both the topic and controlling idea of a body paragraph. This means that the topic sentence of a body paragraph goes beyond just stating the topic, but also shows the writer’s perspective on the subject.
+Read the following topic sentence examples.
+- In the STEM field, stereotypes persist that attribute girls' achievements to diligence instead of talent.
+- Stereotypes are problematic because they give an insufficient view of a person within a group.
+- Recognizing your stereotypes and the potential damage they do is the first step in creating change.
+Although the topic—stereotypes—is the same in all three topic sentences, the controlling idea differs depending on the writer’s viewpoint.
+## Support
+Develop the main idea in your topic sentence by following it up with support. Supporting sentences help explain, prove, or enhance the topic sentence. Supporting evidence can take many forms, but generally breaks down into two major categories:
+### Textual evidence
+- Textual evidence involves integrating outside sources into your writing.
+- Books, journals, websites, newspapers, magazines, TED talks, and documentary films are common sources of textual evidence in academic writing.
+- This type of evidence often includes information such as facts, statistics, and examples.
+### Personal experience and anecdotes
+Personal experience can count as evidence when appropriate as well (e.g., to illustrate a point) but is often most effective when paired with other types of evidence.
+### Integrating supporting evidence
+- There are many ways to integrate evidence, for example, as text in body paragraphs of your essay (e.g., as a quote, paraphrase, or summary or a combination).
+- Sometimes you might include graphs, charts, or tables, or images depending on your essay topic.
+- You must always credit the source of your information!
+For more detailed information about integrating evidence into your body paragraphs, see the chapter titled “Integrating Evidence”.
+## Commentary or analysis
+This is *your* thinking about the evidence. This is where you interpret, explain, or comment on your evidence so your reader knows what to do with the point you are making. Your commentary should connect back to your topic sentence and the core of your thesis statement. Here are some questions to think about when writing your commentary/analysis:
+- How is this idea related to my thesis statement? How does it support my thesis?
+- What conclusions can I draw?
+- What does this information imply or suggest?
+- What are the consequences of thinking this way or looking at a problem this way?
+- I just said that something happens, so how does it happen? How can I show this?
+- Can I give an example to illustrate this point?
+- How might this evidence relate to other texts?
+## Concluding sentence
+The concluding sentence is the last sentence in the paragraph. It reminds the reader of your paragraph’s main point, and it might hint at the topic of your next sentence.
+## Finding the parts of a body paragraph
+Let's put this all together.
+Try this!
+Read the following paragraph. It is a revised version of the body paragraph at the beginning of this section. Can you identify the following elements?
+- Topic sentence
+  - What is the topic?
+  - What is the controlling idea?
+- Evidence
+- Analysis
+- Concluding sentence
+Stereotypes are problematic because they give an incomplete view of a person within a group. In her TED talk “The Danger of a Single Story,” Adichie argues that a single story usually provides only one part of a story: just one negative or positive side of a person, yet this becomes their label or their definition. An example of this kind of stereotyping is what happened to Modupe Akinola, a female African-American professor. When she began teaching at Columbia Business School, students often asked her when the professor would arrive because she did not fit the stereotype of what a professor should look like in the U.S (Akinola). People tend to make assumptions about the single story they hold of a particular group. Due to a lack of exposure, Akinola’s students were probably expecting to see an old white male or possibly a white female professor instead of a young African-American female professor. Also, because of the angry black female stereotype (Eberhardt), during lectures, this may lead students to read Akinola's facial expressions in an incorrect way which may cause confusion. Thus, stereotypes are "incomplete" and can lead to prejudice as Adichie points out in her TED talk.
+(For possible answers, check the 2.15: Answer Key: Organization and Cohesion.)
+## Writing a body paragraph
+Now, it's your turn to try!
+Apply this!
+Look at your own or a classmate's draft. Focus on one body paragraph.
+- Can you identify a topic sentence?
+  - Does it express both the topic and your paragraph’s controlling idea?
+  - Does it relate directly to your thesis statement?
+- What kind of outside support, or evidence, do you use?
+- How do you explain or analyze that evidence? Is there more you can say?
+- How do you conclude the paragraph?
+## Section review
+Body paragraphs support and develop your thesis statement. Each body paragraph should focus on one point. Strong body paragraphs contain the following elements:
+- A topic sentence, which is usually communicated at the beginning of the paragraph
+- Supporting evidence
+- Analysis showing how this evidence connects to your topic sentence and thesis statement
+- A concluding sentence.
+## Works Cited
+Adichie, Chimimanda. "The Danger of a Single Story." *TED.* July, 2009.
+Eberhardt, Jennifer. "How Racial Bias Works — And How to Disrupt it." *Ted.* June, 2020.
+## Licenses and Attributions
+Authored by Susie Naughton, Santa Barbara City College, and Clara Zimmerman, Porterville College. License: CC BY NC.
+This page titled 2.5: Writing Body Paragraphs was last modified on Sun, 09 Mar 2025 17:17:23 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

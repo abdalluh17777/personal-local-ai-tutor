@@ -1,0 +1,101 @@
+{
+  "title": "English Stage 3 (C1): Academic Reading, Research and Writing",
+  "short_title": "English Stage 3 (C1)",
+  "level": "Advanced (C1)",
+  "description": "Advanced (C1) English for university study from two open college textbooks: refined sentences and punctuation, critical reading, the academic essay, research and the use of sources, argument, and academic style.",
+  "books_intro": "Lessons combine two open college textbooks:",
+  "after": "After this stage: use your English for university study. Keep reading and writing in your field, for example in the PSYC 110 course.",
+  "books": {
+    "esl-c1-writing": {
+      "title": "College ESL Writers: Applied Grammar and Composing Strategies for Success",
+      "author": "Barbara Hall and Elizabeth Wallace, Georgia State University - Perimeter College",
+      "license": "CC BY-NC-SA",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)"
+    },
+    "esl-c1-reading": {
+      "title": "Reading, Writing, Research, and Reasoning: An Advanced ESL Text",
+      "author": "Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative",
+      "license": "CC BY-NC 4.0",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text"
+    }
+  },
+  "units": [
+    {
+      "title": "Unit 1: Refining Sentences and Punctuation",
+      "lessons": [
+        {"title": "Writing Basics Review: Sentences, Pronouns, Adjectives and Adverbs", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/01.01-sentence-writing.txt", "esl-c1-writing/sections/01.02-sentence-structure.txt", "esl-c1-writing/sections/01.03-pronouns.txt", "esl-c1-writing/sections/01.04-adjectives-and-adverbs.txt", "esl-c1-writing/sections/01.05-writing-basics-exercise.txt"]},
+        {"title": "Sentence Variety", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/02.01-sentence-variety.txt"]},
+        {"title": "Coordination and Subordination", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/02.02-coordination-and-subordination.txt"]},
+        {"title": "Sentence Boundaries: Fragments, Run-ons and Comma Splices", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/02.03-sentence-structure-boundaries-and-associated-errors.txt", "esl-c1-writing/sections/02.05-refining-your-writing-exercises.txt"]},
+        {"title": "Parallelism", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/02.04-parallelism.txt", "esl-c1-reading/sections/02.11-parallel-structure.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Commas", "kind": "punctuation", "sources": ["esl-c1-writing/sections/08.01-commas.txt"]},
+        {"title": "Semicolons, Colons and Dashes", "kind": "punctuation", "sources": ["esl-c1-writing/sections/08.02-semicolons.txt", "esl-c1-writing/sections/08.03-colons.txt", "esl-c1-writing/sections/08.07-dashes.txt"]},
+        {"title": "Quotation Marks, Apostrophes, Parentheses, Hyphens and Capital Letters", "kind": "punctuation", "sources": ["esl-c1-writing/sections/08.04-quotes.txt", "esl-c1-writing/sections/08.05-apostrophes.txt", "esl-c1-writing/sections/08.06-parentheses.txt", "esl-c1-writing/sections/08.08-hyphens.txt", "esl-c1-writing/sections/08.09-capitalization.txt", "esl-c1-writing/sections/08.10-end-of-chapter-exercise.txt"]},
+        {"title": "Grammar Refresher: Misplaced and Dangling Modifiers; Prepositions", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/07.02-misplaced-and-dangling-modifiers.txt", "esl-c1-writing/sections/07.11-preposition-use.txt"]},
+        {"title": "Grammar Refresher: Count and Noncount Nouns and Articles", "kind": "grammar for writing", "sources": ["esl-c1-writing/sections/07.04-count-and-noncount-nouns-and-articles.txt", "esl-c1-writing/sections/07.12-overview-of-english-grammar-exercises.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 2: Critical Reading",
+      "lessons": [
+        {"title": "Critical Reading: Reading Response Journals and Prereading", "kind": "reading", "sources": ["esl-c1-reading/sections/01.01-introduction.txt", "esl-c1-reading/sections/01.02-sample-reading-response-journal-an-undocumented-teacher-s-st.txt", "esl-c1-reading/sections/01.03-identifying-reading-strategies-and-prereading-a-text.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]},
+        {"title": "Active Reading: Asking Questions and Annotating", "kind": "reading", "sources": ["esl-c1-reading/sections/01.04-using-questions-to-be-an-active-reader.txt", "esl-c1-reading/sections/01.05-annotating-a-text.txt", "esl-c1-reading/sections/01.05.01-1-5-1-accessible-version-of-annotation-example-on-1-5.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]},
+        {"title": "Main Ideas, Support and Rhetorical Appeals", "kind": "reading", "sources": ["esl-c1-reading/sections/01.06-finding-main-ideas-and-support.txt", "esl-c1-reading/sections/01.07-finding-ethos-pathos-and-logos.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]},
+        {"title": "Paraphrasing and Summarizing", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/01.08-paraphrasing-and-summarizing.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]},
+        {"title": "Choosing Quotes and Analyzing a Text", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/01.09-choosing-quotes-and-analyzing-a-text.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]},
+        {"title": "Vocabulary Strategies: Unfamiliar Words and Context Clues", "kind": "reading", "sources": ["esl-c1-reading/sections/01.10-dealing-with-unfamiliar-vocabulary.txt", "esl-c1-writing/sections/06.05-using-context-clues.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]},
+        {"title": "Critical Thinking Questions and Unit Review", "kind": "review", "sources": ["esl-c1-reading/sections/01.11-language-toolkit.txt", "esl-c1-reading/sections/01.12-takeaways.txt"], "key": ["esl-c1-reading/sections/01.13-answer-key-critical-reading.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 3: Paragraphs, Essays and Cohesion",
+      "lessons": [
+        {"title": "Effective Paragraphs", "kind": "writing", "sources": ["esl-c1-writing/sections/03.01-effective-means-for-writing-a-paragraph.txt"]},
+        {"title": "Purpose, Audience, Tone and Content", "kind": "writing", "sources": ["esl-c1-writing/sections/03.02-purpose-audience-tone-and-content.txt", "esl-c1-writing/sections/03.03-writing-paragraphs-exercises.txt"]},
+        {"title": "The Summary-Response Essay: A Model on Stereotype Threat", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/02.01-introduction.txt", "esl-c1-reading/sections/02.02-sample-student-summary-response-essay-stereotype-threat.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "The Writing Process: Prewriting and Drafting", "kind": "writing", "sources": ["esl-c1-writing/sections/04.01-the-writing-process-prewriting-and-drafting.txt"]},
+        {"title": "Thesis Statements", "kind": "writing", "sources": ["esl-c1-writing/sections/04.02-developing-a-strong-clear-thesis-statement.txt", "esl-c1-reading/sections/02.03-writing-a-thesis-statement.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Outlining", "kind": "writing", "sources": ["esl-c1-writing/sections/04.03-outlining.txt"]},
+        {"title": "Introductions", "kind": "writing", "sources": ["esl-c1-writing/sections/04.04-writing-introductory-paragraphs.txt", "esl-c1-reading/sections/02.04-essay-introductions.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Body Paragraphs", "kind": "writing", "sources": ["esl-c1-writing/sections/04.05-writing-body-paragraphs.txt", "esl-c1-writing/sections/04.06-more-about-the-basic-elements-of-a-first-draft.txt", "esl-c1-reading/sections/02.05-writing-body-paragraphs.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Conclusions", "kind": "writing", "sources": ["esl-c1-writing/sections/04.07-writing-a-conclusion.txt", "esl-c1-writing/sections/04.08-writing-essays-exercises.txt", "esl-c1-reading/sections/02.06-writing-a-conclusion-paragraph.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Cohesion 1: Transition Words and Known-to-New Sentences", "kind": "writing", "sources": ["esl-c1-reading/sections/02.07-cohesion-and-transition-words.txt", "esl-c1-reading/sections/02.08-known-to-new-sentence-structure.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Cohesion 2: Demonstratives, Summary Nouns and Links Between Paragraphs", "kind": "writing", "sources": ["esl-c1-reading/sections/02.09-demonstrative-pronouns.txt", "esl-c1-reading/sections/02.10-demonstrative-adjectives-summary-nouns.txt", "esl-c1-reading/sections/02.12-creating-cohesion-between-paragraphs.txt", "esl-c1-reading/sections/02.13-language-toolkit.txt", "esl-c1-reading/sections/02.14-takeaways.txt"], "key": ["esl-c1-reading/sections/02.15-answer-key-organization-and-cohesion.txt"]},
+        {"title": "Revising: Reviewing Your Essay and Peer Review", "kind": "writing", "sources": ["esl-c1-writing/sections/05.01-reviewing-your-essay.txt", "esl-c1-writing/sections/05.02-completing-a-peer-review.txt"]},
+        {"title": "Editing for Grammar and Mechanics; Keeping an Error Log", "kind": "writing", "sources": ["esl-c1-writing/sections/05.03-editing-your-draft-for-standard-grammar-and-mechanics.txt", "esl-c1-writing/sections/05.04-keeping-track-of-your-sentence-level-grammar-errors.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 4: Research and Evidence",
+      "lessons": [
+        {"title": "Research Writing: A Model Essay and the Purpose of Research", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/03.01-introduction.txt", "esl-c1-reading/sections/03.02-sample-student-research-essay-faculty-of-color.txt", "esl-c1-reading/sections/03.03-purpose-of-research-writing.txt"], "key": ["esl-c1-reading/sections/03.12-answer-key-research.txt"]},
+        {"title": "The Research Process: Topic and Research Question", "kind": "research", "sources": ["esl-c1-reading/sections/03.04-research-process.txt", "esl-c1-reading/sections/03.05-finding-your-topic-and-research-question.txt"], "key": ["esl-c1-reading/sections/03.12-answer-key-research.txt"]},
+        {"title": "Finding and Evaluating Sources", "kind": "research", "sources": ["esl-c1-reading/sections/03.06-strategies-for-finding-information.txt", "esl-c1-reading/sections/03.07-evaluating-your-sources.txt"], "key": ["esl-c1-reading/sections/03.12-answer-key-research.txt"]},
+        {"title": "Reading Academic Articles and Writing an Annotated Bibliography", "kind": "research", "sources": ["esl-c1-reading/sections/03.08-reading-academic-articles-for-research.txt", "esl-c1-reading/sections/03.09-writing-an-annotated-bibliography.txt", "esl-c1-reading/sections/03.10-language-toolkit.txt", "esl-c1-reading/sections/03.11-takeaways.txt"], "key": ["esl-c1-reading/sections/03.12-answer-key-research.txt"]},
+        {"title": "Evidence and Claims: A Model Essay and When to Cite", "kind": "research", "sources": ["esl-c1-reading/sections/04.01-introduction.txt", "esl-c1-reading/sections/04.02-sample-student-research-essay-heritage-languages.txt", "esl-c1-reading/sections/04.03-using-evidence-to-support-claims.txt", "esl-c1-reading/sections/04.04-knowing-when-to-cite.txt"], "key": ["esl-c1-reading/sections/04.12-answer-key-integrating-evidence.txt"]},
+        {"title": "Choosing Evidence and Working from Sources", "kind": "research", "sources": ["esl-c1-reading/sections/04.05-choosing-appropriate-evidence.txt", "esl-c1-reading/sections/04.06-working-from-sources.txt"], "key": ["esl-c1-reading/sections/04.12-answer-key-integrating-evidence.txt"]},
+        {"title": "Introducing and Explaining Evidence", "kind": "research", "sources": ["esl-c1-reading/sections/04.07-introducing-and-explaining-evidence.txt"], "key": ["esl-c1-reading/sections/04.12-answer-key-integrating-evidence.txt"]},
+        {"title": "Avoiding Plagiarism and Formatting Your Paper", "kind": "research", "sources": ["esl-c1-reading/sections/04.08-avoiding-plagiarism.txt", "esl-c1-reading/sections/04.09-formatting-your-paper.txt"], "key": ["esl-c1-reading/sections/04.12-answer-key-integrating-evidence.txt"]},
+        {"title": "Reporting Verbs and Quoting: Ellipses and Square Brackets", "kind": "grammar for writing", "sources": ["esl-c1-reading/sections/04.10-language-toolkit.txt", "esl-c1-reading/sections/04.11-takeaways.txt"], "key": ["esl-c1-reading/sections/04.12-answer-key-integrating-evidence.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 5: Argument and Academic Style",
+      "lessons": [
+        {"title": "Argument: A Model Essay and the Rhetorical Appeals", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/05.01-introduction.txt", "esl-c1-reading/sections/05.02-sample-student-research-essay-fast-fashion.txt", "esl-c1-reading/sections/05.03-distinguishing-rhetorical-appeals.txt"], "key": ["esl-c1-reading/sections/05.12-answer-key-analyzing-arguments.txt"]},
+        {"title": "Pathos and Ethos", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/05.04-identifying-and-using-pathos.txt", "esl-c1-reading/sections/05.05-identifying-and-using-ethos.txt"], "key": ["esl-c1-reading/sections/05.12-answer-key-analyzing-arguments.txt"]},
+        {"title": "Logos", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/05.06-identifying-and-using-logos.txt"], "key": ["esl-c1-reading/sections/05.12-answer-key-analyzing-arguments.txt"]},
+        {"title": "Logical Fallacies", "kind": "reading and writing", "sources": ["esl-c1-reading/sections/05.07-finding-and-refuting-logical-fallacies.txt"], "key": ["esl-c1-reading/sections/05.12-answer-key-analyzing-arguments.txt"]},
+        {"title": "Concession, Counterargument and Hedging", "kind": "writing", "sources": ["esl-c1-reading/sections/05.08-writing-concession-and-counterargument.txt", "esl-c1-reading/sections/05.09-hedging.txt"], "key": ["esl-c1-reading/sections/05.12-answer-key-analyzing-arguments.txt"]},
+        {"title": "The Language of Argument", "kind": "review", "sources": ["esl-c1-reading/sections/05.10-language-toolkit.txt", "esl-c1-reading/sections/05.11-takeaways.txt"], "key": ["esl-c1-reading/sections/05.12-answer-key-analyzing-arguments.txt"]},
+        {"title": "Academic Voice and Clarity", "kind": "writing", "sources": ["esl-c1-reading/sections/06.01-introduction.txt", "esl-c1-reading/sections/06.02-sample-student-research-essay-draft-food-deserts.txt", "esl-c1-reading/sections/06.03-finding-your-academic-voice.txt", "esl-c1-reading/sections/06.04-writing-with-clarity.txt", "esl-c1-reading/sections/06.06-using-clear-pronoun-references.txt"], "key": ["esl-c1-reading/sections/06.15-answer-key-clarity-and-style.txt"]},
+        {"title": "Strong Words, Active Voice and Concision", "kind": "writing", "sources": ["esl-c1-reading/sections/06.05-using-strong-and-specific-words.txt", "esl-c1-reading/sections/06.07-using-active-voice.txt", "esl-c1-reading/sections/06.08-avoiding-wordiness.txt"], "key": ["esl-c1-reading/sections/06.15-answer-key-clarity-and-style.txt"]},
+        {"title": "Style, Tone and Word Choice", "kind": "writing", "sources": ["esl-c1-reading/sections/06.09-writing-with-style.txt", "esl-c1-reading/sections/06.10-reading-for-and-writing-with-tone.txt", "esl-c1-reading/sections/06.11-choosing-effective-words.txt", "esl-c1-writing/sections/06.03-word-choice.txt"], "key": ["esl-c1-reading/sections/06.15-answer-key-clarity-and-style.txt"]},
+        {"title": "Sentence Variety for Style; The Style Toolkit", "kind": "writing", "sources": ["esl-c1-reading/sections/06.12-using-sentence-variety.txt", "esl-c1-reading/sections/06.13-language-toolkit.txt", "esl-c1-reading/sections/06.14-takeaways.txt"], "key": ["esl-c1-reading/sections/06.15-answer-key-clarity-and-style.txt"]},
+        {"title": "Commonly Confused Words and Spelling", "kind": "vocabulary", "sources": ["esl-c1-writing/sections/06.01-commonly-confused-words.txt", "esl-c1-writing/sections/06.02-spelling.txt"]},
+        {"title": "Word Forms, Prefixes and Suffixes", "kind": "vocabulary", "sources": ["esl-c1-writing/sections/06.04-word-form-adjectives-and-adverbs-prefixes-and-suffixes.txt", "esl-c1-writing/sections/06.06-working-with-words-exercises.txt"]},
+        {"title": "Good Writing: Model Paragraphs and Essays, Topics and Rubrics", "kind": "review", "sources": ["esl-c1-writing/sections/09.01-qualities-of-good-writing.txt", "esl-c1-writing/sections/09.02-samples-of-good-paragraph-writing.txt", "esl-c1-writing/sections/09.03-samples-of-good-essay-writing.txt", "esl-c1-writing/sections/10.01-suggested-writing-topics.txt", "esl-c1-writing/sections/10.02-sample-grading-rubrics.txt"]}
+      ]
+    }
+  ]
+}

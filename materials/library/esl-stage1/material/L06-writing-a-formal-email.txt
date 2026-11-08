@@ -1,0 +1,167 @@
+Lesson 06 material: Writing a Formal Email
+English Stage 1 (B1) · Unit 1: People and Places
+
+=== 1.1: Writing A Formal Email ===
+From "People and Places - An Intermediate Integrated-Skills Module for English Learners" by Sara Ferguson, Grossmont College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA 4.0; authored, remixed or curated by Sara Ferguson. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/People_and_Places_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.01%3A_Section_1-
+
+This lesson includes slides for classroom presentation.
+(Online slides or activity on the lesson web page.)
+## What do we use emails for?
+Some examples of what emails are used for include:
+- School
+- Work
+- Friends and Family
+- Housing
+- Problems with Online Shopping
+## What should a good email have?
+A good email should have the following:
+- A clear and specific subject line
+- A greeting, closing, and signature
+- Proper capitalization and punctuation
+- Correct spelling and grammar
+## A Clear and Specific Subject Line
+- BAD EX: Hellooooo ^____^
+- BAD EX: EMERGENCY URGENT TEACHER PLS RESPOND!!!
+- GOOD EX: Absence - ESL 103
+- GOOD EX: Question about test - ESL 103
+## Greeting
+Which of the following is an appropriate greeting for... a good friend?
+- Dear Mark!
+- Hi Mark!
+- Mr. Mark Thompson!
+- Hi there!
+The correct response is... Hi Mark!
+Which of the following is an appropriate greeting for... a college professor I know?
+- Dear Sir,
+- Mr. John,
+- Hello Professor Smith,
+- Dear John,
+The correct response is... Hello Professor Smith,
+Which of the following is an appropriate greeting for... a female professor?
+- Dear teacher,
+- Dear Ms. Simons,
+- Hello Miss!
+- Dear Professor Simons,
+The correct response is... Dear Professor Simons,
+Which of the following is an appropriate greeting for... a new business contact if I do not know his or her name?
+- Dear Sir,
+- Dear Mister,
+- Hello!
+- Dear Sir or Madam,
+The correct response is... Dear Sir or Madam,
+The general rules for greetings are as follows...
+- If you know the person you are writing to...
+- Dear Mr. / Ms. / Professor ______,
+- Hello _____,
+- Hi ______,
+- If you do not know who will read your email...
+- Dear Sir or Madam,
+- To Whom It May Concern:
+## Closing and Signature
+The following are appropriate closings...
+- Sincerely,
+- Thank you,
+- Regards,
+- Best,
+- Thank you for your time,
+- Thank you for your help,
+Each of these should be followed by your full name
+- GOOD EX: Sincerely, Jaquelin Yang
+## Proper Capitalization and Punctuation
+- Do not use all capital letters or too many exclamation marks
+- BAD EX: TEACHER I WILL BE LATE TODAY!!!!!!!!!!
+## Correct Spelling and Grammar
+- Do not use abbreviations
+- BAD EX: LOL TTYL THX
+- Writing emails can be easier than talking in person... You have time to read over your emails again before you send them
+## Some other things to be careful of
+- Use a professional email address
+- GOOD EX: jyang001@sdccd.edu
+- BAD EX: happiiiteacherrr@gmail.com
+- Do not use emojis in emails
+- BAD EX: I will be late today :( sorry :(
+## Some other things in the email
+- Attach: Use "attach" to send things like essays, pictures, videos, etc.
+- If you attach something, make sure you say it in the email
+- GOOD EX: I have attached my essay to this email
+- CC: Use "CC" to send an email to more than one person. CC is usually for people who need this information but do not need to respond
+- GOOD EX: I might send an email TO my professor but I CC the tutor in the class
+- BCC: This is for when you need to send the email to a lot of people, but for privacy reasons, you do not want to show their names
+- This is mostly used for business emails
+## Useful links to review at home
+- __Useful email phrases__
+- __Grammar and phrases for emails__
+- __More instructions for business emails__
+### __Attribution__
+__Jaquelin Yang, ESL Instructor Grossmont College__
+
+Links on this section's web page:
+- Slides (Google Slides): https://docs.google.com/presentation/d/146F94XdOh1dd5flQzuys8w49sA93BusdFwhyFLvk5IM/edit?usp=sharing
+- Useful email phrases: https://www.usingenglish.com/articles/100-most-useful-emailing-phrases.html
+- Grammar and phrases for emails: https://www.usingenglish.com/files/pdf/emailing-phrases-tenses-and-verb-forms-review.pdf
+- More instructions for business emails: https://learnenglish.britishcouncil.org/en/english-emails
+
+=== 1.2: Traditional Paragraph Structure and Email Etiquette ===
+From "People and Places - An Intermediate Integrated-Skills Module for English Learners" by Sara Ferguson, Grossmont College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA 4.0; authored, remixed or curated by Sara Ferguson. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/People_and_Places_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.02%3A_Section_2-
+
+**Read the composition about email etiquette. Examine the structure of the composition to learn about traditional paragraph structure**
+## Email Etiquette
+Email is used in almost all aspects of life – we use email at school, at work, and in our personal lives. The way we write emails is essential to being an effective communicator. The way we write an email could be the difference between getting a job interview and not getting the interview. It could be the difference between having our professor help us with our homework or ignoring us and not helping. Have you ever opened an email and thought that the writer was rude or unprofessional? Maybe you decided not to answer this person, or your reply was not very helpful or kind. That person may have thought that they had sent a polite email asking a simple question, but you did not interpret it that way. Unfortunately, this is common, and it can lead to many misunderstandings. Therefore, we must be careful to write emails that are professional, polite, and clear.
+How then can we write professional and clear emails? There are a few tips you can follow. First, the subject line of the email should state the reason for the email. For example, “Question About Homework” is clear and concise. This is better than saying “Help!” which is not clear. This sounds like an emergency, even though it is not. Second, do not use all capital letters. Capital letters, like “WHEN IS THE PAPER DUE?” make the reader think you are shouting, or yelling at them. This is very impolite and may make the reader upset. Instead, use correct punctuation. Check to make sure you have capitalized the first letter of a sentence and all proper nouns. This shows the reader that you took the time to proofread your email. Third, be very clear about why you are writing. Do not write too much; people receive hundreds of emails a day, so they do not have time to read an essay! Be clear and concise. Finally, always say “thank you” at the end. Sometimes, we are angry and do not want to say “thank you,” but showing this politeness will help you later. If you are polite and thankful, the reader is more likely to respond and to help you. Emails are an important part of communication; make sure you use them correctly so that they benefit you.
+## Traditional Paragraph Structure
+The composition “Email Etiquette” follows the traditional paragraph structure for both paragraphs. What are the parts of a traditional paragraph? Complete these activities to identify the parts of a traditional paragraph.
+- With your instructor, underline and label the parts of the traditional paragraph in the first paragraph
+- title
+- topic sentence
+- concluding sentence
+- What is the topic of the composition? How do you know?
+- What is the ​purpose ​of the first paragraph? (circle one answer)
+- to show how to write an effective email
+- to define email etiquette
+- to explain why email etiquette is important
+- to give more information about emails
+- Read the second paragraph. What is the ​purpose​ of the second paragraph? You may choose from the list in the third question
+- What signal words does the author use to introduce four tips? How many sentences does the author write for each tip?
+- Write notes about the four tips. Your notes should be keywords only, not sentences
+### Attribution
+"Email Etiquette" Tina-Marie Parker, Grossmont College, adapted by Sara Ferguson
+
+=== 1.3: Assignment: Writing a Formal Email ===
+From "People and Places - An Intermediate Integrated-Skills Module for English Learners" by Sara Ferguson, Grossmont College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA 4.0; authored, remixed or curated by Sara Ferguson. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/People_and_Places_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.03%3A_Section_3-
+
+## Self-Introduction and Email Assignment
+For this assignment, you will send an email to your professor. Use the tips in 1.1 Writing a Formal Email and 1.2 Paragraph Structure and Email Etiquette. The purpose of this email is to introduce yourself by email.
+## Email Guidelines
+The email should follow the email guidelines in 1.1 Writing a Formal Email and 1.2 Paragraph Structure and Email Etiquette.
+- Send your email to your professor at _____________________.
+- The subject line should state what the email will be about. It should be short and specific.
+- Address the reader by his or her title, unless the reader asks you not to.
+- Organization:
+- Identify yourself. Write your full name and state which class you are in.
+- Give a pleasantry, or short greeting. This makes the tone friendly and polite.
+- State the reason for writing. Give some background information if necessary.
+- Thank the reader and include a short sign-off.
+## Self-Introduction Guidelines
+- The self-introduction should be attached.
+- Write 1 or 2 paragraphs
+- Complete the self- introduction on a Word doc or compatible.
+- Give specific information that is relevant to your audience (your professor)
+- Languages you speak, purpose for attending college, English language goals, hobbies or interests, and any other information that you think your professor should know
+## Other Notes about Emails
+- If you include an attachment, tell the reader that a file is attached
+- If you have many questions, make a list. This will help the reader see all of the questions so that he or she will respond to them all.
+- Use white space in between sections of your email. This makes it easier to read.
+- Keep emails short and specific.
+## How to Attach a Document
+- Write your self-introduction on Word or compatible.
+- Save the document with your self-introduction.
+- When you open a new email, click the "Attachment" button. Sometimes, it looks like a paperclip.
+- Find the saved document. Click "Open." This will attach it to your email.
+## Grading Rubric: How Will Your Assignment Be Graded?
+| **Criteria** | Description | Points |
+| **Subject line** | The subject line is short. It tells the reader the main idea of the email. | 1 |
+| **Greeting and pleasantry** | The email contains an appropriate address to the reader and one or two sentences of well-wishes. | 2 |
+| **Identity and purpose** | The email states the identity of the writer, including class and full name, and the purpose of the email, including attachment of introduction. | 4 |
+| **Closing** | The email has an appropriate closing and signature line. | 1 |
+| **Self-introduction** | The self-introduction uses paragraph format and has one or two paragraphs. It introduces the writer with details that are meaningful for the audience (your professor) such as country of origin, first language, family, goals, past experiences with school, interest and hobbies . It is typed in doc or docx format and attached to the email. The introduction has been edited for grammar and mechanics (spelling). | 12 |
+| **Total points** | 20 |

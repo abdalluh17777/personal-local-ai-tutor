@@ -1,0 +1,71 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+6.7: Non-Experimental Research (Summary)
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/06%3A_Non-Experimental_Research/6.07%3A_Non-Experimental_Research_(Summary)
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform
+
+## Key Takeaways
+- Non-experimental research is research that lacks the manipulation of an independent variable.
+- There are two broad types of non-experimental research. Correlational research that focuses on statistical relationships between variables that are measured but not manipulated; and observational research in which participants are observed and their behavior is recorded without the researcher interfering or manipulating any variables.
+- In general, experimental research is high in internal validity, correlational research is low in internal validity, and quasi-experimental research is in between.
+- Correlational research involves measuring two variables and assessing the relationship between them, with no manipulation of an independent variable.
+- Correlation does not imply causation. A statistical relationship between two variables, *X* and *Y*, does not necessarily mean that *X* causes *Y*. It is also possible that *Y* causes *X*, or that a third variable, *Z*, causes both *X* and *Y*.
+- While correlational research cannot be used to establish causal relationships between variables, correlational research does allow researchers to achieve many other important objectives (establishing reliability and validity, providing converging evidence, describing relationships, and making predictions)
+- Correlation coefficients can range from -1 to +1. The sign indicates the direction of the relationship between the variables and the numerical value indicates the strength of the relationship.
+- Researchers often use complex correlational research to explore relationships among several variables in the same study.
+- Complex correlational research can be used to explore possible causal relationships among variables using techniques such as partial correlation and multiple regression. Such designs can show patterns of relationships that are consistent with some causal interpretations and inconsistent with others, but they cannot unambiguously establish that one variable causes another.
+- Qualitative research is an important alternative to quantitative research in psychology. It generally involves asking broader research questions, collecting more detailed data (e.g., interviews), and using non-statistical analyses.
+- Many researchers conceptualize quantitative and qualitative research as complementary and advocate combining them. For example, qualitative research can be used to generate hypotheses and quantitative research to test them.
+- There are several different approaches to observational research including naturalistic observation, participant observation, structured observation, case studies, and archival research.
+- Naturalistic observation is used to observe people in their natural setting; participant observation involves becoming an active member of the group being observed; structured observation involves coding a small number of behaviors in a quantitative manner; case studies are typically used to collect in-depth information on a single individual; and archival research involves analyzing existing data.
+## References
+Abrams, L. S., & Curran, L. (2009). “And you’re telling me not to stress?” A grounded theory study of postpartum depression symptoms among low-income mothers. *Psychology of Women Quarterly, 33*, 351–362.
+Bryman, A. (2012). *Social Research Methods* (4th ed.). Oxford: Oxford University Press.
+Bushman, B. J., & Huesmann, L. R. (2001). Effects of televised violence on aggression. In D. Singer & J. Singer (Eds.), *Handbook of children and the media*(pp. 223–254). Thousand Oaks, CA: Sage.
+Cacioppo, J. T., & Petty, R. E. (1982). The need for cognition. *Journal of Personality and Social Psychology, 42*, 116–131.
+Cohen, D., Nisbett, R. E., Bowdle, B. F., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An “experimental ethnography.” *Journal of Personality and Social Psychology, 70*(5), 945-960.
+Diener, E. (2000). Subjective well-being: The science of happiness, and a proposal for a national index. *American Psychologist, 55*, 34–43.
+Festinger, L., Riecken, H., & Schachter, S. (1956). *When prophecy fails: A social and psychological study of a modern group that predicted the destruction of the world*. University of Minnesota Press.
+Freud, S. (1961). *Five lectures on psycho-analysis*. New York, NY: Norton.
+Geertz, C. (1973). *The interpretation of cultures*. New York, NY: Basic Books.
+Glaser, B. G., & Strauss, A. L. (1967). *The discovery of grounded theory: Strategies for qualitative research*. Chicago, IL: Aldine.
+Jouriles, E. N., Garrido, E., Rosenfield, D., & McDonald, R. (2009). Experiences of psychological and physical aggression in adolescent romantic relationships: Links to psychological distress. *Child Abuse & Neglect, 33*(7), 451–460.
+Kraut, R. E., & Johnston, R. E. (1979). Social and emotional messages of smiling: An ethological approach. *Journal of Personality and Social Psychology, 37*, 1539–1553.
+Levine, R. V., & Norenzayan, A. (1999). The pace of life in 31 countries. *Journal of Cross-Cultural Psychology, 30*, 178–205.
+Lindqvist, P., Johansson, L., & Karlsson, U. (2008). In the aftermath of teenage suicide: A qualitative study of the psychosocial consequences for the surviving family members. *BMC Psychiatry, 8*:26. Retrieved from __http://www.biomedcentral.com/1471-244X/8/26__
+Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. *Psychiatric Annals, 25*, 720–725.
+Messerli, F. H. (2012). Chocolate consumption, cognitive function, and Nobel laureates. *New England Journal of Medicine, 367*, 1562-1564.
+Milgram, S. (1963). Behavioral study of obedience. *Journal of Abnormal and Social Psychology, 67*, 371–378.
+Milgram, S. (1974). *Obedience to authority: An experimental view*. New York, NY: Harper & Row.
+Pelham, B. W., Carvallo, M., & Jones, J. T. (2005). Implicit egotism. *Current Directions in Psychological Science, 14*, 106–110.
+Peterson, C., Seligman, M. E. P., & Vaillant, G. E. (1988). Pessimistic explanatory style is a risk factor for physical illness: A thirty-five year longitudinal study. *Journal of Personality and Social Psychology, 55*, 23–27.
+Plomin, R., DeFries, J. C., McClearn, G. E., & McGuffin, P. (2008). *Behavioral genetics* (5th ed.). New York, NY: Worth.
+Radcliffe, N. M., & Klein, W. M. P. (2002). Dispositional, unrealistic, and comparative optimism: Differential relations with knowledge and processing of risk information and beliefs about personal risk. *Personality and Social Psychology Bulletin, 28*, 836–846.
+Rentfrow, P. J., & Gosling, S. D. (2008). The do re mi’s of everyday life: The structure and personality correlates of music preferences. *Journal of Personality and Social Psychology, 84*, 1236–1256.
+Rosenhan, D. L. (1973). On being sane in insane places. *Science, 179*, 250–258.
+Todd, Z., Nerlich, B., McKeown, S., & Clarke, D. D. (2004) *Mixing methods in psychology: The integration of qualitative and quantitative methods in theory and practice*. London, UK: Psychology Press.
+Trenor, J.M., Yu, S.L., Waight, C.L., Zerda. K.S & Sha T.-L. (2008). The relations of ethnicity to female engineering students’ educational experiences and college and career plans in an ethnically diverse learning environment. *Journal of Engineering Education, 97*(4), 449-465.
+Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions. *Journal of Experimental Psychology, 3*, 1–14.
+Wilkins, A. (2008). “Happier than Non-Christians”: Collective emotions and symbolic boundaries among evangelical Christians. *Social Psychology Quarterly, 71*, 281–301.
+### Exercises
+- Discussion: For each of the following studies, decide which type of research design it is and explain why.
+  - A researcher conducts detailed interviews with unmarried teenage fathers to learn about how they feel and what they think about their role as fathers and summarizes their feelings in a written narrative.
+  - A researcher measures the impulsivity of a large sample of drivers and looks at the statistical relationship between this variable and the number of traffic tickets the drivers have received.
+  - A researcher randomly assigns patients with low back pain either to a treatment involving hypnosis or to a treatment involving exercise. She then measures their level of low back pain after 3 months.
+- Discussion: For each of the following, decide whether it is most likely that the study described is experimental or non-experimental and explain why.
+  - A cognitive psychologist compares the ability of people to recall words that they were instructed to “read” with their ability to recall words that they were instructed to “imagine.”
+  - A manager studies the correlation between new employees’ college grade point averages and their first-year performance reports.
+  - An automotive engineer installs different stick shifts in a new car prototype, each time asking several people to rate how comfortable the stick shift feels.
+  - A food scientist studies the relationship between the temperature inside people’s refrigerators and the amount of bacteria on their food.
+  - A social psychologist tells some research participants that they need to hurry over to the next building to complete a study. She tells others that they can take their time. Then she observes whether they stop to help a research assistant who is pretending to be hurt.
+- Practice: For each of the following statistical relationships, decide whether the directionality problem is present and think of at least one plausible third variable.
+  - People who eat more lobster tend to live longer.
+  - People who exercise more tend to weigh less.
+  - College students who drink more alcohol tend to have poorer grades.
+- Practice: Construct a correlation matrix for a hypothetical study including the variables of depression, anxiety, self-esteem, and happiness. Include the Pearson’s *r* values that you would expect.
+- Discussion: Imagine a correlational study that looks at intelligence, the need for cognition, and high school students’ performance in a critical thinking course. A multiple regression analysis shows that intelligence is not related to performance in the class but that the need for cognition is. Explain what this study has shown in terms of what is related to good performance in the critical thinking course.
+- Discussion: What are some ways in which a qualitative study of girls who play youth baseball would likely differ from a quantitative study on the same topic? How would the data differ by interviewing girls one-on-one rather than conducting focus groups or surveys?
+- Practice: Find and read a published case study in psychology. (Use *case study* as a key term in a PsycINFO search.) Then do the following:
+  - Describe one problem related to internal validity.
+  - Describe one problem related to external validity.
+  - Generate one hypothesis suggested by the case study that might be interesting to test in a subsequent study.
+This page titled 6.7: Non-Experimental Research (Summary) was last modified on Fri, 11 Nov 2022 07:01:12 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform.

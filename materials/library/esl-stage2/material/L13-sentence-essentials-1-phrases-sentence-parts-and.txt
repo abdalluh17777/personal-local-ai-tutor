@@ -1,0 +1,184 @@
+Lesson 13 material: Sentence Essentials 1: Phrases, Sentence Parts and Simple Sentences
+English Stage 2 (B2) · Unit 2: Sentences and Paragraph Types · American History
+
+=== Unit 7 Sentence Essentials (part I-IV) ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-7sentence-essentials/
+
+# Unit 7 Sentence Essentials
+**Learning Objectives**
+1. To distinguish between a phrase and a sentence
+2. To identify the four basic parts of a sentence: subject, verbs, object, subject complement
+3. To understand the five basic sentence patterns
+4. To learn how to expand a basic sentence by adding adjectives, adverbs, phrases, and clauses
+5. To learn and practice three sentence structure types – simple, compound, and complex – with appropriate punctuation through multiple examples and exercises
+From this unit on, you will be focusing on editing / grammar skills to enable to you to express your ideas accurately and effectively in paragraphs and essays.
+# I. Pretest
+(Picture: frame at entrance of Early Childhood Lab School at Harper College)
+frame at entrance of Early Childhood Lab School at Harper College
+The following ten parts are about the Early Childhood Laboratory School at Harper College. Identify the structure by choosing one of the choices. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. the Early Childhood Laboratory School
+   Options: It is a phrase. | It is a sentence.
+   Answer: It is a phrase.
+Q: 2. at Harper College
+   Options: It is a phrase. | It is a sentence.
+   Answer: It is a phrase.
+Q: 3. provide fun learning to children
+   Options: It is a phrase. | It is a sentence.
+   Answer: It is a phrase.
+Q: 4. The Early Childhood Laboratory School at Harper College provides fun learning to children.
+   Options: It is a phrase. | It is a sentence.
+   Answer: It is a sentence.
+Q: 5. The children can attend full or half day programs.
+   Options: It is a compound sentence. | It is simple sentence.
+   Answer: It is simple sentence.
+Q: 6. There are different interest centers, and the children can choose their activities.
+   Options: It is a compound sentence. | It is a simple sentence.
+   Answer: It is a compound sentence.
+Q: 7. The activities include areas in language, math, science, social studies, physical and emotional development.
+   Options: It is a compound sentence. | It is a simple sentence.
+   Answer: It is a simple sentence.
+Q: 8. It has a good learning environment, so the children and parents love it.
+   Options: It is a compound sentence. | It is a simple sentence.
+   Answer: It is a compound sentence.
+Q: 9. If the parents want to, they can observe their children through a one-way mirror.
+   Options: It is a complex sentence. | It is a compound sentence.
+   Answer: It is a complex sentence.
+Q: 10. This school has received awards from the state government; therefore, it has an excellent reputation.
+   Options: It is a complex sentence. | It is a compound sentence.
+   Answer: It is a compound sentence.
+*Adapted from https://www.harpercollege.edu/labschool/index.php. Last retrieved on August 1, 2021.*
+# II. Differences Between a Phrase and a Sentence
+**A phrase** is two or more words used together to represent part of an idea but not a complete idea. There is not a “subject + verb” structure in the phrase. The following are examples of some common types of phrases:
+- Noun phrases: boys and girls, an excellent school, picture books…
+- Verb phrases: play together, read a story, learn shapes and colors…
+- Prepositional phrases: in the classroom, on the wall, from home to school…
+**A sentence** may contain different phrases. It has the following features:
+- It must have a “subject + verb” structure.
+- The first letter of the first word is always capitalized.
+- It must end with a period, a question mark, or an exclamation mark.
+- It must express a complete idea.
+Read the three sentences below. All of them show these features.
+1. The boys and girls play together in the Early Childhood Laboratory School.
+2. Are they learning shapes and colors in the classroom?
+3. What a beautiful painting it is on the wall!
+A sentence is usually longer than a phrase but not always. Do not judge by how long it is; instead, look for the “subject + verb” structure.
+- Phrase: after a long nap on a beautiful mat in the corner of the nap room (no “subject + verb” structure)
+- Sentence: He woke up. (“subject + verb” structure)
+*For explanations and examples with periods, question marks, exclamation marks, commas, semi colons, colons, apostrophes, and quotations marks, please refer to Appendix C Punctuation*. *(Open Appendix C here.)*
+**Exercise 1.** Identify whether the following are phrases or sentences. Type in the box “phrase” or “sentence”. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+(Picture: Building D at Harper College)
+Building D at Harper College
+[Interactive exercise]
+Task: Fill in the blanks with one of the following two words: phrase or sentence .
+   1. a community college ( phrase) 2. What a beautiful community college it is! [sentence] 3. degrees and certificates [phrase] 4. offer many programs [phrase] 5. help students [phrase] 6. The college offers many degrees and certificate programs to help students. [sentence] 7. The students love the college for its excellent resources. [sentence] 8. love the college [phrase] 9. for its excellent resources [phrase] 10. Are you enrolled in this college? [sentence] 11. Where is it? [sentence] 12. in a town called Palatine about thirty minutes of driving from downtown Chicago [phrase]
+# III. Basic Sentence Parts and Sentence Patterns
+**Four Basic Parts of a Sentence**
+1. Subject: It shows who/what does the action. It can also show who/what the sentence is about. It usually comes first in the sentence.
+- __The writing class__ is important.
+- __The students__ work hard in this class.
+2. Verb: It usually comes after the subject and shows the action or explains the ideas in a sentence.
+- The teacher __meets__ the students in Room D-144 every week.
+- The homework assignments __seem__ interesting.
+3. Object: It is usually the receiver of the action and is placed after the verb.
+- All the students have finished __homework__ on time.
+- They have received __good grades__.
+4. Subject complement: It usually follows a linking verb and shows what the subject is about. It can be a noun or an adjective.
+- This is __a writing class.__ (noun)
+- The students grow __confident in writing__. (adjective)
+*For more detailed explanations and examples of types of verbs, please refer to Unit 9 Verb Basics in Academic Writing.* (*Open Unit 9 here*.)
+**Five Basic Sentence Patterns**
+1. Subject + verb
+- The semester has started.
+- Professors teach in colleges.
+2. Subject + linking verb + subject complement (noun or adjective)
+- This is a writing class. (noun)
+- The weather turns cold as the semester goes on. (adjective)
+3. Subject + verb + direct object
+- We are taking a writing class.
+- I like my classmates.
+4. Subject + verb + indirect object + direct object
+- The professor gives the students homework assignments.
+- The students left the professor a note yesterday.
+5. There + a form of “be” verb
+- There are twenty students in this class.
+- There was a quiz last week.
+With these basic patterns, you can expand the sentences by adding descriptive information with adjectives, adverbs, phrases, clauses, etc. The underlined parts are added to make the above sentences more interesting.
+- This is an __interesting__ writing class.
+- __All the__ students work __really__ hard in this __important__ class __in order to improve their writing skills__.
+- The __weekly__ homework assignments seem __very__ interesting __because students write on different topics__.
+- The students __gradually__ grow __more__ confident in writing __as the semester goes on__.
+- There are twenty __young and energetic[1]__ students __from different countries__ in this writing class.
+**Exercise 2.** Here is more information about the Early Childhood Laboratory School at Harper College. Arrange the words and phrases into sentences. When you complete each sentence, you can click “Check” for feedback. You may retry or see the answer.
+Then try to expand the sentences by adding adjectives, adverbs, phrases, or clauses. Capitalize and punctuate where necessary. Underline the added parts. You can do this second part in your notebook. Compare your expanded sentences with your partner’s.
+***Example**:*
+*provides/to many families/a childcare option/The Early Childhood Laboratory School*
+*Sentence: The Early Childhood Laboratory School provides a childcare option to many families.*
+*Expand the sentence: The Early Childhood Laboratory School __at Harper College__ provides __an excellent__ child care option to many __busy__ families __in the community__.*
+[Interactive exercise]
+Task: .
+   1. [Studying] [and] [taking care of their children] [could be] [a challenge] [for many students].
+[Interactive exercise]
+Task: .
+   2. [There] [are] [different activities] [for children].
+[Interactive exercise]
+Task: .
+   3. [My friend] [Julio] [sends] [his daughter] [to this school] three days a week.
+[Interactive exercise]
+Task: .
+   4. [He] [drops her off] in the morning [and] [then] [goes to] [his own classes].
+[Interactive exercise]
+Task: .
+   5. [He] [often] [goes to the ECLS] [to check on Elma].
+[Interactive exercise]
+Task: .
+   6. [He] [sometimes] [stands] outside the playground [to see her play].
+[Interactive exercise]
+Task: .
+   7. [Sometimes] [he] [goes] inside the school [and] [observes] [her].
+[Interactive exercise]
+Task: .
+   8. [In the afternoon,] [Julio] [picks Elma up,] [and] [they] [are] [both happy].
+# IV. Sentence Structure #1: Simple Sentences
+**A simple sentence** has only one “subject + verb” group from the beginning of the sentence (with a capitalized letter) to the end (with a period, a question mark, or an exclamation mark).
+1. Students take classes.
+2. Learning is important.
+3. Maria and Sung have three classes.
+4. Maria and Sung study and work every day.
+5. They are taking classes and working part time.
+6. Ana goes to only one class.
+7. Ana does not have a job.
+8. Are Maria, Sung, and Anna busy?
+9. Ana is not busy.
+10. Maria and Sung have been working too hard!
+All the above sentences have only one “subject + verb” group, so they are all simple sentences.
+Read #3 and #8 again. You see a compound subject in each.
+**Compound subject**: two or more subjects share the same verb.
+3. __Maria and Sung__ have three classes.
+8. Are __Maria, Sung, and Anna__ busy?
+Read #5 again. You see a compound verb in it.
+**Compound verb**: the same subject performs two or more actions.
+5. They __are taking__ classes and __working__ part time.
+Read #4 again. You see a compound subject and a compound verb in each. Here, multiple subjects perform the same multiple actions.
+4. __Maria and Sung study and work__ every day.
+(Picture: a single person smiling and holding a skateboard)
+a single person smiling and holding a skateboard
+The above sentences are all simple sentences, with one subject-verb group in each.
+Each sentence is also called **an independent clause** because it explains a complete, independent idea.
+You can understand a simple sentence as an unmarried adult like the single person in the image on the right. He lives an independent life.
+**Exercise 3.** Read the following paragraph about Harper College. Separate each complete, simple sentence with a capital letter in the beginning and a period in the end. Identify the subject and the verb in each sentence. Capitalize the first letter after a period. The first one is an example. (Commas have already been added.)
+(Picture: William Rainey Harper statue on Harper Campus)
+William Rainey Harper statue on Harper Campus
+***Example***:
+*in September 1967, Harper College formally opened in Palatine, Illinois*
+*With corrections: In September 1967, __Harper College__ formally __opened__ in Palatine, Illinois.*
+*Subject: Harper College*
+*Verb: opened*
+Some Information about Harper College
+in September 1967, Harper College formally opened in Palatine, Illinois it uses the name William Rainey Harper to honor the pioneer in the community college movement in the United States Dr. William Rainey Harper was the first president of the University of Chicago Harper College is now one of the nation’s premier[2] and largest community colleges every year, it serves more than 35,000 students in Chicago’s northwest suburbs its academic programs have been preparing students for their future study and their careers students can choose to become full time or part time students Harper offers scholarships and financial aids to help students financially. Students should check the college website or call 947-925-6000 for information a registration specialist will provide step-by-step guidance.
+*Adapted from https://www.harpercollege.edu/about/index.php. Last accessed on August 1, 2021.*
+
+Links on this section's web page:
+- Web page (harpercollege.edu): https://www.harpercollege.edu/labschool/index.php
+- Web page (harpercollege.edu): https://www.harpercollege.edu/about/index.php
+- Web page (harpercollege.edu): https://www.harpercollege.edu/fasttrack/index.php

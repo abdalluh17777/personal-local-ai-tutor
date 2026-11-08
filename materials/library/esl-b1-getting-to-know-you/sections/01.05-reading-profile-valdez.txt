@@ -1,0 +1,78 @@
+Getting to Know You - An Intermediate Integrated-Skills Module for English Learners (Ferguson)
+1.5: Reading: Profile Valdez
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.06%3A_Section_6-
+License: CC BY-NC-SA; authored, remixed or curated by Sara Ferguson
+
+## Pre-reading Activity
+Write about or discuss the questions below.
+- What do you know about NASA? What do NASA employees do?
+- Skim the photos and captions in the reading below for 30 seconds. Who is the article about?
+- What can you say about him?
+## Guided Reading Activity
+When you are faced with a particularly challenging reading assignment, sometimes it helps to pause to ask and answer questions after each section or paragraph. In this activity, practice using questioning as a strategy to understand difficult text. Pause and answer the questions after each paragraph.
+## Felipe Valdez: Life at a Crossroads
+[Image: Felipe Valdez sits in the cockpit of an aircraft]
+Figure : NASA's Armstrong Flight Research Center is home to many NASA airplanes. Here, Felipe Valdez sits inside the cockpit of a large aircraft
+Many students move away from home when they start college. While some move to a new city or state, NASA intern Felipe Valdez moved to a new country. In 2007, Felipe made the difficult decision to leave his home in Mexico and move to the United States to pursue his education and career. At the time, his life was at a crossroads. He could stay in Mexico, leave school, and find a full-time job, or he could move to the U.S. and have the opportunity to continue his education.
+- Where is Felipe Valdez from?
+- Why did he decide to move?
+After moving to California, Felipe started his sophomore year at River Valley High School in Yuba City, about an hour outside Sacramento. Despite the challenge of integrating into a new culture and learning a new language, Felipe excelled in all his courses and graduated with an excellent GPA.
+- Where did Felipe go to high school?
+- Was he successful? Identify the clause that gives you the answer to this question
+After high school, Felipe began to work on his bachelor's degree. He first attended Yuba Community College where, in addition to earning his associate degree and graduating with honors, he received the Extended Opportunity Programs & Services Student Role model and the Mathematics, Engineering, and Science Achievement Student of the Year awards. He then went on to study at California State University, Sacramento, where he became heavily involved on campus and received several scholarships. During his time at Sacramento State, Felipe was invited to join the Engineering Honor Society, Tau Beta Pi. He also became a member of the Society of Hispanic Professional Engineers, the MESA Engineering Program, and the Leader Initiative Program.
+- Where did Felipe start college?
+- Where did Felipe finish college?
+- What awards has Felipe won? What subjects is he good at?
+After completing his undergraduate degree with honors, Felipe enrolled as a mechanical engineering graduate student at California State University, Sacramento. Here he has had the opportunity to work alongside one of his professors and NASA fellow Dr. Jose Granda on NASA research projects. Granda uses Space Grant funding to fuel NASA student research at the university.
+- Where is Felipe studying now?
+- Who is mentoring him?
+His project with Granda involved designing a control system for the NASA Morpheus space vehicle, a prototype planetary vehicle capable of vertical takeoff and landing. His first goal was to design a control system that allows for the adjustment of the thrust force while maintaining the vehicle's orientation and position only in the vertical direction.
+- What is the name of the space vehicle Felipe is working on?
+- This paragraph is challenging. Identify the words that you understand and discuss with your classmates. Can you get a general idea about his project?
+While completing his internship at NASA's Armstrong Flight Research Center the following semester, Felipe and two other Sacramento State students worked on the next goal, which is the design of a more advanced control system on Morpheus, the very same vehicle he had worked on during his undergraduate research. He aimed to create a system that would allow the vehicle to perform complex maneuvers autonomously.
+[Image: Felipe Valdez poses in front of NASA’s Space Exploration Vehicle]
+Figure : Felipe Valdez explored the Mars rock yard at NASA's Armstrong Flight Research Center. Here he poses in front of the Space Exploration Vehicle
+- The photo shows a picture of the space vehicle Felipe is working on. What is he trying to improve on the vehicle?
+"Felipe is the type of intern most mentors desire," said his NASA mentor, Oscar Murillo. "He is eager to engage in the research, asking questions to figure out the next step, and willing to learn new skills to accomplish the tasks."
+Because of his guidance toward a NASA internship, Felipe would like to thank Dr. Granda for inspiring him to pursue an education in STEM. "He motivated, pushed, and helped me," says Felipe. "Thanks to him, I got interested in aerospace engineering and the pursuit of higher education."
+- The final two paragraphs have quotation marks. Who is speaking in each paragraph?
+## Comprehension and Rhetorical Analysis
+Answer the questions below.
+- This profile is most likely found:
+  - In a national newspaper
+  - On the NASA website about interns
+  - On the National Parks website about volunteers
+  - On the Facebook dating website
+- The purpose of this profile is:
+  - To convince the reader to donate money to NASA
+  - To convince the reader that their taxes are well spent at NASA
+  - To inform the reader about different programs at NASA
+  - To inform the reader about different colleges in California
+- Discuss with your classmates. What other purposes could this profile fulfill?
+- What information is not included in this profile?
+  - Felipe's educational accomplishments
+  - Felipe's immigration history
+  - Felipe's projects at NASA
+  - Quotes that praise Felipe and his mentor
+  - Information about Felipe's family
+## Identifying Past Tense Verbs
+Read the following passage again. Identify all of the verbs. Most verbs are in the simple past tense. Why? A few are not in the simple past tense. Why not? Discuss with your instructor and classmates.
+## Passage One
+Many students move away from home when they start college. While some move to a new city or state, NASA intern Felipe Valdez moved to a new country. In 2007, Felipe made the difficult decision to leave his home in Mexico and move to the United States to pursue his education and career. At the time, his life was at a crossroads. He could stay in Mexico, leave school, and find a full-time job, or he could move to the U.S. and have the opportunity to continue his education.
+After moving to California, Felipe started his sophomore year at River Valley High School in Yuba City, about an hour outside Sacramento. Despite the challenge of integrating into a new culture and learning a new language, Felipe excelled in all his courses and graduated with an excellent GPA.
+After high school, Felipe began to work on his bachelor’s degree. He first attended Yuba Community College where, in addition to earning his associate degree and graduating with honors, he received the Extended Opportunity Programs & Services Student Role Model and the Mathematics, Engineering, and Science Achievement Student of the Year awards. He then went on to study at California State University, Sacramento, where he became heavily involved on campus and received several scholarships. During his time at Sacramento State, Felipe was invited to join the Engineering Honor Society, Tau Beta Pi. He also became a member of the Society of Hispanic Professional Engineers, the MESA Engineering Program, and the Leader Initiative Program.
+## Identifying Signals for Cohesion and Coherence
+Examine Passage One again. This passage has many words, phrases, and clauses that help with the cohesion and coherence of the passage. Identify the words and phrases that help you understand __**when**__ each event happened.
+Cohesion and coherence are the connection of ideas at the sentence and text level. Below is the passage without signals to help with cohesion and coherence.
+## Passage Two
+Many students move away from home when they start college. Some move to a new city or state. NASA intern Felipe Valdez moved to a new country. Felipe made the difficult decision to leave his home in Mexico. He moved to the United States. Felipe pursued his education and career. Felipe’s life was at a crossroads. Felipe could stay in Mexico. Felipe could leave school. Felipe could find a full-time job. Felipe could move to the U.S. Felipe could have the opportunity to continue his education.
+Felipe moved to California. Felipe started his sophomore year at River Valley High School in Yuba City. Yuba City is an hour outside Sacramento. Felipe excelled in all his courses and graduated with an excellent GPA.
+Felipe began to work on his bachelor’s degree. Felipe attended Yuba Community College. Felipe received the Extended Opportunity Programs & Services Student Role Model and the Mathematics, Engineering, and Science Achievement Student of the Year awards. Felipe studied at California State University, Sacramento. Felipe became heavily involved on campus. Felipe received several scholarships. At Sacramento State, Felipe was invited to join the Engineering Honor Society, Tau Beta Pi. Felipe became a member of the Society of Hispanic Professional Engineers, the MESA Engineering Program, and the Leader Initiative Program.
+## Practice with Signal Words for Cohesion and Coherence
+With your instructor, discuss the difference in tone, style, and meaning between Passage One and Passage Two. Which passage is easier to understand? Which passage is more interesting to read? Which passage has more repetition? What's missing from the second passage?
+Now fill in the missing words in Passage Two, using the information from Passage One.
+## Passage Two--Revised
+Many students move away from home when they start college. ___________ some move to a new city or state, NASA intern Felipe Valdez moved to a new country. _______________, Felipe made the difficult decision to leave his home in Mexico _______move to the United States to pursue his education and career.____________, his life was at a crossroads. He could stay in Mexico, leave school and find a full-time job, ________ he could move to the U.S. and have the opportunity to continue his education.
+_______________to California, Felipe started his sophomore year at River Valley High School in Yuba City, ____________hour outside Sacramento. _________________________ ______________________, Felipe excelled in all his courses and graduated with an excellent GPA.
+______________, Felipe began to work on his bachelor’s degree. He ________irst attended Yuba Community College ___________________________________________________ ___________________________he received the Extended Opportunity Programs & Services Student Role Model and the Mathematics, Engineering, and Science Achievement Student of the Year awards. He _________ went on to study at California State University, Sacramento, ________________ became heavily involved on campus and received several scholarships. _________________________________, Felipe was invited to join the Engineering Honor Society, Tau Beta Pi. He __________ became a member of the Society of Hispanic Professional Engineers, the MESA Engineering Program, and the Leader Initiative Program.
+This page titled 1.5: Reading: Profile Valdez was last modified on Thu, 10 Sep 2020 23:30:31 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Sara Ferguson.

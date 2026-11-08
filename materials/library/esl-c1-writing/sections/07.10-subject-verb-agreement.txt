@@ -1,0 +1,180 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.10: Subject-Verb Agreement
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.10%3A_Subject-Verb_Agreement
+License: CC BY-NC-SA; authored, remixed or curated by LibreTexts
+
+Learning Objectives
+1. Define subject-verb agreement.
+2. Identify common errors in subject-verb agreement.
+Subject-verb agreement is one of the most common errors that people make. Having a solid understanding of this concept is critical when making a good impression, and it will help ensure that your ideas are communicated clearly.
+## Agreement
+Agreement in speech and in writing refers to the proper grammatical match between words and phrases. Parts of sentences must agree, or correspond with other parts, in number, person, case, and gender.
+- **Number**. All parts must match in singular or plural forms.
+- **Person**. All parts must match in first person (I), second person (you), or third person (he, she, it, they) forms.
+- **Case**. All parts must match in subjective (I, you, he, she, it, they, we), objective (me, her, him, them, us), or possessive (my, mine, your, yours, his, her, hers, their, theirs, our, ours) forms.
+- **Gender**. All parts must match in male or female forms.
+Subject-verb agreement describes the proper match between subjects and verbs.
+Because subjects and verbs are either singular or plural, the subject of a sentence and the verb of a sentence must agree with each other in number. That is, a singular subject belongs with a singular verb form, and a plural subject belongs with a plural verb form.
+[Image: 7.10.1.png]
+Figure 
+## Regular Verbs and Agreement
+Regular verbs follow a predictable pattern. For example, in the third person singular, regular verbs always end in -s. Other forms of regular verbs do not end in -s. Study the following regular verb forms in the present tense.
+| **Singular Form** | **Plural Form** |
+| **First Person** | I live. | We live. |
+| **Second Person** | You live. | You live. |
+| **Third Person** | He/She/It lives. | They live. |
+Add an -es to the third person singular form of regular verbs that end in -sh, -x, -ch, and -s. (I wish/He wishes, I fix/She fixes, I watch/It watches, I kiss/He kisses.)
+[Image: 7.10.2.png]
+Figure 
+In these sentences, the verb form stays the same for the first person singular and the first person plural.
+[Image: 7.10.3.png]
+Figure 
+In these sentences, the verb form stays the same for the second person singular and the second person plural. In the singular form, the pronoun you refers to one person. In the plural form, the pronoun you refers to a group of people, such as a team.
+[Image: 7.10.4.png]
+Figure 
+In this sentence, the subject is mother. Because the sentence only refers to one mother, the subject is singular. If you replaced the word “mother” with a pronoun, it would be “she” which would take the third person singular form. Therefore, the verb in this sentence must be in the third person singular form.
+[Image: 7.10.5.png]
+Figure 
+In this sentence, the subject is friends. Because this subject refers to more than one person, the subject is plural. The verb in this sentence must be in the third person plural form.
+Many singular subjects can be made plural by adding an -s. Most regular verbs in the present tense end with an -s in the third person singular. This does not make the verbs plural.
+[Image: 7.10.6.png]
+Figure 
+Exercise :
+On your own sheet of paper, write the correct verb form for each of the following sentences.
+1. I (brush/brushes) my teeth twice a day.
+2. You (wear/wears) the same shoes every time we go out.
+3. He (kick/kicks) the soccer ball into the goal.
+4. Juana (watch/watches) foreign films.
+5. Karina (hide/hides) behind the door.
+6. We (want/wants) to have dinner with you.
+7. You (work/works) together to finish the project.
+8. They (need/needs) to score another point to win the game.
+9. It (eat/eats) four times a day.
+10. David (fix/fixes) his own motorcycle.
+## Verbs: Be, Have, and Do
+Not all verbs follow a predictable pattern. These verbs are called irregular verbs. Some of the most common irregular verbs are be, have, and do. Learn the forms of these verbs in the present tense to avoid errors in subject-verb agreement.
+## Be
+Study the different forms of the verb to be in the present tense.
+| **Singular Form** | **Plural Form** |
+| **First Person** | I am. | We are. |
+| **Second Person** | You are. | You are. |
+| **Third Person** | He/She/It is. | They are. |
+## Have
+Study the different forms of the verb to have in the present tense.
+| **Singular Form** | **Plural Form** |
+| **First Person** | I have. | We have. |
+| **Second Person** | You have. | You have. |
+| **Third Person** | He/She/It has. | They have. |
+## Do
+Study the different forms of the verb to do in the present tense.
+| **Singular Form** | **Plural Form** |
+| **First Person** | I do. | We do. |
+| **Second Person** | You do. | You do. |
+| **Third person** | He/She/It does. | They do. |
+Exercise :
+Complete the following sentences by writing the correct present tense form of be, have, or do. Use your own sheet of paper to complete this exercise.
+1. I ________ sure that you will succeed.
+2. They ________ front-row tickets to the show.
+3. She ________ a great Shakira impersonation.
+4. We ________ so excited to meet you in person!
+5. She ________ a fever and a sore throat.
+6. You ________ not know what you are talking about.
+7. You ________ all going to pass this class.
+8. He ________ not going to like that.
+9. It ________ appear to be the right size.
+10. They ________ ready to take this job seriously.
+## Errors in Subject-Verb Agreement
+Errors in subject-verb agreement may occur when
+- a sentence contains a compound subject;
+- the subject of the sentence is separate from the verb;
+- the subject of the sentence is an indefinite pronoun, such as anyone or everyone;
+- the subject of the sentence is a collective noun, such as team or organization;
+- the subject appears after the verb.
+Recognizing the sources of common errors in subject-verb agreement will help you avoid these errors in your writing. This section covers the subject-verb agreement errors in more detail.
+## Compound Subjects
+A compound subject is formed by two or more nouns and the coordinating conjunctions and, or, or nor. A compound subject can be made of singular subjects, plural subjects, or a combination of singular and plural subjects.
+Compound subjects combined with and take a plural verb form.
+[Image: 7.10.7.png]
+Figure 
+Compound subjects combined with or and nor are treated separately. The verb must agree with the subject that is nearest to the verb.
+[Image: 7.10.8.png]
+Figure 
+[Image: 7.10.9.png]
+Figure 
+Tip
+If you can substitute the word they for the compound subject, then the sentence takes the third person plural verb form.
+## Separation of Subjects and Verbs
+As you read or write, you may come across a sentence that contains a phrase or clause that separates the subject from the verb. Often, prepositional phrases or dependent clauses add more information to the sentence and appear between the subject and the verb. However, the subject and the verb must still agree.
+Tip
+If you have trouble finding the subject and verb, cross out or ignore the phrases and clauses that begin with prepositions or dependent words. The subject of a sentence will never be in a prepositional phrase or dependent clause.
+The following is an example of a subject and verb separated by a prepositional phrase:
+[Image: 7.10.10.png]
+Figure 
+The following is an example of a subject and verb separated by a dependent clause:
+[Image: 7.10.11.png]
+Figure 
+## Indefinite Pronouns
+Indefinite pronouns refer to an unspecified person, thing, or number. When an indefinite pronoun serves as the subject of a sentence, you will often use a singular verb form.
+To determine whether to use a singular or plural verb with an indefinite pronoun, consider the noun that the pronoun would refer to. If the noun is plural, then use a plural verb with the indefinite pronoun. View the chart to see a list of common indefinite pronouns and the verb forms they agree with.
+| **Indefinite Pronouns That Always Take a Singular Verb** | **Indefinite Pronouns That Can Take a Singular or Plural Verb** |
+| anybody, anyone, anything | All |
+| Each | Any |
+| everybody, everyone, everything | None |
+| Much | Some |
+| Many |
+| nobody, no one, nothing |
+| somebody, someone, something |
+[Image: 7.10.12.png]
+Figure 
+The indefinite pronoun everybody takes a singular verb form because everybody refers to a group performing the same action as a single unit.
+[Image: 7.10.13.png]
+Figure 
+The indefinite pronoun all takes a plural verb form because all refers to the plural noun people. Because people is plural, all is plural.
+[Image: 7.10.14.png]
+Figure 
+In this sentence, the indefinite pronoun all takes a singular verb form because all refers to the singular noun cake. Because cake is singular, all is singular.
+## Collective Nouns
+A collective noun is a noun that identifies more than one person, place, or thing and considers those people, places, or things one singular unit. Because collective nouns are counted as one, they are singular and require a singular verb. Some commonly used collective nouns are group, team, army, flock, family, and class.
+[Image: 7.10.15.png]
+Figure 
+In this sentence, class is a collective noun. Although the class consists of many students, the class is treated as a singular unit and requires a singular verb form.
+## The Subject Follows the Verb
+You may encounter sentences in which the subject comes after the verb instead of before the verb. In other words, the subject of the sentence may not appear where you expect it to appear. To ensure proper subject-verb agreement, you must correctly identify the subject and the verb.
+## Here or There
+In sentences that begin with here or there, the subject follows the verb.
+[Image: 7.10.16.png]
+Figure 
+If you have trouble identifying the subject and the verb in sentences that start with here or there; it may help to reverse the order of the sentence so the subject comes first.
+[Image: 7.10.17.png]
+Figure 
+## Questions
+When you ask questions, a question word (who, what, where, when, why, or how) appears first. The verb and then the subject follow.
+Whom are the people you are related to?
+When am I going to go to the grocery store?
+Tip
+If you have trouble finding the subject and the verb in questions, try answering the question being asked.
+[Image: 7.10.18.png]
+Figure 
+Exercise :
+Correct the errors in subject-verb agreement in the following sentences. If there are no errors in subject-verb agreement, write OK. Copy the corrected sentence or the word OK on your own sheet of notebook paper. 1. My dog and cats chases each other all the time. 2. The books that are in my library is the best I have ever read. 3. Everyone are going to the concert except me. 4. My family are moving to California. 5. Here is the lake I told you about. 6. These is the newspapers I was supposed to deliver. 7. Which room is bigger? 8. When are the movie going to start?9.My sister and brother cleans up after themselves. 10. Some of the clothes is packed away in the attic.
+Exercise :
+Correct the errors in subject-verb agreement in the following paragraph. Copy the paragraph on a piece of notebook paper and make corrections.
+Dear Hiring Manager,
+I feels that I am the ideal candidate for the receptionist position at your company. I has three years of experience as a receptionist in a company that is similar to yours. My phone skills and written communication is excellent. These skills, and others that I have learned on the job, helps me understand that every person in a company helps make the business a success. At my current job, the team always say that I am very helpful. Everyone appreciate when I go the extra mile to get the job done right. My current employer and coworkers feels that I am an asset to the team. I is efficient and organized. Is there any other details about me that you would like to know? If so, please contact me. Here are my résumé. You can reach me by e-mail or phone. I looks forward to speaking with you in person.
+Thanks,
+Vy Nguyen
+Writing at Work
+[Image: 7.10.19.png]
+Figure :Advertisement
+Imagine that you are a prospective client and that you saw this ad online. Would you call Terra Services to handle your next project? Probably not! Mistakes in subject-verb agreement can cost a company business. Paying careful attention to grammatical details ensures professionalism that clients will recognize and respect.
+Key Takeaways
+- Parts of sentences must agree in number, person, case, and gender.
+- A verb must always agree with its subject in number. A singular subject requires a singular verb; a plural subject requires a plural verb.
+- Irregular verbs do not follow a predictable pattern in their singular and plural forms. Common irregular verbs are to be, to have, and to do.
+- A compound subject is formed when two or more nouns are joined by the words and, or, or nor.
+- In some sentences, the subject and verb may be separated by a phrase or clause, but the verb must still agree with the subject.
+- Indefinite pronouns, such as anyone, each, everyone, many, no one, and something, refer to unspecified people or objects. Most indefinite pronouns are singular.
+- A collective noun is a noun that identifies more than one person, place, or thing and treats those people, places, or things one singular unit. Collective nouns require singular verbs.
+- In sentences that begin with here and there, the subject follows the verb.
+- In questions, the subject follows the verb.
+7.10: Subject-Verb Agreement is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

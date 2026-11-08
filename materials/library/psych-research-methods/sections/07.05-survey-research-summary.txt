@@ -1,0 +1,55 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+7.5: Survey Research (Summary)
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/07%3A_Survey_Research/7.05%3A_Survey_Research_(Summary)
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform
+
+## Key Takeaways
+- Survey research features the use of self-report measures on carefully selected samples. It is a flexible approach that can be used to study a wide variety of basic and applied research questions.
+- Survey research has its roots in applied social research, market research, and election polling. It has since become an important approach in many academic disciplines, including political science, sociology, public health, and, of course, psychology.
+- Survey research involves asking respondents to self-report on their own thoughts, feelings, and behaviors.
+- Most survey research is non-experimental in nature (it is used to describe variables or measure statistical relationships between variables) but surveys can also be used to measure dependent variables in true experiments.
+- Responding to a survey item is itself a complex cognitive process that involves interpreting the question, retrieving information, making a tentative judgment, putting that judgment into the required response format, and editing the response.
+- Survey responses are subject to numerous context effects due to question wording, item order, response options, and other factors. Researchers should be sensitive to such effects when constructing surveys and interpreting survey results.
+- Survey items are either open-ended or closed-ended. Open-ended items simply ask a question and allow respondents to answer in whatever way they want. Closed-ended items ask a question and provide several response options that respondents must choose from.
+- Use verbal labels instead of numerical labels although the responses can be converted to numerical data in the analyses.
+- According to the BRUSO model, questionnaire items should be brief, relevant, unambiguous, specific, and objective.
+- Survey research usually involves probability sampling, in which each member of the population has a known probability of being selected for the sample. Types of probability sampling include simple random sampling, stratified random sampling, and cluster sampling.
+- Sampling bias occurs when a sample is selected in such a way that it is not representative of the population and therefore produces inaccurate results. The most pervasive form of sampling bias is non-response bias, which occurs when people who do not respond to the survey differ in important ways from people who do respond. The best way to minimize non-response bias is to maximize the response rate by prenotifying respondents, sending them reminders, constructing questionnaires that are short and easy to complete, and offering incentives.
+- Surveys can be conducted in person, by telephone, through the mail, and on the internet. In-person interviewing has the highest response rates but is the most expensive. Mail and internet surveys are less expensive but have much lower response rates. Internet surveys are likely to become the dominant approach because of their low cost.
+## References
+Buhrmester, M., Kwang, T., & Gosling, S.D. (2011). Amazon’s Mechanical Turk: A new source of inexpensive, yet high quality, data? *Perspectives on Psychological Science, 6*(1), 3-5.
+Chang, L., & Krosnick, J.A. (2003). Measuring the frequency of regular behaviors: Comparing the ‘typical week’ to the ‘past week’. *Sociological Methodology, 33*, 55-80.
+Converse, J. M. (1987). *Survey research in the United States: Roots and emergence, 1890–1960*. Berkeley, CA: University of California Press.
+Gosling, S. D., Vazire, S., Srivastava, S., & John, O. P. (2004). Should we trust web-based studies? A comparative analysis of six preconceptions about internet questionnaires. *American Psychologist, 59*(2), 93-104.
+Groves, R. M., Fowler, F. J., Couper, M. P., Lepkowski, J. M., Singer, E., & Tourangeau, R. (2004). *Survey methodology*. Hoboken, NJ: Wiley.
+Krosnick, J.A. & Berent, M.K. (1993). Comparisons of party identification and policy preferences: The impact of survey question format. *American Journal of Political Science, 27*(3), 941-964.
+Lahaut, V. M. H. C. J., Jansen, H. A. M., van de Mheen, D., & Garretsen, H. F. L. (2002). Non-response bias in a sample survey on alcohol consumption. *Alcohol and Alcoholism, 37*, 256–260.
+Lerner, J. S., Gonzalez, R. M., Small, D. A., & Fischhoff, B. (2003). Effects of fear and anger on perceived risks of terrorism: A national field experiment. *Psychological Science, 14*, 144–150.
+Likert, R. (1932). A technique for the measurement of attitudes. *Archives of Psychology, 140*, 1–55.
+Miller, J.M. & Krosnick, J.A. (1998). The impact of candidate name order on election outcomes. *Public Opinion Quarterly, 62*(3), 291-330.
+Natala@aws. (2011, January 26). Re: MTurk CENSUS: About how many workers were on Mechanical Turk in 2010? Message posted to Amazon Web Services Discussion Forums. Retrieved from __forums.aws.amazon.com/thread.jspa?threadID=58891__
+Peterson, R. A. (2000). *Constructing effective questionnaires*. Thousand Oaks, CA: Sage.
+Schwarz, N., & Strack, F. (1990). Context effects in attitude surveys: Applying cognitive theory to social research. In W. Stroebe & M. Hewstone (Eds.), *European review of social psychology* (Vol. 2, pp. 31–50). Chichester, UK: Wiley.
+Schwarz, N. (1999). Self-reports: How the questions shape the answers. *American Psychologist, 54*, 93–105.
+Strack, F., Martin, L. L., & Schwarz, N. (1988). Priming and communication: The social determinants of information use in judgments of life satisfaction. *European Journal of Social Psychology, 18*, 429–442.
+Sudman, S., Bradburn, N. M., & Schwarz, N. (1996). *Thinking about answers: The application of cognitive processes to survey methodology*. San Francisco, CA: Jossey-Bass.
+### Exercises
+- Discussion: Think of a question that each of the following professionals might try to answer using survey research.
+  - a social psychologist
+  - an educational researcher
+  - a market researcher who works for a supermarket chain
+  - the mayor of a large city
+  - the head of a university police force
+- Discussion: Write a survey item and then write a short description of how someone might respond to that item based on the cognitive model of survey responding (or choose any item on the Rosenberg Self-Esteem Scale at http://www.bsos.umd.edu/socy/research/rosenberg.htm ).
+- Practice: Write survey items for each of the following general questions. In some cases, a series of items, rather than a single item, might be necessary.
+  - How much does the respondent use Facebook?
+  - How much exercise does the respondent get?
+  - How likely does the respondent think it is that the incumbent will be re-elected in the next presidential election?
+  - To what extent does the respondent experience “road rage”?
+- Discussion: If possible, identify an appropriate sampling frame for each of the following populations. If there is no appropriate sampling frame, explain why.
+  - students at a particular university
+  - adults living in the state of Washington
+  - households in Pullman, Washington
+  - people with low self-esteem
+- Practice: Use one of the online survey creation tools to create a 10-item survey questionnaire on a topic of your choice.
+This page titled 7.5: Survey Research (Summary) was last modified on Fri, 11 Nov 2022 07:01:14 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton via source content that was edited to the style and standards of the LibreTexts platform.

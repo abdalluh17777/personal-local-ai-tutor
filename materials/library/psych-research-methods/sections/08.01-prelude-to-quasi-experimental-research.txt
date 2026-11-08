@@ -1,0 +1,10 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+8.1: Prelude to Quasi-Experimental Research
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/08%3A_Quasi-Experimental_Research/8.01%3A_Prelude_to_Quasi-Experimental_Research
+License: CC BY-NC-SA 4.0; authored, remixed or curated by LibreTexts
+
+The prefix *quasi* means “resembling.” Thus quasi-experimental research is research that resembles experimental research but is not true experimental research. Recall with a true between-groups experiment, random assignment to conditions is used to ensure the groups are equivalent and with a true within-subjects design counterbalancing is used to guard against order effects. Quasi-experiments are missing one of these safeguards. Although an independent variable is manipulated, either a control group is missing or participants are not randomly assigned to conditions (Cook & Campbell, 1979)[1].
+Because the independent variable is manipulated before the dependent variable is measured, quasi-experimental research eliminates the directionality problem associated with non-experimental research. But because either counterbalancing techniques are not used or participants are not randomly assigned to conditions—making it likely that there are other differences between conditions—quasi-experimental research does not eliminate the problem of confounding variables. In terms of internal validity, therefore, quasi-experiments are generally somewhere between non-experimental studies and true experiments.
+## References
+- Cook, T. D., & Campbell, D. T. (1979). *Quasi-experimentation: Design & analysis issues in field settings*. Boston, MA: Houghton Mifflin. ↵
+8.1: Prelude to Quasi-Experimental Research is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by LibreTexts.

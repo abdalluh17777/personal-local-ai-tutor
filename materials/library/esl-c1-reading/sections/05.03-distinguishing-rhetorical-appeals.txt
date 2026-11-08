@@ -1,0 +1,75 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.3: Distinguishing Rhetorical Appeals
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.03%3A_Distinguishing_Rhetorical_Appeals
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is rhetoric?
+- How do we know what we should believe?
+- How do we convince another person to do or believe something?
+- How do we know when someone is making an unfair or unbelievable argument?
+Think about the last few decisions you made—big decisions like moving or changing jobs, or smaller ones like buying a pair of shoes. Did you mostly listen to your heart, use the opinions of trusted sources, or add up all the facts? Or some combination of these three ways of knowing what to decide? When you are writing an argument, you are helping your readers make a decision: the decision to agree with you, to understand, accept, and perhaps act on your main idea. You can appeal to their hearts, their trust, and their logic to encourage them to agree with you.
+Rhetoric is the study of the art of persuasion and of how we apply that art to effective speaking and writing.
+## What are the 3 main rhetorical appeals?
+Aristotle, the famous Greek philosopher, described three ways of communicating that writers and speakers use to persuade their audience (get other people to agree with them). He called these the three **rhetorical appeals**: pathos, ethos, and logos.
+- **Pathos** is about feelings—the writer connects to readers’ values through emotion, senses, and story. (See Figure 5.3.1)
+- **Ethos** is about credibility—the writer builds trust by presenting their argument fairly and thoughtfully, and by using information from other expert sources. (See Figure 5.3.2)
+- **Logos** is about logic—the writer sets up a solid structure of reasons with evidence. (See Figure 5.3.3)
+[Image: black and white heart-shaped print with a fingerprint pattern]
+Figure : **Pathos**
+**"**Fingerprint Heart Swirls Love Unique
+Id Pattern" by Max Pixel is licensed under CC-0 1.0
+[Image: black and white icon of a human figure with a badge and a checkmark]
+Figure : **Ethos**
+"Integrity" by Adrien Coquet
+from NounProject.com is licensed under CC-BY
+[Image: black and white print of six stacked cubes]
+Figure  **Logos**
+"3d cubes" by Eliricon
+from the Noun Project is licensed under CC-BY
+To write an effective argumentative essay, you need to use all three appeals. And knowing more about how they work provides a framework to help you analyze other writers’ arguments. Textbooks often present these three appeals together as “the rhetorical triangle” because all three work together (See Figure 5.3.4)
+[Image: triangle with pathos, ethos, and logos written one at each corner]
+Figure : "Rhetorical Triangle" by Gabriel Winer is licensed under CC BY NC.
+## Who was Aristotle?
+Aristotle (see Figure 5.3.5) was a Greek philosopher during the Classical period in Ancient Greece. Along with his teacher Plato, he has been called the "Father of Western Philosophy." His writings cover many subjects, including physics, biology, zoology, metaphysics, logic, ethics, aesthetics, poetry, theater, music, rhetoric, psychology, linguistics, economics, politics, and government. Aristotle brought together many prior philosophies. His views on physical science profoundly shaped medieval scholarship, and his works contain the earliest known formal study of logic. He influenced Islamic thought during the Middle Ages, as well as Christian theology. Aristotle was revered among medieval Muslim scholars as "The First Teacher" and among medieval Christians like Thomas Aquinas as simply "The Philosopher."
+[Image: statue of Aristotle]
+Figure : "Aristotle" by __Lawrence OP__ is licensed under CC BY-NC 2.0
+## Video: "Ethos, Pathos, and Logos"
+The following video by Ricky Padilla from Texas A&M University Writing Center explains more about the three rhetorical appeals:
+Interactive Element
+[Video: https://www.youtube.com/embed/aUpiy67_nt4]
+## Identifying rhetorical appeals
+Let's look at how these three appeals might be used in an essay:
+Try this!
+Imagine you are writing a paper to convince your readers that cheaply produced, low-quality clothing is a bad choice for consumers and that the clothing industry should be more regulated by governments. Here are some things you might include. Which ones are examples of *pathos*, *ethos*, or *logos*? (There is always some overlap, but look for clues: is the writer using emotion, senses, story? Are they working to appear fair, and to explain why we should trust a source? Are they presenting facts to support a claim?)
+1. On March 25, 1911, a fire broke out in the Triangle Shirtwaist Company factory located next to Washington Square Park. With several of the main exits locked to prevent employees from stealing, only one exit was available and it was soon blocked by flames. Many workers succumbed to the heat and smoke while others, trapped by the growing fire, stepped out onto an eighth-floor ledge, and when the heat became unbearable, jumped off. Dozens of young women fell to their deaths on the pavement below, creating a horrific image that would transform the entire industry. It was the worst industrial accident in the history of the United States (Jimenez and Pulos).
+2. Dr. Luz Claudio, the author of the study, is a neuroscientist, medical researcher, and professor of environmental medicine and public health at Mount Sinai University.
+3. We can all agree that societies thrive when workers are paid enough to meet their basic needs. However, the workers in textile factories that supply fast fashion brands are paid as little as 40 cents an hour. Therefore, the practices of this industry are harming the societies where the factories are located.
+4. Besides labor exploitation, another reason fast fashion is so destructive is that it leaves a pollution footprint, with each step of the clothing life cycle generating environmental hazards. For example, polyester, the most widely used manufactured fiber, is made from petroleum. With the rise in production in the fashion industry, demand for synthetic fibers, especially polyester, has nearly doubled in the last 15 years. The manufacture of polyester and other synthetic fabrics is an energy-intensive process requiring large amounts of crude oil and releasing emissions that can cause or aggravate respiratory diseases and contribute to the climate crisis. Other pollutants are released in the wastewater from polyester manufacturing plants, endangering the health of people in the surrounding communities (Claudio).
+5. A 16-year-old walks into a brightly-lit store in a shopping plaza in Sacramento. She circles the racks full of crisp fabric, searching for a jacket that looks just like one from a recent fashion show in Paris. She finds it, looks at the tag, and is thrilled that it is in her size and only $19.99, but pauses momentarily. She remembers something she read on Twitter that gave her nightmares, about a girl her exact age dying in a fire in a garment factory in Bangladesh. She tries to remember if the store she is in was one of the brands the factory was supplying.
+6. It’s true that there has been some incremental progress toward improving working conditions. In order to reduce the destructive actions of the fashion industry, some clothing companies have signed agreements, and some governments have passed laws requiring better worker protections. However, we cannot depend on written agreements if the factories do not follow them. We must also listen to the voices of the workers, including in courts, as they are the ones most directly impacted. As a former child worker and a blacklisted union organizer who now leads the Bangladesh Center for Worker Solidarity, Kalpona Akter is certain: “Only a law that addresses the root causes of violations and has accountability at its core will truly transform and protect people’s lives.” She therefore calls on the Commissioners to introduce strong rules that also give victims of corporate abuses access to justice in European courts (Akter).
+For suggested answers, see 5.12: Answer Key - Analyzing Arguments
+## Rhetorical appeals in various texts
+Now let's apply this to your own reading and writing:
+Apply this!
+Look for examples of pathos, ethos, and logos in advertisements, public service announcements, news articles, websites, and books.
+Consider a paper you are working on or a classmate's paper you are reviewing. How can the writer add or improve elements of pathos, ethos, and logos?
+In the following sections, we will learn more about pathos, ethos, and logos, and how to apply this knowledge to your reading and writing.
+## Works Cited
+Akter, Kalpona. "Open Letter to European Commissioners: Kalpona Akter Calls for Strong Protections against Violations and Access to Justice for Victims." *Maquila Solidarity Network*, 29 July 2021.
+Claudio, Luz. “__Waste Couture: Environmental Impact of the Clothing Industry__.” *Environmental Health Perspectives*, vol. 115, no. 9, Sept. 2007, pp. A448–A454. *EBSCOhost*, doi:10.1289/ehp.115-a449.
+Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textboo
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Who was Aristotle? is adapted from The Life of Aristotle by Andrew Neciuk. License: CC BY.
+### Identifying rhetorical appeals:
+Item 1 adapted from Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textbooks, 2014.
+Item 4 adapted from Claudio, Luz. “__Waste Couture: Environmental Impact of the Clothing Industry__.” *Environmental Health Perspectives*, vol. 115, no. 9, Sept. 2007, pp. A448–A454. *EBSCOhost*, doi:10.1289/ehp.115-a449.
+Item 6 adapted from Akter, Kalpona. "Open Letter to European Commissioners: Kalpona Akter Calls for Strong Protections against Violations and Access to Justice for Victims." *Maquila Solidarity Network*, 29 July 2021. Licensed under CC-BY-NC-SA 2.5 CA.
+Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textbooks, 2014, milnepublishing.geneseo.edu/good-corporation-bad-corporation/. Licensed under CC BY-NC-SA 4.0.
+## Some Rights Reserved
+Claudio, Luz. “__Waste Couture: Environmental Impact of the Clothing Industry__.” *Environmental Health Perspectives*, vol. 115, no. 9, Sept. 2007, pp. A448–A454. *EBSCOhost*, doi:10.1289/ehp.115-a449. Reproduced from *Environmental Health Perspectives* with permission from the author.
+## All Rights Reserved
+Padilla, Ricky, producer. *Ethos, Pathos & Logos.* Texas A&M University Writing Center, 2020.
+This page titled 5.3: Distinguishing Rhetorical Appeals was last modified on Sun, 09 Mar 2025 17:17:26 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

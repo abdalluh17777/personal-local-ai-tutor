@@ -1,0 +1,1563 @@
+{
+ "slug": "psych-research-terms",
+ "title": "Psychology research terms",
+ "daily_new": 0,
+ "description": "The terms of research methods in psychology, in the order of the Stage 4 lessons.",
+ "source": "Glossary of Research Methods in Psychology, Jhangiani, Chiang, Cuttler and Leighton, CC BY-NC-SA 4.0. Example sentences from the book and the PSYC 110 lectures.",
+ "items": [
+  {
+   "word": "conditions",
+   "meaning": "One level of the independent variable in an experiment.",
+   "pos": "term",
+   "forms": "",
+   "example": "The different levels of the independent variable are called conditions."
+  },
+  {
+   "word": "control",
+   "meaning": "Holding extraneous variables constant.",
+   "pos": "term",
+   "forms": "",
+   "example": "The second fundamental feature of an experiment is that the researcher exerts control over, or minimizes the variability in, variables other than the independent and dependent variable."
+  },
+  {
+   "word": "empirical questions",
+   "meaning": "A question about the way the world actually is that can be answered by making systematic observations.",
+   "pos": "term",
+   "forms": "",
+   "example": "The second feature of the scientific approach—which follows in a straightforward way from the first—is that it is concerned with empirical questions."
+  },
+  {
+   "word": "falsifiable",
+   "meaning": "An important property of scientific claims. A claim is falsifiable if there is an observation that would—if it were made—count as evidence against the claim.",
+   "pos": "term",
+   "forms": "",
+   "example": "In other words, scientific claims must be falsifiable."
+  },
+  {
+   "word": "mean",
+   "meaning": "The most common measure of central tendency. The sum of the scores divided by the number of scores.",
+   "pos": "term",
+   "forms": "",
+   "example": "The mean is the average of a distribution of scores."
+  },
+  {
+   "word": "pseudoscience",
+   "meaning": "A set of beliefs or activities that is claimed to be scientific but lacks one or more of the three features of science.",
+   "pos": "term",
+   "forms": "",
+   "example": "Pseudoscience refers to activities and beliefs that are claimed to be scientific by their proponents—and may appear to be scientific at first glance—but are not."
+  },
+  {
+   "word": "public knowledge",
+   "meaning": "Detailed descriptions of research that are available to other researchers and the general public, usually through publication in a professional journal.",
+   "pos": "term",
+   "forms": "",
+   "example": "The third feature of science is that it creates public knowledge."
+  },
+  {
+   "word": "references",
+   "meaning": "The formatted publication information about a work that is cited in an APA-style article or book chapter. The references appear in a reference list at the end of the article or book chapter. “Reference” can also mean the work itself.",
+   "pos": "term",
+   "forms": "",
+   "example": "At the end of an APA-style article or book chapter is a list that contains references to all the works cited in the text (and only the works cited in the text)."
+  },
+  {
+   "word": "reliability",
+   "meaning": "The extent to which the scores on a measure are consistent across time, across multiple items on the same measure, and across researchers when a measure has an element of subjective judgment.",
+   "pos": "term",
+   "forms": "",
+   "example": "Reliability refers to the consistency of a measure."
+  },
+  {
+   "word": "replication",
+   "meaning": "The process of conducting an empirical study again—either exactly as it was originally conducted or with modifications—to see if the same results are observed.",
+   "pos": "term",
+   "forms": "",
+   "example": "One of the strengths of this design is that it includes a built in replication."
+  },
+  {
+   "word": "sample",
+   "meaning": "The subset of individuals that the researcher actually studies.",
+   "pos": "term",
+   "forms": "",
+   "example": "But they usually study only a small subset or sample of the population."
+  },
+  {
+   "word": "science",
+   "meaning": "A general way of understanding the natural world featuring systematic empiricism, empirical questions, and public knowledge.",
+   "pos": "term",
+   "forms": "",
+   "example": "Some people are surprised to learn that psychology is a science."
+  },
+  {
+   "word": "systematic empiricism",
+   "meaning": "Learning about the world through careful observation.",
+   "pos": "term",
+   "forms": "",
+   "example": "But not just any observations, science relies on structured observations which is known as systematic empiricism."
+  },
+  {
+   "word": "theory",
+   "meaning": "A coherent explanation or interpretation of one or more phenomena.",
+   "pos": "term",
+   "forms": "",
+   "example": "A theory is a coherent explanation or interpretation of one or more phenomena."
+  },
+  {
+   "word": "applied research",
+   "meaning": "Scientific research that is conducted primarily to solve some practical problem.",
+   "pos": "term",
+   "forms": "",
+   "example": "The research of Mehl and his colleagues falls into this category. Applied research is conducted primarily to address some practical problem."
+  },
+  {
+   "word": "confirmation bias",
+   "meaning": "The tendency to notice and remember evidence that is consistent with what we already believe and to ignore evidence that is inconsistent with what we already believe.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "folk psychology",
+   "meaning": "People’s intuitive beliefs about human behavior and mental processes.",
+   "pos": "term",
+   "forms": "",
+   "example": "Certainly we all have intuitive beliefs about people’s behavior, thoughts, and feelings—and these beliefs are collectively referred to as folk psychology."
+  },
+  {
+   "word": "research literature",
+   "meaning": "All the published research in a particular field.",
+   "pos": "term",
+   "forms": "",
+   "example": "Definition: A comprehensive database produced by the APA that covers the research literature in Psychology."
+  },
+  {
+   "word": "skepticism",
+   "meaning": "A critical-thinking attitude that involves considering alternatives and searching for evidence before accepting that a belief or claim is true.",
+   "pos": "term",
+   "forms": "",
+   "example": "This is why they cultivate an attitude of skepticism."
+  },
+  {
+   "word": "tolerance for uncertainty",
+   "meaning": "A critical-thinking attitude that involves withholding judgment about whether a belief or claim is true when there is insufficient evidence for it.",
+   "pos": "term",
+   "forms": "",
+   "example": "Because there is often not enough evidence to fully evaluate a belief or claim, scientists also cultivate a tolerance for uncertainty."
+  },
+  {
+   "word": "clinical practice of psychology",
+   "meaning": "The diagnosis and treatment of psychological disorders and related problems.",
+   "pos": "term",
+   "forms": "",
+   "example": "Define the clinical practice of psychology and distinguish it from experimental psychology."
+  },
+  {
+   "word": "discussion",
+   "meaning": "The final major section of an APA-style empirical research report. It typically includes a summary of the research, a discussion of theoretical and practical implications of the study, limitations of the study, and suggestions for future research.",
+   "pos": "term",
+   "forms": "",
+   "example": "The discussion is the last major section of the research report."
+  },
+  {
+   "word": "empirically supported treatments",
+   "meaning": "A treatment for a psychological problem that has been shown by scientific research to result in greater improvement than no treatment, a placebo, or some alternative treatment.",
+   "pos": "term",
+   "forms": "",
+   "example": "Treatments that have been shown to work in this way are called empirically supported treatments."
+  },
+  {
+   "word": "organization",
+   "meaning": "The most general level of APA style. It refers to the organization of a research article.",
+   "pos": "term",
+   "forms": "",
+   "example": "Create a simple survey questionnaire based on principles of effective item writing and organization."
+  },
+  {
+   "word": "phenomenon",
+   "meaning": "A general result that has been observed reliably in empirical research. An established answer to a research question.",
+   "pos": "term",
+   "forms": "",
+   "example": "A phenomenon is a general result that has been observed reliably in systematic empirical research."
+  },
+  {
+   "word": "abstract",
+   "meaning": "A short summary (approximately 200 words) of a research article. In an APA-style manuscript, the abstract appears on the second page.",
+   "pos": "term",
+   "forms": "",
+   "example": "The abstract is a summary of the study."
+  },
+  {
+   "word": "double-blind",
+   "meaning": "An experimental research design in which both the participants and the experimenters are unaware of which condition the participant has been assigned to.",
+   "pos": "term",
+   "forms": "",
+   "example": "Most professional journals in psychology undergo a process of double-blind peer review."
+  },
+  {
+   "word": "edited volumes",
+   "meaning": "A scholarly book with an editor or small group of editors and chapters by several different authors.",
+   "pos": "term",
+   "forms": "",
+   "example": "Edited volumes have an editor or a small group of editors who recruit many authors to write separate chapters on different aspects of the same topic."
+  },
+  {
+   "word": "empirical research report",
+   "meaning": "A type of journal article in which the author reports on a new empirical research study.",
+   "pos": "term",
+   "forms": "",
+   "example": "Most articles in professional journals are one of two basic types: empirical research reports and review articles. Empirical research reports describe one or more new empirical studies conducted by the authors."
+  },
+  {
+   "word": "interestingness",
+   "meaning": "A property of research questions that is based in part on the extent to which the answer is in doubt, fills a gap in the research literature, and has important practical implications.",
+   "pos": "term",
+   "forms": "",
+   "example": "Here we look at three factors that affect the interestingness of a research question: the answer is in doubt, the answer fills a gap in the research literature, and the answer has important practical implications."
+  },
+  {
+   "word": "literature review",
+   "meaning": "A written summary of previous research on a topic. It constitutes the bulk of the introduction of an APA-style empirical research report.",
+   "pos": "term",
+   "forms": "",
+   "example": "Immediately after the opening comes the literature review, which describes relevant previous research on the topic and can be anywhere from several paragraphs to several pages in length."
+  },
+  {
+   "word": "peer review",
+   "meaning": "A process in which new research submitted for publication is reviewed by two or more experts before an editor decides whether to publish it.",
+   "pos": "term",
+   "forms": "",
+   "example": "In general, scholarly books undergo a peer review process similar to that used by professional journals."
+  },
+  {
+   "word": "professional journals",
+   "meaning": "Periodicals that publish new research.",
+   "pos": "term",
+   "forms": "",
+   "example": "Professional journals are periodicals that publish original research articles."
+  },
+  {
+   "word": "PsycINFO",
+   "meaning": "The primary computer database that catalogs research in psychology.",
+   "pos": "term",
+   "forms": "",
+   "example": "PsycINFO consists of individual records for each article, book chapter, or book in the database."
+  },
+  {
+   "word": "theoretical article",
+   "meaning": "A type of journal article in which the author presents a new theory or evaluates existing theories.",
+   "pos": "term",
+   "forms": "",
+   "example": "When a review article is devoted primarily to presenting a new theory, it is often referred to as a theoretical article."
+  },
+  {
+   "word": "criteria",
+   "meaning": "A variable or construct expected to be correlated with scores on a measure that is being evaluated. The plural is criteria.",
+   "pos": "term",
+   "forms": "",
+   "example": "There are two distinct criteria by which researchers evaluate their measures: reliability and validity."
+  },
+  {
+   "word": "experiment",
+   "meaning": "A type of empirical study in which an independent variable is manipulated and a dependent variable is measured while extraneous variables are controlled.",
+   "pos": "term",
+   "forms": "",
+   "example": "As we saw earlier in the book, an experiment is a type of study designed specifically to answer the question of whether there is a causal relationship between two variables."
+  },
+  {
+   "word": "feasibility",
+   "meaning": "The extent to which a research question can be answered with available resources.",
+   "pos": "term",
+   "forms": "",
+   "example": "A second important criterion for evaluating research questions is the feasibility of successfully answering them."
+  },
+  {
+   "word": "hypothesis",
+   "meaning": "A prediction about a new phenomenon that would be observed if a particular theory were true. Also used to refer to a relatively simple theory that includes only a few key components.",
+   "pos": "term",
+   "forms": "",
+   "example": "A hypothesis, on the other hand, is a specific prediction about a new phenomenon that should be observed if a particular theory is accurate."
+  },
+  {
+   "word": "hypothetico-deductive method",
+   "meaning": "The general way that researchers use theories to generate new research and, in the process, test and revise the theories themselves.",
+   "pos": "term",
+   "forms": "",
+   "example": "The primary way that scientific researchers use theories is sometimes called the hypothetico-deductive method (although this term is much more likely to be used by philosophers of science than by scientists themselves)."
+  },
+  {
+   "word": "scope",
+   "meaning": "The number and variety of phenomena explained or interpreted by a theory.",
+   "pos": "term",
+   "forms": "",
+   "example": "Nonlinear relationships are fairly common in psychology, but measuring their strength is beyond the scope of this book."
+  },
+  {
+   "word": "categorical variable",
+   "meaning": "A quality that varies across individuals and is measured by assigning a category label to each individual.",
+   "pos": "term",
+   "forms": "",
+   "example": "A categorical variable is a quality, such as chosen major, and is typically measured by assigning a category label to each individual (e.g., Psychology, English, Nursing, etc.)."
+  },
+  {
+   "word": "central tendency",
+   "meaning": "The middle of a distribution. The mean, median, and mode are measures of central tendency.",
+   "pos": "term",
+   "forms": "",
+   "example": "With nominal-level measurement, for example, the only available measure of central tendency is the mode."
+  },
+  {
+   "word": "confounding variable",
+   "meaning": "An extraneous variable that differs across the levels of the independent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "A confounding variable is an extraneous variable that differs on average across levels of the independent variable (i.e., it is an extraneous variable that varies systematically with the independent variable)."
+  },
+  {
+   "word": "dependent variable",
+   "meaning": "A variable that is thought to be the effect of another variable (called the independent variable).",
+   "pos": "term",
+   "forms": "",
+   "example": "The independent variable is the variable the experimenter manipulates (it is the presumed cause) and the dependent variable is the variable the experimenter measures (it is the presumed effect)."
+  },
+  {
+   "word": "descriptive statistics",
+   "meaning": "A set of techniques for summarizing and displaying data.",
+   "pos": "term",
+   "forms": "",
+   "example": "Descriptive statistics refers to a set of techniques for summarizing and displaying data."
+  },
+  {
+   "word": "distribution",
+   "meaning": "The way the scores on a variable are distributed across the levels of that variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "Every variable has a distribution, which is the way the scores are distributed across the levels of that variable."
+  },
+  {
+   "word": "external validity",
+   "meaning": "The extent to which the results of a study can be generalized to people and situations beyond those actually studied.",
+   "pos": "term",
+   "forms": "",
+   "example": "But there is typically a trade-off between internal and external validity. External validity simply refers to the degree to which we can generalize the findings to other circumstances or settings, like the real-world environment."
+  },
+  {
+   "word": "field experiments",
+   "meaning": "An experiment that is conducted outside the laboratory.",
+   "pos": "term",
+   "forms": "",
+   "example": "But there are also field experiments where an independent variable is manipulated in a natural setting and extraneous variables are controlled."
+  },
+  {
+   "word": "internal validity",
+   "meaning": "The extent to which the design of a study supports the conclusion that differences in the independent variable caused any observed differences in the dependent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "Laboratory experiments typically have high internal validity."
+  },
+  {
+   "word": "introduction",
+   "meaning": "The first major section of an APA-style empirical research report. It typically includes an opening, a literature review, and a closing.",
+   "pos": "term",
+   "forms": "",
+   "example": "The introduction begins on the third page of the manuscript."
+  },
+  {
+   "word": "measurement",
+   "meaning": "The assignment of scores to individuals so that the scores represent some characteristic of the individuals.",
+   "pos": "term",
+   "forms": "",
+   "example": "Measurement is the assignment of scores to individuals so that the scores represent some characteristic of the individuals."
+  },
+  {
+   "word": "median",
+   "meaning": "A measure of central tendency. The value such that half the scores in the distribution are lower than it and half are higher than it.",
+   "pos": "term",
+   "forms": "",
+   "example": "The median is the midpoint of a distribution of scores."
+  },
+  {
+   "word": "mode",
+   "meaning": "A measure of central tendency. The most frequently occurring score in the distribution.",
+   "pos": "term",
+   "forms": "",
+   "example": "The mode is the most frequently occurring score in a distribution."
+  },
+  {
+   "word": "negative relationship",
+   "meaning": "A statistical relationship between two variables in which higher scores on one tend to be associated with lower scores on the other.",
+   "pos": "term",
+   "forms": "",
+   "example": "A negative relationship is one in which higher scores on one variable tend to be associated with lower scores on the other."
+  },
+  {
+   "word": "operational definition",
+   "meaning": "A definition of a variable or construct in terms of precisely how it will be measured.",
+   "pos": "term",
+   "forms": "",
+   "example": "This requires an operational definition—a definition of the variable in terms of precisely how it is to be measured."
+  },
+  {
+   "word": "oral presentation",
+   "meaning": "A presentation at a professional conference in which presenters stand in front of an audience and tell them about their research, usually with the aid of a slide show. Such presentations, which are informally called “talks,” can last anywhere from 10 minutes to an hour.",
+   "pos": "term",
+   "forms": "",
+   "example": "In an oral presentation, or “talk,” the presenter stands in front of an audience of other researchers and tells them about their research—usually with the help of a slide show."
+  },
+  {
+   "word": "range",
+   "meaning": "A measure of variability. The difference between the highest and lowest scores in the distribution.",
+   "pos": "term",
+   "forms": "",
+   "example": "The range is a measure of dispersion that measures the distance between the highest and lowest scores in a distribution."
+  },
+  {
+   "word": "rating scale",
+   "meaning": "An ordered set of response options to a closed-ended questionnaire item.",
+   "pos": "term",
+   "forms": "",
+   "example": "A rating scale is an ordered set of responses that participants must choose from."
+  },
+  {
+   "word": "simple random sampling",
+   "meaning": "Sampling where each member of the population has an equal probability of being selected.",
+   "pos": "term",
+   "forms": "",
+   "example": "One method of obtaining a sample is simple random sampling, in which every member of the population has an equal chance of being selected for the sample."
+  },
+  {
+   "word": "standard deviation",
+   "meaning": "The most common measure of variability. The square root of the mean of the squared differences between the scores and the mean. Also the square root of the variance.",
+   "pos": "term",
+   "forms": "",
+   "example": "The standard deviation is a more sophisticated measure of dispersion that measures the average distance of scores from the mean."
+  },
+  {
+   "word": "statistically significant",
+   "meaning": "Used to describe a result for which the null hypothesis has been rejected.",
+   "pos": "term",
+   "forms": "",
+   "example": "A statistically significant effect is one that is unlikely due to random chance and therefore likely represents a real effect in the population."
+  },
+  {
+   "word": "type II error",
+   "meaning": "In null hypothesis testing, failing to reject the null hypothesis when it is false.",
+   "pos": "term",
+   "forms": "",
+   "example": "A Type II error is a missed opportunity."
+  },
+  {
+   "word": "validity",
+   "meaning": "The extent to which scores on a measure represent the variable or construct they are intended to. Validity is a judgment based on the available evidence.",
+   "pos": "term",
+   "forms": "",
+   "example": "Validity is the extent to which the scores from a measure represent the variable they are intended to."
+  },
+  {
+   "word": "variability",
+   "meaning": "The extent to which the scores in a distribution vary around their central tendency.",
+   "pos": "term",
+   "forms": "",
+   "example": "The variability of a distribution is the extent to which the scores vary around their central tendency."
+  },
+  {
+   "word": "variance",
+   "meaning": "A measure of variability. The mean of the squared differences between the scores and the mean. Also the square of the standard deviation.",
+   "pos": "term",
+   "forms": "",
+   "example": "The variance is just the standard deviation squared."
+  },
+  {
+   "word": "confederate",
+   "meaning": "A researcher who pretends to be someone that he or she is not in the context of an empirical study. Most often, confederates play the role of other participants who interact in scripted ways with the real participants.",
+   "pos": "term",
+   "forms": "",
+   "example": "Shortly afterward, the shopper encountered another confederate, who dropped some computer diskettes on the ground."
+  },
+  {
+   "word": "confidentiality",
+   "meaning": "The researcher’s agreement with his or her participants not to reveal personal information about them except with their permission or as required by law.",
+   "pos": "term",
+   "forms": "",
+   "example": "This means that researchers must maintain confidentiality, which is essentially an agreement not to disclose participants’ personal information without their consent or some appropriate legal authorization."
+  },
+  {
+   "word": "deception",
+   "meaning": "Misleading participants about the purposes and procedures of the research—either by giving them false information or by withholding true information from them.",
+   "pos": "term",
+   "forms": "",
+   "example": "Some researchers have argued that deception of research participants is rarely if ever ethically justified."
+  },
+  {
+   "word": "ethics",
+   "meaning": "The branch of philosophy that is concerned with morality. Also a set of principles and practices that provide moral guidance in a particular field.",
+   "pos": "term",
+   "forms": "",
+   "example": "Ethics is the branch of philosophy that is concerned with morality—what it means to behave morally and how people can achieve that goal."
+  },
+  {
+   "word": "informed consent",
+   "meaning": "The process of obtaining and documenting participants’ agreement to be in a study, having informed them of everything that might reasonably be expected to affect their decision.",
+   "pos": "term",
+   "forms": "",
+   "example": "Of fundamental importance here is the concept of informed consent."
+  },
+  {
+   "word": "opening",
+   "meaning": "The first paragraph or two of the introduction of an APA-style empirical report. It introduces the research question and explains why it is interesting.",
+   "pos": "term",
+   "forms": "",
+   "example": "The opening, which is usually a paragraph or two in length, introduces the research question and explains why it is interesting."
+  },
+  {
+   "word": "statistical relationship",
+   "meaning": "A difference in the average score on one variable across levels of another variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "The two forms of statistical relationships are differences between groups and correlations between quantitative variables."
+  },
+  {
+   "word": "APA Ethics Code",
+   "meaning": "The ethics code of the American Psychological Association, formally titled Ethical Principles of Psychologists and Code of Conduct. Standard 8 concerns the ethics of research and publication.",
+   "pos": "term",
+   "forms": "",
+   "example": "The APA’s Ethical Principles of Psychologists and Code of Conduct (also known as the APA Ethics Code) was first published in 1953 and has been revised several times since then, most recently in 2010."
+  },
+  {
+   "word": "consent form",
+   "meaning": "A form that participants sign as part of the informed consent process. It describes the procedure, the risks and benefits, participants’ right to withdraw from the study, and any confidentiality issues.",
+   "pos": "term",
+   "forms": "",
+   "example": "Although the process of obtaining informed consent often involves having participants read and sign a consent form, it is important to understand that this is not all it is."
+  },
+  {
+   "word": "debriefing",
+   "meaning": "The process of informing research participants after a study of the purpose of the study, revealing any deception, and minimizing any harm that might have occurred.",
+   "pos": "term",
+   "forms": "",
+   "example": "During the debriefing, you should reveal the research question and full design of the study."
+  },
+  {
+   "word": "naturalistic observation",
+   "meaning": "An approach to data collection in which the behavior of interest is observed in the environment in which it typically occurs.",
+   "pos": "term",
+   "forms": "",
+   "example": "Naturalistic observation is an observational method that involves observing people’s behavior in the environment in which it typically occurs."
+  },
+  {
+   "word": "protocol",
+   "meaning": "A detailed written description of a research project that can be reviewed by an independent committee to evaluate its conformity to ethical standards.",
+   "pos": "term",
+   "forms": "",
+   "example": "Among the standards that it added to the Nuremberg Code was that research with human participants should be based on a written protocol—a detailed description of the research—that is reviewed by an independent committee."
+  },
+  {
+   "word": "at-risk research",
+   "meaning": "Research that exposes participants to risks that are greater than those encountered by healthy people in daily life or during routine physical or psychological examinations.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "prescreening",
+   "meaning": "Any procedure used to select participants for further study based on demographic or other characteristics. Often used to identify and remove participants who are particularly at high risk of harm.",
+   "pos": "term",
+   "forms": "",
+   "example": "Prescreening can also involve collecting data to identify and eliminate participants."
+  },
+  {
+   "word": "conceptual definition",
+   "meaning": "A description of a variable or construct in terms of the behaviors and internal processes that are involved, along with how that construct relates to other variables.",
+   "pos": "term",
+   "forms": "",
+   "example": "The conceptual definition of a psychological construct describes the behaviors and internal processes that make up that construct, along with how it relates to other variables."
+  },
+  {
+   "word": "constructs",
+   "meaning": "A variable that cannot be observed directly because it represents a tendency to behave in certain ways or a complex pattern of behavior and internal processes. These include personality traits, emotional states, attitudes, and abilities.",
+   "pos": "term",
+   "forms": "",
+   "example": "These kinds of variables are called constructs (pronounced CON-structs) and include personality traits (e.g., extraversion), emotional states (e.g., fear), attitudes (e.g., toward taxes), and abilities (e.g., athleticism)."
+  },
+  {
+   "word": "converging operations",
+   "meaning": "Multiple operational definitions of the same construct. When multiple operational definitions are closely related to each other and produce the same pattern of results, this constitutes evidence that the construct is being measured effectively and is a useful one.",
+   "pos": "term",
+   "forms": "",
+   "example": "When psychologists use multiple operational definitions of the same construct—either within a study or across studies—they are using converging operations."
+  },
+  {
+   "word": "interaction",
+   "meaning": "In a factorial design, when the effect of one independent variable depends on the level of another independent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "There is an interaction effect (or just “interaction”) when the effect of one independent variable depends on the level of another."
+  },
+  {
+   "word": "levels of measurement",
+   "meaning": "Four different ways of assigning scores to individuals that provide increasing amounts of quantitative information about the characteristic being measured. The four levels are nominal, ordinal, interval, and ratio.",
+   "pos": "term",
+   "forms": "",
+   "example": "Also watch the videos on operational definitions, levels of measurement, reliability and validity."
+  },
+  {
+   "word": "nominal level",
+   "meaning": "The level of measurement that involves assigning names or category labels to individuals. Scores at the nominal level indicate whether or not one individual is in the same category as another. They do not communicate any quantitative information.",
+   "pos": "term",
+   "forms": "",
+   "example": "The nominal level of measurement is used for categorical variables and involves assigning scores that are category labels."
+  },
+  {
+   "word": "physiological measures",
+   "meaning": "A measure that involves recording a physiological variable. Compare with self-report measure and behavioral measure.",
+   "pos": "term",
+   "forms": "",
+   "example": "Finally, physiological measures are those that involve recording any of a wide variety of physiological processes, including heart rate and blood pressure, galvanic skin response, hormone levels, and electrical activity and blood flow in the brain."
+  },
+  {
+   "word": "psychometrics",
+   "meaning": "The measurement of psychological variables and constructs.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "ratio level",
+   "meaning": "The level of measurement that involves assigning numerical scores so that a given difference between two scores always represents the same difference in the characteristic and a score of zero represents none of the characteristic. Ratios of one score to another are meaningful only at this level.",
+   "pos": "term",
+   "forms": "",
+   "example": "Finally, the ratio level of measurement involves assigning scores in such a way that there is a true zero point that represents the complete absence of the quantity."
+  },
+  {
+   "word": "Cohen’s κ",
+   "meaning": "A statistic used to assess interrater reliability when the observer judgments are categorical.",
+   "pos": "term",
+   "forms": "",
+   "example": "Statistical programs like SPSS will allow you to compute Cronbach’s α or Cohen’s κ."
+  },
+  {
+   "word": "content validity",
+   "meaning": "The extent to which a measure covers all aspects of the construct it is supposed to measure.",
+   "pos": "term",
+   "forms": "",
+   "example": "Content validity is the extent to which a measure “covers” the construct of interest."
+  },
+  {
+   "word": "Cronbach’s α",
+   "meaning": "A statistic used to assess the internal consistency of a multiple-item measure. It is conceptually equivalent to the mean of all possible split-half correlations.",
+   "pos": "term",
+   "forms": "",
+   "example": "Perhaps the most common measure of internal consistency used by researchers in psychology is a statistic called Cronbach’s α (the Greek letter alpha)."
+  },
+  {
+   "word": "discriminant validity",
+   "meaning": "The extent to which scores on a measure are not correlated with other variables and constructs that are conceptually distinct.",
+   "pos": "term",
+   "forms": "",
+   "example": "Discriminant validity, on the other hand, is the extent to which scores on a measure are not correlated with measures of variables that are conceptually distinct."
+  },
+  {
+   "word": "face validity",
+   "meaning": "The extent to which a measure appears “on its face” to measure the variable or construct it is supposed to.",
+   "pos": "term",
+   "forms": "",
+   "example": "Face validity is the extent to which a measurement method appears “on its face” to measure the construct of interest."
+  },
+  {
+   "word": "internal consistency",
+   "meaning": "The extent to which the items on a multiple-item measure are consistent with each other.",
+   "pos": "term",
+   "forms": "",
+   "example": "Another kind of reliability is internal consistency, which is the consistency of people’s responses across the items on a multiple-item measure."
+  },
+  {
+   "word": "split-half correlation",
+   "meaning": "The correlation between scores based on one half of the items on a multiple-item measure and scores based on the other half of the items.",
+   "pos": "term",
+   "forms": "",
+   "example": "One approach is to look at a split-half correlation."
+  },
+  {
+   "word": "test-retest correlation",
+   "meaning": "The correlation between individuals’ scores on a measure used at two different times.",
+   "pos": "term",
+   "forms": "",
+   "example": "In general, a test-retest correlation of +.80 or greater is considered to indicate good reliability."
+  },
+  {
+   "word": "test-retest reliability",
+   "meaning": "The extent to which scores on a measure are consistent across time for the same individuals.",
+   "pos": "term",
+   "forms": "",
+   "example": "When researchers measure a construct that they assume to be consistent across time, then the scores they obtain should also be consistent across time. Test-retest reliability is the extent to which this is actually the case."
+  },
+  {
+   "word": "demand characteristics",
+   "meaning": "Features of a study that cue participants as to how the researcher expects them to behave.",
+   "pos": "term",
+   "forms": "",
+   "example": "Additionally, research studies can have built-in demand characteristics: subtle cues that reveal how the researcher expects participants to behave."
+  },
+  {
+   "word": "placebo control condition",
+   "meaning": "A control condition in which participants receive a placebo.",
+   "pos": "term",
+   "forms": "",
+   "example": "One is to include a placebo control condition, in which participants receive a placebo that looks much like the treatment but lacks the active ingredient or element thought to be responsible for the treatment’s effectiveness."
+  },
+  {
+   "word": "placebo effect",
+   "meaning": "The positive effect of a placebo.",
+   "pos": "term",
+   "forms": "",
+   "example": "A placebois a simulated treatment that lacks any active ingredient or element that should make it effective, and a placebo effectis a positive effect of such a treatment."
+  },
+  {
+   "word": "random assignment",
+   "meaning": "The assignment of participants to different conditions according to a random procedure, such as flipping a coin, rolling a die, or using a random number generator.",
+   "pos": "term",
+   "forms": "",
+   "example": "The primary way that researchers accomplish this kind of control of extraneous variables across conditions is called random assignment, which means using a random process to decide which participants are tested in which conditions."
+  },
+  {
+   "word": "randomized clinical trial",
+   "meaning": "An experiment designed to test the effectiveness of a psychological or medical treatment.",
+   "pos": "term",
+   "forms": "",
+   "example": "In research on the effectiveness of psychotherapies and medical treatments, this type of experiment is often called a randomized clinical trial."
+  },
+  {
+   "word": "between-subjects experiment",
+   "meaning": "An experiment in which each participant is tested in one condition.",
+   "pos": "term",
+   "forms": "",
+   "example": "In a between-subjects experiment, each participant is tested in only one condition."
+  },
+  {
+   "word": "block randomization",
+   "meaning": "A method of randomly assigning participants that guarantees that the condition sample sizes are equal or almost equal. A random procedure is used to assign the first k participants into the k conditions, and then to assign the next k participants into the k conditions, and so on until all the participants have been assigned.",
+   "pos": "term",
+   "forms": "",
+   "example": "Again, when the procedure is computerized, the computer program often handles the block randomization."
+  },
+  {
+   "word": "context effect",
+   "meaning": "An unintended effect of the context in which a response is made. In within-subjects experiments, this can be an effect of being tested in one condition on how participants perceive stimuli or interpret their task and therefore how they respond in later conditions. In survey research, this can be an effect of the surrounding items or the response scale on responses to a particular item.",
+   "pos": "term",
+   "forms": "",
+   "example": "These are often referred to as context effects because they are not related to the content of the item but to the context in which the item appears (Schwarz & Strack, 1990) [3]."
+  },
+  {
+   "word": "counterbalancing",
+   "meaning": "Systematically varying the order of conditions across participants.",
+   "pos": "term",
+   "forms": "",
+   "example": "It is counterbalancing, which means testing different participants in different orders."
+  },
+  {
+   "word": "within-subjects experiment",
+   "meaning": "An experiment in which each participant is tested in all conditions.",
+   "pos": "term",
+   "forms": "",
+   "example": "In a within-subjects experiment, each participant is tested under all conditions."
+  },
+  {
+   "word": "experimenter expectancy effect",
+   "meaning": "The effect of the researcher’s expectations on participants’ behavior.",
+   "pos": "term",
+   "forms": "",
+   "example": "This outcome is referred to as an experimenter expectancy effect (Rosenthal, 1976)[5]."
+  },
+  {
+   "word": "manipulation check",
+   "meaning": "A measure of a manipulated independent variable—usually done at the end of the procedure—to confirm that the independent variable was successfully manipulated.",
+   "pos": "term",
+   "forms": "",
+   "example": "In such situations, researchers often include a manipulation check in their procedure."
+  },
+  {
+   "word": "pilot test",
+   "meaning": "A small-scale study conducted primarily to be sure that a procedure works as planned.",
+   "pos": "term",
+   "forms": "",
+   "example": "It is always a good idea to conduct a pilot test of your experiment."
+  },
+  {
+   "word": "subject pool",
+   "meaning": "A group of people who have agreed to be contacted about opportunities to be research participants. Many universities have subject pools that consist of introductory psychology students who participate to meet a course requirement.",
+   "pos": "term",
+   "forms": "",
+   "example": "One is to use participants from a formal subject pool —an established group of people who have agreed to be contacted about participating in research studies."
+  },
+  {
+   "word": "Nonexperimental research",
+   "meaning": "Research that lacks the manipulation of an independent variable or the random assignment of participants to conditions or orders of conditions.",
+   "pos": "term",
+   "forms": "",
+   "example": "Nonexperimental research falls into three broad categories: single-variable research, correlational and quasi experimental research, and qualitative research."
+  },
+  {
+   "word": "nonlinear relationships",
+   "meaning": "A statistical relationship in which as the X variable increases, the Y variable does not increase or decrease at a constant rate. Such relationships are best described by a curved line.",
+   "pos": "term",
+   "forms": "",
+   "example": "Both of these examples are also linear relationships, in which the points are reasonably well fit by a single straight line. Nonlinear relationships are those in which the points are better fit by a curved line."
+  },
+  {
+   "word": "qualitative research",
+   "meaning": "Research that typically involves formulating broad research questions, collecting large amounts of data from a small number of participants, and summarizing the data using nonstatistical techniques.",
+   "pos": "term",
+   "forms": "",
+   "example": "Although this method is by far the most common approach to conducting empirical research in psychology, there is an important alternative called qualitative research."
+  },
+  {
+   "word": "quasi-experimental research",
+   "meaning": "Research that involves the manipulation of an independent variable but lacks the random assignment of participants to conditions or orders of conditions. It is generally used in field settings to test the effectiveness of a treatment.",
+   "pos": "term",
+   "forms": "",
+   "example": "Explain what quasi-experimental research is and distinguish it clearly from both experimental and correlational research."
+  },
+  {
+   "word": "restriction of range",
+   "meaning": "When the data used to assess a statistical relationship include a limited range of scores on either the X or Y variable, relative to the range of scores in the population. This makes the statistical relationships appear weaker than it actually is.",
+   "pos": "term",
+   "forms": "",
+   "example": "This problem is referred to as restriction of range."
+  },
+  {
+   "word": "scatterplots",
+   "meaning": "A graph used to show the correlation between two quantitative variables. For each individual, there is a point representing that individual’s score on both the X and Y variables.",
+   "pos": "term",
+   "forms": "",
+   "example": "Scatterplots are used to present correlations and relationships between quantitative variables when the variable on the x- axis (typically the independent variable) has a large number of levels."
+  },
+  {
+   "word": "third-variable problem",
+   "meaning": "The problem of knowing whether two variables, X and Y, are statistically related because one causes the other or because some third variable, Z, causes both X and Y.",
+   "pos": "term",
+   "forms": "",
+   "example": "The second reason that correlation does not imply causation is called the third-variable problem."
+  },
+  {
+   "word": "correlation matrix",
+   "meaning": "A table that shows the correlations among several variables.",
+   "pos": "term",
+   "forms": "",
+   "example": "The results of this study are summarized in Table, which is a correlation matrix showing the correlation (Pearson’s r) between every possible pair of variables in the study."
+  },
+  {
+   "word": "factor analysis",
+   "meaning": "A complex statistical technique that organizes several variables into clusters where there are strong correlations among the variables within a cluster but weak correlations among the variables between clusters. Each cluster is interpreted as representing a different underlying variable or factor.",
+   "pos": "term",
+   "forms": "",
+   "example": "When researchers study relationships among a large number of conceptually similar variables, they often use a complex statistical technique called factor analysis."
+  },
+  {
+   "word": "multiple regression",
+   "meaning": "A statistical technique that describes the relationship between multiple independent variables and a single dependent variable in terms of an equation that shows the separate contribution of each independent variable to the dependent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "While simple regression involves using one variable to predict another, multiple regression involves measuring several variables (\\(X_1\\), \\(X_2\\), \\(X_3\\),…\\(X_i\\)), and using them to predict some outcome variable (\\(Y\\))."
+  },
+  {
+   "word": "skewed",
+   "meaning": "Refers to an asymmetrical distribution. A positively skewed distribution has a relatively long positive tail, and a negatively skewed distribution has a relatively long negative tail.",
+   "pos": "term",
+   "forms": "",
+   "example": "The distribution on the left is negatively skewed, with its peak shifted toward the upper end of its range and a relatively long negative tail."
+  },
+  {
+   "word": "statistical control",
+   "meaning": "In complex correlational research, accounting for third variables by measuring them and including them in the analysis.",
+   "pos": "term",
+   "forms": "",
+   "example": "The primary way of doing this is through the statistical control of potential third variables."
+  },
+  {
+   "word": "archival data",
+   "meaning": "Existing data that were collected or created for some other purpose. They can include school and hospital records, newspaper and magazine articles, Internet content, television shows, and many other things.",
+   "pos": "term",
+   "forms": "",
+   "example": "As with naturalistic observation, measurement can be more or less straightforward when working with archival data."
+  },
+  {
+   "word": "focus groups",
+   "meaning": "A small group of people who participate together in an interview focused on a particular topic or issue.",
+   "pos": "term",
+   "forms": "",
+   "example": "Another approach used in qualitative research involves small groups of people who participate together in interviews focused on a particular topic or issue, known as focus groups."
+  },
+  {
+   "word": "participant observation",
+   "meaning": "An approach to data collection in qualitative research in which the researcher becomes an active participant in the group or situation under study.",
+   "pos": "term",
+   "forms": "",
+   "example": "In participant observation, researchers become active participants in the group or situation they are studying."
+  },
+  {
+   "word": "quantitative research",
+   "meaning": "Research that involves formulating focused research questions, collecting small amounts of data from a large number of participants, and summarizing the data using descriptive and inferential statistics.",
+   "pos": "term",
+   "forms": "",
+   "example": "But the relative weaknesses of quantitative research are the relative strengths of qualitative research."
+  },
+  {
+   "word": "theoretical narrative",
+   "meaning": "In grounded theory, a narrative interpretation of the broad themes that emerge from the data, usually supported by many direct quotations or examples from the data.",
+   "pos": "term",
+   "forms": "",
+   "example": "Finally, they write a theoretical narrative —an interpretation of the data in terms of the themes that they have identified."
+  },
+  {
+   "word": "triangulation",
+   "meaning": "In mixed methods research, using multiple quantitative and qualitative methods to study the same topic, with the goal of converging on a single interpretation.",
+   "pos": "term",
+   "forms": "",
+   "example": "A second approach to combining quantitative and qualitative research is referred to as triangulation."
+  },
+  {
+   "word": "case study",
+   "meaning": "A detailed description of an individual case.",
+   "pos": "term",
+   "forms": "",
+   "example": "A case study is an in-depth examination of an individual."
+  },
+  {
+   "word": "coding",
+   "meaning": "An approach to measurement in naturalistic observation, in which target behaviors are specified ahead of time and observers watch for and record those specific behaviors.",
+   "pos": "term",
+   "forms": "",
+   "example": "When the observations require a judgment on the part of the observers—as in the studies by Kraut and Johnston and Cohen and his colleagues—a process referred to as coding is typically required."
+  },
+  {
+   "word": "content analysis",
+   "meaning": "A family of techniques for analyzing archival data that generally involves identifying specific words, phrases, ideas, or other content in the data and then counting or summarizing their occurrence in other quantitative ways.",
+   "pos": "term",
+   "forms": "",
+   "example": "This method is an example of content analysis —a family of systematic approaches to measurement using complex archival data."
+  },
+  {
+   "word": "BRUSO",
+   "meaning": "A prescriptive model for writing good questionnaire items. They should be brief, relevant, unambiguous, specific, and objective.",
+   "pos": "term",
+   "forms": "",
+   "example": "An acronym, BRUSO stands for “brief,” “relevant,” “unambiguous,” “specific,” and “objective.” Effective questionnaire items are brief and to the point."
+  },
+  {
+   "word": "closed-ended items",
+   "meaning": "A questionnaire item that asks a question and provides a set of response options for respondents to choose from.",
+   "pos": "term",
+   "forms": "",
+   "example": "Closed-ended items ask a question and provide a set of response options for participants to choose from."
+  },
+  {
+   "word": "item-order effect",
+   "meaning": "The effect of responding to one survey item on responses to a later survey item.",
+   "pos": "term",
+   "forms": "",
+   "example": "For example, there is an item-order effect when the order in which the items are presented affects people’s responses."
+  },
+  {
+   "word": "open-ended items",
+   "meaning": "A questionnaire item that asks a question and allows respondents to respond in whatever way they want.",
+   "pos": "term",
+   "forms": "",
+   "example": "Questionnaire items can be either open-ended or closed-ended. Open-ended items simply ask a question and allow participants to answer in whatever way they choose."
+  },
+  {
+   "word": "respondents",
+   "meaning": "A term often used to refer to a participant in survey research.",
+   "pos": "term",
+   "forms": "",
+   "example": "In essence, survey researchers ask their participants (who are often called respondents in survey research) to report directly on their own thoughts, feelings, and behaviors."
+  },
+  {
+   "word": "cluster sampling",
+   "meaning": "Sampling where larger clusters of individuals (e.g., cities, households) are sampled first and then individuals are sampled from these clusters.",
+   "pos": "term",
+   "forms": "",
+   "example": "Yet another type of probability sampling is cluster sampling, in which larger clusters of individuals are randomly sampled and then individuals within each cluster are randomly sampled."
+  },
+  {
+   "word": "confidence interval",
+   "meaning": "A range of values computed in such a way that some specified percentage of the time (usually 95%) the population parameter of interest will lie within that range.",
+   "pos": "term",
+   "forms": "",
+   "example": "Another suggestion is to use confidence intervals rather than null hypothesis tests."
+  },
+  {
+   "word": "parameters",
+   "meaning": "A numerical summary (e.g., mean, standard deviation) of a population. A numerical summary of a sample is called a “statistic.”",
+   "pos": "term",
+   "forms": "",
+   "example": "These corresponding values in the population are called parameters."
+  },
+  {
+   "word": "sampling bias",
+   "meaning": "Occurs when a sample is selected in such a way that it is not representative of the entire population and therefore produces inaccurate results.",
+   "pos": "term",
+   "forms": "",
+   "example": "Probability sampling was developed in large part to address the issue of sampling bias. Sampling bias occurs when a sample is selected in such a way that it is not representative of the entire population and therefore produces inaccurate results."
+  },
+  {
+   "word": "sampling frame",
+   "meaning": "A list of all the members of the population, from which the actual sample is selected.",
+   "pos": "term",
+   "forms": "",
+   "example": "Once the population has been specified, probability sampling requires a sampling frame."
+  },
+  {
+   "word": "stratified random sampling",
+   "meaning": "Sampling where the population is first divided into different subgroups or strata and a separate random sample is selected from each stratum.",
+   "pos": "term",
+   "forms": "",
+   "example": "Types of probability sampling include simple random sampling, stratified random sampling, and cluster sampling."
+  },
+  {
+   "word": "interrupted time-series design",
+   "meaning": "A research design in which a series of measurements of the dependent variable are taken both before and after a treatment.",
+   "pos": "term",
+   "forms": "",
+   "example": "A variant of the pretest-posttest design is the interrupted time-series design."
+  },
+  {
+   "word": "maturation",
+   "meaning": "Refers collectively to extraneous developmental changes in participants that can occur between a pretest and posttest or between the first and last measurements in a time series. It can provide an alternative explanation for an observed change in the dependent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "Another alternative explanation goes under the name of maturation."
+  },
+  {
+   "word": "nonequivalent groups design",
+   "meaning": "A between-subjects research design in which participants are not randomly assigned to conditions, usually because participants are in preexisting groups (e.g., students at different schools).",
+   "pos": "term",
+   "forms": "",
+   "example": "A nonequivalent groups design, then, is a between-subjects design in which participants have not been randomly assigned to conditions."
+  },
+  {
+   "word": "pretest-posttest design",
+   "meaning": "A research design in which the dependent variable is measured (the pretest), a treatment is given, and the dependent variable is measured again (the posttest) to see if there is a change in the dependent variable from pretest to posttest.",
+   "pos": "term",
+   "forms": "",
+   "example": "It is unlike the pretest-posttest design, however, in that it includes multiple pretest and posttest measurements."
+  },
+  {
+   "word": "spontaneous remission",
+   "meaning": "Improvement in a psychological or medical problem over time without any treatment.",
+   "pos": "term",
+   "forms": "",
+   "example": "A closely related concept—and an extremely important one in psychological research—is spontaneous remission."
+  },
+  {
+   "word": "waitlist control condition",
+   "meaning": "A control condition in which participants are put on a waitlist to receive the treatment after the study is completed.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "bar graph",
+   "meaning": "A graph used to show differences between the mean scores of two or more groups.",
+   "pos": "term",
+   "forms": "",
+   "example": "As we have seen throughout this book, bar graphs are generally used to present and compare the mean scores for two or more groups or conditions."
+  },
+  {
+   "word": "crossover interaction",
+   "meaning": "An interaction in which one independent variable has opposite effects at different levels of another independent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "factorial design table",
+   "meaning": "A table used to represent a factorial design. The rows represent the levels of one independent variable, the columns represent the levels of a second independent variable, and each cell represents a condition.",
+   "pos": "term",
+   "forms": "",
+   "example": "This is shown in the factorial design table in Figure."
+  },
+  {
+   "word": "line graphs",
+   "meaning": "A graph used to show the relationship between two quantitative variables. For each level of the X variable, there is a point representing the mean of the Y variable. The points are connected by lines.",
+   "pos": "term",
+   "forms": "",
+   "example": "Line graphs are used when the independent variable is measured in a more continuous manner (e.g., time) or to present correlations between quantitative variables when the independent variable has, or is organized into, a relatively small number of distinct levels."
+  },
+  {
+   "word": "main effect",
+   "meaning": "In a factorial design, the effect of one independent variable averaged across levels of all other independent variables.",
+   "pos": "term",
+   "forms": "",
+   "example": "A main effect is the effect of one independent variable on the dependent variable—averaging across the levels of the other independent variable."
+  },
+  {
+   "word": "mixed factorial design",
+   "meaning": "A factorial design in which at least one independent variable is manipulated between subjects and at least one is manipulated within subjects.",
+   "pos": "term",
+   "forms": "",
+   "example": "This is called a mixed factorial design."
+  },
+  {
+   "word": "statistical power",
+   "meaning": "The probability of rejecting the null hypothesis for a given sample size and expected relationship strength.",
+   "pos": "term",
+   "forms": "",
+   "example": "The statistical power of a research design is the probability of rejecting the null hypothesis given the sample size and expected relationship strength."
+  },
+  {
+   "word": "within-subjects factorial design",
+   "meaning": "A factorial design in which each independent variable is manipulated within subjects so that each participant is tested in all conditions.",
+   "pos": "term",
+   "forms": "",
+   "example": "In a within-subjects factorial design, all of the independent variables are manipulated within subjects."
+  },
+  {
+   "word": "applied behavior analysis",
+   "meaning": "A subfield of psychology that uses single-subject research and applies the principles of behavior analysis to real-world problems in areas that include education, developmental disabilities, organizational behavior, and health behavior.",
+   "pos": "term",
+   "forms": "",
+   "example": "By the 1960s, many researchers were interested in using this approach to conduct applied research primarily with humans—a subfield now called applied behavior analysis (Baer, Wolf, & Risley, 1968)[3]."
+  },
+  {
+   "word": "baseline",
+   "meaning": "A condition in a single-subject research design in which the dependent variable is measured repeatedly in the absence of any treatment. Most designs begin with a baseline condition, and many return to the baseline condition at least once.",
+   "pos": "term",
+   "forms": "",
+   "example": "During the first phase, A, a baseline is established for the dependent variable."
+  },
+  {
+   "word": "group research",
+   "meaning": "A type of quantitative research that involves studying a large number of participants and examining their behavior in terms of means, standard deviations, and other group-level statistics.",
+   "pos": "term",
+   "forms": "",
+   "example": "As we have seen throughout the book, group research involves combining data across participants."
+  },
+  {
+   "word": "latency",
+   "meaning": "One factor that is considered in the visual inspection of single-subject data. The time between the change in conditions and the change in the dependent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "A third factor is latency, which is the time it takes for the dependent variable to begin changing after a change in conditions."
+  },
+  {
+   "word": "multiple-baseline design",
+   "meaning": "A single-subject research design in which multiple baselines are established for different participants, different dependent variables, or different contexts and the treatment is introduced at a different time for each baseline.",
+   "pos": "term",
+   "forms": "",
+   "example": "One solution to these problems is to use a multiple-baseline design, which is represented in Figure."
+  },
+  {
+   "word": "multiple-treatment reversal design",
+   "meaning": "A single-subject research design in which phases that introduce different treatments are alternated.",
+   "pos": "term",
+   "forms": "",
+   "example": "In a multiple-treatment reversal design, a baseline phase is followed by separate phases in which different treatments are introduced."
+  },
+  {
+   "word": "social validity",
+   "meaning": "The extent to which a single-subject study focuses on an intervention that has a substantial effect on an important behavior and can be implemented reliably in the real-world contexts (e.g., by teachers in a classroom) in which that behavior occurs.",
+   "pos": "term",
+   "forms": "",
+   "example": "This is sometimes referred to as social validity (Wolf, 1976)[1]."
+  },
+  {
+   "word": "steady state strategy",
+   "meaning": "In single-subject research, allowing behavior to become fairly consistent from one observation to the next before changing conditions. This makes any effect of the treatment easier to detect.",
+   "pos": "term",
+   "forms": "",
+   "example": "This is sometimes referred to as the steady state strategy (Sidman, 1960)[1]."
+  },
+  {
+   "word": "visual inspection",
+   "meaning": "The primary approach to data analysis in single-subject research, which involves graphing the data and making a judgment as to whether and to what extent the independent variable affected the dependent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "Single-subject research, by contrast, relies heavily on a very different approach called visual inspection."
+  },
+  {
+   "word": "histogram",
+   "meaning": "A graph for displaying the distribution of a variable. The x- axis represents the values of the variable, and the y- axis represents the frequency of each score.",
+   "pos": "term",
+   "forms": "",
+   "example": "A histogram is a graphical display of a distribution."
+  },
+  {
+   "word": "frequency table",
+   "meaning": "A table for displaying the distribution of a variable. The first column lists the values of the variable, and the second column lists the frequency of each score.",
+   "pos": "term",
+   "forms": "",
+   "example": "One way to display the distribution of a variable is in a frequency table."
+  },
+  {
+   "word": "outlier",
+   "meaning": "An extreme score that is far removed from the rest of the scores in the distribution.",
+   "pos": "term",
+   "forms": "",
+   "example": "An outlier is an extreme score that is much higher or lower than the rest of the scores in the distribution."
+  },
+  {
+   "word": "percentile rank",
+   "meaning": "A measure of the location of a score within its distribution. The percentage of scores below a particular score.",
+   "pos": "term",
+   "forms": "",
+   "example": "The percentile rank of a score is the percentage of scores in the distribution that are lower than that score."
+  },
+  {
+   "word": "data file",
+   "meaning": "A computer file that contains data formatted for statistical analysis.",
+   "pos": "term",
+   "forms": "",
+   "example": "You can use a general spreadsheet program like Microsoft Excel or a statistical analysis program like SPSS to create your data file."
+  },
+  {
+   "word": "raw data",
+   "meaning": "Data in the form in which they were originally collected (e.g., completed questionnaires).",
+   "pos": "term",
+   "forms": "",
+   "example": "Next, you should check your raw data to make sure that they are complete and appear to have been accurately recorded (whether it was participants, yourself, or a computer program that did the recording)."
+  },
+  {
+   "word": "reference citation",
+   "meaning": "In the text of an APA-style article or book chapter, a mention of a specific reference. APA-style reference citations provide the authors’ last names and the year of publication.",
+   "pos": "term",
+   "forms": "",
+   "example": "When you refer to another researcher’s idea, you must include a reference citation (in the text) to the work in which that idea originally appeared and a full reference to that work in the reference list."
+  },
+  {
+   "word": "standard error",
+   "meaning": "The standard deviation divided by the square root of the sample size. Often used for error bars in graphs.",
+   "pos": "term",
+   "forms": "",
+   "example": "The standard error is the standard deviation of the group divided by the square root of the sample size of the group."
+  },
+  {
+   "word": "alternative hypothesis",
+   "meaning": "The idea that there is a statistical relationship between two variables in the population and that any relationship in a sample reflects that real relationship. Often abbreviated H 1.",
+   "pos": "term",
+   "forms": "",
+   "example": "Informally, the null hypothesis is that the sample relationship “occurred by chance.” The other interpretation is called the alternative hypothesis (often symbolized as H 1)."
+  },
+  {
+   "word": "practical significance",
+   "meaning": "The importance of a research result in some real-world context. Research results can be statistically significant without having any practical significance. In clinical practice, practical significance is called “clinical significance.”",
+   "pos": "term",
+   "forms": "",
+   "example": "This is why it is important to distinguish between the statistical significance of a result and the practical significance of that result. Practical significance refers to the importance or usefulness of the result in some real-world context."
+  },
+  {
+   "word": "retain the null hypothesis",
+   "meaning": "In null hypothesis testing, the tentative conclusion that the null hypothesis is true. The sample relationship is due to chance. Often expressed as “fail to reject the null hypothesis” (although never as “accept the null hypothesis”).",
+   "pos": "term",
+   "forms": "",
+   "example": "If it would not be extremely unlikely, then retain the null hypothesis."
+  },
+  {
+   "word": "sampling error",
+   "meaning": "Random variation in a statistic from sample to sample.",
+   "pos": "term",
+   "forms": "",
+   "example": "This random variability in a statistic from sample to sample is called sampling error. (Note that the term error here refers to random variability and does not imply that anyone has made a mistake."
+  },
+  {
+   "word": "critical values",
+   "meaning": "In null hypothesis testing, the value or values of a test statistic that correspond to a p value of.05 and therefore serve as a cutoff for deciding to reject the null hypothesis.",
+   "pos": "term",
+   "forms": "",
+   "example": "Instead, it provides the critical values of t for different degrees of freedom (df) when α is.05."
+  },
+  {
+   "word": "difference score",
+   "meaning": "The difference between an individual’s score at one time or under one condition and that individual’s score at a second time or under a second condition. The dependent-samples t test is in essence a one-sample t test on a set of difference scores.",
+   "pos": "term",
+   "forms": "",
+   "example": "However, the first step in the dependent-samples t- test is to reduce the two scores for each participant to a single difference score by taking the difference between them."
+  },
+  {
+   "word": "factorial ANOVA",
+   "meaning": "A null hypothesis test used to test both main effects and interactions in a factorial design.",
+   "pos": "term",
+   "forms": "",
+   "example": "When more than one independent variable is included in a factorial design, the appropriate approach is the factorial ANOVA."
+  },
+  {
+   "word": "one-tailed test",
+   "meaning": "A null hypothesis test (e.g., a t test or test of Pearson’s r) in which the null hypothesis is rejected only if the sample result is extreme in one direction specified before the data are collected. Used when the researcher has a strong expectation about the direction of the relationship.",
+   "pos": "term",
+   "forms": "",
+   "example": "But it is also possible to do a one-tailed test, where we reject the null hypothesis only if the t score for the sample is extreme in one direction that we specify before collecting the data."
+  },
+  {
+   "word": "one-way ANOVA",
+   "meaning": "A null hypothesis test used to compare more than two means in a between-subjects design with one independent variable.",
+   "pos": "term",
+   "forms": "",
+   "example": "In this section, we look primarily at the one-way ANOVA, which is used for between-subjects designs with a single independent variable."
+  },
+  {
+   "word": "post hoc comparisons",
+   "meaning": "Statistical comparison of selected pairs of group or condition means following a statistically significant ANOVA result. Usually done using one of several modified t- test procedures.",
+   "pos": "term",
+   "forms": "",
+   "example": "For this reason, statistically significant one-way ANOVA results are typically followed up with a series of post hoc comparisons of selected pairs of group means to determine which are different from which others."
+  },
+  {
+   "word": "repeated-measures ANOVA",
+   "meaning": "A null hypothesis test used to compare means for one sample at more than two times or under more than two conditions in a within-subjects design.",
+   "pos": "term",
+   "forms": "",
+   "example": "This requires a slightly different approach, called the repeated-measures ANOVA."
+  },
+  {
+   "word": "test statistic",
+   "meaning": "In null hypothesis testing, a statistic such as t or F that is computed only to help find the p value for the sample result.",
+   "pos": "term",
+   "forms": "",
+   "example": "However, because of the way it is computed, the correlation coefficient can also be treated as its own test statistic."
+  },
+  {
+   "word": "Bayesian statistics",
+   "meaning": "An alternative approach to inferential statistics in which the researcher specifies the probability that the null hypothesis and important alternative hypotheses are true before conducting a study, conducts the study, and then computes revised probabilities based on the data.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "file drawer problem",
+   "meaning": "The fact that statistically significant results are more likely to be submitted and accepted for publication than nonsignificant results.",
+   "pos": "term",
+   "forms": "",
+   "example": "Another issue related to Type I errors is the so-called file drawer problem (Rosenthal, 1979)[1]."
+  },
+  {
+   "word": "professional conferences",
+   "meaning": "A meeting at which researchers in a particular field gather to share their research.",
+   "pos": "term",
+   "forms": "",
+   "example": "Describe the purpose of talks and posters at professional conferences."
+  },
+  {
+   "word": "high-level style",
+   "meaning": "The second-most general level of APA style. It refers to general guidelines for the clear expression of ideas.",
+   "pos": "term",
+   "forms": "",
+   "example": "The second level of APA style can be referred to as high-level style (covered in Chapter 3 “Writing Clearly and Concisely” of the Publication Manual), which includes guidelines for the clear expression of ideas."
+  },
+  {
+   "word": "low-level style",
+   "meaning": "The most specific level of APA style. It refers to the extensive rules pertaining to spelling, grammar, the formatting of reference and reference citations, the creation of tables and figures, and so on.",
+   "pos": "term",
+   "forms": "",
+   "example": "The third level of APA style can be referred to as low-level style (which is covered in Chapter 4 “The Mechanics of Style” through Chapter 7 “Reference Examples” of the Publication Manual)."
+  },
+  {
+   "word": "title page",
+   "meaning": "The first page of an APA-style manuscript, containing the title, author names and affiliations, and author note.",
+   "pos": "term",
+   "forms": "",
+   "example": "An APA-style research report begins with a title page."
+  },
+  {
+   "word": "appendix",
+   "meaning": "An optional section at the end of an APA-style manuscript used to present important supplemental material.",
+   "pos": "term",
+   "forms": "",
+   "example": "An appendix is appropriate for supplemental material that would interrupt the flow of the research report if it were presented within any of the major sections."
+  },
+  {
+   "word": "closing",
+   "meaning": "The last paragraph or two of the introduction of an APA-style empirical research report. It restates the research question and comments on the method.",
+   "pos": "term",
+   "forms": "",
+   "example": "The closing of the introduction—typically the final paragraph or two—usually includes two important elements."
+  },
+  {
+   "word": "method section",
+   "meaning": "The section of an APA-style empirical research report in which the method is described in detail. At minimum, it includes a participants subsection and a design and procedure subsections.",
+   "pos": "term",
+   "forms": "",
+   "example": "The method section is where you describe how you conducted your study."
+  },
+  {
+   "word": "results section",
+   "meaning": "The section of an APA-style empirical research report in which the results are described in detail.",
+   "pos": "term",
+   "forms": "",
+   "example": "The results section is where you present the main results of the study, including the results of the statistical analyses."
+  },
+  {
+   "word": "final manuscripts",
+   "meaning": "A manuscript (such as a dissertation, thesis, or student paper) prepared in its final form that will not be submitted for publication in a professional journal.",
+   "pos": "term",
+   "forms": "",
+   "example": "These are called final manuscripts and include dissertations, theses, and other student papers."
+  },
+  {
+   "word": "poster session",
+   "meaning": "A one- or two-hour session at a professional conference in which several researchers present their posters, often on related topics.",
+   "pos": "term",
+   "forms": "",
+   "example": "A poster is typically presented during a one- to two-hour poster session that takes place in a large room at the conference site."
+  },
+  {
+   "word": "theoretical articles",
+   "meaning": "A type of journal article in which the author presents a new theory or evaluates existing theories.",
+   "pos": "term",
+   "forms": "",
+   "example": "When these articles present a new theory, they are often called theoretical articles."
+  },
+  {
+   "word": "*Publication Manual of the American Psychological Association*",
+   "meaning": "A book published by the American Psychological Association that contains all the guidelines of APA style. It is often just referred to as the Publication Manual.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "*t* test",
+   "meaning": "A family of null hypothesis tests used to compare two means.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "*z* score",
+   "meaning": "A measure of the location of a score within its distribution. The score minus the mean, divided by the standard deviation.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "Cohen’s *d*",
+   "meaning": "A measure of relationship strength or “effect size” for a difference between two groups or conditions.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "dependent-samples *t* test",
+   "meaning": "A null hypothesis test used to compare two means for one sample measured at two different times or under two different conditions—as in a pretest-posttest or within-subjects design.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "doctor of philosophy [PhD]",
+   "meaning": "The highest degree in most academic fields, including psychology. Scientific researchers in psychology typically have this degree.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "formality",
+   "meaning": "The extent to which the components of a theory are specified clearly and lead to precise predictions.",
+   "pos": "term",
+   "forms": "",
+   "example": "In addition to varying in formality and scope, psychological theories vary in the kinds of theoretical approaches they are constructed from."
+  },
+  {
+   "word": "Functional theories",
+   "meaning": "A theory that explains phenomena in terms of their function or purpose.",
+   "pos": "term",
+   "forms": "",
+   "example": "Functional theories explain psychological phenomena in terms of their function or purpose."
+  },
+  {
+   "word": "independent-samples *t* test",
+   "meaning": "A null hypothesis test used to compare means for two separate samples—as in a between-subjects design.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "institutional review board (IRB)",
+   "meaning": "A committee at a university, a hospital, or another institution that reviews research protocols to be sure they conform to ethical standards.",
+   "pos": "term",
+   "forms": "",
+   "example": "An extremely important part of these regulations is that universities, hospitals, and other institutions that receive support from the federal government must establish an institutional review board (IRB)—a committee that is responsible for reviewing research protocols for potential ethical problems."
+  },
+  {
+   "word": "mean squares within groups (*MSW*)",
+   "meaning": "In an analysis of variance, an estimate of the population variance based on the variability within each group or condition.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "Mechanistic theories",
+   "meaning": "A theory that explains phenomena in terms of underlying variables, structures, and processes, and the interactions among them.",
+   "pos": "term",
+   "forms": "",
+   "example": "Mechanistic theories focus on specific variables, structures, and processes, and how they interact to produce the phenomena being studied."
+  },
+  {
+   "word": "multiple dependent variables",
+   "meaning": "More than one dependent variable in the same study. They can be measures of different variables, including a manipulation check, or different measures of the same construct.",
+   "pos": "term",
+   "forms": "",
+   "example": "Researchers in psychology often include multiple dependent variables in their studies."
+  },
+  {
+   "word": "nonmanipulated independent variable",
+   "meaning": "In a factorial design, a variable (usually a participant variable) that is treated as an independent variable but is not actually manipulated by the researcher.",
+   "pos": "term",
+   "forms": "",
+   "example": "In many factorial designs, one of the independent variables is a nonmanipulated independent variable."
+  },
+  {
+   "word": "Nonprobability sampling",
+   "meaning": "An approach to sampling in which the researcher cannot specify the probability that each member of the population will be selected. Convenience sampling is an example.",
+   "pos": "term",
+   "forms": "",
+   "example": "Nonprobability sampling occurs when the researcher cannot specify these probabilities."
+  },
+  {
+   "word": "nonresponse bias",
+   "meaning": "A type of sampling bias in which those who do not respond to the survey differ systematically from those who do, producing misleading results.",
+   "pos": "term",
+   "forms": "",
+   "example": "Resource description: Steven Litt gives tips on how to reduce nonresponse bias."
+  },
+  {
+   "word": "parsimony",
+   "meaning": "The extent to which a theory explains or interprets phenomena in as simple a way as possible. A theory that does so is said to be parsimonious.",
+   "pos": "term",
+   "forms": "",
+   "example": "It provides some perspective on the importance of parsimony in all science, not just psychology."
+  },
+  {
+   "word": "Pearson’s *r*",
+   "meaning": "A measure of the strength of the correlation between two quantitative variables.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "percentage of nonoverlapping data",
+   "meaning": "A statistic sometimes used in single-subject research. The percentage of observations in a treatment condition that are more extreme than the most extreme observation in a relevant baseline condition.",
+   "pos": "term",
+   "forms": "",
+   "example": "The greater the percentage of nonoverlapping data, the stronger the treatment effect."
+  },
+  {
+   "word": "single-variable research",
+   "meaning": "Research that focuses on a single variable rather than on a statistical relationship between variables.",
+   "pos": "term",
+   "forms": "",
+   "example": "Nonexperimental research falls into three broad categories: single-variable research, correlational and quasi experimental research, and qualitative research."
+  },
+  {
+   "word": "theoretical approach",
+   "meaning": "The kinds of theoretical ideas that a theory is constructed from.",
+   "pos": "term",
+   "forms": "",
+   "example": ""
+  },
+  {
+   "word": "Typologies",
+   "meaning": "A theory that categorizes people or behavior into distinct types.",
+   "pos": "term",
+   "forms": "",
+   "example": "Typologies provide organization by categorizing people or behavior into distinct types."
+  }
+ ]
+}

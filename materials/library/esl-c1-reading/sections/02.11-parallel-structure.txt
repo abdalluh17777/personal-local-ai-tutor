@@ -1,0 +1,89 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.11: Parallel Structure
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.11%3A_Parallel_Structure
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is parallel structure?
+As you may know, parallel lines are two lines that continue without ever touching (see Figure 2.10.1). Parallel structure is similar. It is two separate grammar structures that exist side by side in your writing.
+[Image: a set of railroad tracks running in parallel lines]
+Figure : Parallel railroad tracks ("Parallel Lines" by Ko:(char *)hook is licensed under CC BY-NC 2.0)
+Parallel structure means using the same pattern of words to show that two or more ideas have the same level of importance. This results in clearer and more consistent writing, which helps readers better understand your point. We are focusing on parallel structure for two reasons. First of all, you may have errors to fix. However, if you use it correctly, it is a powerful tool for improving cohesion.
+## Parallel structure and cohesion
+Parallel structure increases cohesion by showing your reader how ideas are connected together.
+Try this!
+Let's look at some quotes by public figures that have parallel structure. Can you make a guess at how they end?
+1. “Not everything that is faced can be changed. But nothing can be changed until it is ...."—James Baldwin
+2. “If you want others to be happy, practice compassion. If you want to be happy, practice ....” —The Dalai Lama
+3. “We must accept finite disappointment, but never lose infinite...” —Dr. Martin Luther King, Jr.
+4. “Success is getting what you want. Happiness is wanting .....” —Dale Carnegie
+5. "People will forget what you said, people will forget what you did, but people will never forget how you made them ....." —Maya Angelou
+6. “We make a living by what we get, but we make a life by what .....” —Winston Churchill
+7. "To be smart on crime, we should not be in a position of constantly reacting to crime after it happens. We should be looking at preventing crime ....." —Kamala Harris
+8. "I just hope that more people will ignore the fatalism of the argument that we are beyond repair. We are not beyond repair. We are never ....." —Alexandria Ocasio-Cortez
+9. “Ask not what your country can do for you; ask what....” —John F. Kennedy
+(To see the complete quotation, check the 2.15: Answer Key: Organization and Cohesion)
+As you can see, it was easier to guess and remember the quotations because they use parallel structure. Would anyone remember a quotation like "Ask not what your country can do for you. Instead, why don't you think about whether there is anything that you can do to help improve your nation"? Probably not.
+In paragraphs, we can see the same thing. We can understand complex ideas more clearly if there is parallel structure that shows us how they are connected.
+## Types of parallel structure
+We can use parallel structure for single words up through entire clauses. Let's see how that works.
+## Parallel structure with words
+If you are listing words, make sure that all of the words are the same part of speech.
+Incorrect parallel structure: Stereotypes are inevitable and problems.
+Here, you have an adjective and a noun. The reader will get a little lost in the reading because they will not understand the connection between these words. You can fix it by making both words into adjectives.
+Improved parallel structure: Stereotypes are inevitable and problematic.
+## Parallel structure with verbs
+If you are using two or more verbs that are part of a list, that are connected by a conjunction, or that come after another verb, make sure they are the same form and tense.
+Incorrect parallel structure: I hate to make stereotypes about others and hearing others making stereotypes about me.
+You can use either a gerund or an infinitive after the verb "hate", but you should choose the same form for both verbs.
+Improved parallel structure: I hate making stereotypes about others and hearing others making stereotypes about me.
+## Parallel structure with phrases and clauses
+If you are using two or more phrases or clauses that are part of a list or comparison or that are linked by a conjunction, make sure they follow the same structure. This will make it easier for readers to understand the connection between your idea.
+Incorrect parallel structure: There is a lot of discussion about what women experience when they are studying science and engineering and better supporting them.
+This sentence confusing for the reader because the objects of the preposition "about" are long and have different structures. To make it more clear, the same structure can be used for both. For example, making them both noun clauses that start with "wh" quesetion words will make the relationship more clear.
+Improved parallel structure: There is a lot of discussion about what women experience while studying science and engineering and how universities can better support them.
+## Identifying parallel structure
+Let's see how published writers use parallel structure to make complex sentences and ideas more clear for the reader.
+Notice this!
+Here is a paragraph from a published research paper by on women in engineering by Kathleen N. Smith and Joy Gaston Gayles. It has a variety of sentence structures. Can you find examples of parallel structure of words, phrases, or clauses?
+Why is it that women who are talented in math and science avoid or leave engineering majors and careers? An American Association of University Women report on women’s success in engineering and computing suggests that women who persist in science and engineering are not all that different from women who decide to leave. The major difference between staying and leaving has been found to have less to do with the women themselves and more to do with the academic and workplace environments where they attend school and pursue careers. Throughout the literature on women’s persistence in science, technology, engineering, and math (STEM) fields, a range of structural and cultural barriers contribute to the high prevalence of gender bias in these fields, with direct implications for women’s self-efficacy, experiences, opportunities, and success, particularly in engineering.
+(For possible answers, check the 2.15: Answer Key: Organization and Cohesion)
+## Fixing errors with parallel structure
+Here are some tips for improving your parallel structure:
+## Articles and prepositions
+Articles (*a*, *an*, *the*) and prepositions (*of, in, by, at*, etc.) in a list should either be used only once or be repeated with each term:
+- Faulty parallelism: **The** science fields, **the** technology fields, and engineering fields.
+  - Correction: **The** science fields, **the** technology fields, and **the** engineering fields.
+  - Alternate correction: **The** science fields, technology fields, and engineering fields.
+- Faulty parallelism: **In** elementary school, high school, or **in** college.
+  - Correction: **In** elementary school, **in** high school, or **in** college.
+  - Alternate correction: **In** elementary school, high school, or college.
+Correlative expressions
+Correlative expressions are phrases that are used to connect structures together. However, sometimes they are used incorrectly. Here are some tips:
+- "not only" requires a "but also"
+- "either" requires an "or"
+- "neither" requires a "nor"
+- say "first, second, third, etc." or ("firstly, secondly, thirdly," etc.)
+Here are some examples:
+- Faulty parallelism: It was **neither** helpful or useful.
+  - Corrected version: It was **neither** helpful **nor** useful.
+- Faulty parallelism: It was **not only** a long class, it was boring.
+  - Corrected version: **Not only** was the class long, **but** it was **also** boring.
+- Faulty parallelism: **First**, I will explain the problem. **Secondly**, I will offer a solution.
+  - Corrected version: **First**, I will explain the problem. **Second**, I will offer a solution.
+## Add parallel structure for clarity and cohesion
+As your essay, look at each sentence in your draft and check to see if you have problems with the parallel structure or if more parallel structure can make the relationship between ideas stronger.
+### Try this!
+Here are three sentences from a student's body paragraph. How can you improve the parallel structure?
+- Having stereotypes highlights people’s differences and equality is nearly impossible. In her TED talk, Chimimanda Adichie claims, “The consequence of the single story is this: it robs people dignity. . . . It emphasizes how we are different rather than how we are similar.”
+- What she means is that a single story usually focuses on what other groups do not have and it benefits the people telling the story, rather than the entire truth.
+- This makes us look at our differences and society is less equal.
+(For possible answers, check the 2.15: Answer Key: Organization and Cohesion)
+## Works Cited
+Smith, Kathleen N., and Joy Gaston Gayles. “‘Girl Power’: Gendered Academic and Workplace Experiences of College Women in Engineering.” *Social Sciences* 7.1 (2018): 11. *Crossref*. Web.
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+Sample sentences from a paragraph on stereotypes are adapted from an essay entitled "Single Story: Matters More Than You Thought" by Tram Nguyen. License: CC BY.
+## CC Licensed Content: Previously Published
+What is Parallel structure? and Improving your Parallel structure are adapted from Technical Writing at LBCC's page Parallel Contruction. License: CC BY.
+The paragraph on women in engineering in the Notice this! box is from “Girl Power”: Gendered Academic and Workplace Experiences of College Women in Engineering" by Kathleen N. Smith and Joy Gasten Gales, licensed CC BY.
+This page titled 2.11: Parallel Structure was last modified on Sun, 09 Mar 2025 17:17:23 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

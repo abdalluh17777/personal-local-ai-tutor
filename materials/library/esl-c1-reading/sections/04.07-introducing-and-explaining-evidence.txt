@@ -1,0 +1,134 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+4.7: Introducing and Explaining Evidence
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.07%3A_Introducing_and_Explaining_Evidence
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Providing context
+This section uses evidence from the article "Why Being Bilingual Helps Keep Your Brain Fit" by Gaia Vince.
+Whenever you use a quoted or paraphrased piece of text evidence from another source, you need to introduce it with context. Sometimes beginning academic writers put a quote without any context. This is called "dumping a quote" or "a dropped quote."
+## Comparing quotations in a sample paragraph
+Notice this!
+Compare these two examples of text evidence used in a student paper:
+“Bilingual people have significantly more grey matter than monolinguals in their anterior cingulate cortex, and that is because they are using it so much more often” (Abutalebi qtd. in Vince).
+This fulfills the minumum requirement of citing the author's last name for the in-text citation, but as a reader, it leaves you wondering: Who is Abutalebi? Why are they included here? How do they know this? Why should we believe it?
+Cognitive neuropsychologist Jubin Abutalebi, of the University of San Raffaele in Milan, Italy, has found through brain scans that “bilingual people have significantly more grey matter than monolinguals in their anterior cingulate cortex, and that is because they are using it so much more often” (qtd. in Vince). It may sound surprising that knowing two languages can literally change the actual physical structure of our brains, but that is the key to the mental benefits of bilingualism beyond the languages themselves. This extra gray matter makes our brains more flexible and resilient, and helps us understand other people better.
+The second example tells us who Abutalebi is, gives his credentials, and categorizes the evidence as a research finding before telling us the actual evidence so, as readers, we are better prepared to understand the evidence and accept it as logical support. (Note: if the writer uses another quote or paraphrase from Abutalebi later in the paper, they can simply use his last name, because we already know who he is.) After the evidence, the writer has added some explanation so we as readers understand why the evidence is important and how it relates to the other parts of the writer's essay.
+Context before the text evidence, and explanation after it, wrap the evidence up in an idea-package so that our readers can easily follow our meaning.
+Many teachers use the metaphor of a sandwich, like the one pictured in Figure 4.7.1, to describe this pattern that places pieces of evidence from other sources inside our own sentences. The evidence is the filling of the sandwich, and the two pieces of bread are the context and explanation. We do not typically put text evidence in the topic sentence or in the last sentence of a body paragraph.
+[Image: Sandwich with tomato inside]
+Figure : Vegan Sandwich by Suzette is licensed under CC-BY 2.0
+## Using reporting words
+Reporting words tell us who said what, and often give us a clue about what kind of thing they said. We use them to introduce a quotation or paraphrase from another source. This useful group of words is sometimes called "reporting verbs" because most of them are verbs, or "reporting expressions" because many of them are phrases. One custom that may seem odd is that we usually put reporting verbs in simple present tense.
+- If you are reporting a past event or action, like in the above example (...has found through brain scans that...), the verb is in simple past or present perfect.
+- If the reporting verb is introducing someone's words, which is more common for a quote or paraphrase, it's usually in present tense. We act like we are talking about a big discussion where we are in the same room with all the authors, with each author saying their idea, even if they actually wrote it in an article several years ago. Don't forget the "s" on the end of the verb for a singular person or organization (Smith argues..., the Department of Agriculture reports...)
+For more resources on the grammar and usage of reporting words, see 4.10: Language Toolkit.
+## Neutral reporting words
+The simplest reporting verb is "**say**." There are 3 common places this verb goes in a sentence with a quote, but the first is the most common in academic writing.
+say: Science editor Gaia Vince says, "Multilingualism has been shown to have many social, psychological and lifestyle advantages."
+say (reporting word at the end of the quote): "Multilingualism has been shown to have many social, psychological and lifestyle advantages, says science editor Gaia Vince.
+say (reporting word embedded after the subject of the quote sentence): "Multilingualism," says science editor Gaia Vince, "has been shown to have many social, psychological and lifestyle advantages."
+Here are other reporting verbs that you can use that mean the same thing:
+**state**: Science editor Gaia Vince states, "Multilingualism has been shown to have many social, psychological and lifestyle advantages."
+**tell**: Science editor Gaia Vince tells us, "Multilingualism has been shown to have many social, psychological and lifestyle advantages." (Notice that with "tell," you need an indirect object like "us").
+### Using "according to"
+The phrase "**according to**" means the same thing as "says," but the grammar pattern is different:
+According to Vince, "Bilinguals rarely get confused between languages, but they may introduce the odd word or sentence of the other language if the person they are talking to also knows it."
+According to several recent studies, bilinguals show more empathy and can guess other people's feelings more accurately.
+According to Abutalebi, "The ACC is like a cognitive muscle . . . the more you use it, the stronger, bigger and more flexible it gets" (qtd. in Vince).
+Notice that "according to" is used as a prepositional phrase, not a verb. Here's the pattern:
+According to (source), (complete sentence, either a quote or paraphrase). (Citation if the source has a page number and/or didn't already say the author's name).
+Be careful! The two most common mistakes students make are
+- Using both a reporting verb and "according to":
+Incorrect: According to Abutalebi, he reports that …
+Correct: According to Abutalebi, ... or Abutalebi reports that...
+- Failing to place a complete sentence after “according to:”
+Incorrect: According to Abutalebi, the greater flexibility of the bilingual brain.
+Correct: According to Abutalebi, the bilingual brain is more flexible.
+## Reporting words with special meanings
+If the source writer makes a generalization based on their observations, you can use "observe":
+**observe**: Science editor Gaia Vince observes, "Being so bound up with identity, language is also deeply political."
+If the source writer makes a special point to focus the reader’s attention, you can use "point out":
+**point out**: Science editor Gaia Vince points out, "Bilingualism can also offer protection after brain injury."
+If the source writer says the same thing as another source that you have just referred to, you can use "agrees" or "confirms":
+**agree**: Cognitive neurologist Thomas Bak agrees that multilingualism was more common in human history than monolingualism.
+**confirm**: Experiments by Panos Athanasopoulis at Lancaster University confirm that the way we describe a situation can change depending on which language we are using.
+If the source writer refers to another source, you can use "cite":
+**cite**: Vince cites psycholinguist Susan Ervin-Tripp, whose work with Japanese-English bilingual women in the 1960s led her to believe that "human thought takes place within language mindsets, and that bilinguals have different mindsets for each language."
+If the source writer gives careful reasons for their idea, you can use "explain":
+**explain**: Abutalebi explains, "The ACC is like a cognitive muscle....: the more you use it, the stronger, bigger and more flexible it gets."
+If the source writer emphasizes something which not everybody agrees about, you can use "maintain," "insist," or "argue":
+**maintain**: Bak maintains that "the detractors have made errors in their experimental methods."
+**insist:** Language expert Alex Rawlings insists that it is actually easier to learn new languages as an adult than as a child.
+**argue**: Vince argues that European imperialism may have led to the false belief that encouraging bilingualism in children is harmful.
+If the source writer makes a statement based on research evidence, you can use "conclude" or "show":
+**conclude**: From her research on aging bilinguals at York University, psycholinguist Ellen Bialystok concludes that being bilingual can delay the onset of dementia by about five years.
+**show**: A study in 1962 by Peal and Lambert showed, "Bilingual children did better than monolinguals in both verbal and non-verbal intelligence tests."
+If the source writer says something in passing that is not their main point, but that you want to include in your own paper, you can use "mention":
+**mention**: Vince mentions that "one estimate puts the value of knowing a second language at up to $128,000 over 40 years."
+If the source writer talks about future possibilities, you can use "predict," "warn," or "hope," depending on the meaning:
+**predict**: Vince predicts, "Being bilingual could keep our minds working longer and better into old age, which could have a massive impact on how we school our children and treat older people."
+**warn**: Vince warns that "in a world that is losing languages faster than ever – at the current rate of one a fortnight, half our languages will be extinct by the end of the century."
+**hope**: Bialystok hopes that education systems will encourage children to grow up bilingual, "considering the very many social and cultural benefits to knowing another language."
+If the source writer discusses an idea or gives evidence for it, but is not 100% definite about it, you can use "suggest":
+**suggest**: Bialystok suggests that dementia may be delayed "because bilingualism rewires the brain and improves the executive system."
+If the source writer does not believe something to be true, you can use "deny," doubt," or "question":
+**deny**: Some educators deny the necessity of bilingualism, and still discourage immigrant parents from raising their children with both languages.
+**doubt**: Some policymakers doubt the benefits of bilingualism, despite the support of extensive research.
+**question**: Bak questions the methods of the researchers who claim bilingualism does not have cognitive benefits.
+If the source writer is asking a question, you can use "ask" or "wonder." (note that this is a different meaning than "question"—"question" has the special meaning of "doubt" or "criticize" in academic language.)
+**ask**: Vince asks, "What will happen if the current rich diversity of languages disappears and most of us end up speaking only one?"
+**wonder**: Vince wonders whether there are "really two separate minds in a bilingual brain."
+If the source writer is making a concession or describing a different perspective, you can use "admit" or "acknowledge":
+**admit**: Vince admits that she struggled to learn the new language.
+**acknowledge**: Vince acknowledges that many educators still discourage students from keeping their home language.
+## Choosing effective reporting words
+Let's take a look at the reporting words the author used in the article to introduce her evidence.
+Try this!
+Here are some sentences from the article "Why Being Bilingual Helps Keep Your Brain Fit" by Gaia Vince. The reporting word(s) have been replaced with the letter "X". Guess which word(s) she used to introduce the quote or paraphrase, out of the three choices in brackets at the end of each sentence. Think about what kind of an idea the evidence is - is it a fact? an opinion? a conclusion? Also use the grammar pattern as a clue.
+1. “If you look at modern hunter-gatherers, they are almost all multilingual,” X Thomas Bak. [doubts/ says/ concludes]
+2. "From this [study], Ervin-Tripp X that human thought takes place within language mindsets, and that bilinguals have different mindsets for each language..." [concludes/ insists/ warns]
+3. "When I did the same test again after completing the . . . task, I was significantly better at it, just as Athanasopoulos has predicted. 'Learning the new language improved your performance the second time around,” he X. [denies/ explains/ argues]
+4. "The result of my test in Athanasopoulos’s lab X that just 45 minutes of trying to understand another language can improve cognitive function." [questions/ maintains/ suggests]
+5. "Strowger X me that the program has had many benefits in addition to their grades, including improving students’ engagement and enjoyment, increasing their awareness of other cultures so that they are equipped as global citizens, widening their horizons, and improving their job prospects." [tells/ says/ according to]
+For answers, see 4.12: Integrating Evidence Answer Key
+## Explaining text evidence
+Writers typically add at least a sentence or two of explanation after quoted or paraphrased text evidence to explain why the evidence is important and how it connects to the topic sentence or other point, and thus supports the overall thesis. Sometimes teachers call this part "analysis" or "significance."
+## What should I write in the explanation?
+Your explanation may include any of the following:
+- interpretation: what is the deeper meaning of the evidence?
+- emphasis/impact: why is the evidence so important?
+- cause-effect: what are the reasons for or consequences of the evidence?
+- comparison: how is this thing/situation/solution similar to or different from something else?
+- condition: if/unless one thing is/isn’t true, then what?
+- evaluation: why is this a better/worse situation/solution than another?
+- personal connection: (if it’s appropriate for the class/assignment)
+## What should I not write in the explanation?
+Your explanation should not do any of these:
+- nothing—your paragraph ends with evidence
+- repeat the evidence or context
+- say what happened next in a story or in reality
+- use personal experience if not allowed for the assignment/class
+## How can I start my explanation sentences?
+Here are a few possible sentence starters:
+- In other words, his/her/their point is.....
+- As this quote/example shows....
+- Basically, X is saying Y.
+- *[the author's]* point is that Y.
+- The essence of *[the author’s]* argument is that Y.
+- Given these findings, ...
+- Based on this surprising increase/decrease, ...
+## Applying the sandwich pattern
+Let's apply this to your own writing.
+Apply this!
+Look at your own or a classmate's draft. Find each piece of quoted or paraphrased text evidence. Ask these questions, and then see what you can add/improve:
+- Is each piece of text evidence introduced with a source and reporting words?
+- The first time a source appears, did the writer include a credential? (Who is this source, and why should we believe them?)
+- Do the reporting words accurately give us a clue about the meaning/type of evidence? (For example, if it says, "Nguyen argues . . . ," is the thing Nguyen said actually an argument rather than a fact?)
+- Do the reporting words follow a correct grammar pattern?
+- Did the writer add an explanation after the evidence?
+- Does the explanation explain the importance of the evidence and connect the evidence to the point?
+## **Licenses and Attributions**
+Authored by Anne Agard, Laney College and Gabriel Winer, Berkeley City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Sample sentences are from "Why Being Bilingual Helps Keep Your Brain Fit" published on Mosaic and licensed under CC BY 4.0.
+This page titled 4.7: Introducing and Explaining Evidence was last modified on Sun, 09 Mar 2025 17:17:24 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

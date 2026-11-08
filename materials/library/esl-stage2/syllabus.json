@@ -1,0 +1,88 @@
+{
+  "title": "English Stage 2 (B2): Academic Grammar and Writing",
+  "short_title": "English Stage 2 (B2)",
+  "level": "Upper-intermediate (B2)",
+  "description": "Upper-intermediate (B2) English from two open college textbooks: academic grammar taught through readings and talks on psychology, American history and the human lifespan, and academic writing from sentences to paragraphs and the essay introduction.",
+  "books_intro": "Lessons combine two open college textbooks:",
+  "after": "After this stage: Stage 3 (C1), college writing.",
+  "books": {
+    "esl-b2-grammar": {
+      "title": "High-Intermediate Academic Grammar for ESL Students",
+      "author": "Rebecca Al Haider, Reedley College",
+      "license": "CC BY 4.0",
+      "url": "https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)"
+    },
+    "esl-b2-writing": {
+      "title": "Building Academic Writing Skills",
+      "author": "Lin Cui, Harper College",
+      "license": "CC BY-NC-SA 4.0",
+      "url": "https://harpercollege.pressbooks.pub/academic-writing-skills"
+    }
+  },
+  "units": [
+    {
+      "title": "Unit 1: Academic Writing Essentials · Psychology",
+      "lessons": [
+        {"title": "Introduction to Academic Writing", "kind": "writing", "sources": ["esl-b2-writing/sections/01.01-unit-1-introduction-to-academic-writing.txt", "esl-b2-writing/sections/04.01-appendix-a-non-stop-non-translation-nsnt-free-writing-with-a.txt"]},
+        {"title": "Dreams: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/01.01.01-discussion.txt", "esl-b2-grammar/sections/01.01.02-listening-why-do-we-dream.txt", "esl-b2-grammar/sections/01.01.03-reading-the-story-behind-dreams.txt", "esl-b2-grammar/sections/04.02.01-chapter-1.txt"], "key": ["esl-b2-grammar/sections/04.03.01-chapter-1-dreams.txt"]},
+        {"title": "Grammar: Simple Present, Simple Past and Present Perfect", "kind": "grammar", "sources": ["esl-b2-grammar/sections/01.01.04-grammar-presentation-simple-present-simple-past-and-present-.txt", "esl-b2-grammar/sections/01.01.05-applying-grammar-to-reading.txt", "esl-b2-grammar/sections/01.01.06-communication-practice.txt", "esl-b2-grammar/sections/04.01.02-irregular-verbs.txt"], "key": ["esl-b2-grammar/sections/04.03.01-chapter-1-dreams.txt"]},
+        {"title": "The Writing Process", "kind": "writing", "sources": ["esl-b2-writing/sections/01.02-unit-2-the-writing-process.txt"]},
+        {"title": "Verb Basics in Academic Writing", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.03-unit-9-verb-basics-in-academic-writing.txt"]},
+        {"title": "Coping: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/01.02.01-discussion.txt", "esl-b2-grammar/sections/01.02.02-listening-5-unhealthy-coping-mechanisms-you-shouldn-t-ignore.txt", "esl-b2-grammar/sections/01.02.03-reading-coping-mechanisms.txt", "esl-b2-grammar/sections/04.02.02-chapter-2.txt"], "key": ["esl-b2-grammar/sections/04.03.02-chapter-2-coping.txt"]},
+        {"title": "Grammar: Gerunds and Infinitives", "kind": "grammar", "sources": ["esl-b2-grammar/sections/01.02.04-grammar-presentation-gerunds-and-infinitives.txt", "esl-b2-grammar/sections/01.02.05-communication-practice.txt", "esl-b2-grammar/sections/04.01.04-gerunds-and-infinitives.txt"], "key": ["esl-b2-grammar/sections/04.03.02-chapter-2-coping.txt"]},
+        {"title": "The Paragraph 1: Format, Parts, Title and Topic Sentence", "kind": "writing", "sources": ["esl-b2-writing/sections/01.03-unit-3-parts-and-characteristics-of-a-good-paragraph.txt#I-VI", "esl-b2-writing/sections/04.02-appendix-b-capitalization.txt"]},
+        {"title": "Thinking and Learning: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/01.03.01-discussion.txt", "esl-b2-grammar/sections/01.03.02-listening-5-tips-to-improve-your-critical-thinking.txt", "esl-b2-grammar/sections/01.03.03-reading-the-value-of-confusion.txt", "esl-b2-grammar/sections/04.02.03-chapter-3.txt"], "key": ["esl-b2-grammar/sections/04.03.03-chapter-3-thinking-and-learning.txt"]},
+        {"title": "Grammar: Phrasal Verbs", "kind": "grammar", "sources": ["esl-b2-grammar/sections/01.03.04-grammar-presentation-phrasal-verbs.txt", "esl-b2-grammar/sections/01.03.05-applying-grammar-to-reading.txt", "esl-b2-grammar/sections/01.03.06-communication-practice.txt", "esl-b2-grammar/sections/04.01.03-phrasal-verbs.txt"], "key": ["esl-b2-grammar/sections/04.03.03-chapter-3-thinking-and-learning.txt"]},
+        {"title": "The Paragraph 2: Unity, Transitions and Concluding Sentences", "kind": "writing", "sources": ["esl-b2-writing/sections/01.03-unit-3-parts-and-characteristics-of-a-good-paragraph.txt#VII-XI"]},
+        {"title": "Unit 1 Review: Editing, Writing and a Self-Care Presentation", "kind": "review", "sources": ["esl-b2-grammar/sections/01.04.01-exercise-12-editing.txt", "esl-b2-grammar/sections/01.04.02-exercise-13-writing.txt", "esl-b2-grammar/sections/01.04.03-exercise-14-self-care-presentation.txt", "esl-b2-grammar/sections/04.01.01-rubrics.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 2: Sentences and Paragraph Types · American History",
+      "lessons": [
+        {"title": "Sentence Essentials 1: Phrases, Sentence Parts and Simple Sentences", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.01-unit-7-sentence-essentials.txt#I-IV"]},
+        {"title": "Sentence Essentials 2: Compound and Complex Sentences, Sentence Variety", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.01-unit-7-sentence-essentials.txt#V-VIII"]},
+        {"title": "Indigenous People: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/02.01.01-discussion.txt", "esl-b2-grammar/sections/02.01.02-listening-lakota-in-america.txt", "esl-b2-grammar/sections/02.01.03-reading-life-on-reservations.txt", "esl-b2-grammar/sections/04.02.04-chapter-4.txt"], "key": ["esl-b2-grammar/sections/04.03.04-chapter-4-indigeonous-people.txt"]},
+        {"title": "Grammar: Modals", "kind": "grammar", "sources": ["esl-b2-grammar/sections/02.01.04-grammar-presentation-modals.txt"], "key": ["esl-b2-grammar/sections/04.03.04-chapter-4-indigeonous-people.txt"]},
+        {"title": "Modals in Academic Writing", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.09-unit-15-modals.txt"]},
+        {"title": "Three Common Sentence Errors: Fragments, Run-ons and Comma Splices", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.02-unit-8-three-common-errors-in-sentence-structure-and-punctua.txt", "esl-b2-writing/sections/04.03-appendix-c-punctuation.txt"]},
+        {"title": "Grammar: Adjective Clauses", "kind": "grammar", "sources": ["esl-b2-grammar/sections/02.01.05-grammar-presentation-adjective-clauses.txt", "esl-b2-grammar/sections/02.01.06-applying-grammar-to-reading.txt", "esl-b2-grammar/sections/02.01.07-communication-practice.txt"], "key": ["esl-b2-grammar/sections/04.03.04-chapter-4-indigeonous-people.txt"]},
+        {"title": "Enumerative Paragraphs 1: Focus, Topic Sentence, Supporting Ideas and Conclusion", "kind": "writing", "sources": ["esl-b2-writing/sections/02.01-unit-4-enumerative-paragraphs.txt#I-V"]},
+        {"title": "Enumerative Paragraphs 2: Model Paragraphs, Transitions and Writing", "kind": "writing", "sources": ["esl-b2-writing/sections/02.01-unit-4-enumerative-paragraphs.txt#VI-VIII"]},
+        {"title": "Executive Order 9066: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/02.02.01-discussion.txt", "esl-b2-grammar/sections/02.02.02-listening-why-i-love-a-country-that-once-betrayed-me.txt", "esl-b2-grammar/sections/02.02.03-reading-japanese-relocation-during-world-war-ii.txt", "esl-b2-grammar/sections/04.02.05-chapter-5.txt"], "key": ["esl-b2-grammar/sections/04.03.05-chapter-5-executive-order-9066.txt"]},
+        {"title": "Grammar: Passive Voice", "kind": "grammar", "sources": ["esl-b2-grammar/sections/02.02.04-grammar-presentation-passive-voice.txt", "esl-b2-grammar/sections/02.02.05-applying-grammar-to-reading.txt", "esl-b2-grammar/sections/02.02.06-communication-practice.txt"], "key": ["esl-b2-grammar/sections/04.03.05-chapter-5-executive-order-9066.txt"]},
+        {"title": "Subject-Verb Agreement", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.04-unit-10-subject-verb-agreement.txt"]},
+        {"title": "Unit 2 Review: Editing, Writing and a Presentation", "kind": "review", "sources": ["esl-b2-grammar/sections/02.03.01-exercise-12-editing.txt", "esl-b2-grammar/sections/02.03.02-exercise-13-writing.txt", "esl-b2-grammar/sections/02.03.03-exercise-14-presentation.txt", "esl-b2-grammar/sections/04.01.01-rubrics.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 3: Verb Tenses and Narration · The Human Lifespan",
+      "lessons": [
+        {"title": "Present Tenses in Writing", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.05-unit-11-expressing-meaning-in-present-tenses.txt"]},
+        {"title": "Infants: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/03.01.01-discussion.txt", "esl-b2-grammar/sections/03.01.02-listening-how-every-child-can-thrive-by-five.txt", "esl-b2-grammar/sections/03.01.03-reading-mirror-stage.txt", "esl-b2-grammar/sections/04.02.06-chapter-6.txt"], "key": ["esl-b2-grammar/sections/04.03.06-chapter-6-infants.txt"]},
+        {"title": "Grammar: Reported Speech", "kind": "grammar", "sources": ["esl-b2-grammar/sections/03.01.04-grammar-presentation-direct-and-indirect-reported-speech.txt", "esl-b2-grammar/sections/03.01.05-applying-grammar-to-reading.txt", "esl-b2-grammar/sections/03.01.06-communication-practice.txt"], "key": ["esl-b2-grammar/sections/04.03.06-chapter-6-infants.txt"]},
+        {"title": "Past Tenses in Writing", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.06-unit-12-expressing-meaning-in-past-tenses.txt", "esl-b2-writing/sections/04.04-appendix-d-irregular-verbs.txt"]},
+        {"title": "Narrative Paragraphs 1: Focus, Topic Sentence, Time Order and Past Tenses", "kind": "writing", "sources": ["esl-b2-writing/sections/02.02-unit-5-narrative-paragraphs.txt#I-V"]},
+        {"title": "Narrative Paragraphs 2: Descriptive Details, Model Paragraphs and Writing", "kind": "writing", "sources": ["esl-b2-writing/sections/02.02-unit-5-narrative-paragraphs.txt#VI-VIII"]},
+        {"title": "Adolescence: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/03.02.01-discussion.txt", "esl-b2-grammar/sections/03.02.02-listening-debunking-myths-about-adolescence.txt", "esl-b2-grammar/sections/03.02.03-reading-what-to-expect-from-adolescence.txt", "esl-b2-grammar/sections/04.02.07-chapter-7.txt"], "key": ["esl-b2-grammar/sections/04.03.07-chapter-7-adolescence.txt"]},
+        {"title": "Grammar: Embedded Questions", "kind": "grammar", "sources": ["esl-b2-grammar/sections/03.02.04-grammar-presentation-embedded-questions.txt", "esl-b2-grammar/sections/03.02.05-communication-practice.txt"], "key": ["esl-b2-grammar/sections/04.03.07-chapter-7-adolescence.txt"]},
+        {"title": "Future Tenses in Writing", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.07-unit-13-expressing-meaning-in-future-tenses.txt"]},
+        {"title": "Late Adulthood: Discussion, Listening and Reading", "kind": "listening and reading", "sources": ["esl-b2-grammar/sections/03.03.01-discussion.txt", "esl-b2-grammar/sections/03.03.02-listening-population-pyramids-powerful-predictors-of-the-fut.txt", "esl-b2-grammar/sections/03.03.03-reading-introduction-to-physical-development-in-late-adultho.txt", "esl-b2-grammar/sections/04.02.08-chapter-8.txt"], "key": ["esl-b2-grammar/sections/04.03.08-chapter-8-late-adulthood.txt"]},
+        {"title": "Grammar: Simple Future", "kind": "grammar", "sources": ["esl-b2-grammar/sections/03.03.04-grammar-presentation-simple-future.txt", "esl-b2-grammar/sections/03.03.05-communication-practice.txt"], "key": ["esl-b2-grammar/sections/04.03.08-chapter-8-late-adulthood.txt"]},
+        {"title": "Mixed Tenses in Writing", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.08-unit-14-expressing-meaning-in-mixed-tenses.txt"]},
+        {"title": "Unit 3 Review: Editing, Writing and a Presentation", "kind": "review", "sources": ["esl-b2-grammar/sections/03.04.01-exercise-11-editing.txt", "esl-b2-grammar/sections/03.04.02-exercise-12-writing.txt", "esl-b2-grammar/sections/03.04.03-exercise-13-presentation.txt", "esl-b2-grammar/sections/04.01.01-rubrics.txt"]}
+      ]
+    },
+    {
+      "title": "Unit 4: Words, Word Order and the Essay",
+      "lessons": [
+        {"title": "Nouns", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.10-unit-16-nouns.txt"]},
+        {"title": "Pronouns", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.11-unit-17-pronouns.txt"]},
+        {"title": "Word Forms", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.12-unit-18-word-forms.txt"]},
+        {"title": "Word Order", "kind": "grammar for writing", "sources": ["esl-b2-writing/sections/03.13-unit-19-word-orders.txt"]},
+        {"title": "The Essay Introduction", "kind": "writing", "sources": ["esl-b2-writing/sections/02.03-unit-6-essay-introduction.txt"]},
+        {"title": "Editing and Grammar Review", "kind": "review", "sources": ["esl-b2-writing/sections/03.14-unit-20-editing-grammar-review.txt"]}
+      ]
+    }
+  ]
+}

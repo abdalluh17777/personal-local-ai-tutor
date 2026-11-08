@@ -1,0 +1,232 @@
+Research Methods in Psychology (Jhangiani, Chiang, Cuttler, and Leighton)
+Glossary
+Source: https://socialsci.libretexts.org/Bookshelves/Psychology/Research_Methods_and_Statistics/Research_Methods_in_Psychology_(Jhangiani_Chiang_Cuttler_and_Leighton)/zz%3A_Back_Matter/20%3A_Glossary
+License: CC BY-NC-SA  4.0
+
+Example and Directions
+| Words (or words that have the same definition) | The definition is case sensitive | (Optional) Image to display with the definition [Not displayed in Glossary, only in pop-up on pages] | (Optional) Caption for Image | (Optional) External or Internal Link | (Optional) Source for Definition |
+| (Eg. "Genetic, Hereditary, DNA ...") | (Eg. "Relating to genes or heredity") | The infamous double helix | https://bio.libretexts.org/ | CC-BY-SA; Delmar Larsen |
+Glossary Entries
+| Word(s) | Definition | Image | Caption | Link | Source |
+| abstract | A short summary (approximately 200 words) of a research article. In an APA-style manuscript, the abstract appears on the second page. |
+| alternative hypothesis | The idea that there is a statistical relationship between two variables in the population and that any relationship in a sample reflects that real relationship. Often abbreviated *H* 1. |
+| APA Ethics Code | The ethics code of the American Psychological Association, formally titled *Ethical Principles of Psychologists and Code of Conduct.* Standard 8 concerns the ethics of research and publication. |
+| appendix | An optional section at the end of an APA-style manuscript used to present important supplemental material. |
+| applied behavior analysis | A subfield of psychology that uses single-subject research and applies the principles of behavior analysis to real-world problems in areas that include education, developmental disabilities, organizational behavior, and health behavior. |
+| Applied research | Scientific research that is conducted primarily to solve some practical problem. |
+| archival data | Existing data that were collected or created for some other purpose. They can include school and hospital records, newspaper and magazine articles, Internet content, television shows, and many other things. |
+| at-risk research | Research that exposes participants to risks that are greater than those encountered by healthy people in daily life or during routine physical or psychological examinations. |
+| bar graph | A graph used to show differences between the mean scores of two or more groups. |
+| baseline | A condition in a single-subject research design in which the dependent variable is measured repeatedly in the absence of any treatment. Most designs begin with a baseline condition, and many return to the baseline condition at least once. |
+| Bayesian statistics | An alternative approach to inferential statistics in which the researcher specifies the probability that the null hypothesis and important alternative hypotheses are true before conducting a study, conducts the study, and then computes revised probabilities based on the data. |
+| between-subjects experiment | An experiment in which each participant is tested in one condition. |
+| block randomization | A method of randomly assigning participants that guarantees that the condition sample sizes are equal or almost equal. A random procedure is used to assign the first *k* participants into the *k* conditions, and then to assign the next *k* participants into the *k* conditions, and so on until all the participants have been assigned. |
+| BRUSO | A prescriptive model for writing good questionnaire items. They should be brief, relevant, unambiguous, specific, and objective. |
+| case study | A detailed description of an individual case. |
+| categorical variable | A quality that varies across individuals and is measured by assigning a category label to each individual. |
+| central tendency | The middle of a distribution. The mean, median, and mode are measures of central tendency. |
+| clinical practice of psychology | The diagnosis and treatment of psychological disorders and related problems. |
+| Closed-ended items | A questionnaire item that asks a question and provides a set of response options for respondents to choose from. |
+| closing | The last paragraph or two of the introduction of an APA-style empirical research report. It restates the research question and comments on the method. |
+| cluster sampling | Sampling where larger clusters of individuals (e.g., cities, households) are sampled first and then individuals are sampled from these clusters. |
+| coding | An approach to measurement in naturalistic observation, in which target behaviors are specified ahead of time and observers watch for and record those specific behaviors. |
+| Cohen’s *d* | A measure of relationship strength or “effect size” for a difference between two groups or conditions. |
+| Cohen’s κ | A statistic used to assess interrater reliability when the observer judgments are categorical. |
+| conceptual definition | A description of a variable or construct in terms of the behaviors and internal processes that are involved, along with how that construct relates to other variables. |
+| conditions | One level of the independent variable in an experiment. |
+| confederate | A researcher who pretends to be someone that he or she is not in the context of an empirical study. Most often, confederates play the role of other participants who interact in scripted ways with the real participants. |
+| confidence interval | A range of values computed in such a way that some specified percentage of the time (usually 95%) the population parameter of interest will lie within that range. |
+| confidentiality | The researcher’s agreement with his or her participants not to reveal personal information about them except with their permission or as required by law. |
+| confirmation bias | The tendency to notice and remember evidence that is consistent with what we already believe and to ignore evidence that is inconsistent with what we already believe. |
+| confounding variable | An extraneous variable that differs across the levels of the independent variable. |
+| consent form | A form that participants sign as part of the informed consent process. It describes the procedure, the risks and benefits, participants’ right to withdraw from the study, and any confidentiality issues. |
+| constructs | A variable that cannot be observed directly because it represents a tendency to behave in certain ways or a complex pattern of behavior and internal processes. These include personality traits, emotional states, attitudes, and abilities. |
+| content analysis | A family of techniques for analyzing archival data that generally involves identifying specific words, phrases, ideas, or other content in the data and then counting or summarizing their occurrence in other quantitative ways. |
+| Content validity | The extent to which a measure covers all aspects of the construct it is supposed to measure. |
+| context effect | An unintended effect of the context in which a response is made. In within-subjects experiments, this can be an effect of being tested in one condition on how participants perceive stimuli or interpret their task and therefore how they respond in later conditions. In survey research, this can be an effect of the surrounding items or the response scale on responses to a particular item. |
+| control | Holding extraneous variables constant. |
+| converging operations | Multiple operational definitions of the same construct. When multiple operational definitions are closely related to each other and produce the same pattern of results, this constitutes evidence that the construct is being measured effectively and is a useful one. |
+| correlation matrix | A table that shows the correlations among several variables. |
+| counterbalancing | Systematically varying the order of conditions across participants. |
+| criteria | A variable or construct expected to be correlated with scores on a measure that is being evaluated. The plural is *criteria*. |
+| critical values | In null hypothesis testing, the value or values of a test statistic that correspond to a *p* value of .05 and therefore serve as a cutoff for deciding to reject the null hypothesis. |
+| Cronbach’s α | A statistic used to assess the internal consistency of a multiple-item measure. It is conceptually equivalent to the mean of all possible split-half correlations. |
+| crossover interaction | An interaction in which one independent variable has opposite effects at different levels of another independent variable. |
+| data file | A computer file that contains data formatted for statistical analysis. |
+| debriefing | The process of informing research participants after a study of the purpose of the study, revealing any deception, and minimizing any harm that might have occurred. |
+| deception | Misleading participants about the purposes and procedures of the research—either by giving them false information or by withholding true information from them. |
+| demand characteristics | Features of a study that cue participants as to how the researcher expects them to behave. |
+| dependent variable | A variable that is thought to be the effect of another variable (called the independent variable). |
+| dependent-samples *t* test | A null hypothesis test used to compare two means for one sample measured at two different times or under two different conditions—as in a pretest-posttest or within-subjects design. |
+| Descriptive statistics | A set of techniques for summarizing and displaying data. |
+| difference score | The difference between an individual’s score at one time or under one condition and that individual’s score at a second time or under a second condition. The dependent-samples *t* test is in essence a one-sample *t* test on a set of difference scores. |
+| Discriminant validity | The extent to which scores on a measure are not correlated with other variables and constructs that are conceptually distinct. |
+| discussion | The final major section of an APA-style empirical research report. It typically includes a summary of the research, a discussion of theoretical and practical implications of the study, limitations of the study, and suggestions for future research. |
+| distribution | The way the scores on a variable are distributed across the levels of that variable. |
+| doctor of philosophy [PhD] | The highest degree in most academic fields, including psychology. Scientific researchers in psychology typically have this degree. |
+| double-blind | An experimental research design in which both the participants and the experimenters are unaware of which condition the participant has been assigned to. |
+| edited volumes | A scholarly book with an editor or small group of editors and chapters by several different authors. |
+| empirical questions | A question about the way the world actually is that can be answered by making systematic observations. |
+| empirical research report | A type of journal article in which the author reports on a new empirical research study. |
+| empirically supported treatments | A treatment for a psychological problem that has been shown by scientific research to result in greater improvement than no treatment, a placebo, or some alternative treatment. |
+| ethics | The branch of philosophy that is concerned with morality. Also a set of principles and practices that provide moral guidance in a particular field. |
+| experiment | A type of empirical study in which an independent variable is manipulated and a dependent variable is measured while extraneous variables are controlled. |
+| experimenter expectancy effect | The effect of the researcher’s expectations on participants’ behavior. |
+| external validity | The extent to which the results of a study can be generalized to people and situations beyond those actually studied. |
+| face validity | The extent to which a measure appears “on its face” to measure the variable or construct it is supposed to. |
+| factor analysis | A complex statistical technique that organizes several variables into clusters where there are strong correlations among the variables within a cluster but weak correlations among the variables between clusters. Each cluster is interpreted as representing a different underlying variable or factor. |
+| factorial ANOVA | A null hypothesis test used to test both main effects and interactions in a factorial design. |
+| factorial design table | A table used to represent a factorial design. The rows represent the levels of one independent variable, the columns represent the levels of a second independent variable, and each cell represents a condition. |
+| falsifiable | An important property of scientific claims. A claim is falsifiable if there is an observation that would—if it were made—count as evidence against the claim. |
+| feasibility | The extent to which a research question can be answered with available resources. |
+| field experiments | An experiment that is conducted outside the laboratory. |
+| file drawer problem | The fact that statistically significant results are more likely to be submitted and accepted for publication than nonsignificant results. |
+| final manuscripts | A manuscript (such as a dissertation, thesis, or student paper) prepared in its final form that will not be submitted for publication in a professional journal. |
+| focus groups | A small group of people who participate together in an interview focused on a particular topic or issue. |
+| folk psychology | People’s intuitive beliefs about human behavior and mental processes. |
+| formality | The extent to which the components of a theory are specified clearly and lead to precise predictions. |
+| frequency table | A table for displaying the distribution of a variable. The first column lists the values of the variable, and the second column lists the frequency of each score. |
+| Functional theories | A theory that explains phenomena in terms of their function or purpose. |
+| group research | A type of quantitative research that involves studying a large number of participants and examining their behavior in terms of means, standard deviations, and other group-level statistics. |
+| high-level style | The second-most general level of APA style. It refers to general guidelines for the clear expression of ideas. |
+| histogram | A graph for displaying the distribution of a variable. The *x-* axis represents the values of the variable, and the *y-* axis represents the frequency of each score. |
+| hypothesis | A prediction about a new phenomenon that would be observed if a particular theory were true. Also used to refer to a relatively simple theory that includes only a few key components. |
+| hypothetico-deductive method | The general way that researchers use theories to generate new research and, in the process, test and revise the theories themselves. |
+| independent-samples *t* test | A null hypothesis test used to compare means for two separate samples—as in a between-subjects design. |
+| informed consent | The process of obtaining and documenting participants’ agreement to be in a study, having informed them of everything that might reasonably be expected to affect their decision. |
+| institutional review board (IRB) | A committee at a university, a hospital, or another institution that reviews research protocols to be sure they conform to ethical standards. |
+| interaction | In a factorial design, when the effect of one independent variable depends on the level of another independent variable. |
+| interestingness | A property of research questions that is based in part on the extent to which the answer is in doubt, fills a gap in the research literature, and has important practical implications. |
+| internal consistency | The extent to which the items on a multiple-item measure are consistent with each other. |
+| internal validity | The extent to which the design of a study supports the conclusion that differences in the independent variable caused any observed differences in the dependent variable. |
+| interrupted time-series design | A research design in which a series of measurements of the dependent variable are taken both before and after a treatment. |
+| introduction | The first major section of an APA-style empirical research report. It typically includes an opening, a literature review, and a closing. |
+| item-order effect | The effect of responding to one survey item on responses to a later survey item. |
+| latency | One factor that is considered in the visual inspection of single-subject data. The time between the change in conditions and the change in the dependent variable. |
+| levels of measurement | Four different ways of assigning scores to individuals that provide increasing amounts of quantitative information about the characteristic being measured. The four levels are nominal, ordinal, interval, and ratio. |
+| Line graphs | A graph used to show the relationship between two quantitative variables. For each level of the *X* variable, there is a point representing the mean of the *Y* variable. The points are connected by lines. |
+| literature review | A written summary of previous research on a topic. It constitutes the bulk of the introduction of an APA-style empirical research report. |
+| low-level style | The most specific level of APA style. It refers to the extensive rules pertaining to spelling, grammar, the formatting of reference and reference citations, the creation of tables and figures, and so on. |
+| main effect | In a factorial design, the effect of one independent variable averaged across levels of all other independent variables. |
+| manipulation check | A measure of a manipulated independent variable—usually done at the end of the procedure—to confirm that the independent variable was successfully manipulated. |
+| maturation | Refers collectively to extraneous developmental changes in participants that can occur between a pretest and posttest or between the first and last measurements in a time series. It can provide an alternative explanation for an observed change in the dependent variable. |
+| mean | The most common measure of central tendency. The sum of the scores divided by the number of scores. |
+| mean squares within groups (*MSW*) | In an analysis of variance, an estimate of the population variance based on the variability within each group or condition. |
+| Measurement | The assignment of scores to individuals so that the scores represent some characteristic of the individuals. |
+| Mechanistic theories | A theory that explains phenomena in terms of underlying variables, structures, and processes, and the interactions among them. |
+| median | A measure of central tendency. The value such that half the scores in the distribution are lower than it and half are higher than it. |
+| method section | The section of an APA-style empirical research report in which the method is described in detail. At minimum, it includes a participants subsection and a design and procedure subsections. |
+| mixed factorial design | A factorial design in which at least one independent variable is manipulated between subjects and at least one is manipulated within subjects. |
+| mode | A measure of central tendency. The most frequently occurring score in the distribution. |
+| multiple dependent variables | More than one dependent variable in the same study. They can be measures of different variables, including a manipulation check, or different measures of the same construct. |
+| multiple regression | A statistical technique that describes the relationship between multiple independent variables and a single dependent variable in terms of an equation that shows the separate contribution of each independent variable to the dependent variable. |
+| multiple-baseline design | A single-subject research design in which multiple baselines are established for different participants, different dependent variables, or different contexts and the treatment is introduced at a different time for each baseline. |
+| multiple-treatment reversal design | A single-subject research design in which phases that introduce different treatments are alternated. |
+| Naturalistic observation | An approach to data collection in which the behavior of interest is observed in the environment in which it typically occurs. |
+| negative relationship | A statistical relationship between two variables in which higher scores on one tend to be associated with lower scores on the other. |
+| nominal level | The level of measurement that involves assigning names or category labels to individuals. Scores at the nominal level indicate whether or not one individual is in the same category as another. They do not communicate any quantitative information. |
+| nonequivalent groups design | A between-subjects research design in which participants are not randomly assigned to conditions, usually because participants are in preexisting groups (e.g., students at different schools). |
+| Nonexperimental research | Research that lacks the manipulation of an independent variable or the random assignment of participants to conditions or orders of conditions. |
+| Nonlinear relationships | A statistical relationship in which as the *X* variable increases, the *Y* variable does not increase or decrease at a constant rate. Such relationships are best described by a curved line. |
+| nonmanipulated independent variable | In a factorial design, a variable (usually a participant variable) that is treated as an independent variable but is not actually manipulated by the researcher. |
+| Nonprobability sampling | An approach to sampling in which the researcher cannot specify the probability that each member of the population will be selected. Convenience sampling is an example. |
+| nonresponse bias | A type of sampling bias in which those who do not respond to the survey differ systematically from those who do, producing misleading results. |
+| one-tailed test | A null hypothesis test (e.g., a *t* test or test of Pearson’s *r*) in which the null hypothesis is rejected only if the sample result is extreme in one direction specified before the data are collected. Used when the researcher has a strong expectation about the direction of the relationship. |
+| one-way ANOVA | A null hypothesis test used to compare more than two means in a between-subjects design with one independent variable. |
+| Open-ended items | A questionnaire item that asks a question and allows respondents to respond in whatever way they want. |
+| opening | The first paragraph or two of the introduction of an APA-style empirical report. It introduces the research question and explains why it is interesting. |
+| operational definition | A definition of a variable or construct in terms of precisely how it will be measured. |
+| oral presentation | A presentation at a professional conference in which presenters stand in front of an audience and tell them about their research, usually with the aid of a slide show. Such presentations, which are informally called “talks,” can last anywhere from 10 minutes to an hour. |
+| organization | The most general level of APA style. It refers to the organization of a research article. |
+| outlier | An extreme score that is far removed from the rest of the scores in the distribution. |
+| parameters | A numerical summary (e.g., mean, standard deviation) of a population. A numerical summary of a sample is called a “statistic.” |
+| parsimony | The extent to which a theory explains or interprets phenomena in as simple a way as possible. A theory that does so is said to be parsimonious. |
+| participant observation | An approach to data collection in qualitative research in which the researcher becomes an active participant in the group or situation under study. |
+| Pearson’s *r* | A measure of the strength of the correlation between two quantitative variables. |
+| peer review | A process in which new research submitted for publication is reviewed by two or more experts before an editor decides whether to publish it. |
+| percentage of nonoverlapping data | A statistic sometimes used in single-subject research. The percentage of observations in a treatment condition that are more extreme than the most extreme observation in a relevant baseline condition. |
+| percentile rank | A measure of the location of a score within its distribution. The percentage of scores below a particular score. |
+| phenomenon | A general result that has been observed reliably in empirical research. An established answer to a research question. |
+| physiological measures | A measure that involves recording a physiological variable. Compare with self-report measure and behavioral measure. |
+| pilot test | A small-scale study conducted primarily to be sure that a procedure works as planned. |
+| placebo control condition | A control condition in which participants receive a placebo. |
+| placebo effect | The positive effect of a placebo. |
+| post hoc comparisons | Statistical comparison of selected pairs of group or condition means following a statistically significant ANOVA result. Usually done using one of several modified *t-* test procedures. |
+| poster session | A one- or two-hour session at a professional conference in which several researchers present their posters, often on related topics. |
+| Practical significance | The importance of a research result in some real-world context. Research results can be statistically significant without having any practical significance. In clinical practice, practical significance is called “clinical significance.” |
+| prescreening | Any procedure used to select participants for further study based on demographic or other characteristics. Often used to identify and remove participants who are particularly at high risk of harm. |
+| pretest-posttest design | A research design in which the dependent variable is measured (the pretest), a treatment is given, and the dependent variable is measured again (the posttest) to see if there is a change in the dependent variable from pretest to posttest. |
+| professional conferences | A meeting at which researchers in a particular field gather to share their research. |
+| Professional journals | Periodicals that publish new research. |
+| protocol | A detailed written description of a research project that can be reviewed by an independent committee to evaluate its conformity to ethical standards. |
+| Pseudoscience | A set of beliefs or activities that is claimed to be scientific but lacks one or more of the three features of science. |
+| psychometrics | The measurement of psychological variables and constructs. |
+| PsycINFO | The primary computer database that catalogs research in psychology. |
+| public knowledge | Detailed descriptions of research that are available to other researchers and the general public, usually through publication in a professional journal. |
+| *Publication Manual of the American Psychological Association* | A book published by the American Psychological Association that contains all the guidelines of APA style. It is often just referred to as the *Publication Manual*. |
+| qualitative research | Research that typically involves formulating broad research questions, collecting large amounts of data from a small number of participants, and summarizing the data using nonstatistical techniques. |
+| quantitative research | Research that involves formulating focused research questions, collecting small amounts of data from a large number of participants, and summarizing the data using descriptive and inferential statistics. |
+| quasi-experimental research | Research that involves the manipulation of an independent variable but lacks the random assignment of participants to conditions or orders of conditions. It is generally used in field settings to test the effectiveness of a treatment. |
+| random assignment | The assignment of participants to different conditions according to a random procedure, such as flipping a coin, rolling a die, or using a random number generator. |
+| randomized clinical trial | An experiment designed to test the effectiveness of a psychological or medical treatment. |
+| range | A measure of variability. The difference between the highest and lowest scores in the distribution. |
+| rating scale | An ordered set of response options to a closed-ended questionnaire item. |
+| ratio level | The level of measurement that involves assigning numerical scores so that a given difference between two scores always represents the same difference in the characteristic and a score of zero represents none of the characteristic. Ratios of one score to another are meaningful only at this level. |
+| raw data | Data in the form in which they were originally collected (e.g., completed questionnaires). |
+| reference citation | In the text of an APA-style article or book chapter, a mention of a specific reference. APA-style reference citations provide the authors’ last names and the year of publication. |
+| references | The formatted publication information about a work that is cited in an APA-style article or book chapter. The references appear in a reference list at the end of the article or book chapter. “Reference” can also mean the work itself. |
+| Reliability | The extent to which the scores on a measure are consistent across time, across multiple items on the same measure, and across researchers when a measure has an element of subjective judgment. |
+| repeated-measures ANOVA | A null hypothesis test used to compare means for one sample at more than two times or under more than two conditions in a within-subjects design. |
+| Replication | The process of conducting an empirical study again—either exactly as it was originally conducted or with modifications—to see if the same results are observed. |
+| research literature | All the published research in a particular field. |
+| respondents | A term often used to refer to a participant in survey research. |
+| restriction of range | When the data used to assess a statistical relationship include a limited range of scores on either the *X* or *Y* variable, relative to the range of scores in the population. This makes the statistical relationships appear weaker than it actually is. |
+| results section | The section of an APA-style empirical research report in which the results are described in detail. |
+| retain the null hypothesis | In null hypothesis testing, the tentative conclusion that the null hypothesis is true. The sample relationship is due to chance. Often expressed as “fail to reject the null hypothesis” (although never as “accept the null hypothesis”). |
+| sample | The subset of individuals that the researcher actually studies. |
+| Sampling bias | Occurs when a sample is selected in such a way that it is not representative of the entire population and therefore produces inaccurate results. |
+| sampling error | Random variation in a statistic from sample to sample. |
+| sampling frame | A list of all the members of the population, from which the actual sample is selected. |
+| Scatterplots | A graph used to show the correlation between two quantitative variables. For each individual, there is a point representing that individual’s score on both the *X* and *Y* variables. |
+| science | A general way of understanding the natural world featuring systematic empiricism, empirical questions, and public knowledge. |
+| scope | The number and variety of phenomena explained or interpreted by a theory. |
+| Simple random sampling | Sampling where each member of the population has an equal probability of being selected. |
+| single-variable research | Research that focuses on a single variable rather than on a statistical relationship between variables. |
+| skepticism | A critical-thinking attitude that involves considering alternatives and searching for evidence before accepting that a belief or claim is true. |
+| skewed | Refers to an asymmetrical distribution. A positively skewed distribution has a relatively long positive tail, and a negatively skewed distribution has a relatively long negative tail. |
+| social validity | The extent to which a single-subject study focuses on an intervention that has a substantial effect on an important behavior and can be implemented reliably in the real-world contexts (e.g., by teachers in a classroom) in which that behavior occurs. |
+| split-half correlation | The correlation between scores based on one half of the items on a multiple-item measure and scores based on the other half of the items. |
+| spontaneous remission | Improvement in a psychological or medical problem over time without any treatment. |
+| standard deviation | The most common measure of variability. The square root of the mean of the squared differences between the scores and the mean. Also the square root of the variance. |
+| standard error | The standard deviation divided by the square root of the sample size. Often used for error bars in graphs. |
+| statistical control | In complex correlational research, accounting for third variables by measuring them and including them in the analysis. |
+| statistical power | The probability of rejecting the null hypothesis for a given sample size and expected relationship strength. |
+| statistical relationship | A difference in the average score on one variable across levels of another variable. |
+| statistically significant | Used to describe a result for which the null hypothesis has been rejected. |
+| steady state strategy | In single-subject research, allowing behavior to become fairly consistent from one observation to the next before changing conditions. This makes any effect of the treatment easier to detect. |
+| stratified random sampling | Sampling where the population is first divided into different subgroups or strata and a separate random sample is selected from each stratum. |
+| subject pool | A group of people who have agreed to be contacted about opportunities to be research participants. Many universities have subject pools that consist of introductory psychology students who participate to meet a course requirement. |
+| systematic empiricism | Learning about the world through careful observation. |
+| *t* test | A family of null hypothesis tests used to compare two means. |
+| test statistic | In null hypothesis testing, a statistic such as *t* or *F* that is computed only to help find the *p* value for the sample result. |
+| test-retest correlation | The correlation between individuals’ scores on a measure used at two different times. |
+| Test-retest reliability | The extent to which scores on a measure are consistent across time for the same individuals. |
+| theoretical approach | The kinds of theoretical ideas that a theory is constructed from. |
+| theoretical article | A type of journal article in which the author presents a new theory or evaluates existing theories. |
+| theoretical articles | A type of journal article in which the author presents a new theory or evaluates existing theories. |
+| theoretical narrative | In grounded theory, a narrative interpretation of the broad themes that emerge from the data, usually supported by many direct quotations or examples from the data. |
+| theory | A coherent explanation or interpretation of one or more phenomena. |
+| third-variable problem | The problem of knowing whether two variables, *X* and *Y*, are statistically related because one causes the other or because some third variable, *Z*, causes both *X* and *Y*. |
+| title page | The first page of an APA-style manuscript, containing the title, author names and affiliations, and author note. |
+| tolerance for uncertainty | A critical-thinking attitude that involves withholding judgment about whether a belief or claim is true when there is insufficient evidence for it. |
+| triangulation | In mixed methods research, using multiple quantitative and qualitative methods to study the same topic, with the goal of converging on a single interpretation. |
+| Type II error | In null hypothesis testing, failing to reject the null hypothesis when it is false. |
+| Typologies | A theory that categorizes people or behavior into distinct types. |
+| Validity | The extent to which scores on a measure represent the variable or construct they are intended to. Validity is a judgment based on the available evidence. |
+| variability | The extent to which the scores in a distribution vary around their central tendency. |
+| variance | A measure of variability. The mean of the squared differences between the scores and the mean. Also the square of the standard deviation. |
+| visual inspection | The primary approach to data analysis in single-subject research, which involves graphing the data and making a judgment as to whether and to what extent the independent variable affected the dependent variable. |
+| waitlist control condition | A control condition in which participants are put on a waitlist to receive the treatment after the study is completed. |
+| within-subjects experiment | An experiment in which each participant is tested in all conditions. |
+| within-subjects factorial design | A factorial design in which each independent variable is manipulated within subjects so that each participant is tested in all conditions. |
+| *z* score | A measure of the location of a score within its distribution. The score minus the mean, divided by the standard deviation. |

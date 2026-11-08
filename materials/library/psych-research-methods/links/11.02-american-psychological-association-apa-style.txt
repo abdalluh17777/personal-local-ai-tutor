@@ -1,0 +1,6 @@
+http://www.apastyle.org | http://www.apastyle.org
+http://owl.english.purdue.edu/owl/resource/560/01 | http://owl.english.purdue.edu/owl/resource/560/01
+http://www.vanguard.edu/psychology/faculty/douglas-degelman/apa-style/ | http://www.vanguard.edu/psychology/faculty/douglas-degelman/apa-style
+http://people.cs.ksu.edu/~huichen/APA%20Lite%20Writing%20Guidelines.pdf | http://people.cs.ksu.edu/~huichen/APA%20Lite%20Writing%20Guidelines.pdf
+https://www.apa.org/pi/lgbt/resources/guidelines | https://www.apa.org/pi/lgbt/resources/guidelines
+source content | https://kpu.pressbooks.pub/psychmethods4e

@@ -1,0 +1,229 @@
+Lesson 28 material: Cohesion 2: Demonstratives, Summary Nouns and Links Between Paragraphs
+English Stage 3 (C1) · Unit 3: Paragraphs, Essays and Cohesion
+
+=== 2.9: Demonstrative Pronouns ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.09%3A_Demonstrative_Pronouns
+
+## Demonstrative pronouns
+Another important tool for increasing cohesion is demonstrative pronouns. As you know, pronouns replace nouns, and demonstrative pronouns are words that point out a specific thing. For example, in conversation you might say:
+- "Can you give me those?"
+- "Look at this."
+Remember, we use "this" and "these" to refer to things that are close to us and "that" and "those" to refer to things that are far away.
+When you are saying those, you might be pointing towards the plate or holding out your phone to show someone something. Your gestures or body language show your listener what you are talking about.
+## Demonstrative pronouns in academic writing
+In academic writing, demonstrative pronouns have a special job. Your readers cannot see you point or gesture, so you need to use demonstrative pronouns in a way that reminds them of how your ideas are connected. Your demonstrative pronouns will be like a big finger pointing backwards to earlier ideas in your paragraph (see figure 2.8.1).
+(Picture: a hand with the index finger pointing to the left)
+Figure: "Finger Pointing" by bartmaguire is licensed under CC BY-NC-ND 2.0
+## Checking what you know about academic demonstrative pronouns
+Let's see if you you can discover a word that can be used to point backwards to earlier sentences.
+Notice this!
+(Picture: Two wome watch a third woman draw a diagram on a whiteboard)
+Figure 2.8.2: "Women of Color in Tech: wocintech (microsoft) 116" by wocintechchat.com is licensed under CC BY 2.0
+Below is a paragraph from a student research paper about the effects of implicit bias on women studying STEM (science, technology, engineering, and math), like the women shown in Figure 2.8.2).There is **one word** that can fit into all of the spots indicated by an X. Read it and try to guess what the missing word is.
+The first way that stereotypes affect women in STEM fields is that female students may feel unwelcome in their classes. One reason for __ is that they get less recognition from peers. As researchers Kathleen N. Smith and Joy Gaston Gales, professors at North Carolina State University report in a study of female engineering students, "In academia, women experienced implicit bias in a variety of interactions and environments, especially from male peers in team projects where women’s contributions were overlooked." In other words, there may be subtle discrimination and female students may not get the recognition that they deserve from male classmates. __ is probably because most people imagine engineers as men and women are assumed to be a little less competent. __ means that women who want to be engineers are already facing bias before they even start work.
+## The answer
+- If you guessed "it", remember that "it' is not a demonstrative pronoun. It is not a finger pointing to something earlier.
+- If you guessed "that", remember that "that" is what we use to refer to things far away. You want to show a close connection between the sentences of your paragraph. Therefore, you want a word that specifically shows a close relation.
+The answer is "**this".** "This" can fit into all of the blanks and shows the close connection between the sentences. Can you find what each "this" is pointing backwards to?
+Let's look at that example again. The demonstrative pronouns are in bold, and the words that these pronouns describe are in square brackets.
+The first way that stereotypes affect women in STEM fields is that female students may feel unwelcome in their classes. One reason for **this [points back to "women feeling unwelcome in their classes"]** is that they get less recognition from peers. As researchers Kathleen N. Smith and Joy Gaston Gales, professors at North Carolina State University report in a study of female engineering students, "In academia, women experienced implicit bias in a variety of interactions and environments, especially from male peers in team projects where women’s contributions were overlooked." In other words, there may be subtle discrimination and female students may not get the recognition that they deserve from male classmates. **This [points back to "subtle discrimination and female student not getting the recognition that they deserve]** is probably because most people imagine engineers as men and women are assumed to be a little less competent. **This [pointing backwards to people imagining engineers as men and women being assumed to be a little less competent]** means that women who want to be engineers are already facing bias before they even start work.
+As you can see, each "this" directs the reader to look backwards at the ideas of the previous sentence. It summarizes a complex idea into a simple word, showing the reader how the ideas are connected.
+## Adding cohesion with "this"
+Here are some phrases you might use in your paper:
+- "This shows that . . . ."
+- "One example of this is . . . ."
+- "The implication of this is . . . ."
+- "This means that . . . ."
+- "From this, we can assume that . . . ."
+- "This is because. . . ."
+Let's try adding them to a paper.
+### Try this!
+Here is part of a paragraph from a student's paper. Add some of the phrases above to increase the cohesion. Make sure that the phrases fit the meaning of the sentence!
+Recently, some Asian countries like Korea and Japan started to reduce the number of international students from Vietnam. Universities believe that most Vietnamese students go there just to work and illegally stay there. In Japan, there are signs hung everywhere in front of grocery stores, restaurants and malls saying in Vietnamese, “Do not steal, we have cameras.” In their eyes, we are nothing but poor and uneducated people. People believe that Vietnamese are poor or even criminals that, and somehow it has become the only story about my country.
+## Works Cited
+Smith, Kathleen N., and Joy Gaston Gayles. “‘Girl Power’: Gendered Academic and Workplace Experiences of College Women in Engineering.” *Social Sciences* 7.1 (2018): 11. *Crossref*. Web.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+Paragraph on the single story of Vietnamese people is adapted from an essay by Tram Nguyen. License: CC BY.
+
+=== 2.10: Demonstrative Adjectives + Summary Nouns ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.10%3A_Demonstrative_Pronouns__Summary_Nouns
+
+## Demonstrative adjectives + summary nouns
+We have looked at how demonstrative pronouns (especially "this") can increase cohesion by pointing backwards to earlier ideas. Let's look at another way that "this", "that",and "these" can be used to increase cohesion. Here, we will look at how they are demonstrative *adjectives* that describe nouns instead of pronouns that replace them. In this page, examples of demonstrative adjectives and summary nouns are in bold.
+## Discovering demonstrative adjectives and summary nouns
+Let's look at some published academic writing.
+Notice this!
+Here are some paragraphs from a published research paper by Kathleen N. Smith and Joy Gaston Gayles on implicit bias affects women who study engineering. It gives definitions of "implicit bias" and "sexual harassment". As you read, pay attention to the words in **[brackets]**.
+### Reading a published research paper: "Gendered Academic and Workplace Experiences of College Women in Engineering"
+Implicit bias refers to subconscious attitudes that inform how we they think and behave towards others (Greenwald and Banaji 1995; Greenwald and Krieger 2006). From an early age, people are exposed to stereotypes and preconceived judgments about various groups of people and, over time, **[these perspectives]** lead to unfair judgments. A major problem is that the information we learn about different groups of people is often inaccurate and/or incomplete (Tatum 1997). Moreover, our judgments and perceptions about people unlike ourselves shape how we behave towards people who are different from us (Greenwald and Banaji 1995; Heilman 2012).
+Sexual harassment refers to direct or indirect sexual conduct that is not welcomed. Unwanted sexual advances, physical contact, sex-based teasing, insults, and inappropriate comments create a hostile environment. Unfortunately, sexual harassment is widespread in science and engineering fields, with over half of women in **[these fields]** reporting incidences (Hewlett et al. 2014). Even with the high instance rate of sexual harassment reports, research shows that some women do not report sexual harassment when it happens (Hunter 2006). Instead, women tend to cope by ignoring sexual harassment or, worse, seeing it as a part of the job and not reporting it in order to maintain good working relationships with their colleagues (Chamberlain et al. 2008; McLaughlin et al. 2012; Stainback et al. 2011).
+While each form of bias is connected to different types of perceptions and behaviors, all have directly negative implications for women’s success and persistence in engineering fields. Research discussed below provides insight into how **[these concepts]** relate to women in engineering workplace and academic settings.
+The phrases indicated by brackets have two parts: the word **"these"** (a plural demonstrative adjectives for things that are close) followed by a **summary noun** ("perspectives", "fields", and "concepts"). Let's look at them in more detail and also discover what the summary nouns are referring to.
+- From an early age, people are exposed to *stereotypes and preconceived judgments about various groups of people* and, over time, **[these perspectives]** lead to unfair judgments.
+- In the above sentence, "these perspectives" summarizes "stereotypes and preconceived judgments about various groups of people."
+- Unfortunately, sexual harassment is widespread in *science and engineering fields,* with over half of women in [**t**hese fields] reporting incidences (Hewlett et al. 2014).
+- In the above sentence, "these fields" summarizes "science and engineering fields."
+- While *each form of bias* is connected to different types of perceptions and behaviors, all have directly negative implications for women’s success and persistence in engineering fields. Research discussed below provides insight into how **[these concepts]** relate to women in engineering workplace and academic settings.
+- In the above pair of sentences, "these concepts" summarizes "each form of bias" in the previous sentence.
+- "Each form of bias" referred to the two forms discussed earlier: implicit bias and sexual harassment.
+Here, the demonstrative noun points backwards to an idea mentioned earlier, and the noun takes a complex idea discussed earlier and summarizes into one little noun. This strategy increases cohesion by constantly reminding the reader of what happened before in a concise way.
+## Summary nouns in academic writing
+Using a demonstrative plus a summary noun is a very effective way of connecting complex ideas. Table 2.10.1 shows some common summary nouns you can use.
+Table 2.10.1: Common summary nouns and example sentences
+| demonstrative adjective + summary noun | example sentences |
+| this advantage | these advantages | People from the dominant culture may experience less harmful stereotypes. **This advantage** allows them to ignore the effects of stereotypes. |
+| this belief | these beliefs | Stereotypes are common, and **these beliefs** lead to real world harm. |
+| this cause | these causes | To some up, we learn stereotypes from the family and from the media. We should work to reduce **these causes** through education. |
+| this concept | these concepts | Implicit bias refers to unconscious ideas about groups of people. **This concept** can explain some of the challenges faced by women in the engineering field. |
+| this experience | these experiences | I realized that I had made a wrong judgement in both situations. **These experiences** led me to reflect on my own biases. |
+| this issue | these issues | Stereotypes can have negative impacts on people. **This issue** is even more concerning because some people experience multiple stereotypes. For example, Black women in engineering face stereotypes based on their race and their gender. |
+| this problem | these problems | Stereotypes are common. It would be difficult to eliminate **this problem**, but that does not mean we should not try. |
+| this situation | these situations | I first noticed the "single story" when I was an exchange student. As a result of **this situation**, I began to think more about how stereotypes affect us. |
+## Adding demonstrative adjectives + summary nouns for cohesion
+Let's work on increasing cohesion between sentences by adding a demonstrative adjective and a summary noun.
+Try this
+Increase the cohesion in this paragraph by adding a demonstrative adjective plus a summary noun from Table 2.6.3.1.
+One of the main reasons that stereotypes are hard to erase is that they are often due to implicit bias. Implicit biases are ones that we do not recognize we have, and that may even be against our own conscious ideas about groups. We learn ideas about groups early in life from our families, education, and the media. It is important to analyze how the media portrays different groups so that biases don't continue to spread.
+## Works Cited
+Smith, Kathleen N., and Joy Gaston Gayles. “‘Girl Power’: Gendered Academic and Workplace Experiences of College Women in Engineering.” *Social Sciences* 7.1 (2018): 11. *Crossref*. Web.
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Three paragraphs in "read this" are adapted from “Girl Power”: Gendered Academic and Workplace Experiences of College Women in Engineering" by Kathleen N. Smith and Joy Gasten Gales. License: CC BY.
+
+Links on this section's web page:
+- “Girl Power”: Gendered Academic and Workplace Experiences of College Women in Engineering": https://www.mdpi.com/2076-0760/7/1/11/htm
+
+=== 2.12: Creating Cohesion between Paragraphs ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.12%3A_Creating_Cohesion_between_Paragraphs
+
+## Making paragraphs stick together
+We have talked about how you can create cohesion *within* your paragraphs, but you will also want to make sure that each paragraph sticks to the next one.
+## Transitions
+One way to do that is to start each new paragraph with a transition word in the topic sentence. Here is what that might look like in an essay with four body paragraphs, including a concession:
+- The first reason that . . . .
+- Another reason is that . . . .
+- The most significant reason that . . . .
+- Although some argue that [opposing view], it is crucial that we consider [my opinion]
+## Bridging techniques
+In addition to using transition words, you can also use your words to connect one body paragraph to the next. These act like a bridge between the two paragraphs (see figure 2.11.1).
+(Picture: tall bridge across a river) Figure 2.11.1 "bridge" barnyz is licensed under CC BY-NC-ND 2.0
+Here are some examples of paragraph bridges:
+- Repeat key words from the previous paragraph in the topic sentence of the next paragraph.
+- Include the idea of the previous paragraph in the topic sentence of the next paragraph. Here are some examples:
+- In addition to *[last paragraph]*, another benefit of X is [*new paragraph topic]*
+- Despite the advantages of *[last paragraph]*, this has not been implemented because of [*new paragraph topic].*
+- As a result of [*last paragraph]*, [*new paragraph topic]*
+- Though [*last paragraph]* is well-known, fewer people recognize [*new paragraph topic]*
+Of course, you must make sure that your topic sentence matches the meaning of your two paragraphs!
+## Adding bridges to your paragraphs
+Now, let's apply this to your writing.
+Apply this!
+Look at your own or a classmate's draft. Underline or highlight the last sentence of each body paragraph and the first sentence of the next paragraph. Do they lead into each other smoothly?
+1. Think about how the ideas are connected and write a topic sentence that shows the connection. You may also need to add a conclusion sentence to the previous paragraph to make the connection smooth.
+2. If it is not clear how the paragraphs are connected, you may need to reorganize them!
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+
+=== 2.13: Language Toolkit ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.13%3A_Language_Toolkit
+
+## Academic language for body paragraphs of research papers
+Your topic sentences will reflect your pattern of organization just like your thesis statement does!
+## Body paragraphs
+### Topic sentences
+- One [significant/main/major/key] [benefit/advantage] is ....
+- One [significant/main/major/key] reason.... is that....
+- Another positive aspect of X is ....
+- The second main [cause for/problem with/effect of] ... is ....
+- In order to solve this problem, it is important to....
+### Explanation of quote or example (u**se after the quote)**
+- In other words, [his/her/their] point is.....
+- As this quote/example shows,....
+- Basically, [Author] is saying....
+- [Author]’s point is that .....
+- The essence of [Author]’s argument is that ....
+### Analyzing quotes
+- One implication of [Author]’s view is that....
+- Although [Author] does not explicitly say so, we can assume that....
+## Concession
+For more information, visit 5.8: Writing Concession and Counterargument
+### Concession topic sentences
+- However, not everyone agrees that…. For example,.....
+- On the other hand, some people say that…. For example, ....
+- Some may object to the idea of ... because…..
+### Language for concession responses
+- While it is true that…., this is not a major disadvantage because…
+- However, it is important to also consider the fact that ....
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+
+=== 2.14: Takeaways ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.14%3A_Takeaways
+
+## Summary
+In this chapter we:
+- Wrote an introduction and developed a working thesis/main claim
+- Examined what makes a successful thesis
+- Planned body paragraphs: including a topic sentence evidence, and analysis
+- Wrote a conclusion
+- Explored different strategies for improving cohesion within and between paragraphs.
+## Questions for reflection
+- How does having a strong thesis statement affect the rest of the essay?
+- What are your favorite strategies for writing a hook? Why?
+- What is challenging about writing a strong body paragraph?
+- Which methods of using cohesion do you already use, and which ones are new to you?
+- Find an essay or article. What kind of cohesion methods does the writer use? Are they effective?
+- Look back at the 2.2: Sample Student Summary/Response Essay - Stereotype Threat and the other sample essays in this book. Can you identify all of the parts of an introduction, body paragraph, and conclusion? Can you find examples of transition words, known to new sentence structure, demonstrative pronouns with summary nouns, and parallel structure for increasing cohesion?
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+
+=== Answer key from the book: 2.15: Answer Key- Organization and Cohesion ===
+## 2.5 Writing Body Paragraphs
+## Finding the parts of a body paragraph
+Topic Sentence: Stereotypes are problematic because they give an incomplete view of a person within a group.
+- **Topic:** Stereotypes
+- **Controlling idea:** They are problematic because they give an incomplete view of a person within a group.
+**Evidence:** In her TED talk “The Danger of a Single Story,” Adichie argues that a single story usually provides only one part of a story: just one negative or positive side of a person, yet this becomes their label or their definition. An example of this kind of stereotyping is the example of Adichie of Modupe Akinola, a female African-American professor. When she began teaching at Columbia Business School, students often asked her when the professor would arrive because she did not fit the stereotype of what a professor should look like in the U.S. (Akinola)
+**Analysis:** People tend to make assumptions about the single story they hold of a particular group. Due to a lack of exposure, Akinola’s students were probably expecting to see an old white male or possibly a white female professor instead of a young African-American female professor. Also, because of the angry black female stereotype (Eberhardt), during lectures, this may lead students to read Akinola's facial expressions in an incorrect way which may cause confusion.
+**Concluding Sentence:** Thus, stereotypes are "incomplete" and can lead to prejudice as Adichie points out in her TED talk.
+## 2.6 Writing a Conclusion Paragraph
+## Identifying food for thought
+1. A suggestion or call to action
+2. a reflection on how your own thinking changed through writing this
+3. a prediction or warning for the future
+## Identifying parts of a conclusion
+Umbrella sentence: In “Stereotype Threat,” McRaney and her colleagues clearly and evenhandedly explain the phenomenon of stereotype threat.
+**Summary:** Their choice of language makes the chapter interesting and accessible to students who may not have training in the social sciences, even as the authors cite many academic sources. The authors also spend time addressing and responding to some common criticisms of and doubts about the existence of stereotype threat, which makes the ideas they discuss more credible. Furthermore, the content is relatable: the examples provided in the text helped me identify an instance of stereotype threat in my own life and made me think about other situations where stereotype threat may have been at play.
+**Food for thought:** Their chapter highlights an important phenomenon and, with this knowledge, institutions and individuals can take steps to create environments in and out of the classroom that lessen the chance stereotype threat will negatively (and needlessly) affect performance.
+## 2.7 Cohesion and transition words
+## Adding appropriate transition words
+Stereotyping helps us quickly understand or make a decision about others. **[However,]** it gives people surface knowledge and a limited understanding of other people. **[As a result,]** people are all labeled and everyone categorizes others, which is necessary to do in order to make quick judgments. **[Furthermore,]** Jennifer Eberhardt points out that “the content of those stereotypes is culturally generated and culturally specific.”
+## 2.11 Parallel Structure
+## Parallel structure and cohesion
+Here are the complete quotations.
+1. “Not everything that is faced can be changed. But nothing can be changed until it is faced."—James Baldwin
+2. “If you want others to be happy, practice compassion. If you want to be happy, practice compassion.” —The Dalai Lama
+3. “We must accept finite disappointment, but never lose infinite hope” —Dr. Martin Luther King, Jr.
+4. “Success is getting what you want. Happiness is wanting what you get.” —Dale Carnegie
+5. "People will forget what you said, people will forget what you did, but people will never forget how you made them feel." —Maya Angelou
+6. “We make a living by what we get, but we make a life by what we give.” —Winston Churchill
+7. "To be smart on crime, we should not be in a position of constantly reacting to crime after it happens. We should be looking at preventing crime before it happens." —Kamala Harris
+8. "I just hope that more people will ignore the fatalism of the argument that we are beyond repair. We are not beyond repair. We are never beyond repair." —Alexandria Ocasio-Cortez
+9. “Ask not what your country can do for you; ask what you can do for your country.” —John F. Kennedy
+## Identifying parallel structure
+Parallel structures are indicated by [brackets]..
+Why is it that women who are talented in **[math and science] [avoid or leave]** engineering majors and careers? An American Association of University Women report on women’s success in engineering and computing suggests that **[women who persist in science and engineering are not all that different from women who decide to leave].** The major difference between **[staying and leaving]** has been found to have **[less to do with the women themselves and more to do with the academic** and **workplace environments]** where they **[attend school and pursue careers]**. Throughout the literature on women’s persistence in **[science, technology, engineering, and math]** (STEM) fields, a range of **[structural and cultural]** barriers contribute to the high prevalence of gender bias in these fields, with direct implications for women’s **[self-efficacy, experiences, opportunities, and success],** particularly in engineering.
+- **Word forms:** Nouns (science, technology, engineering, and math), adjectives (structural and cultural), nouns (self-efficacy, experiences, opportunities, success)
+- **Verb forms:** staying, leaving; attend school, pursue careers
+- **Phrases:** less to do with, more to do with
+- **Clauses:** women who persist in science and engineering, women who persist in science and engineering.
+## Add parallel structure for clarity and cohesion
+Possible answers indicated by brackets:
+- Having stereotypes **[highlights people’s differences and makes equality nearly impossible to achieve].** In her TED talk, Chimimanda Adichie claims, “The consequence of the single story is this: it robs people dignity. . . . It emphasizes how we are different rather than how we are similar.”
+- What she means is that a single story usually **[focuses on what other groups do not have and what is beneficial for the people telling the story, rather than focusing on what is true].**
+- This **[makes us look at our differences and makes society less equal]**.

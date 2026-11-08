@@ -1,0 +1,50 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+3.7: Evaluating Your Sources
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.07%3A_Evaluating_Your_Sources
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Why you need to evaluate
+As you gather sources for your research, you may find that different sources give you different or opposing information. How can you know what information to trust? How will you decide which sources to use and which ones not to use?
+Keep in mind that the sources you find have all been put out there by groups, organizations, corporations, or individuals who have some motivation for getting this information to you. To be a good researcher, you need to learn how to assess the materials you find and determine their reliability—before deciding if you want to use them and, if so, how you want to use them. Figure 3.7.1 shows two students examining materials to determine reliability.
+[Image: Two college students evaluating books]
+Figure : "Learning" by CollegeDegrees360 is marked with CC BY-SA 2.0.
+Whether you are examining material in books, journals, magazines, newspapers, or websites, you want to consider several issues before deciding if and how to use the material you have found.
+## Criteria for evaluating sources
+Table 3.7.1 gives a list of criteria to consider when you are deciding which sources to use, as well as some questions that can help you decide if your source meets the criteria.
+Table 3.7.1 Criteria to use in evaluating sources and questions to ask for each criteria
+| **Criteria** | **Description** | **Questions to Ask** |
+| **Authority/Credibility** | Determining the author for a source is important in deciding whether information is credible. The author should show some evidence of being knowledgeable, reliable and truthful. | Who is the author (person, company, or organization)? | Does the source provide any information that leads you to believe the author is an expert on the topic? | Can you describe the author's background (experience, education, knowledge)? | Does the author provide citations? Do you think they are reputable? |
+| **Accuracy** | The source should contain accurate and up-to-date information that can be verified by other sources. | Can facts or statistics be verified through another source? | Based on your knowledge, does the information seem accurate? Does it match the information found in other sources? | Are there spelling or grammatical errors? |
+| **Relevance** | It is important that the source meets the information needs and requirements of your research assignment. | Does the source cover your topic comprehensively or does it cover only one aspect? | To what extent does the source answer your research question? | Is the source considered popular or scholarly? | Is the terminology and language used easy to understand? |
+| **Currency/Date** | Some written works are ageless (e.g., classic literature) while others (e.g., technological news) become outdated quickly. It is important to determine if currency is pertinent to your research. | When was the source written and published? | Has the information been updated recently? | Is currency pertinent to your research? |
+| **Objectivity/Bias/Reliability** | Every author has an opinion. Recognizing this is instrumental in determining if the information presented is objective or biased. | What is the purpose or motive for the source (educational, commercial, entertainment, promotional, etc.)? | Who is the intended audience? | Is the author pretending to be objective, but really trying to persuade, promote or sell something? |
+| **Style/Functionality** | Style and functionality may be of lesser concern. However, if the source is not well-organized, its value is diminished. | Is the source well-written and organized? | To what extent is it professional looking? | If it is a website, can you navigate it easily? | If it is a website, are links broken? |
+## Practice evaluating sources
+Let's evaluate two sources using table 3.7.1. Both of these articles are about teachers or faculty of color. Figure 3.7.2 shows an African American teacher helping a student.
+[Image: Black teacher helping a student]
+Figure : "Student and Teacher" by Wonderlane is marked with CC BY 2.0.
+Try this!
+Here are two articles related to teachers of color. Read the citation and abstract and use the criteria and questions in table 3.7.1 to evaluate each one. Then, answer this question: Would this be a good source for my research paper on whether colleges need more faculty of color?
+### Source 1: “The Limited Presence of African-American Teachers.”
+**Citation:** King, Sabrina Hope. “The Limited Presence of African-American Teachers.” *Review of Educational Research*, vol. 63, no. 2, [Sage Publications, Inc., American Educational Research Association], 1993, pp. 115–49, https://doi.org/10.2307/1170470.
+**Author:** Sabrina Hope King, Professor at the University of Illinois at Chicago
+**Abstract: "**The limited presence of talented African Americans in the teaching profession has been and continues to be a serious problem confronting the education profession and the African-American community in the United States. This review summarizes what is known from the research literature. It explores the reasons that African-American teachers are important as well as overall demographic, entry, and retention trends and the distinctive factors that influence the limited presence of African-American teachers. Finally, a suggested research agenda is presented."
+### Source 2: “Diversifying the Teaching Profession through High-Retention Pathways.”
+**Citation:** Carver-Thomas, Desiree. “Diversifying the Teaching Profession through High-Retention Pathways.” *Learning Policy Institute*, 19 Apr. 2018, https://learningpolicyinstitute.org/...ofession-brief.
+**Author:** Desiree Carver-Thomas, Researcher and Policy Analyst at the Learning Policy Institute. She is also a former teacher. The Learning Policy Institute "conducts and communicates independent, high-quality research to improve education policy and practice," according to its website. The website also lists who funded the research: "Research in this area of work is funded in part by the S. D. Bechtel, Jr. Foundation. Core operating support for the Learning Policy Institute is provided by the Ford Foundation, the William and Flora Hewlett Foundation, and the Sandler Foundation."
+**Abstract: "**Research illustrates the importance of greater teacher diversity because of the substantial benefits teachers of color provide to all students, and to students of color in particular. Studies also show that policies must focus more effectively on retention of teachers of color, if diversity in the teaching profession is to be sustained. While more teachers of color are being recruited than in years past, their turnover rates are high, in part due to inadequate preparation and mentoring, poor teaching conditions, and displacement from the high-need schools in which they teach. Increasing the number of teachers of color in the workforce requires building high-retention pathways into the field that offer high-quality preparation and financial supports, including service scholarships, loan forgiveness programs, teacher residencies, Grow Your Own programs, ongoing mentorship, and other policies and strategies that improve teacher licensure, hiring, professional growth, and teaching conditions for current and aspiring teachers of color."
+(For possible answers, check the 3.12: Answer Key - Research)
+Here is a Source Evaluation Checklist that you can download and use.
+## Works Cited
+Carver-Thomas, Desiree. “Diversifying the Teaching Profession through High-Retention Pathways.” *Learning Policy Institute*, 19 Apr. 2018.
+King, Sabrina Hope. “The Limited Presence of African-American Teachers.” *Review of Educational Research*, vol. 63, no. 2, [Sage Publications, Inc., American Educational Research Association], 1993, pp. 115–49.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Activity Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+"Why you need to evaluate" adapted from Purdue OWL's Evaluating Sources. License: CC BY.
+Table 3.7.1 adapted from the University of Texas at Arlington's Criteria for Evaluating Sources. License: CC BY NC.
+Abstract of “Diversifying the Teaching Profession through High-Retention Pathways" is from the Learning Policy Institute. License: CC BY NC.
+## All Rights Reserved
+Abstract of Sabrina Hope King's “The Limited Presence of African-American Teachers.”
+This page titled 3.7: Evaluating Your Sources was last modified on Sun, 09 Mar 2025 17:17:28 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

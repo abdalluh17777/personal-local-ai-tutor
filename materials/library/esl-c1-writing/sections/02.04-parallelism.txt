@@ -1,0 +1,87 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+2.4: Parallelism
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/02%3A_Sentence_Variety_-_How_do_I_Refine_My_Writing/2.04%3A_Parallelism
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Learning Objectives
+1. Identify sentences that are parallel and not parallel.
+2. Identify ways to create parallelism in writing.
+3. Write and revise sentences using parallelism.
+Earlier in this chapter, we learned that increasing sentence variety adds interest to a piece of writing and makes the reading process more enjoyable for others. Using a mixture of sentence lengths and patterns throughout an essay is an important writing technique. However, it is equally important to avoid introducing variation within individual sentences. A strong sentence is composed of balanced parts that all have the same structure. In this section, we will examine how to create a balanced sentence structure by using parallelism.
+## Using Parallelism
+Parallelism is the use of similar structure in related words, clauses, or phrases. It creates a sense of rhythm and balance within a sentence. As readers, we often correct faulty parallelism — a lack of parallel structure — intuitively because an unbalanced sentence sounds awkward and poorly constructed. Read the following sentences aloud:
+**Faulty parallelism:** Kelly had to iron, do the washing, and shopping before her parents arrived.
+**Faulty parallelism:** Driving a car requires coordination, patience, and to have good eyesight.
+**Faulty parallelism:** Ali prefers jeans to wearing a suit.
+All of these sentences contain faulty parallelism. Although they are factually correct, the construction is clunky and confusing. In the first example, three different verb forms are used. In the second and third examples, the writer begins each sentence by using a noun (*coordination*, *jeans*), but ends with a phrase (*to have good eyesight*, *wearing a suit*). Now read the same three sentences that have correct parallelism.
+**Correct parallelism:** Kelly had to do the ironing, washing, and shopping before her parents arrived.
+**Correct parallelism:** Driving a car requires coordination, patience, and good eyesight.
+**Correct parallelism:** Ali prefers wearing jeans to wearing a suit.
+When these sentences are written using a parallel structure, they sound more aesthetically pleasing because they are balanced. Repetition of grammatical construction also minimizes the amount of work the reader has to do to decode the sentence. This enables the reader to focus on the main idea in the sentence and not on how the sentence is put together.
+Tip
+A simple way to check for parallelism in your writing is to make sure you have paired nouns with nouns, verbs with verbs, prepositional phrases with prepositional phrases, and so on. Underline each element in a sentence and check that the corresponding element uses the same grammatical form.
+## Creating Parallelism Using Coordinating Conjunctions
+When you connect two clauses using a coordinating conjunction (*for*, *and*, *nor*, *but*, *or*, *yet*, *so*), make sure that the same grammatical structure is used on each side of the conjunction. Take a look at the following example:
+**Faulty parallelism:** When I walk the dog, I like **to listen to music** and **talking to friends** on the phone.
+**Correct parallelism:** When I walk the dog, I like **listening to music** and **talking to friends** on the phone.
+The first sentence uses two different verb forms (*to listen*, *talking*). In the second sentence, the grammatical construction on each side of the coordinating conjunction (*and*) is the same, creating a parallel sentence. The same technique should be used for joining items or lists in a series:
+**Faulty parallelism:** This committee needs to decide whether the company should **reduce its workforce, cut its benefits,** or **lowering workers’ wages**.
+**Correct parallelism:** This committee needs to decide whether the company should **reduce its workforce, cut its benefits,** or **lower workers’ wages**.
+The first sentence contains two items that use the same verb construction (*reduce*, *cut*) and a third item that uses a different verb form (*lowering*). The second sentence uses the same verb construction in all three items, creating a parallel structure.
+Exercise :
+On your own sheet of paper, revise each of the following sentences to create parallel structure using coordinating conjunctions.
+1. Mr. Koirla enjoys reading and to play his guitar on weekends.
+2. The doctor told Mrs. Hall that she should either eat less or should exercise more.
+3. Breaking out of the prison compound, the escapees moved carefully, quietly, and were quick on their feet.
+4. I have read the book, but I have not watched the movie version.
+5. Deal with a full inbox first thing in the morning, or by setting aside short periods of time in which to answer e-mail queries.
+## Creating Parallelism Using Than or As
+When you are making a comparison, the two items being compared should have a parallel structure. Comparing two items without using parallel structure can lead to confusion about what is being compared. Comparisons frequently use the words *than* or *as*, and the items on each side of these comparison words should be parallel. Take a look at the following example:
+**Faulty parallelism: Swimming in the ocean** is much tougher than **a pool**.
+**Correct parallelism: Swimming in the ocean** is much tougher than **swimming in a pool**.
+In the first sentence, the elements before the comparison word (*than*) are not equal to the elements after the comparison word. It appears that the writer is comparing an action (*swimming*) with a noun (*a pool*). In the second sentence, the writer uses the same grammatical construction to create a parallel structure. This clarifies that an action is being compared with another action.
+To correct some instances of faulty parallelism, it may be necessary to add or delete words in a sentence.
+**Faulty parallelism: A brisk walk** is as beneficial to your health as **going for a run**.
+**Correct parallelism: Going for a brisk walk** is as beneficial to your health as **going for a run**.
+In this example, it is necessary to add the verb phrase *going for* to the sentence in order to clarify that the act of walking is being compared to the act of running.
+Exercise :
+On your own sheet of paper, revise each of the following sentences to create parallel structure using than or as .
+1. I would rather work at a second job to pay for a new car than a loan.
+2. How you look in the workplace is just as important as your behavior.
+3. The firefighter spoke more of his childhood than he talked about his job.
+4. Indian cuisine is far tastier than the food of Great Britain.
+5. Amber’s opponent was as tall as Amber and he carried far more weight.
+## Creating Parallelism Using Correlative Conjunctions
+A correlative conjunction is a paired conjunction that connects two equal parts of a sentence and shows the relationship between them. Common correlative conjunctions include the following:
+- either…or
+- not only…but also
+- neither…nor
+- whether…or
+- rather…than
+- both…and
+Correlative conjunctions should follow the same grammatical structure to create a parallel sentence. Take a look at the following example:
+**Faulty parallelism:** We can neither **wait** for something to happen nor **can we take** evasive action.
+**Correct parallelism:** We can neither **wait** for something to happen nor **take** evasive action.
+When using a correlative conjunction, the words, phrases, or clauses following each part should be parallel. In the first sentence, the construction of the second part of the sentence does not match the construction of the first part. In the second sentence, omitting needless words and matching verb constructions create a parallel structure. Sometimes, rearranging a sentence corrects faulty parallelism.
+**Faulty parallelism:** It was both a long movie and poorly written.
+**Correct parallelism:** The movie was both long and poorly written
+Tip
+This is an area where we see mistakes. To see examples of parallelism in use, read some of the great historical speeches by rhetoricians such as Abraham Lincoln and Martin Luther King Jr. Notice how they use parallel structures to emphasize important points and to create a smooth, easily understandable oration.
+Here is a link to text, audio, video, and the music of Martin Luther King’s speech “I Have a Dream”: http://www.mlkonline.net/dream.html
+Note that the spelling and grammar checker on most word processors will not draw attention to faulty parallelism. When proofreading a document, read it aloud and listen for sentences that sound awkward or poorly phrased.
+Exercise :
+On your own sheet of paper, revise each of the following sentences to create parallel structure using correlative conjunctions.
+1. The cyclist owns both a mountain bike and has a racing bike.
+2. The movie not only contained lots of action, but also it offered an important lesson.
+3. My current job is neither exciting nor is it meaningful.
+4. Antonio would rather listen to his father than be taking advice from me.
+5. We are neither interested in buying a vacuum cleaner nor do we want to utilize your carpet cleaning service.
+Exercise :
+Read through the following excerpt from Alex’s essay and revise any instances of faulty parallelism. Rewrite the sentences to create a parallel structure.
+[Image: 2.4.1.png]
+Figure 
+Key Takeaways
+- Parallelism creates a sense of rhythm and balance in writing by using the same grammatical structure to express equal ideas.
+- Faulty parallelism occurs when elements of a sentence are not balanced, causing the sentence to sound clunky and awkward.
+- Parallelism may be created by connecting two clauses or making a list using coordinating conjunctions; by comparing two items using *than* or *as*; or by connecting two parts of a sentence using correlative conjunctions.
+This page titled 2.4: Parallelism was last modified on Tue, 01 Sep 2020 19:28:00 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

@@ -1,0 +1,324 @@
+Lesson 11 material: The Paragraph 2: Unity, Transitions and Concluding Sentences
+English Stage 2 (B2) · Unit 1: Academic Writing Essentials · Psychology
+
+=== Unit 3 Parts and Characteristics of a Good Paragraph (part VII-XI) ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-3parts-of-a-paragraph/
+
+# VII. Supporting Ideas and Paragraph Unity
+(Picture: a man sitting on a bridge over a river)
+a man sitting on a bridge over a river
+Supporting means “holding up”, just as the bridge is “holding up” the man in the image on the left**. Supporting sentences** are crucial in “holding up” the main idea while making your paragraphs interesting and convincing[7]. They must support or explain the main idea in the topic sentence.
+A good strategy for logical supporting sentences is to predict the question the readers may ask about your topic sentence. The result of this planning is actually the paragraph outline you learned in Unit 2 The Writing Process. *(Open Unit 2 here.)*
+| **Parts in a Paragraph** | Outline Ideas |
+| **Topic sentence** | **Young people should not live in their parents’ house after graduating from college.** |
+| **Question:** | Why not? |
+| **Supporting Sentence 1** | practice independence in daily life |
+| **Details 1** | cooking, cleaning, money, my struggles to be mature |
+| **Supporting Sentence 2** | experience real meaning of life |
+| **Details 2** | make decisions, take risks, manage time, my involvement in community service |
+| **Supporting Sentence 3** | learn to appreciate parents |
+| **Details 3** | their teaching, their love, give them time to rest, joy in visiting my parents |
+## Paragraph Unity
+**Unity** comes from the verb “unite” and means “hold tight, together”. In a paragraph, it means that all the supporting sentences work together to serve the same purpose: explaining the main idea.
+Imagine two bouquets of flowers. Both look beautiful and in perfect harmony within themselves. However, if one sunflower is inserted in the middle of the roses, it will look out of place because it breaks the unity of the rose bouquet.
+(Picture: a rose bouquet)
+a rose bouquet
+(Picture: a sunflower bouquet)
+a sunflower bouquet
+Then how do you tell if your paragraph has unity? There are two easy ways:
+1. Ask yourself, “Does each supporting sentence explain the controlling idea in the topic sentence?” If yes, your paragraph has unity. If not, you need to delete or change the supporting sentence. It is helpful to circle or underline your controlling idea in the topic sentence for easier checking.
+2. Always make an outline of the paragraph before you write. If you come up with a new idea while drafting the paragraph, put it in your outline first and ask yourself the first question.
+Does the following paragraph outline show unity?
+| **Parts of a Paragraph** | Outline Ideas |
+| **Topic sentence** | **Taking online classes helps college students in three significant ways.** |
+| **Question:** | What are these three ways? |
+| **Supporting Sentence 1** | provide convenience |
+| **Details 1** | no driving, flexible study time, no transportation issue, hard to focus because of noisy children in the same house |
+| **Supporting Sentence 2** | practice time management skills |
+| **Details 2** | set study time and follow it, learn to deal with distractions |
+| **Supporting Sentence 3** | not get professor’s in-person help |
+| **Details 3** | difficult materials, questions not answered right away |
+No, it does not show unity. It contains irrelevant[8] ideas because they do not support the main idea “help college students”. Here are ways to improve the outline:
+- Cross out the irrelevant ideas.
+- Add relevant information to support the main idea.
+- In the second support, a personal example is also added to make the paragraph more interesting.
+- In the third support, the new idea “manage time better” is a repetition of the second support “practice time management skills”. Therefore, it should be deleted. It is important not to repeat the same information that is already explained in other parts of the support.
+| **Parts of a Paragraph** | **Outline Ideas** |
+| **Topic sentence** | **Taking online classes helps college students in three significant ways.** |
+| **Question:** | What are these three ways? |
+| **Supporting Sentence 1** | provide convenience |
+| **Details 1** | no driving, flexible study time, no transportation issue, ~~hard to focus because of noisy children in the same house,~~ ***childcare easier, enjoy time together*** |
+| **Supporting Sentence 2** | practice time management skills |
+| **Details 2** | set study time and follow it, learn to deal with distractions, ***m* y example of learning from procrastination mistakes** |
+| **Supporting Sentence 3** | ~~not get professor’s in-person help~~ ***learn to study independently*** |
+| **Details 3** | ~~difficult materials, questions not answered right away~~ ***solve problems, rely on oneself, YouTube, Khan Academy, other resources, ~~manage time better~~*** |
+**Exercise 5.** Use the above as an example. Read the outlines below. Cross out the supporting ideas/details that are irrelevant. Revise each outline so that all the supporting ideas explain the main idea in the topic sentence**.**
+#1
+| **Parts of a Paragraph** | **Outline Ideas** |
+| **Topic sentence** | **During Covid pandemic, social distancing was important in preventing the spread of coronavirus.** |
+| **Question:** | Why was social distancing important in prevention? |
+| **Supporting Sentence 1** | lower chance of passing the virus |
+| **Details 1** | talking, sneezing, coughing, passing one person to the next |
+| **Supporting Sentence 2** | the virus highly contagious |
+| **Details 2** | through physical contact, Delta variant 60% more transmissible than the one before |
+| **Supporting Sentence 3** | hospitals with good medical equipment |
+| **Details 3** | ICU, respirators, oxygen tanks, N95 masks |
+| **Supporting Sentence 3** | some people catching virus easily |
+| **Details 4** | sick people, older people, children |
+#2
+| **Parts of a Paragraph** | **Outline Ideas** |
+| Topic **sentence** | **I suffered from severe mental stress during the Covid 19 lockdown in April 2020.** |
+| **Question:** | Why did you suffer from stress? |
+| **Supporting Sentence 1** | worry about my health the health of my family |
+| **Details 1** | brother essential worker, baby at home |
+| **Supporting Sentence 2** | worry about money |
+| **Details 2** | lost restaurant job, pay bills, good unemployment benefits |
+| **Supporting Sentence 3** | online classes very hard |
+| **Details 3** | convenient time, hard to learn Blackboard, no face-to-face practice, missed deadline of first assignment |
+#3
+| **Parts of a Paragraph** | **Outline Ideas** |
+| **Topic sentence** | **My cousin did not want to get the Covid-19 vaccine for three reasons.** |
+| **Question:** | What were the reasons? |
+| **Supporting Sentence 1** | vaccine safety not sure |
+| **Details 1** | Vaccine developed in a short time, worry about reactions and long-term side effects, reports about blood clots after vaccine |
+| **Supporting Sentence 2** | He’s healthy |
+| **Details 2** | strong, seldom sick, good immunity |
+| **Supporting Sentence 3** | stayed home all the time |
+| **Details 3** | not contact other people, study online, get bored, want to have parties with friends |
+**Exercise 6.** Use the topic sentences below to build relevant supporting ideas. Check to make sure that all the ideas support the main idea in the topic sentence. Share your outline with your partner and discuss each other’s ideas.
+***Example:***
+| **Parts of a Paragraph** | **Outline Ideas** |
+| **Topic sentence** | **Owning a car is a necessity for community college students.** |
+| **Question:** | Why is a car necessary? |
+| **Supporting Sentence 1** | need it for study |
+| **Details 1** | on time to class, stay late in lab and library, not relying on friends or family, in control of time, my example of schedule |
+| **Supporting Sentence 2** | need it for extra curricula activities and community service |
+| **Details 2** | student clubs, volunteer work, my example of community service in the homeless shelter |
+| **Supporting Sentence 3** | need it for fun |
+| **Details 3** | party and movie with friends, regardless of time |
+1. Topic sentence: Men can often be better care givers than women.
+2. Topic sentence: People 18 years and older should serve two years in the military.
+3. Topic sentence: Chicago is the most romantic city in the U.S.
+4. Topic sentence: Chicago is the best place for children to visit on the weekend.
+**Exercise 7.** The following paragraph about a special place does not have unity. There are four additional sentences to be deleted (not including the example). Type the numbers of the irrelevant sentences in the boxes below. When you complete the entire exercise, you can click “Check” for answers. You may also retry or see all the answers. Sentence #4 is an example.
+(Picture: a balcony with a table, two chairs, and some plants)
+a balcony with a table, two chairs, and some plants
+[Interactive exercise]
+Task: .
+   My Special Place (1) Most people have their own special place in the house, and mine is my balcony. (2) It is a wooden structure about two meters wide and eight meters long. (3) It is not big but comfortable for me. (4) Every apartment in the building has a balcony. (5) First of all, my balcony has a beautiful lake view. (6) The balcony faces a small lake, and sometimes I see ducks swimming there. (7) In the evening, the fountain in the middle of the lake lights up with soft music in the background. (8) I always feel serene and mysterious with the night sky enveloping around me. (9) I do not sit on the balcony during the day because I need to work. (10) The balcony is also a place where I rest after a day of hard study. (11) No one bothers me there, and the noise from the house feels far away. (12 )Sometimes my daughter comes and asks for help with her homework. (13) I love to help her! (14) The best part of the balcony is that it is a place where I reflect on my life. (15) There are two pots of geranium flowers and two pots of cacti, a perfect harmony of pink and green, round and thorny, soft and spiky – just like life itself. (16) I think about my life experiences while admiring the plants. (17) I love my balcony. (18) I love my family, too! These sentences should be deleted: 4 , [9], [12] [13] [18]
+## Types of Supporting Sentences
+Good supporting sentences not only explain the main idea but also include interesting details such as
+**facts** – numbers, general truths, scientific truths…
+**reasons** – logical explanations…
+**experts’ opinion**s – research findings, quotes by experts in the field…
+**examples** – stories of well-known people, personal experiences, personal quotes…
+Read Paragraph “Good Roommates” below and discuss how the writer uses the types of details. Color supporting ideas in ***green*** and the details in ***blue***.
+Good Roommates
+Having good roommates makes lives more enjoyable. First, good roommates understand each other’s need for peace and quiet after a day’s study. 1They do not make unnecessary noises. For example, my roommate Abia and I have different class schedules. She spends the day at school, and I attend night classes. When I come back to the apartment very tired at 10 pm, she always turns down her music or speaks very softly on the phone with her friends. Moreover, good roommates share useful information. 2Writer Barbara Dana once said, “A good roommate may be the single most important thing to have when one is away at school.” It is true because Abia’s and my families are far away. I have taken more courses at college, so I give Abia advice about classes, student clubs, and scholarships. She helps me in a different way. While I was looking for a part-time job last year, she told me about the job openings in her workplace. Finally, good roommates respect each other’s differences. 3As the U.S. is a land of immigrants, it becomes the land of opportunities to learn different cultures and religions. I have learned about the significance of Ramadan for Abia, and she has understood the importance of Easter for me. Together, we have developed a good understanding of each other’s beliefs. In brief, good roommates help each other become more caring, supportive, and tolerant[9]. They make living easier in this complicated world.
+In the first supporting details (first **blue** block marked with 1): personal examples of Abia and me
+In the second supporting details (second **blue** block marked with 2): a quote by an expert, personal examples of Abia and me
+In the third supporting details (third **blue** block marked with 3): general truth, logic, personal examples of Abia and me
+**Exercise 8.** Use Paragraph “Good Roommates” as an example, read Paragraph “No Capital Punishment” and discuss what types of interesting details the writer uses. Color the supporting ideas in **green** and the details in **blue**.
+No Capital Punishment[10]
+Capital punishment should be banned[11] because the result cannot be changed, it is killing a life, and it does not stop the crime. First of all, the result of capital punishment is irreversible[12]; therefore, it is important to be absolutely certain of a person’s guilt. Nevertheless, in some cases, this is simply impossible to prove a person’s guilt with 100% certainty. What if a person is wrongly charged? The death penalty will affect that person and his or her family forever. Next, capital punishment is killing. Killing people for any reason is wrong. Life is sacred, and humans do not have the right to decide the lives of others. Some people believe that capital punishment will stop criminals from committing crimes as they will be afraid to die. However, this is not the reality. Violent cases still occur daily. For instance, on the weekend of July 4th, 2021, Chicago Sun Times reported that over 100 people were shot in Chicago and 19 of them died. That weekend was considered the deadliest and most violent in the city that year. This shows that putting criminals to death will not reduce the crime. For these reasons, death penalty should not be supported. The people and the government must find a better solution[13] to punishing the law breakers.
+*data from*
+*https://chicago.suntimes.com/crime/2021/7/3/22561910/chicago-weekend-shootings-july-2-5-homicide-gun-violence. Last accessed on July 10, 2021.*
+# VIII. Transitions and Paragraph Cohesion
+**Cohesion** focuses on the link between ideas so that they flow naturally from one to the next. When a paragraph has cohesion, ideas progress smoothly to create a connected whole.
+(Picture: waterfall in Yellowstone National Park)
+waterfall in Yellowstone National Park
+Imagine cohesion as a waterfall cascading[14] smoothly and continuously.
+There are different ways to achieve cohesion. One of them is by using transitions.
+**Transitions** are also called **connecting words**. They help the writer organize thoughts and guide the readers in understanding the order of ideas clearly. Transitions are often needed not only between supporting sentences but also within them.
+Compare the two paragraphs “Applying for the John & Melanie Frieburg ESL Student Scholarship” below. Which one is better? Why is it better? Underline the transitions in Paragraph 2 that you do not see in Paragraph 1.
+**Paragraph 1**
+Applying for the John & Melanie Frieburg ESL Student Scholarship
+Applying for the John & Melanie Frieburg ESL Student Scholarship online is not hard if you follow these steps. Go to the scholarship page on the Harper College website and search for this specific scholarship. Read all the information related to it: the requirements, the deadline, and the amount of the award. Fill out the application form online completely and accurately. There are twelve supplemental[15] questions including your grades and financial situation. Do you have an average grade of C? A paragraph about your educational aspiration is required. Get two recommendation letters from two people who know you well. Be sure to ask them first and give them enough time to write the letters. Proofread your application and submit before the deadline. You can always ask help from the Scholarship Office, the ESL Department, or the One Stop Center. The process is easy to follow and well worth your efforts for this special honor.
+(Picture: Frieburg ESL Student Scholarship winners 2015/2016)
+Frieburg ESL Student Scholarship winners 2015/2016
+## Paragraph 2
+Applying for the John & Melanie Frieburg ESL Student Scholarship
+Applying for the John & Melanie Frieburg ESL Student Scholarship online is not hard if you follow these steps. __First__, go to the scholarship page on the Harper College website and search for this specific scholarship. Read all the information related to it, __such as__ the requirements, the deadline, and the amount of the award. __When you are ready__, fill out the application form online completely and accurately. There are twelve supplemental questions including your grades and financial situation. __For example,__ do you have an average grade of C? A paragraph about your educational aspiration is __also__ required. __Another step__ is to get two recommendation letters from two people who know you well. Be sure to ask them and give them enough time to write the letters. __Finally,__ proofread your application and submit before the deadline. __At any stage of your application,__ you can always ask for help in the Scholarship Office, the ESL Department, or the One Stop Center. As you can see, the process is easy to follow and well worth your efforts for this special honor.
+With connecting expressions like “First”, “such as”, “When you are ready”, and other underlined transitions, Paragraph 2 explains the steps much more clearly.
+**How are the transitions used?**
+1. The transition for the first supporting idea is often optional.
+2. “Finally” is usually used to show the last supporting idea in the body of the paragraph. It is not used right before the conclusion.
+3. The transition before the concluding sentence is optional. It is actually more common without it.
+4. After most transitions, there is usually a comma, but this is not always true. There are different types of transitions with different punctuation rules. You will learn them step by step throughout the course.
+5. Do not overuse transitions; otherwise, the paragraph will read very unnatural. As you read and write more, you will gradually develop a sense of when a transition is or is not necessary.
+Here are some common transitions:
+| Meaning | Transitions |
+| Addition | first, second, then, next, in addition, also, furthermore, moreover, last, finally … |
+| Contrast | but, yet, on the other hand, on the contrary, however, nevertheless, though, even though, although … |
+| Time | first, second, then, next, at ____ (clock time), in the morning (afternoon, etc.), after that, soon, in the beginning, at the same time, meanwhile, at first, at last, before, after, later, when, while, as soon as, until … |
+| Reason | for, due to, because of, because, since, as … |
+| Result | so, therefore, thus, consequently, as a result … |
+| Location | near, beside, next to, in front, behind, around, on the top, on the bottom, on the right/left, to the right/left, under, opposite, above, below … |
+| Conclusion | in conclusion, in summary, to sum up, in brief, for those reasons … |
+| Example | like, such as, including, for example, for instance … |
+Study Paragraph “Good Roommates” again. Notice how the three transitions (**first, moreover, finally**) connect the supporting ideas and the transition (**in brief**) is used before the concluding sentences.
+Study Paragraph “No Capital Punishment” again. Notice how the transitions (**first of all, therefore, nevertheless, next, however, for instance**) are used to connect ideas between supporting ideas and within them. The transition (**for these reasons**) is placed before the concluding sentence.
+**Exercise 9.** Choose the appropriate transitions below and type them in the boxes to finish the paragraph about a daughter. There may be more than one correct answer, but type just one. Not all listed transitions are needed. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers. The first one is an example.
+**first, second, next, in addition, also, furthermore, moreover, last, finally, for example, to sum up**
+[Interactive exercise]
+Task: .
+   My Daughter My daughter is a wonderful girl. Her name is Amy. She is seven years old and in second grade. I love her brown eyes and soft black hair. Amy loves to study. Every day, she goes to school. She is excited to learn new things. Mathematics is her favorite subject, and she can solve difficult math problems faster than her classmates. Second , Amy has many hobbies. Two days each week, she goes to ballet lessons, and she is one of the best dancers in her class. Last summer, she took a swimming class, and now she knows how to swim and goes swimming in the park district pool on the weekends. [In addition/Furthermore/Next/Moreover], Amy has a tender heart. She loves her younger sister Sonia and likes to take care of her when I am busy. [For example], when I am cooking, Amy plays with Sonia and keeps her company. She even helps me do the dishes after dinner. She is a very loving girl! She is [also] kind to little animals and likes to pat them when she sees the neighbors walk their dogs. She says that she is going to volunteer in an animal shelter when she is old enough. [Finally/Last], with Amy’s loving personality, she has many friends and is always willing to help others. Once, one of her classmates lost his money and could not buy lunch at school. Amy gladly gave him $3 even though she had only $2 left for her own lunch. [To sum up], I am proud of my daughter. She is a blessing to people around her.
+**Exercise 10.** Choose the appropriate transitions below and type them in the boxes to finish the paragraph about a life lesson. There may be more than one correct answer, but type just one. Not all listed transitions are needed. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers. The first one is an example.
+**however, on the first Saturday, then, after crying for an hour, while I was eating breakfast, now, at night, finally, after that, after I arrived**
+[Interactive exercise]
+Task: .
+   My Valuable Life Lesson Five months ago, I came to Chicago as an Au Pair, and during the first week, I learned to value challenges. After I arrived , everything happened fast. I went to live with a new family with two active children. I had no time to miss my family or my country. [On the first Saturday], the new family left me alone in the house all day because they were attending a family wedding. I woke up late since I was still suffering from jet lag.­­­­­­ There was nobody in the house, only me. Everything including how to use the stove and washing machine was new as some appliances operated differently in my country. [While I was eating breakfast], I felt more lonely than ever. I ate only a piece of toast. The house was so quiet that it felt uninhabited. My muscles hurt from playing with the two kids up and down the stairs. I slowly started to feel how everything was falling apart. It was coming as a pressure on my head, and [then] I started crying. Many thoughts came to my mind. The memories of the time with my parents came rushing back. For example, I used to complain about the food they had taken time to prepare for me, not always the kind I wanted but always the kind my body most needed. [However], I didn't have a choice now because I was living in someone else’s home. Also, I remembered all the times when my parents talked with me about sacrifice that work sometimes involved. They showed me that sacrifices had their own rewards and that I should learn to endure and hope. I really didn't understand their messages before. [Now] I was alone in an unfamiliar house, in a faraway country, their teaching felt so comforting. [After crying for an hour], I finally stopped to think about why the current situation was affecting my feelings. In this way, I understood that I had not valued everything before, blessings or hardships. That day, I made a promise to myself that I would try hard and always give my best in everything, and that I would value every challenge no matter how hard it might seem. By L . K . Llabrés (student), ESL Writing III, Harper College. U se with permission
+# IX. Concluding Sentence(s)
+**A concluding sentence** signals the end of a paragraph.
+You can also write two or three sentences in this part with one or
+(Picture: words "THE END" on wooden pieces)
+words “THE END” on wooden pieces
+more of the following methods:
+1. Restates[16] the main idea but in different words or sentence structure.
+2. Summarize the main points in the body of the paragraph.
+3. Express an opinion, make a prediction, put forth a recommendation, or ask a question related to the topic.
+**A conclusion must not bring up a new topic.**
+× For those three reasons, I enjoy swimming the most. I will also start playing basketball next week.
+| Topic sentence | **Different ways to write a concluding sentence or concluding sentences** |
+| Swimming is my favorite hobby. | Restate the main idea: | For those three reasons, I enjoy swimming the most. |
+| Restate the main idea + summarize the supporting points in the body: | For the benefits of physical health, mental wellbeing, and social life, I enjoy swimming the most. |
+| Restate the main idea + express an opinion | For those three reasons, I enjoy swimming the most. It is the activity that has kept me healthy in the last ten years. |
+| Restate the main idea + make a prediction: | For those three reasons, I enjoy swimming the most. If everyone can do this activity regularly, this will be a very healthy country. |
+| Restate the main idea + put forth a recommendation | For those three reasons, I enjoy swimming the most and recommend this healthy activity to everyone. |
+| Restate the main idea + ask a question | For those three reasons, I enjoy swimming the most. Shouldn’t everyone start this hobby, too? |
+**Exercise 11.** Compare the pairs of topic sentences and concluding sentences from the paragraphs you have studied in this unit. Then discuss in groups what method the concluding sentences use and how they relate to the topic sentences.
+***Example**:*
+*Paragraph “Missing My Childhood Days”*
+*Topic sentence: Thanks to two people and one place, my childhood was filled with fun.*
+*Concluding sentences: Nowadays I do not have Hector and Lisandra in my life, and my childhood house has long been sold. However, I am grateful for having them all in my past because they have left me with priceless memories.*
+*The conclusion restates the main idea (they have left me with priceless memories), summarizes the three supporting points in the body (I do not have Hector and Lisandra in my life, and my childhood house has long been sold), and expresses an opinion (I am grateful for having them all in my past). The conclusion relates to the topic sentence and explains the controlling idea very well.*
+1. Paragraph “Difficulties in English Writing”
+2. Paragraph “My Special Place”
+3. Paragraph “Good Roommates”
+4. Paragraph “No Capital Punishment”
+5. Paragraph “Applying for the John & Melanie Frieburg ESL Student Scholarship”
+6. Paragraph “My Daughter”
+7. Paragraph “My Valuable Life Lesson”
+# X. Paragraph Completion
+**Each paragraph explains a complete idea and needs to have a clear ending. There are several ways to check if the paragraph is complete:**
+(Picture: a checklist and a yellow pencil)
+a checklist and a yellow pencil
+1. Does the paragraph have a title?
+2. Is the topic sentence there?
+3. If you have predictors in the topic sentence, are all of them explained in the body of the paragraph?
+4. Are there details to further explain the supporting ideas?
+5. Do you have a concluding sentence at the end?
+6. Are there proper transitions to connect ideas?
+If any one part is missing, the paragraph is incomplete.
+Read the following paragraph. Is it complete? If not, discuss what is missing and how you can improve the paragraph.
+Jogging is beneficial physically, mentally, and socially. First, jogging makes people physically fit. It not only strengthens the muscles and immune system but also helps to reduce weight. Thirty minutes of jogging will burn about 250 calories. Extra weight causes all kinds of health problems, and a daily run will help shed[17] the extra pounds. Besides, jogging keeps people mentally healthy by reducing their stress. Modern life is full of anxieties. Workers have project deadlines, students take tests, parents deal with family financial challenges, and all people run into relationship issues from time to time. According to many doctors, jogging can act as a stress reliever[18], boost[19] the feel-good hormone, and distract people from daily worries. Jogging is a simple act of activity that helps people become healthier in many ways.
+What is missing?
+1. There is no title. Add a title, such as “The Best Exercise” or “The Benefits of Jogging”.
+2. The third support is missing. From the topic sentence, the readers expect to see support in three areas: physical, mental, and social. However, the writer did not discuss the “social” aspect of jogging. Therefore, the paragraph is incomplete. The writer should add some information about the social benefits of jogging. Ideas could include joining a jogging club and meeting new friends.
+**Exercise 12.** Use the above paragraph as an example. Is the following new one complete? If not, discuss what is missing and how you can improve the paragraph.
+(Picture: unleashed dogs on beach)
+unleashed dogs on beach
+Unleashed dogs are dangerous to the environment, other living beings, and even to themselves. First of all, dogs do not have minds like humans; therefore, they often do not know what proper behavior is in public. When they are not restricted by a leash, they can run and step on flowers and plants in the parks. They may also leave their waste there if their owners are unaware of it. What’s more, dogs can frighten the pedestrians on the street. Some of them are afraid of dogs and may experience intense fear when a dog jumps at them. Dogs may also scare drivers. What if they lose control of their vehicles? Other animals like ducks and geese will also find the running and barking “strangers” threatening. Lastly, unleashed dogs are a danger to themselves. There are many hidden holes on the roads and in the parks, and dogs can easily fall into them and hurt themselves. Because dogs can also cause traffic accidents, they may be injured as well. If there is construction nearby with heavy machinery and harmful chemicals, the consequences will be deadly to the dogs.
+# XI. Unit Review Practice
+**Exercise 13.** Read the following paragraph about online learning. It is based on an outline example you studied earlier in this unit. As you read, do the following:
+**Color code the paragraph:**
+Title – **pink** Topic sentence – **red** Supporting sentences – **green**
+Supporting details – **blue** transitions – **yellow** Concluding sentence(s) – **red**
+**Discuss:**
+- Have you taken an online class? If so, have you had similar experiences as described in this paragraph?
+- What types of supporting ideas and details are used to explain the main idea?
+- Does the paragraph have unity?
+- What types of conclusion are used?
+- Is the paragraph complete?
+- Is the title centered on the top line? Is the first sentence indented?
+- What do you like about this paragraph?
+- How do you improve the paragraph?
+(Picture: a MacBook, a notebook, etc. on a desk)
+a MacBook, a notebook, etc. on a desk
+Three Benefits of Online Classes
+for College Students
+Taking online classes helps college students in three significant ways. First of all, online classes provide many conveniences. Many college students have a job, and some also need to take care of their family. When the courses are online, the students often do not have a fixed class time. As a result, they can pick any shift available at work, and they can also schedule activities with their loved ones like going to the park or even going on a vacation. For those with small children, childcare is no longer a huge issue. In addition, some college students do not own a car, but their education will not be affected because they can take classes remotely. Secondly, college students improve their time management skills. I have learned to use my time more wisely. For example, during my first semester of online class, I spent a lot of time video chatting with my friends in the beginning. My professor set all the test deadlines by midnight each Sunday, so I postponed my study till Saturday. However, there was too much reading and practicing then, and I simply could not complete the required study to get a good grade. In the second half of the semester, I forced myself to make a schedule for daily study time and to be more disciplined[20] in following it. I was able to finish all the materials before the test, and my grade improved. The most important skill through online learning is independent learning. Even though professors are available through office hours, emails, and live sessions, students must learn to solve problems on their own most of the times. They can do so by reading, checking dictionaries, and finding additional online learning resources from YouTube videos or the Khan Academy website. The type of “self help” foster skills in independent learning, which is essential in college study and future profession. Taking online classes is challenging, but these benefits make their experiences worthwhile.
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics to practice the steps in the writing process, including writing a paragraph for each. You may start with the NSNT approach and then rewrite the paragraphs. Check to see that the paragraphs have all the necessary parts and that they follow the rules for format, unity, cohesion, and completion.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+## Vocabulary Review
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: anticipate -> verb, wait for something to happen
+Card: riddle -> noun, a game of guessing the answers
+Card: priceless -> adjective, very valuable, cannot be measured by a price
+Card: foundation -> noun, basis, groundwork of something more complicated
+Card: stack -> verb, to pile or put one on top of another
+Card: imply -> verb, say indirectly
+Card: convincing -> adjective, making people believe
+Card: irrelevant -> adjective, not related, having nothing to do with the main idea
+Card: tolerant -> adjective, accepting differences
+Card: capital punishment -> noun phrase, a type of punishment to kill a criminal
+Card: ban -> verb, stop, not allowed to happen ↵
+Card: irreversible -> adjective, cannot go back to the original situation
+Card: solution -> noun, the answer to a problem
+Card: cascade -> verb, flow from high to low smoothly
+Card: supplemental -> adjective, extra, additional
+Card: restate -> verb, write again, repeat
+Card: stress reliever -> noun phrase, something to reduce or take away stress
+Card: boost -> verb, raise, improve
+Card: disciplined -> adjective, self-controlled, strict with oneself
+Card: shed -> verb, get rid of
+## Summary
+1. A paragraph is a group of sentences with one main idea.
+2. A paragraph must follow a proper format, with the title in the center of the top line and an indent in the beginning of the paragraph. All the sentences should be written/typed double spaced and follow one another without starting a new line.
+3. A paragraph consists of a title, a topic sentence, several supporting ideas with details, 1-2 concluding sentences, and transitions.
+4. Each paragraph should have all the above necessary components. If one of them is missing, the paragraph is not complete.
+5. A title explain the topic of the paragraph or gets the readers interested in the topic. It is centered on the first line and should follow the capitalization rules.
+6. A topic sentence contains the main idea of a paragraph and is usually put in the beginning. It must have a topic and a controlling idea. It must be a complete sentence and should not be a fact or an announcement.
+7. Supporting sentences should be detailed and should help explain the topic sentence. If anything is irrelevant to the main idea, the paragraph will not have unity.
+8. A concluding sentence restates the main idea and signals the end of the paragraph. It can include an opinion, a suggestion, a recommendation, or a question that is related to the topic.
+9. Transitions are important in guiding the readers in understanding the information in the paragraph and providing a smooth connection between ideas. Transitions help maintain the cohesion of a paragraph.
+## Media Attributions
+- a group of children running and laughing outdoors © Photo by MI PHAM on Unsplash
+- a hamburger © Photo by amirali mirhashemian on Unsplash
+- parts of a hamburger © Photo by Pablo Merchán Montes on Unsplash
+- lots of books showing titles on shelves © Photo by CHUTTERSNAP on Unsplash
+- a light bulb surrounded by six circles © Pixabay
+- a man sitting on a bridge over a river © Photo by Alex Azabache on Unsplash
+- a rose bouquet © Photo by Enrique Avendaño on Unsplash
+- a sunflower bouquet © Photo by Farrinni on Unsplash
+- a balcony with a table, two chairs, and some plants © Photo by Nguyen Dang Hoang Nhu on Unsplash
+- waterfall in Yellowstone National Park © Lin Cui is licensed under a CC BY (Attribution) license
+- ESL Scholarship winners 2015/2016 © Lin Cui is licensed under a All Rights Reserved license
+- words “THE END” on wooden pieces © Photo by Ann H from Pexels
+- a checklist and a yellow pencil © Tumisu on Pixabay
+- unleashed dogs on beach © Photo by Laura Stanley from Pexels
+- a MacBook, a notebook, etc. on a desk © Photo by Nick Morrison on Unsplash
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. anticipate: verb, wait for something to happen ↵
+2. riddle: noun, a game of guessing the answers ↵
+3. priceless: adjective, very valuable, cannot be measured by a price ↵
+4. foundation: noun, basis, groundwork of something more complicated ↵
+5. stack: verb, to pile or put one on top of another ↵
+6. imply: verb, say indirectly ↵
+7. convincing: adjective, make people believe ↵
+8. irrelevant: adjective, not related, having nothing to do with the main idea ↵
+9. tolerant: adjective, accepting differences ↵
+10. capital punishment, noun phrase, a type of punishment to kill a criminal ↵
+11. ban: verb, stop, not allowed to happen ↵
+12. irreversible: adjective, cannot go back to the original situation ↵
+13. solution: noun, the answer to a problem ↵
+14. cascade: verb, flow from high to low smoothly ↵
+15. supplemental: adjective, extra, additional ↵
+16. restate: verb, write again, repeat ↵
+17. shed: verb, get rid of ↵
+18. stress reliever: noun phrase, something to reduce or take away stress ↵
+19. boost: verb, raise, improve ↵
+20. disciplined: adjective, self-controlled, strict with oneself ↵
+
+Links on this section's web page:
+- Web page (chicago.suntimes.com): https://chicago.suntimes.com/crime/2021/7/3/22561910/chicago-weekend-shootings-july-2-5-homicide-gun-violence
+- All Rights Reserved: https://choosealicense.com/no-license/

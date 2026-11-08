@@ -1,0 +1,283 @@
+High-Intermediate Academic Grammar for ESL Students (Al Haider)
+5.5: Grammar Presentation-Adjective Clauses
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/02%3A_Unit_2._American_History/05%3A_Indigeonous_People/5.05%3A_Grammar_Presentation-Adjective_Clauses
+License: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform
+
+Adjective clauses are dependent clauses that describe nouns. Adjective clauses use relative pronouns to replace the noun they are describing. Some adjective clauses give necessary information to understand which noun they are describing. Other adjective clauses give extra information.
+## 2.1.5.1. **Relative Pronouns**
+Relative pronouns usually begin adjective clauses although there are some exceptions that will be covered later.
+| **Relative Pronoun** | **Reference** | **Grammatical Function** |
+| **which** | specific things (non-human)-used with commas | subject, object, or object of a preposition |
+| **that** | general things or people-not used with commas | subject or object |
+| **who** | people | subject |
+| **whom** | people | object or object of a preposition |
+| **whose** | possessive pronouns or nouns (his, her, its, their) | subject or object |
+| **when** | time | object |
+| **where** | place | object |
+Table 15 Relative Pronouns
+For more information on this topic, watch this video: __Relative Pronouns & Clauses-English Grammar Lesson__
+[Video: https://www.youtube.com/embed/lLkARyk4CTI]
+## 2.1.5.2. **Restrictive and Non-Restrictive Clauses**
+A restrictive clause is an adjective clause that provides important information to help the reader identify or understand the noun it is describing. It is important to understand restrictive clauses because they do not require commas and might influence which relative pronoun you use. Nonrestrictive clauses provide additional information about the referent noun. The reader can identify the noun without using the adjective clause.
+Restrictive Clause: The girl **who is sitting in the front** is new.
+Non-Restrictive Clause: Mariam, **who is absent today**, speaks K’iche.
+If I asked you, “Do you know the girl?” You would probably respond, “Which girl?” My response to you would restrict which girl I am referring to. This is the case in the first example above. Therefore, no comma is necessary. In the second example, I give a name, so it is likely you know the reference. Therefore, I put commas around the adjective clause. In the above examples, both adjective clauses are referring to a person, but what happens when the noun is nonhuman?
+Restrictive Clause: The car **that is in my driveway** is my brother’s.
+Non-Restrictive Clause: My car, **which needs to be washed**, rides smoothly.
+In the first example, the noun (car) is general. It’s likely you are not sure which car I am referring to until I say, “that is in my driveway”. However, in the second example I say, “my car” and this is specific, so the relative pronoun “which” and commas are used.
+For more information on this topic, watch these videos: __Commas or No Commas? Restrictive vs. Non-Restrictive Relative Clauses__
+[Video: https://www.youtube.com/embed/Syaip7v3Tao]
+## 2.1.5.2.1. **Exercise 12-Restrictive and Non-Restrictive Clauses**
+Read the sentences below. Identify the adjective clause and whether the adjective clauses are restrictive or non-restrictive.
+1. The United States, which has the highest incarceration rate in the world, is experiencing a crisis.
+a. Restrictive
+b. Non-Restrictive
+2. The country whose economy is collapsing has not responded to its citizens’ needs.
+a. Restrictive
+b. Non-Restrictive
+3. The radio station that plays soft rock has poor reception near the freeway.
+a. Restrictive
+b. Non-Restrictive
+4. My favorite radio station, which often plays Stevie Nicks, has a great signal at my house.
+a. Restrictive
+b. Non-Restrictive
+5. The woman who smokes in her car works for an office that prohibits smoking on its property.
+a. Restrictive
+b. Non-Restrictive
+## 2.1.5.3. **Subject Relative Pronouns**
+Adjective clauses are made when two sentences are combined to avoid repetition of nouns or pronouns. When the repeated noun or pronoun is a subject in the second sentence, the relative pronoun that replaces the noun or pronoun will be the subject of the adjective clause.
+Sentence 1: The person left my car parked on Mainstreet.
+Sentence 2: The person stole my car.
+Combined: The person who stole my car left it parked on Mainstreet.
+Let’s break down the steps taken to create the combined sentence.
+1. The second sentence describes what the subject of the first sentence did. Adjective clauses need to be next to the noun they describe. Move the sentence next to the noun it’s describing.
+The person [The person stole my car.] left it parked on Mainstreet.
+2. Replace the repeated noun or pronoun with the appropriate relative pronoun. In this case, the subject of the main clause is a person, so my two options are who or that depending on whether the clause is restrictive or non-restrictive.
+The person [The person who stole my car.] left it parked on Mainstreet.
+3. The final step is to punctuate the clause depending on whether the clause is restrictive or non-restrictive. In this example, the clause is restrictive, so no commas are necessary.
+The person who stole my car left it parked on Mainstreet.
+For more information on this topic, watch this video: __Subject Relative (Adjective) Clause__
+[Video: https://www.youtube.com/embed/FJ5YQMBIF50]
+## 2.1.5.3.1. **Exercise 13-Creating Adjective Clauses with Subject Relative Pronouns**
+Combine the sentences below. Use the second sentence as the adjective clause.
+1. My friend studies engineering. She is from Oman.
+2. The man has five cars. He lives on my street.
+3. The restaurant is always busy. It serves halal meat.
+4. The movie was fantastic! It was directed by Ava DuVernay.
+5. Shawshank Redemption is one of the best movies. It was released in 1994.
+6. McDonald’s is an international fast-food company. It was founded in 1955 in California.
+7. The student needs a break. She just finished a four-hour exam.
+8. Zahra needs a break. She just finished a 5-mile run.
+9. My mom visits her grandchildren often. She loves her grandchildren. (Change grandchildren to a pronoun after the sentences are combined so that the word is not repeated)
+10. The classes are full. The classes cover popular topics.
+## 2.1.5.4. **Object Relative Pronouns**
+When the repeated noun or pronoun is an object in the second sentence, the relative pronoun that replaces the noun or pronoun will begin the adjective clause and replace the object of the adjective clause’s original sentence.
+Sentence 1: The woman likes square dancing.
+Sentence 2: You met the woman at the party.
+Combined: The woman **whom you met at the party** likes square dancing.
+Let’s break down the steps taken to create the combined sentence.
+1. The second sentence has a noun or pronoun repeated from the first sentence. The repeated noun or pronoun is the object of the second sentence. Adjective clauses need to be next to the noun they describe. Move the sentence next to the noun it’s describing.
+The **woman** [You met the **woman** at the party.] likes square dancing.
+2. Replace the repeated noun or pronoun with the appropriate relative pronoun. The relative pronoun will not be in the same position as the noun or pronoun it replaces. The relative pronoun will being the clause. For choosing which relative pronoun to use, the subject of the main clause is a person, so my two options are **whom** (used for people and function as objects) or **that** depending on whether the clause is restrictive or non-restrictive.
+The **woman** [**whom** You met the **woman** at the party.] likes square dancing.
+3. The final step is to punctuate the clause depending on whether the clause is restrictive or non-restrictive. In this example, the clause is restrictive, so no commas are necessary. The woman **whom you met at the party** likes square dancing.
+Determining whether the relative pronoun is a subject or an object can be important in choosing which relative pronoun to use. For example, what is the difference between **who** and **whom**?
+Subject relative pronoun + verb.
+Object relative pronoun + noun/pronoun + verb.
+If we look at the isolated adjective clauses structures above, a subject relative pronoun will be followed by a verb. However, an object relative pronoun will be followed by a subject (noun or pronoun) and then a verb. Let’s take a look at some examples.
+1. The woman **who drove me home last night** works for a taxi company.
+2. The woman **whom you met at the party Friday** likes square dancing.
+3. The class **that Ahmad took last semester** is only offered once an academic year.
+Identify the relative pronouns (1. who, 2. whom, and 3. that) in the above examples. What follows the relative pronoun? Is it a verb that follows or a noun or pronoun? In the first example, a verb follows the relative pronoun, so the relative pronoun is the subject of the adjective clause. In the second and third examples, a noun and pronoun follow the relative pronouns, so that means the relative pronouns are the object of the adjective clause. This is the difference between who and whom. *Who* is used as a subject of an adjective clause, and *whom* is the object of the adjective clause.
+For more information on this topic, watch this video: __Object Relative (Adjective) Clauses__
+[Video: https://www.youtube.com/embed/KrnfOM-VIBo]
+## 2.1.5.4.1. **Exercise 14-Creating Adjective Clauses with Object Relative Pronouns**
+Combine the sentences below. Use the second sentence as the adjective clause so that the relative pronoun functions as the object.
+1. The book was interesting. We read it last summer.
+2. The movie was very powerful. I just finished it.
+3. The man is from Sucre, Bolivia. I met him yesterday.
+4. The essay has great development. You wrote it.
+5. The museum has an exhibit for Día de Los Muertos. We will visit it next week.
+6. The cookies were delicious. Christina made them.
+7. The teacher explains topics very well. I visit her during office hours.
+8. The politician had created helpful laws for the people she represented. The senate honored her.
+9. The land was not valuable. The government gave it to the indigenous population.
+10. The student received a perfect score on her exam. I tutored her.
+## 2.1.5.4.2. **Exercise 15-Who or Whom?**
+Complete the sentences below with either who or whom. Remember that who will be followed by a verb, and whom will be followed by a subject (noun or pronoun).
+1. The man _______ drove us home last night works for a ride-share company.
+a. who
+b. whom
+2. The man _______ Vicki loves is married to another woman.
+a. who
+b. whom
+3. The singer _______ sings the #1 hit on the billboard chart has sold over 2 million copies.
+a. who
+b. whom
+4. The singer _______ we saw in concert in Las Vegas has sold out every concert this year.
+a. who
+b. whom
+5. The student _______ sits next to me chews gum loudly.
+a. who
+b. whom
+6. The student _______ the teacher called on was not prepared to answer.
+a. who
+b. whom
+7. The author _______ our school invited to speak has an inspirational story.
+a. who
+b. whom
+8. The author _______ immigrated to the US as a child is a professor at Santa Clara University.
+a. who
+b. whom
+9. The player _______ has the most scores this season injured her leg in the last game.
+a. who
+b. whom
+10. The athlete _______ I admire the most did not compete in the Olympics.
+a. who
+b. whom
+## 2.1.5.5. **Adjective Clauses with Whose**
+Whose is used to show possession. It replaces possessive nouns and adjectives his, her, its, and their. Whose is always at the beginning of the adjective clause and can function as the subject or object. Let’s look at an example.
+Sentence 1: The **teacher** explains topics very well.
+Sentence 2: I am taking **her** class.
+Combined: The teacher **whose class I am taking** explains topics very well.
+Let’s break down the steps taken to create the combined sentence.
+1. The second sentence has a possessive adjective “her,” which refers to the teacher in the first sentence. Move the sentence next to the noun it’s describing.
+The teacher [I am taking **her** class.] explains topics very well.
+2. Replace the possessive adjective with whose and move the relative pronoun and noun it possesses to the beginning of the adjective clause.
+The teacher [**her whose** class I am taking.] explains topics very well.
+3. The final step is to punctuate the clause depending on whether the clause is restrictive or non-restrictive. In this example, the clause is restrictive, so no commas are necessary. The teacher **whose class I am taking** explains topics very well.
+For more information on this topic, watch this video: __Relative Clauses with Whose__
+[Video: https://www.youtube.com/embed/KEe3zAZeJ6s]
+## 2.1.5.5.1. **Exercise 16-Create Adjective Clauses Using Whose**
+Combine the sentences below. Use the second sentence as the adjective clause so that the relative pronoun shows possession (whose).
+1. The singer has worked hard to break through. Her song is on the charts.
+2. We read the book. Its story transforms readers into a magical place.
+3. The student easily passed the class. His essays were flawless.
+4. I sat next to the girl. Her perfume was too strong.
+5. I visited the city. I will attend its college next year.
+6. Hadi cried for a while. Hadi’s toy was taken by another child.
+7. I thanked the woman. I used her pen.
+## 2.1.5.6. **Adjective Clauses with Where and When**
+In adjective clauses that describe a place, use **where** as the relative pronoun. In adjective clauses that describe time, such as a year, day, or time, use **when** as the relative pronoun. **Where** and **when** as relative pronouns function only as the object. Read the examples.
+1. I remember the place. I met you at that place. 🡪 I remember the place **where** I first met you.
+2. I remember the day. I met you on that day. 🡪 I remember the day **when** I first met you.
+Sentence 1: The room has been updated.
+Sentence 2: My class is in that room.
+Combined: The room **where my class is** has been updated.
+1. The second sentence has a time or place that refers to a time or place mentioned in the first sentence. Move the second sentence next to the time or place it’s describing in the first sentence.
+The room [My class is in that room.] has been updated.
+2. Replace the time or place with the appropriate relative pronoun either when or where and move the relative pronoun to the beginning of the adjective clause. Delete the phrase that indicates time or place (usually a prepositional phrase).
+The room [where My class is ~~in that room~~.] has been updated.
+3. The final step is to punctuate the clause depending on whether the clause is restrictive or non-restrictive. In this example, the clause is restrictive, so no commas are necessary. The room **where my class is** has been updated.
+## 2.1.5.6.1. **Exercise 17-Create Adjective Clauses with Where and When**
+Combine the sentences below. Use the second sentence as the adjective clause so that the relative pronoun shows time or place (when or where).
+1. The place is outdoor. I got married there.
+2. The building collapsed. Irene lived there.
+3. The library closes at 3PM on Fridays. I spend most of my time at the library.
+4. The house has changed a lot. I grew up in that house.
+5. The day was the best day of my life. You were born on that day.
+6. I was sick Tuesday. I had an exam on Tuesday.
+7. February is the month. The temperatures are usually the coldest in that month.
+## 2.1.5.7. **Reducing Adjective Clauses**
+Adjective clauses can be modified to create adjective or prepositional phrases or appositives. A clause has a subject and a verb, but a phrase does not contain both.
+## 2.1.5.7.1. **Reducing Clauses with Be Verbs**
+If an adjective clause has the relative pronouns *who*, *which*, *that* followed by a *be* verb, you can typically (see exceptions later) delete the relative pronoun and the *be* verb. Let’s explore these examples.
+1. The girl ~~**who is**~~ **sitting in the front** is new.
+2. Mariam, **who is absent today**, speaks K’iche.
+3. The author, ~~**who is**~~ **Dr. Bettina L. Love**, is an associate professor at University of Georgia.
+4. The car ~~**that is**~~ **in my driveway** is my brother’s.
+5. The researchers, ~~**who are**~~ **led by plant geneticist Philipp Simon**, have not limited themselves to the color orange.
+In example 1, the relative pronoun *who* and the *be* verb *is* are deleted. This deletion creates an adjective phrase *sitting in the front*. However, in example 2, the relative pronoun and *be* verb cannot be deleted because what would be left is just an adjective. For example, if I said, “The fruit, which is fresh, stays in the refrigerator” and try to reduce this clause, then it will read “The fruit fresh stays in the refrigerator.” Why not just write “The fresh fruit”? The third example can be reduced, and this is called an appositive. It is a noun or synonym for the antecedent noun. In the fourth example, the reduction creates a prepositional phrase. Finally, the last example creates a type of adjective phrase.
+## 2.1.5.7.2. **Reducing Clauses with Non-Be Verbs**
+When the verb following the relative pronouns *that*, *which*, and *who* are not a *be* verb, then you can delete the relative pronoun and change the verb to the -ing form. Let’s look at the following examples.
+1. Anyone ~~**who wants**~~ **wanting to participate** should contact a counselor.
+2. Ten percent of the Earth is covered with glaciers ~~**which consist**~~ **consisting of 75% of the Earth’s fresh water.**
+3. Purple carrots possess an entirely different class of pigments — anthocyanins — ~~**which act**~~ **acting as powerful antioxidants.**
+All of the examples above have non-be verbs that are changed to -ing form. Also, all of the relative pronouns in the above examples were deleted creating adjective phrases.
+Let’s summarize the rules.
+**Be verb follows a relative pronoun:** delete the relative pronoun and be verb (unless an adjective follows the be verb).
+**Non-be verb follows a relative pronoun:** delete the relative pronoun, change the verb to -ing form.
+For more information on this topic, watch this video: __Reduced Relative Clauses__; __Reducing Adjective Clauses to Adjective Phrases: Learn English Grammar with JenniferESL__
+## 2.1.5.7.3. **Exercise 18-Reducing Adjective Clauses**
+Read the sentences and select the best phrase to replace the adjective clause according to the rules of reducing adjective clauses.
+1. The students who want to meet with a tutor should put their names here.
+a. want to meet with a tutor
+b. wanted to meet with a tutor
+c. wanting to meet with a tutor
+d. no reduction possible
+2. The books that were placed on the back table have disappeared.
+a. being placed on the back table
+b. were placed on the back table
+c. placed on the back table
+d. no reduction possible
+3. The cities that are located east of the river have access to more water.
+a. that located east of the river
+b. being located east of the river
+c. located east of the river
+d. no reduction possible
+4. Spiderman, who has great strength and responsibility, tracks down Cindy Moon.
+a. having great strength and responsibility
+b. had great strength and responsibility
+c. no reduction possible
+5. Spiderman is a superhero who was created by Stan Lee.
+a. being created by Stan Lee
+b. created by Stan Lee
+c. no reduction possible
+6. Captain America, who is a Marvel superhero, first appeared in 1941.
+a. being a Marvel superhero
+b. a Marvel superhero
+c. no reduction possible
+## 2.1.5.8. **Common Errors in Adjective Clauses**
+## 2.1.5.8.1. **Subject-Verb Agreement**
+A common error when writing adjective clauses is choosing the wrong verb form. Keep in mind that the verb must agree with the antecedent noun or pronoun.
+1. The car that is in the driveway needs a new tire.
+2. The cars that are in the street need to be moved.
+Notice in the first example how the verb is in the adjective clause and need in the main clause agree with the antecedent noun car. In the second example, the subject is plural (cars), so the verbs in both the adjective clause and the main clause agree in number.
+### 2.1.5.8.1.1. **Exercise 19-Choosing the Right Verb**
+Choose the correct verb to complete the sentence according to the antecedent noun.
+1. The Pacific Ocean is the world’s largest ocean that _______ from the Artic in the north to the Southern Ocean in the south.
+a. extend
+b. extends
+c. extended
+2. Michael Phelps, who _______ a champion swimmer, won eight gold medals in the 2008 Olympics.
+a. is
+b. are
+c. being
+3. Cacao, which _______ sold to chocolate-processing companies, _______ harvested by hand.
+a. is, was
+b. is, were
+c. is, is
+d. was, were
+4. Sarah wants to buy the sofas that _______ in the window display of the department store.
+a. is
+b. are
+c. was
+5. The tools that _______ stolen _______ to be replaced.
+a. is, needs
+b. are, need
+c. was, needs
+d. were, need
+6. The people who _______ late _______ marked absent.
+a. was, was
+b. was, were
+c. were, were
+## 2.1.5.8.2. **Repeating the Subject or Object**
+When writing an adjective clause, the relative pronoun replaces the subject or object in the dependent clause. A common error is to write both the relative pronoun and the subject or object.
+1. The man who he drove us home last night works for a taxi company.
+2. The book that I bought it online arrives tomorrow.
+In the first example, the relative pronoun *who* should replace the subject pronoun *he*, so both *who* and *he* should not be in the adjective clause. Also, in the second example the relative pronoun *that* replaces the object pronoun *it*.
+## 2.1.5.8.3. **Placement**
+Adjective clauses should be next to the nouns they modify. When they are not placed correctly, the meaning could be different than intended.
+1. The restaurant served a plate to the woman that was dirty.
+2. The restaurant served a plate that was dirty to the woman.
+Because the adjective clause in the first example is next to the noun *woman*, then the reader thinks that the woman was dirty. However, the intended meaning was that the plate was dirty, so the adjective clause should be next to the plate (the noun it is modifying).
+### 2.1.5.8.3.1. **Exercise 20-Fixing Repeated Subjects/Object and Placement Errors**
+Copy and paste the numbered sentences below into a word processing document and track the changes as you fix errors relaxed to a repeated subject or object, or adjective clause placement. Watch this __video on how to track changes in Microsoft Word__, and this __video on how to track changes using Google Docs__.
+[Video: https://www.youtube.com/embed/rznrpH-zQy4]
+[Video: https://www.youtube.com/embed/X7yqViYSr74]
+1. The book that I bought it through Amazon arrived late.
+2. I went to the shopping mall with my friend that is the biggest in America.
+3. The rooms where they go to them will be prepared.
+4. The photographer took pictures of our hiking trip who works for National Geographic.
+5. The man changed my car’s tires whom I cannot find him now.
+This page titled 5.5: Grammar Presentation-Adjective Clauses was last modified on Sat, 01 Feb 2025 19:06:31 GMT and is shared under a CC BY 4.0 license and was authored, remixed, and/or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform.

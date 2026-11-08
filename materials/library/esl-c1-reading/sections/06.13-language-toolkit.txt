@@ -1,0 +1,82 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+6.13: Language Toolkit
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.13%3A_Language_Toolkit
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## About this toolkit
+This toolkit is a reference that you can use to check your work.
+## Strong verbs
+You want to use strong verbs. To check for weak verbs, look to see if you are using "be" and "do" plus a noun to do the work of a verb. Often, you can replace these with one strong verb.
+Here are some examples and revisions. The weak verbs and replacements are indicated in brackets.
+- The [planting was done] by the whole community.
+- The whole community [**planted**] the garden.
+- Next, they will [do a study] on the effect of the garden on the health of the community.
+- Next, they will [**study**] the garden’s effect on the community’s health.
+- We [have a strong belief] in food equity.
+- We [**strongly believe**] in food equity.
+## Clear pronoun reference
+In your writing, watch for the pronouns: it, they, them this, that, these, those. Check to make sure it is clear what they refer to.
+Here are some examples and revisions. The unclear pronouns and replacements are indicated in brackets.
+- [It] says in the newspaper that the liquor store has been turned into a small grocery store.
+- [**According to the article’s author**], the liquor store has been turned into a small grocery store.
+- At the store, [they] used to only sell packaged foods; now it has fresh foods, too.
+- [**The store**] used to only sell packaged foods; now it has fresh foods, too.
+- Fresh foods are often more expensive and can take longer to prepare. [This__]__ is a potential disadvantage.
+- Fresh foods are often more expensive and can take longer to prepare. [**These factors**] are potential disadvantages.
+## Passive vs. active voice
+When you are using passive voice, make sure it is the best choice. In your writing, check for the object in the subject position and past participle form (to be + ed).
+Here are some examples and revisions. The changes are indicated in brackets.
+- My garden plot [was planted] yesterday.
+- [**I planted**] my garden plot yesterday.
+- The lettuce [was washed] thoroughly by her aunt.
+- [**Her aunt washed**] the lettuce thoroughly.
+- Organic food [has gotten] more attention in recent years.
+- [**Consumers have given more attention to]** organic food in recent years.
+## Using a dictionary and thesaurus
+A dictionary or thesaurus can help you decide the most effective word(s) to use in your writing.
+Most dictionaries provide the following information:
+- **Spelling.** How the word and its different forms are spelled.
+- **Pronunciation.** How to say the word.
+- **Part of speech.** The function of the word.
+- **Definition.** The meaning of the word.
+- **Synonyms.** Words that have similar meanings.
+- **Etymology.** The history of the word.
+Like a dictionary, a thesaurus is another valuable writing tool.
+- A thesaurus gives you a list of synonyms, words that have the same (or very close to the same) meaning as another word.
+- It also lists antonyms, words with the opposite meaning of the word.
+- A thesaurus will help you when you are looking for the perfect word with just the right meaning to convey your ideas.
+- It will also help you learn more words and use the ones you already know more correctly.
+It is important to think about the connotations of the words you are using.
+- A connotation is the emotional or cultural meaning attached to a word.
+- The connotation of a word can be positive, negative, or neutral.
+Using a dictionary or thesaurus can be difficult sometimes if you don’t know the connotations of a word because you risk using a word in the wrong way. If you aren't sure whether you are using a word with the right connotation, look up the word in sentences on the internet and see how it’s used in context. You can also ask your instructor or a tutor.
+## Coordination cheat sheet
+Table 6.13.1 explains the logic that each coordinating conjunction represents.
+Table 6.13.1: coordinating conjunctions
+| **Function or logic** | **Coordinating conjunction** | **Example** |
+| cause | for | Many Americans suffer from hunger, for food scarcity is a serious social issue in this country. |
+| addition | and | People have begun paying more attention to the health benefits of organic foods, and it is no surprise that many grocery stores have expanded their organic sections. |
+| choice or alternative (negative) | nor | The neighborhood has never had a grocery store, nor has it had a community garden. |
+| contrast | but | Organic grocery stores seem to be everywhere, but it’s still hard for many people to access them. |
+| choice or alternative | or | Some environmental experts have commented that California’s water supply can support its population, or it can support its agriculture -- but not both. |
+| contrast | yet | California is suffering from a catastrophic drought, yet most of the nation’s produce is grown here. |
+| effect | so | Public transportation can be unreliable, so if you buy a gallon of milk and take the bus, the milk may spoil by the time you get home. |
+## Transitions cheat sheet
+Table 6.13.2 explains the logic that each subordinating conjunction represents.
+Table 16.13.2: Transitions
+| **Function or logic** | **Transitions** | **Example** |
+| Addition | also, furthermore, moreover, similarly, likewise | Community gardens are places that allow people to provide food for themselves; moreover, this food is frequently more nutritious than what can be bought at grocery stores. |
+| Contrast | instead, however, otherwise | Research on Google Maps shows that there are at least ten corner liquor stores in West Oakland; however, there are no supermarkets like Whole Foods. |
+| Emphasis | namely, certainly, indeed | It is important to draw attention to food inequity; indeed, many people are unaware that it exists at such high levels in the United States. |
+| Cause and Effect | accordingly, as a result, consequently, hence, thus, therefore | There are insufficient outlets for fresh food in their community; therefore, it’s hard for residents of West Oakland who live in food deserts to access healthy produce. |
+| Time | finally, next, subsequently, then, after | First, we are going to take a survery of the neighborhood’s needs; then, we can write a proposal. |
+| Condition | otherwise | On Tuesdays Mandela Foods delivers fresh fruits and vegetables to corner stores in West Oakland; otherwise, people have to travel a great distance to buy produce. |
+| Choice or Alternative | alternatively, on the other hand, conversely | Community gardens are one solution to food deserts; on the other hand, it’s not always realistic that people will have the time and energy to grow food for themselves. |
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Some examples of coordination and transition words adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status", an essay by Amanda Wu. License: CC BY.
+## **CC Licensed Content: Previously published**
+"Using a Dictionary and Thesaurus" is adapted from 11.5: Word Choice in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+"Coordination Cheat Sheet" and "Transitions Cheat Sheet" are adapted from 11.7: "Coordination and Subordination​​​​" in Athena Kashyap and Erika Dyquisto's text *Writing, Reading, and College Success: A First-Year Composition Course for All Learners.* License: CC BY SA.
+This page titled 6.13: Language Toolkit was last modified on Sun, 09 Mar 2025 17:17:28 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

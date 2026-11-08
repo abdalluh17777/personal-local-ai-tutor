@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<title>Tutor</title>
+<script>
+  // The theme is applied before the first paint, so a dark page never flashes white (see js/settings.js)
+  try {
+    var t = localStorage.getItem("theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+  } catch (e) { /* storage unavailable: follow the system */ }
+</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='6' fill='%230f766e'/%3E%3Cpath d='M12 4.5c.4 3.7 2 6.9 7 7.5-5 .6-6.6 3.8-7 7.5-.4-3.7-2-6.9-7-7.5 5-.6 6.6-3.8 7-7.5Z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/static/app.css">
+<script type="module" src="/static/js/main.js"></script>
+</head>
+<body>
+<!-- Icons: 24 px grid, 1.75 stroke, round caps (DESIGN.md section 5). Used as <svg class="icon"><use href="#i-name"/></svg> -->
+<svg xmlns="http://www.w3.org/2000/svg" class="sprite" aria-hidden="true">
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  <symbol id="i-chevron-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></symbol>
+  <symbol id="i-chevron-up" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></symbol>
+  <symbol id="i-chevron-left" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+  <symbol id="i-chevron-right" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+  <symbol id="i-mic" viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11.5" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/></symbol>
+  <symbol id="i-mic-off" viewBox="0 0 24 24"><path d="M15 9.3V6a3 3 0 0 0-5.7-1.3M9 9v2.5a3 3 0 0 0 5.1 2.1"/><path d="M18.5 11a6.5 6.5 0 0 1-1 3.4M5.5 11a6.5 6.5 0 0 0 10.6 5M12 17.5V21M3 3l18 18"/></symbol>
+  <symbol id="i-send" viewBox="0 0 24 24"><path d="M12 19V5M5.5 11.5 12 5l6.5 6.5"/></symbol>
+  <symbol id="i-stop" viewBox="0 0 24 24"><rect x="6.5" y="6.5" width="11" height="11" rx="2" fill="currentColor"/></symbol>
+  <symbol id="i-speaker" viewBox="0 0 24 24"><path d="M11 5 6 9H3v6h3l5 4Z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/></symbol>
+  <symbol id="i-speaker-off" viewBox="0 0 24 24"><path d="M11 5 6 9H3v6h3l5 4Z"/><path d="m22 9-6 6M16 9l6 6"/></symbol>
+  <symbol id="i-copy" viewBox="0 0 24 24"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M15 9V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h4"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+  <symbol id="i-sources" viewBox="0 0 24 24"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9Z"/><path d="M14 3v6h6M8 13h8M8 17h5"/></symbol>
+  <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9v11a1 1 0 0 0 1 1h4v-6h4v6h4a1 1 0 0 0 1-1V9"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></symbol>
+  <symbol id="i-cards" viewBox="0 0 24 24"><rect x="3" y="7" width="14" height="14" rx="2"/><path d="M7 3h12a2 2 0 0 1 2 2v12"/></symbol>
+  <symbol id="i-waveform" viewBox="0 0 24 24"><path d="M3 10v4M7 6v12M11 3v18M15 7v10M19 10v4"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/><path d="M12 9v4M12 17h.01"/></symbol>
+  <symbol id="i-brain" viewBox="0 0 24 24"><path d="M12 5a3 3 0 0 0-5.8-1A3 3 0 0 0 3.5 8a3.2 3.2 0 0 0 .5 5.5A3 3 0 0 0 6.5 19 3 3 0 0 0 12 20"/><path d="M12 5a3 3 0 0 1 5.8-1A3 3 0 0 1 20.5 8a3.2 3.2 0 0 1-.5 5.5 3 3 0 0 1-2.5 5.5A3 3 0 0 1 12 20"/><path d="M12 5v15M8 9.5a2.5 2.5 0 0 0 2 1M16 9.5a2.5 2.5 0 0 1-2 1M8.5 15.5a2.5 2.5 0 0 1 1.5-.5M15.5 15.5A2.5 2.5 0 0 0 14 15"/></symbol>
+  <symbol id="i-settings" viewBox="0 0 24 24"><path d="M12.2 2h-.4a2 2 0 0 0-2 2v.2a2 2 0 0 1-1 1.7l-.4.3a2 2 0 0 1-2 0l-.2-.1a2 2 0 0 0-2.7.7l-.2.4a2 2 0 0 0 .7 2.7l.2.1a2 2 0 0 1 1 1.7v.5a2 2 0 0 1-1 1.7l-.2.1a2 2 0 0 0-.7 2.7l.2.4a2 2 0 0 0 2.7.7l.2-.1a2 2 0 0 1 2 0l.4.3a2 2 0 0 1 1 1.7v.2a2 2 0 0 0 2 2h.4a2 2 0 0 0 2-2v-.2a2 2 0 0 1 1-1.7l.4-.3a2 2 0 0 1 2 0l.2.1a2 2 0 0 0 2.7-.7l.2-.4a2 2 0 0 0-.7-2.7l-.2-.1a2 2 0 0 1-1-1.7v-.5a2 2 0 0 1 1-1.7l.2-.1a2 2 0 0 0 .7-2.7l-.2-.4a2 2 0 0 0-2.7-.7l-.2.1a2 2 0 0 1-2 0l-.4-.3a2 2 0 0 1-1-1.7V4a2 2 0 0 0-2-2Z"/><circle cx="12" cy="12" r="3"/></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2.5 12h2M19.5 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20.5 13.5A8.5 8.5 0 1 1 10.5 3.5a6.5 6.5 0 0 0 10 10Z"/></symbol>
+  <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 6.5h16M9 6.5V4.5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2M18.5 6.5l-.8 13a2 2 0 0 1-2 1.9H8.3a2 2 0 0 1-2-1.9l-.8-13M10 11v6M14 11v6"/></symbol>
+  <symbol id="i-edit" viewBox="0 0 24 24"><path d="M13 20.5h8"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7.5 18.5 3 20l1.5-4.5Z"/></symbol>
+  <symbol id="i-play" viewBox="0 0 24 24"><path d="M7 4.5v15l12.5-7.5Z" fill="currentColor"/></symbol>
+  <symbol id="i-pause" viewBox="0 0 24 24"><rect x="6" y="4.5" width="4" height="15" rx="1"/><rect x="14" y="4.5" width="4" height="15" rx="1"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20.5 12a8.5 8.5 0 0 1-14.6 5.9L3.5 15.5M3.5 12A8.5 8.5 0 0 1 18.1 6.1l2.4 2.4"/><path d="M20.5 3.5v5h-5M3.5 20.5v-5h5"/></symbol>
+  <symbol id="i-arrow-down" viewBox="0 0 24 24"><path d="M12 5v14M18.5 12.5 12 19l-6.5-6.5"/></symbol>
+  <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 3c.5 4.6 2.6 8.4 9 9-6.4.6-8.5 4.4-9 9-.5-4.6-2.6-8.4-9-9 6.4-.6 8.5-4.4 9-9Z"/></symbol>
+  <symbol id="i-more" viewBox="0 0 24 24"><circle cx="5.5" cy="12" r="1.3" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.3" fill="currentColor" stroke="none"/><circle cx="18.5" cy="12" r="1.3" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="i-panel" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2.5"/><path d="M9.5 4v16"/></symbol>
+  <symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 15V3.5M7 8.5l5-5 5 5"/><path d="M20.5 15v3.5a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2V15"/></symbol>
+  <symbol id="i-headphones" viewBox="0 0 24 24"><path d="M3.5 18v-5.5a8.5 8.5 0 0 1 17 0V18"/><path d="M20.5 15v3a2 2 0 0 1-2 2H17a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h3.5ZM3.5 15v3a2 2 0 0 0 2 2H7a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1H3.5Z"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 16v-4.5M12 8h.01"/></symbol>
+</svg>
+
+<div class="app" id="app">
+  <nav id="sidebar" class="sb" aria-label="Main">
+    <div class="sb-top">
+      <a class="sb-brand" href="#chat" data-route="chat" title="Tutor"><svg class="icon" aria-hidden="true"><use href="#i-spark"/></svg><span class="sb-label">Tutor</span></a>
+      <button id="sb-collapse" class="icon-btn sb-collapse" type="button" aria-controls="sidebar" aria-expanded="true"
+              aria-label="Collapse the sidebar" title="Collapse the sidebar ([)"><svg class="icon" aria-hidden="true"><use href="#i-panel"/></svg></button>
+    </div>
+    <button id="sb-new-chat" class="btn btn-primary sb-new" type="button" title="New chat"><svg class="icon" aria-hidden="true"><use href="#i-plus"/></svg><span class="sb-label">New chat</span></button>
+    <div class="sb-search">
+      <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
+      <input id="sb-search" type="search" placeholder="Search chats" aria-label="Search chats" autocomplete="off" spellcheck="false">
+    </div>
+    <button id="sb-search-btn" class="icon-btn sb-search-btn" type="button" aria-label="Search chats" title="Search chats"><svg class="icon" aria-hidden="true"><use href="#i-search"/></svg></button>
+    <div class="sb-body">
+      <section class="sb-section" aria-labelledby="sb-chats-heading">
+        <h2 class="sb-heading" id="sb-chats-heading">Chats</h2>
+        <div id="sb-chats" class="sb-chats"><div class="skeleton" aria-hidden="true"><div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div></div></div>
+      </section>
+    </div>
+    <section class="sb-section sb-pages" aria-labelledby="sb-pages-heading">
+      <h2 class="sb-heading" id="sb-pages-heading">Pages</h2>
+      <ul class="sb-nav">
+        <li><a class="sb-item" href="#home" data-route="home" title="Home"><svg class="icon" aria-hidden="true"><use href="#i-home"/></svg><span class="sb-label">Home</span><span class="sb-badge" id="badge-home" hidden></span></a></li>
+        <li><a class="sb-item" href="#courses" data-route="courses" title="Courses"><svg class="icon" aria-hidden="true"><use href="#i-book"/></svg><span class="sb-label">Courses</span></a></li>
+        <li><a class="sb-item" href="#vocabulary" data-route="vocabulary" title="Vocabulary"><svg class="icon" aria-hidden="true"><use href="#i-cards"/></svg><span class="sb-label">Vocabulary</span><span class="sb-badge" id="badge-vocabulary" hidden></span></a></li>
+        <li><a class="sb-item" href="#pronunciation" data-route="pronunciation" title="Pronunciation"><svg class="icon" aria-hidden="true"><use href="#i-waveform"/></svg><span class="sb-label">Pronunciation</span></a></li>
+        <li><a class="sb-item" href="#mistakes" data-route="mistakes" title="Mistakes"><svg class="icon" aria-hidden="true"><use href="#i-alert"/></svg><span class="sb-label">Mistakes</span></a></li>
+        <li><a class="sb-item" href="#memory" data-route="memory" title="Memory"><svg class="icon" aria-hidden="true"><use href="#i-brain"/></svg><span class="sb-label">Memory</span></a></li>
+      </ul>
+    </section>
+    <div class="sb-foot">
+      <button id="sb-user" class="sb-user" type="button" title="Settings (Ctrl+,)">
+        <span class="avatar" id="sb-avatar" aria-hidden="true">?</span>
+        <span class="sb-label sb-user-name" id="sb-name">Your profile</span>
+        <span class="sr-only">Settings</span>
+        <svg class="icon sb-user-icon" aria-hidden="true"><use href="#i-settings"/></svg>
+      </button>
+      <div id="model-status" class="status-pill" role="status" title="Where the model is running">
+        <span class="status-dot" aria-hidden="true"></span><span class="sb-label status-text">Checking model…</span>
+      </div>
+    </div>
+  </nav>
+  <div id="sb-scrim" class="sb-scrim" hidden></div>
+
+  <main id="main">
+    <section id="view-chat" class="view chat-view" aria-label="Chat" hidden>
+      <header class="chat-top">
+        <button class="icon-btn drawer-btn" type="button" data-action="drawer" aria-controls="sidebar" aria-expanded="false"
+                aria-label="Open the sidebar" title="Open the sidebar"><svg class="icon" aria-hidden="true"><use href="#i-menu"/></svg></button>
+        <button id="chat-context" class="chat-context is-placeholder" type="button" aria-haspopup="dialog" aria-expanded="false"
+                title="Course and topic (Ctrl+K)"><span class="chat-context-course">Choose a course and topic</span><svg class="icon chat-context-caret" aria-hidden="true"><use href="#i-chevron-down"/></svg></button>
+        <div class="chat-top-actions">
+          <button id="btn-read-aloud" class="icon-btn" type="button" aria-pressed="false" aria-label="Read replies aloud"
+                  title="Read replies aloud"><svg class="icon" aria-hidden="true"><use href="#i-speaker"/></svg></button>
+          <button id="btn-chat-menu" class="icon-btn" type="button" aria-haspopup="menu" aria-expanded="false"
+                  aria-label="Chat options" title="Chat options"><svg class="icon" aria-hidden="true"><use href="#i-more"/></svg></button>
+        </div>
+      </header>
+      <div id="messages" class="chat-messages" role="region" aria-label="Messages" tabindex="0"></div>
+      <div class="chat-bottom">
+        <button id="chat-jump" class="chat-jump" type="button" hidden><svg class="icon" aria-hidden="true"><use href="#i-arrow-down"/></svg>Jump to latest</button>
+        <!-- Voice mode (DESIGN.md section 3, js/live.js): one soft sphere, in the middle of an empty chat, else floating
+             just above the composer (the chat view's data-voice says which). Its only words are the caption (Connecting…,
+             Muted, an error); the other states are said to screen readers only. Its controls are the composer's. -->
+        <section id="voice-mode" class="vm" aria-label="Voice mode" data-state="connecting" hidden>
+          <div class="vm-body">
+            <div id="live-orb" class="vm-orb" aria-hidden="true"></div>
+            <p id="vm-caption" class="vm-caption" role="status">Connecting…</p>
+          </div>
+        </section>
+        <form id="composer" class="composer">
+          <button type="button" id="btn-mic" class="icon-btn composer-mic" title="Talk (Ctrl+Space)" aria-label="Talk"
+                  aria-pressed="false"><svg class="icon" aria-hidden="true"><use href="#i-mic"/></svg></button>
+          <button type="button" id="btn-voice" class="icon-btn composer-voice" aria-label="Voice mode"
+                  title="Voice mode · Ctrl+Shift+Space"><svg class="icon" aria-hidden="true"><use href="#i-waveform"/></svg></button>
+          <textarea id="input" rows="1" dir="auto" aria-label="Message the tutor" aria-describedby="composer-hint"
+                    placeholder="Message the tutor…"></textarea>
+          <button type="submit" id="btn-send" class="icon-btn icon-btn-primary composer-send" aria-label="Send"
+                  title="Send (Enter)" disabled><svg class="icon" aria-hidden="true"><use href="#i-send"/></svg></button>
+          <!-- voice mode only: mute, and × (End voice mode), always the last two -->
+          <button type="button" id="btn-mute" class="icon-btn composer-mute" aria-label="Mute the microphone"
+                  aria-pressed="false" title="Mute (Ctrl+Space)" hidden><svg class="icon" aria-hidden="true"><use href="#i-mic-off"/></svg></button>
+          <button type="button" id="btn-voice-end" class="icon-btn composer-end" aria-label="End voice mode"
+                  title="End voice mode (Esc)" hidden><svg class="icon" aria-hidden="true"><use href="#i-x"/></svg></button>
+        </form>
+        <div class="composer-hint" id="composer-hint">Enter to send · Shift+Enter for a new line · Ctrl+Space to talk</div>
+      </div>
+      <div id="busy" class="busy" hidden><div class="busy-box" role="status"><span class="spinner" aria-hidden="true"></span><span id="busy-text"></span></div></div>
+      <div id="chat-announcer" class="sr-only" aria-live="polite"></div>
+    </section>
+
+    <section id="view-page" class="view page-view" hidden>
+      <div id="page-host" class="page-scroll"></div>
+    </section>
+  </main>
+</div>
+
+<div id="toasts" class="toast-region" role="status" aria-live="polite"></div>
+</body>
+</html>

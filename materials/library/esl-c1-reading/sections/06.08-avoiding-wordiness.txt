@@ -1,0 +1,43 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+6.8: Avoiding Wordiness
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/06%3A_Clarity_and_Style/6.08%3A_Avoiding_Wordiness
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is wordiness?
+Sometimes writers use too many words when fewer words will appeal more to their audience and better fit their purpose. This is called “wordiness.” Your sentences can become cluttered like the counter in figure 6.8.1. Eliminating wordiness helps all readers because it makes your ideas clear, direct, and straightforward.
+[Image: A messy pile of groceries on a kitchen counter]
+Figure : "Into the (Food) Desert: Day 3" by Mark Bonica is licensed under CC BY 2.0
+## Examples of wordiness
+Here are some common examples of wordiness to look for in your draft.
+## Sentences that begin with "There is" or "There are"
+- **Wordy: There is** an abundance of agriculture in California.
+- **Revised:** Agriculture is abundant in California.
+## Empty phrases
+Be careful when you use phrases such as “these days”, "in terms of," “due to the fact that,” "on the subject of," “more or less," and similar expressions. You can usually find a more straightforward way to state your point.
+- **Wordy:** These days, food deserts exist in many parts of the state; a food desert is a place where people do not have access to fresh, affordable foods **due to** a variety of reasons.
+- **Revised:** Food deserts exist in many parts of the state; a food desert is a place where people do not have access to fresh, affordable foods for a variety of reasons.
+## Constructions that can be shortened
+The words and phrases in the following examples can sound important and even formal, but they tend to be empty in meaning and can be eliminated or replaced with more concise wording.
+- **Wordy:** **In order to** combat skepticism about **phenomena such as** gentrification, it’s **absolutely** essential that community members are **invited to be involved** in opening new supermarkets in their own communities.
+- **Revised:** To combat skepticism about gentrification, it’s essential that community members be involved in opening new supermarkets in their own communities.
+## Identifying wordiness
+Now let's take a look at the student essay in terms of wordiness:
+Try this!
+Look again at the introduction to Amanda’s essay.
+- Can you identify some strengths?
+- What suggestions do you have for improvement? Specifically, think about areas of wordiness. What could be phrased more succinctly?
+Have you ever had trouble finding a supermarket when you wanted to purchase fresh vegetables and fruits? Have you ever wondered why there are no supermarkets in certain areas? This phenomenon has become especially evident as people pay more attention to a healthy diet and lean towards purchasing healthy food. As explained by Michael Pollan, a food detective and expert also known as the author of *The Omnivore’s Dilemma,* organic food is considered healthy food due to the fact that “it is grown without chemical fertilizers or pesticides” (133). Even though there are organic grocery stores like Whole Foods seemingly everywhere, it is difficult for some people of lower socioeconomic status, who live in food deserts, to access healthy food due to lack of accessibility and affordability. According to American FactFinder, the median family income in the United States was 70,850 dollars in 2017 (“American FactFinder—Results”). This means that families with a median income below 70,850 dollars are considered in lower socioeconomic status. Gloria Howerton, a professor of the Geography Department at the University of Georgia and the author of “‘Oh Honey, Don't You Know?’ The Social Construction of Food Access in a Food Desert,” mentions that people of lower socioeconomic status usually live in food deserts (741). An area where there’s a lack of fresh vegetables and fruits providers, such as supermarkets or farmer’s markets, is known as a food desert. This paper will attempt to show why it is difficult for people of lower socioeconomic status to access healthy food by examining the area of West Oakland as a case study, as well as discussing solutions that are in place to improve this situation.
+## Revising for wordiness
+Now let's apply this to your own writing:
+Apply this!
+Take a piece of writing you are working on and read it over.
+- What aspects of wordiness, if any, can you identify?
+- For example, can you find sentences beginning with “there is” or “there are”?
+- What about sentences with empty phrases?
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Clara Hodges Zimmerman, Porterville College. License: CC BY NC.
+Sample paragraphs on food deserts are adapted from "Accessibility and Affordability of Healthy Food Dependent Upon Socioeconomic Status" by Amanda Wu.
+## **CC Licensed Content: Previously Published**
+Examples of wordiness adapted from Lynne Bost, et al. *Successful College Composition, Edition 2* "Transitions, Wordiness, and Clarity" from Georgia State University's Perimeter College (CC BY).
+This page titled 6.8: Avoiding Wordiness was last modified on Sun, 09 Mar 2025 17:17:28 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

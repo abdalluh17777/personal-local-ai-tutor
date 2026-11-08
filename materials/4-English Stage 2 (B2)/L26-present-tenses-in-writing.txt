@@ -1,0 +1,240 @@
+Lesson 26 material: Present Tenses in Writing
+English Stage 2 (B2) · Unit 3: Verb Tenses and Narration · The Human Lifespan
+
+=== Unit 11 Expressing Meaning in Present Tenses ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-11-expressing-meaning-in-present-tenses/
+
+# Unit 11 Expressing Meaning in Present Tenses
+**Learning Objectives**
+1. To learn the principles in using appropriate verb tenses
+2. To understand the meanings and verb forms of four present tenses – simple present, present progressive, present perfect, and present perfect progressive – through multiple examples
+3. To practice using the appropriate present tenses in a variety of writing situations
+# I. Pretest
+(Picture: currencies from different countries)
+currencies from different countries
+The following ten sentences are related to the topic of money. Some of the verbs are bold-faced. If the bold-faced verb is correct, choose “correct”. If not, choose one of the other two answers. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. Money **play** an important role in the society.
+   Options: correct | is play | plays
+   Answer: plays
+Q: 2. Another name of money **is** currency.
+   Options: are | being | correct
+   Answer: correct
+Q: 3. People **are use** different currencies in different countries
+   Options: correct | use | uses
+   Answer: use
+Q: 4. For example, the U.S. dollar is the currency in America, and the euro **was** for some European countries.
+   Options: are | correct | is
+   Answer: is
+Q: 5. When someone travels to a foreign country, he or she **had** to exchange the currency.
+   Options: correct | has | have to
+   Answer: has
+Q: My friend Rubina **exchanging** money at the airport right now.
+   Options: correct | exchanges | is exchanging
+   Answer: is exchanging
+Q: 7. She **been waiting** in line for ten minutes.
+   Options: correct | has been waiting | is waiting
+   Answer: has been waiting
+Q: 8. In the past two weeks, she **is** excited about her upcoming trip to the Dominican Republic.
+   Options: correct | has been | was
+   Answer: has been
+Q: 9. Rubina **do not want** to spend her vacation at home.
+   Options: correct | does not want | no wants
+   Answer: does not want
+Q: 10. A vacation out of the country **is costing** more money, but it is worth it.
+   Options: correct | cost | costs
+   Answer: costs
+# II. Principles in Using Verb Tenses
+1. Always start with meaning. The purpose of communication is to convey[1] meaning. Therefore, it is important to start with the question: What ideas am I trying to express to others?
+2. Use the appropriate verb tense and verb form as tools to express your meaning. Each verb tense uses a different verb form. The verb form shows which verb tense is being used. These two concepts are connected and must be understood as an inseparable[2] “pair”. For example, if you want to write about current activities, you should use a present tense and should not use a past verb form with an “ed” ending.
+3. Time words are extremely important. They are like traffic signs to guide you and your readers. Your time words, verb tenses, and verb forms should all match each other in order to express your meaning clearly. For example, If you are describing an event in progress at the moment of speaking, you should not use a time word such as “yesterday”.
+# III. Expressing Meaning in Simple Present
+[Interactive exercise]
+♠♠ Click here to review verbs from Unit 9 Verb Basics in Academic Writing: All sentences in English must have a main verb. “Am, is are” are “be” verbs in the simple present form. A “be” verb is followed by a noun, a pronoun, an adjective, a propositional phrase, or an age. It is NEVER followed by the base form of a “do” verb. When there is no "do" verb as the main verb, "am/is/are" should be used. Money is play an important role in society. Money plays an important role in society. People are use different currencies in different countries. People use different currencies in different countries. Money useful in people's lives. (no verb) Money is useful in people's lives.
+*For detailed explanations and practice in verbs, open Unit 9 here.*
+**Verb Forms in Simple Present**
+1. When “am”, “is”, or “are” is the main verb, do not use a “do” verb. In the same way, when the main verb is a “do” verb, do not use “am”, “is”, or “are”.
+- Money __is__ important.
+- Money ~~is~~ __plays__ an important role in our lives.
+2. If “he”, “she”, or “it” is the subject of a sentence and a “do” verb is the main verb, add an “s” to the end of the main verb.
+- Many people __save__ money because it __gives__ them a sense of security[3].
+3. If “he”, “she”, or “it” is the subject in a question or negative sentence, leave off the “s” at the end of the main verb since you already have the helping verb “does” or “doesn’t”.
+- __Does__ money __guarantee[4]__ happiness? No, it __does__ not.
+**Meaning, Common Expressions, and Examples in Simple Present**
+***Meaning #* 1**: facts and truths
+***Common time expressions and frequency adverbs***: always, constantly, frequently, usually, often, generally, sometimes, seldom, rarely, hardly ever, never …
+***Examples***: Facts and truths about money
+(Picture: the front and back sides of a U.S. one-dollar coin)
+the front and back sides of a U.S. one-dollar coin
+1. President George Washington’s image __is__ on one side of the one-dollar bill.
+2. One-dollar coins __are not__ very common.
+3. The Department of Treasury[5] __manages__ the currency in the U.S.
+4. __Does__ each state government __decide__ how much tax money to collect?
+5. How __do__ the states __collect__ tax money from the residents?
+***Meaning #2*:** current habits, routines, repeated activities
+***Common time expressions and frequency adverbs***: every day, each night, once a week, twice a day, on Tuesdays …
+***Examples:*** Routine activities and facts
+1. My sister and I usually __go__ shopping on the weekends.
+2. The stores __are__ always crowded then.
+3. My sister __tries__ to save money on many things, but she __does not save__ money on shoes.
+4. How much __does__ she __spend__ on shoes each year? Only she __knows__.
+5. She always __says__, “I __have__ only 2 feet, but I __have__ only 365 days a year to keep my feet happy!”
+**Exercise 1.** Read the following paragraph about allowance. Find ten additional errors and correct them (not including the example). The first one is an example.
+Allowance – Beneficial or Not?
+Many children in the U.S. ***~~receiving~~ (receive)*** some money from their parents once a week or every other week. This type of money is called the allowance. People have different opinions about the allowance. Some children getting it in exchange for doing household chores like washing the dishes and taking care of a younger sibling[6]. However, should helping the family be part of the child’s education about responsibilities? Besides, most children does not need to “work” for money. They receive it “for free”! The amount of money start from a few dollars a week and increase as the children grow. According to some experts, the dollar amount can be based on the child’s age. For instance, if a child be five years old, the allowance is five dollars a week. The following year, the child will receive six dollars. Many parents are believe that the allowance is help the children learn the value of money. They also learn to manage their money from an early age. However, other parents does not agree. They question, “Why my children need money? I buy everything for them.” These parents worry that the allowance will make their kids materialistic. They also do not want their children to use the money for unhealthy snacks or addictive[7] computer games. It is hard to say which group of parents are right.
+# IV. Express Meaning in Present Progressive (No Non-Action Verbs)
+The present progressive tense usually expresses actions that are going on at the moment of speaking. It is also used to indicate future planned activities. In this unit, you are focusing on the current actions only. For the future planned activities, please refer to Unit 13 Expressing Meaning in Future Tenses. (*Open Unit 13 here.*)
+**Verb Forms in Present Progressive: am/is/are + verb-ing**
+**Meaning, Common Time Expressions, and Examples in Present Progressive**
+***Meaning #1**:* actions or situations happening at the moment of speaking
+***Common time expressions***: now, right now, at the moment, at the current moment, at present …
+***Examples:*** about activities going on in the classroom right now
+1. The professor __is checking__ our homework now.
+2. __Is__ Eva __sitting__ next to Maria?
+3. My two friends and I __are not sitting__ together.
+4. What __are__ the students __discussing__?
+***Meaning #2**:* Actions or situations happening during the present period of time or over an extended period of time
+***Common time expressions***: currently, today, these days, nowadays, this semester …
+***Examples***: about the current ongoing situation in extended period of time
+1. More students __are working__ out in the new fitness center these days.
+2. With more exercises, everyone __is becoming__ healthier.
+3. More and more students __are paying__ attention to their health.
+4. This is good news even though no one __is gettin__g younger!
+*For more information about non-action verbs, please refer to Unit 9 Verb Basics in Academic Writin* g. *(Open Unit 9 here.)*
+**Exercise 2.** The following paragraph is about finding a parking space on campus. The writer is looking for a spot right now. There are five more errors in the use of simple present and present progressive verbs (not including the example). Find the errors and correct them. The first one is an example.
+Seeking a Parking Space
+It is 9:45 am Monday morning. The parking lots at my college ***~~are looking~~ (look)*** full. Many students are try to find a parking spot close to their classroom building. I circling around and around from one parting lot to another. I am seeing an empty space right there! Oh no, another car taking it. I am needing to park my car right away because my class starts at 10 am. There, a car is backing out of a space! I am so glad! It is only steps away from the building entrance. Lucky me! I will not be late today! It is getting harder and harder to find a parking space these days.
+# V. Express Meaning in Present Perfect
+Most people will agree that the present perfect tense is the most challenging of all tenses because it can refer to the past, present, and even future situations. The good news is that your English skills __have progressed__ far enough to be able to understand it. Once you __have learned__ it, the other tenses will look a lot easier!
+__Have you noticed__ the three underlined present perfect verbs?
+**Verb Forms in Present Perfect: have/has + past participle**
+*For a list of verbs with irregular past tense and past participle spelling, please refer to Appendix D Irregular Verbs. (Open Appendix D here.)*
+**Meaning, Common Time Expressions, and Examples in Present Perfect**
+***Meaning #1***: an action or a situation that started in the past, continues till present, and may go on into the future
+***Common time words and other expressions***: since, for, recently, lately, so far, to date, till now, in the past/last two weeks, today, these days, this week, all life …
+***Examples***: about Jiali’s stamp-collecting hobby
+1. (Picture: two stamps indicating the Year of Rabbit)
+two stamps indicating the Year of Rabbit
+Jiali __has loved__ stamps since she was a child.
+2. __Has__ her collection __grown__ a lot in the last two months?
+3. Yes, it __has__. Her friends __have sent__ her their stamps lately.
+4. How many years __has__ she __accumulated[8]__ stamps?
+***Meaning #2***: an action or a situation that completed at an unspecified time in the past
+***Common time words and other expressions**:* already, before, just, never, yet …(sometimes no time words)
+***Examples:*** about Jiali’s stamp-collecting hobby
+1. Jiali __has__ just __joined__ a stamp-collecting club at her college.
+2. __Has__ Jiali ever __received__ stamp-related gifts?
+3. Yes, She __has__. For her birthday next week, her family __has already ordered__ illuminated magnifiers[9] and stamp tongs.
+4. The gifts __have not arrived__ yet.
+***Meaning #3***: an action or a situation that was repeated in an unspecified past time or since a past time and may occur again in the future
+***Common time words and other expressions**:* once, two times, a few times, many times …
+***Examples**:* about Jiali’s stamp-collecting hobby
+1. How many international stamps __has__ Jiali __accumulated__?
+2. So far, she __has gathered__ over five hundred stamps from different countries.
+3. She __has attended__ the club meeting three times since the beginning of the semester.
+4. She __has traded[__footnote]trade: verb, exchange[/footnote] eight stamps with her club friends this month.
+**Exercise 3.** Read the following paragraph about another hobby “toy Voyaging*. Fill in the blanks with appropriate simple present or present perfect tense. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+(Picture: three monkey plastic toys holding hands and traveling)
+three monkey plastic toys holding hands and traveling
+[Interactive exercise]
+Task: .
+   An Unusual Hobby – Toy Voyaging Hobbies bring (bring) joy and excitement to life. Some hobbies [give] (give) people a sense of calm, and others fuel creativity and excitement. Over the years, people [have invented] (invent) and [tried/have tried] (try) many unusual hobbies. One of them is toy voyaging. With this hobby, the toys, not the people, travel around to visit places, meet people, and have adventures. So far, thousands of people from over 100 countries [have become] (become) members. Some of them ship the toys to the next hosts, and they all share the toy stories online. Since this hobby was established in the early 2000s, more people [have shown] (show) interest in it and many lucky toys [have traveled] (travel) to over 100 countries including Australia, Switzerland, Germany, China, and the United States. Unlike some other hobbies, toy voyaging [does not cost/doesn't cost] (no cost) too much because the only expense is shipping. For more information, please check the website http://www.toyvoyagers.com/.
+*Adapted from https://en.wikipedia.org/wiki/ToyVoyagers. Last accessed on August 5, 2021.*
+# VI. Expressing Meaning in Present Perfect Progressive (No Non-Action Verbs)
+The present perfect progressive tense and the present perfect tense are similar in some ways but different in others.
+**Verb Forms in Present Perfect Progressive: have/has + been + verb-ing**
+**Meaning, Common Time Expressions, and Examples in Present Perfect Progressive**
+***Meaning#1:*** an action or a situation that started in the past, continues till present, and may go on into the future (same as Meaning #1 in present perfect but with more emphasis)
+***Common time words and other expressions***: since, for, recently, lately, so far, to date, till now, in the past/last 2 weeks, today, these days, this week, all life …
+***Examples:*** about Jiali’s stamp-collecting hobby
+(Picture: stamps from different countries)
+stamps from different countries
+1. Jiali __has been collectin__g stamps since she was ten years old.
+2. __Has__ her collection __been growing__ a lot in the last two months?
+3. Yes, it __has__. Her friends __have been sending__ her their stamps lately.
+4. She __has been accumulating__ stamps for over ten years.
+***Meaning #2***: an action or a situation that is still going on without a time expression
+***Common time words and other expressions***: not needed
+***Examples**:* about Jiali’s stamp-collecting hobby
+1. With the help of her friends, Jiali’s collection __has been growing__ fast.
+2. The stamp club __has been expanding__.
+3. Many friends __have been showing__ interest in Jiali’s stamps.
+4. Jiali’s best friend __has been planning__ to join the stamp club.
+**Exercise 4.** Read the following paragraph about Antoni’s hobby. Underline the verbs in each sentence. Then with your partner discuss the use of the verb tense and the meaning of each sentence.
+Antoni’s Hobby
+(Picture: a person doing a home improvement project)
+a person doing a home improvement project
+Doing home improvement projects is Antoni’s hobby. He has been fixing things for his own family and friends’ families for ten years. He has fixed things for his own family and friends’ families for ten years. He did this with his brother Jakub for two years, but then Jakub got married and moved out of the state three years ago. However, Antoni’s interest in home improvement has not changed all these years. He has cleared sewage blockage[10], replaced roof tiles, and installed new floors for his friends. So far, he has resolved “house problems” for at least twenty families. These few weeks, he has been sealing some of the window cracks in his own house. His wife jokes, “Now you are working for me!”
+# VII. Unit Review Practice
+**Exercise 5.** The following paragraph about a favorite hobby is from a previous unit. Fill in the appropriate verb tenses. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+(Picture: a person opening a diary)
+a person opening a diary
+[Interactive exercise]
+Task: .
+   My Hobby: Writing Diary Writing a daily diary is (be) important to me. First, it [saves] (save) my good memories. At the end of the day, I [like] (like) to write what [has happened/happened] (happen) to me in my whole day. I [write] (write) about my good times. For example, when I was in high school seven years ago, my friends and I went for trips, played games, and sang songs. I wrote about all this fun that we had together. Whenever I [read] (read) my diary now, I [feel] (feel) so nice to look back on my good memories. Secondly, it [keeps] (keep) my secrets. My secrets [stay] (stay) safe in my diary. I [do not need/don't need] (not, need) to share them with anyone else. I can write my ideas that come to my mind. They [are] (be) safe. Finally, writing [makes] (make) me feel more at ease. I often [worry] (worry) about many things like my study and job, and I [do not like/don't like] (not, like) to talk with others about them. However, after writing in my diary, I [feel] (feel) relaxed and can communicate with others more easily. I [have been writing/have written] (write) diary for many years, and this passion [has kept/has been keeping] (keep) me happy all these years. By N. Oad (student) , ESL Writing III, Harper College. U sed with permission.
+**Exercise 6.** Choose one of the following topics to write a letter. Use appropriate tenses.
+1. What is your favorite hobby? How long have you been pursuing it? Why do you like it? Do you enjoy it alone or with other people?
+2. What do you think are some of the reasons why some people do not have a hobby? Can people remain happy without a hobby? Why or why not?
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the use of present verbs, You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: convey -> verb, express, show
+Card: inseparable -> adjective, cannot be separated
+Card: guarantee -> verb, promise, ensure
+Card: security -> noun, safety
+Card: Department of Treasury -> noun phrase, a U.S. government agency to manage the financial system in the country
+Card: sibling -> noun, a brother or sister
+Card: addictive -> adjective, becoming a habit, cannot stop
+Card: accumulate -> verb, gather, collect
+Card: illuminated magnifier -> noun phrase, a tool that can light up and that is made of grass to make things look bigger
+Card: trade -> verb, exchange
+Card: fulfilling -> adjective, satisfactory
+Card: pursue -> verb, follow with great interest
+Card: sewage blockage -> noun phrase, a problem where water cannot follow through the pipe because of something stuck in there
+**Summary**
+1. Always focus on your meaning/ideas when you choose verb tenses.
+2. Time words, verb forms, and verb tenses must match one another.
+3. A “be” verb (am, is, are) can NEVER be followed by the base form of a “do” verb.
+4. Non-action verbs cannot be used in progressive tenses.
+5. The simple present tense is used in expressing
+- facts and truths
+- current routines
+6. The present progressive tense is used in expressing
+- actions or situations at the moment of speaking
+- actions or situations at the present period of time
+7. The present perfect tense is used in expressing
+- actions or situations that started in the past, continue till now, and may go on into the future
+- actions or situations that completed in an unspecified time in the past
+- actions and situations that repeated a certain number of times in the past and may happen again in the future
+8. The present perfect progressive tense is used in expressing
+- actions or situations that started in the past, continue till now, and may go on into the future (with emphasis)
+- actions or situations that are ongoing
+## Media Attributions
+- currencies from different countries © Photo by Pratikxox from Pexels
+- the front and back sides of a U.S. one-dollar coin © Photo by Badhan Ganesh on Unsplash
+- two stamps indicating the Year of Rabbit © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- three monkey plastic toys holding hands and traveling © Photo by Park Troopers on Unsplash
+- stamps from different countries © Lin Cui is licensed under a CC0 (Creative Commons Zero) license
+- a person doing a home improvement project © Photo by Erik Mclean on Unsplash
+- a person opening a diary © Photo by Daria Shevtsova on Unsplash
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. convey: verb, express, show ↵
+2. inseparable: adjective, cannot be separated ↵
+3. security: noun, safety ↵
+4. guarantee: verb, promise, ensure ↵
+5. Department of Treasury: noun phrase, a U.S. government agency to manage the financial system in the country ↵
+6. sibling: noun, a brother or sister ↵
+7. addictive: adjective, becoming a habit, cannot stop ↵
+8. accumulate: verb, gather, collect ↵
+9. illuminated magnifier: noun phrase, a tool that can light up and that is made of grass to make things look bigger ↵
+10. sewage blockage: noun phrase, a problem where water cannot follow through the pipe because of something stuck in there ↵

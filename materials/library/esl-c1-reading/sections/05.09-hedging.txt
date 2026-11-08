@@ -1,0 +1,50 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.9: Hedging
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.09%3A_Hedging
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is hedging?
+"Hedging” is the use of cautious language in order to express your claims in a more neutral tone and acknowledge a degree of uncertainty in your claims. It is especially important when you’re explaining/interpreting evidence you cite and discussing its implications. The word "hedge," in modern use, as in figure 5.9.1, is a wall made out of a dense plant. It comes from an old English word meaning "fence": we use cautious language to limit, or put a fence around, our arguments, so we have less territory to defend.
+[Image: Hedge (Before)]
+Figure : "Hedge (Before)" by schoschie is licensed under CC BY 2.0
+Consider the two examples below and pay attention to the words in [**brackets]**:
+- No hedging language: The research [**clearly shows**] that in order to help improve working conditions overseas, shoppers [**must immediately eliminate all**] purchases from ethically questionable companies.
+- Hedging language: The research [**indicates**] that in order to help improve working conditions overseas, shoppers [**should consider reducing**] purchases from ethically questionable companies.
+How are the examples different? Which one is more likely to be completely true?
+## Why is hedging important?
+- Hedging is important to build ethos: it makes you appear more credible and not overconfident. As a writer, you should be more cautious about the language you use and more critical about the claims you make because your points are based on the very limited number of sources you have read on your topic, and therefore, there may be flaws in your argumentation. When you use hedging, you show your readers that you are aware of these flaws, which will reduce the possibility of your arguments being criticized.
+- Similarly, using hedges makes it much more difficult for someone with an opposing view to argue with your statements. For example, “Teenagers buy too much disposable clothing” is an overstatement, because it is easy to find someone who saves their clothing for years or shops only at thrift stores. Yet if the statement is changed to “In general, many teenagers buy too much disposable clothing,” there will be less disagreement.
+- The use of hedging also builds a tone that fits the conventions of academic writing.
+Note: hedging is careful language that limits your claims. It sounds academic and professional, and it actually makes your writing stronger by providing miniature concessions within your sentences. Although hedging language makes your claims less extreme, it is still precise. Don't confuse it with the type of "muddy" or "fuzzy" language instructors may have warned you not to use, such as "in my personal opinion...."
+## Language for hedging
+Here are some words you can use to qualify your claims.
+Table 5.9.1: Language for Hedging
+| Grammar category | Hedging words | Example |
+| verbs | appear, suggest, indicate, tend to + verb, seem to + verb | The results of the study suggest that people are more willing to shop ethically if their friends do. |
+| modal verbs | can, could, may, might, should | While it may be true that workers are at a disadvantage, conditions are improving. |
+| adjectives | likely, unlikely, possible, probable, some, many, most | It is likely that the contaminants in the rivers are contributing to chronic diseases. |
+| adverbs | somewhat, perhaps, possibly, probably, generally, typically, frequently, often, evidently, relatively, usually | Quality of life generally improves for every additional salary dollar workers gain. |
+| there is a + noun | There is an assumption that.... There is a belief that... There is a high probability that...There is a possibility that... | There is a possibility that more sustainable textile crops will be grown to match consumer demand. |
+## Identifying hedging language
+Let's try it out:
+Try this!
+What examples of hedging language do you see in this paragraph from "Untrustworthy Memories Make it Hard to Shop Ethically" (printed in full in 5.6: Identifying and Using Logos)?
+### Reading from an Online Magazine: "Unethical Amnesia"
+We wanted to learn what consumers would do if they had to face the truth. Perhaps they might just forget that truth. After all, memory is not a particularly accurate recording device. For example, recent psychological research suggests that people experience “unethical amnesia” – a tendency to forget when they have behaved unethically in the past. So would shoppers also prefer to forget when a company exploits workers or engages in other unethical actions? We predicted that they would.
+In a series of studies described in an article published in the Journal of Consumer Research, we explored why consumers’ memories might fail them when it comes to recalling whether products are ethical. It turns out that there is a predictable pattern for what consumers are likely to remember (or forget) about the ethicality of products.
+In general, we found that consumers are worse at remembering bad ethical information about a product, such as that it was produced with child labor or in a polluting manner, than they are at remembering good ethical information—such as that it was made with good labor practices and without much pollution. Our findings should trouble the many companies now vying for the ethical consumerism market and the people who buy those products.
+"Untrustworthy Memories Make it Hard to Shop Ethically" is republished from The Conversation under a Creative Commons license. Read the original article.
+For suggested answers, see 5.12: Answer Key - Analyzing Arguments
+## Adding hedging language
+Now let's apply this to your own writing.
+Apply this!
+Look at a draft of your own or a classmate's writing.
+Pay close attention to the thesis statement, topic sentences, and explanation sentences following evidence.
+Where can you qualify your arguments and make your tone sound more cautious and academic by adding hedging language?
+## **Licenses and attributions**
+## **CC Licensed Content: Original**
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+## **CC Licensed Content: Previously Published**
+Content adapted from 43. Hedging in __Academic Writing I__ by UW-Madison ESL Program, on Pressbooks, licensed under __CC BY NC 4.0__
+"Untrustworthy Memories Make it Hard to Shop Ethically" is republished from The Conversation under a Creative Commons license. Read the original article.
+This page titled 5.9: Hedging was last modified on Sun, 09 Mar 2025 17:17:26 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

@@ -1,0 +1,33 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.12: Creating Cohesion between Paragraphs
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.12%3A_Creating_Cohesion_between_Paragraphs
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Making paragraphs stick together
+We have talked about how you can create cohesion *within* your paragraphs, but you will also want to make sure that each paragraph sticks to the next one.
+## Transitions
+One way to do that is to start each new paragraph with a transition word in the topic sentence. Here is what that might look like in an essay with four body paragraphs, including a concession:
+- The first reason that . . . .
+- Another reason is that . . . .
+- The most significant reason that . . . .
+- Although some argue that [opposing view], it is crucial that we consider [my opinion]
+## Bridging techniques
+In addition to using transition words, you can also use your words to connect one body paragraph to the next. These act like a bridge between the two paragraphs (see figure 2.11.1).
+[Image: tall bridge across a river] Figure 2.11.1 "bridge" barnyz is licensed under CC BY-NC-ND 2.0
+Here are some examples of paragraph bridges:
+- Repeat key words from the previous paragraph in the topic sentence of the next paragraph.
+- Include the idea of the previous paragraph in the topic sentence of the next paragraph. Here are some examples:
+  - In addition to *[last paragraph]*, another benefit of X is [*new paragraph topic]*
+  - Despite the advantages of *[last paragraph]*, this has not been implemented because of [*new paragraph topic].*
+  - As a result of [*last paragraph]*, [*new paragraph topic]*
+  - Though [*last paragraph]* is well-known, fewer people recognize [*new paragraph topic]*
+Of course, you must make sure that your topic sentence matches the meaning of your two paragraphs!
+## Adding bridges to your paragraphs
+Now, let's apply this to your writing.
+Apply this!
+Look at your own or a classmate's draft. Underline or highlight the last sentence of each body paragraph and the first sentence of the next paragraph. Do they lead into each other smoothly?
+1. Think about how the ideas are connected and write a topic sentence that shows the connection. You may also need to add a conclusion sentence to the previous paragraph to make the connection smooth.
+2. If it is not clear how the paragraphs are connected, you may need to reorganize them!
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+This page titled 2.12: Creating Cohesion between Paragraphs was last modified on Sun, 09 Mar 2025 17:17:23 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

@@ -1,0 +1,3 @@
+http://www.nytimes.com/2010/05/25/health/policy/25autism.html | http://www.nytimes.com/2010/05/25/health/policy/25autism.html
+http://dx.doi.org/10.1037/0022-3514.65.4.613 | http://dx.doi.org/10.1037/0022-3514.65.4.613
+source content | https://kpu.pressbooks.pub/psychmethods4e

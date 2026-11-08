@@ -1,0 +1,48 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.9: Demonstrative Pronouns
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.09%3A_Demonstrative_Pronouns
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Demonstrative pronouns
+Another important tool for increasing cohesion is demonstrative pronouns. As you know, pronouns replace nouns, and demonstrative pronouns are words that point out a specific thing. For example, in conversation you might say:
+- "Can you give me those?"
+- "Look at this."
+Remember, we use "this" and "these" to refer to things that are close to us and "that" and "those" to refer to things that are far away.
+When you are saying those, you might be pointing towards the plate or holding out your phone to show someone something. Your gestures or body language show your listener what you are talking about.
+## Demonstrative pronouns in academic writing
+In academic writing, demonstrative pronouns have a special job. Your readers cannot see you point or gesture, so you need to use demonstrative pronouns in a way that reminds them of how your ideas are connected. Your demonstrative pronouns will be like a big finger pointing backwards to earlier ideas in your paragraph (see figure 2.8.1).
+[Image: a hand with the index finger pointing to the left]
+Figure : "Finger Pointing" by bartmaguire is licensed under CC BY-NC-ND 2.0
+## Checking what you know about academic demonstrative pronouns
+Let's see if you you can discover a word that can be used to point backwards to earlier sentences.
+Notice this!
+[Image: Two wome watch a third woman draw a diagram on a whiteboard]
+Figure 2.8.2: "Women of Color in Tech: wocintech (microsoft) 116" by wocintechchat.com is licensed under CC BY 2.0
+Below is a paragraph from a student research paper about the effects of implicit bias on women studying STEM (science, technology, engineering, and math), like the women shown in Figure 2.8.2).There is **one word** that can fit into all of the spots indicated by an X. Read it and try to guess what the missing word is.
+The first way that stereotypes affect women in STEM fields is that female students may feel unwelcome in their classes. One reason for __ is that they get less recognition from peers. As researchers Kathleen N. Smith and Joy Gaston Gales, professors at North Carolina State University report in a study of female engineering students, "In academia, women experienced implicit bias in a variety of interactions and environments, especially from male peers in team projects where women’s contributions were overlooked." In other words, there may be subtle discrimination and female students may not get the recognition that they deserve from male classmates. __ is probably because most people imagine engineers as men and women are assumed to be a little less competent. __ means that women who want to be engineers are already facing bias before they even start work.
+## The answer
+- If you guessed "it", remember that "it' is not a demonstrative pronoun. It is not a finger pointing to something earlier.
+- If you guessed "that", remember that "that" is what we use to refer to things far away. You want to show a close connection between the sentences of your paragraph. Therefore, you want a word that specifically shows a close relation.
+The answer is "**this".** "This" can fit into all of the blanks and shows the close connection between the sentences. Can you find what each "this" is pointing backwards to?
+Let's look at that example again. The demonstrative pronouns are in bold, and the words that these pronouns describe are in square brackets.
+The first way that stereotypes affect women in STEM fields is that female students may feel unwelcome in their classes. One reason for **this [points back to "women feeling unwelcome in their classes"]** is that they get less recognition from peers. As researchers Kathleen N. Smith and Joy Gaston Gales, professors at North Carolina State University report in a study of female engineering students, "In academia, women experienced implicit bias in a variety of interactions and environments, especially from male peers in team projects where women’s contributions were overlooked." In other words, there may be subtle discrimination and female students may not get the recognition that they deserve from male classmates. **This [points back to "subtle discrimination and female student not getting the recognition that they deserve]** is probably because most people imagine engineers as men and women are assumed to be a little less competent. **This [pointing backwards to people imagining engineers as men and women being assumed to be a little less competent]** means that women who want to be engineers are already facing bias before they even start work.
+As you can see, each "this" directs the reader to look backwards at the ideas of the previous sentence. It summarizes a complex idea into a simple word, showing the reader how the ideas are connected.
+## Adding cohesion with "this"
+Here are some phrases you might use in your paper:
+- "This shows that . . . ."
+- "One example of this is . . . ."
+- "The implication of this is . . . ."
+- "This means that . . . ."
+- "From this, we can assume that . . . ."
+- "This is because. . . ."
+Let's try adding them to a paper.
+### Try this!
+Here is part of a paragraph from a student's paper. Add some of the phrases above to increase the cohesion. Make sure that the phrases fit the meaning of the sentence!
+Recently, some Asian countries like Korea and Japan started to reduce the number of international students from Vietnam. Universities believe that most Vietnamese students go there just to work and illegally stay there. In Japan, there are signs hung everywhere in front of grocery stores, restaurants and malls saying in Vietnamese, “Do not steal, we have cameras.” In their eyes, we are nothing but poor and uneducated people. People believe that Vietnamese are poor or even criminals that, and somehow it has become the only story about my country.
+## Works Cited
+Smith, Kathleen N., and Joy Gaston Gayles. “‘Girl Power’: Gendered Academic and Workplace Experiences of College Women in Engineering.” *Social Sciences* 7.1 (2018): 11. *Crossref*. Web.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+Paragraph on the single story of Vietnamese people is adapted from an essay by Tram Nguyen. License: CC BY.
+This page titled 2.9: Demonstrative Pronouns was last modified on Fri, 22 Aug 2025 18:51:18 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

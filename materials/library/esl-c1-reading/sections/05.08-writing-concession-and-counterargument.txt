@@ -1,0 +1,102 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.8: Writing Concession and Counterargument
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.08%3A_Writing_Concession_and_Counterargument
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Reading about multiple perspectives
+When we read an article or a book, we might imagine we are listening to the voice of the author: one voice (or maybe two or a few voices if there are multiple authors). That one voice is always speaking from a particular point of view, from within a particular culture, and from inside a time period. The author is also not speaking alone, to an empty room. As we read, we can also imagine we are listening to that speaker take their turn in a huge and timeless discussion with thousands of participants, in which the speakers build on and evaluate each others' ideas and argue with each other. Each new study, article, or book adds facts, ideas, and layers of meaning to the discussion. This exchange of ideas, with each new contribution referencing past texts, has been called "the Great Conversation."
+Traditionally, many people talk about this "Great Conversation" as something that happens in the Liberal Arts disciplines of Western (European and American) universities: subjects like philosophy, literature, history, the social sciences, and the arts. Scholars discuss competing explanations for a historical event, or the meaning of a line in a poem, or whether a government policy is fair. But great conversations about truth, meaning, and justice also happen around the world and outside of formal academic discourse. They take place on Twitter and TikTok, in movies, in popular magazines, and in street protests, such as the one in Figure 5.8.1. Many texts you read in college classes are taking their turn in this imaginary discussion: they argue for their position, and explain and respond to other perspectives on the topic.
+[Image: Marcherse holding signs reading "No one should die for fashion" and "Save lives" in front of a clothing store window]
+Figure : Untitled by SEIU Local 1 is licensed under CC-BY 2.0. Protesters in 2013 demanded that retail stores in the U.S. join the Bangladesh Safety Accord.
+Let's look at an example:
+## Noticing multiple perspectives
+Notice this!
+As you read this article, ask yourself
+- What is the writers' thesis?
+- What other positions do they explain and then fight back against?
+- Where are the places where the writers shift perspectives?
+- Which connecting words signal the change?
+## Reading from an online magazine: ‘Plastic-free’ fashion is not as clean or green as it seems
+We have all become more aware of the environmental impact of our clothing choices. The fashion industry has seen a rise in “green”, “eco” and “sustainable” clothing. This includes an increase in the use of natural fibres, such as wool, hemp, and cotton, as synthetic fabrics, like polyester, acrylic and nylon, have been vilified by some.
+However, the push to go “natural” obscures a more complex picture.
+Natural fibres in fashion garments are products of multiple transformation processes, most of which are reliant on intensive manufacturing as well as advanced chemical manipulation. While they are presumed to biodegrade, the extent to which they do has been contested by a handful of studies. Natural fibres can be preserved over centuries and even millennia in certain environments. Where fibres are found to degrade they may release chemicals, for example from dyes, into the environment.
+When they have been found in environmental samples, natural textile fibres are often present in comparable concentrations than their plastic alternatives. Yet, very little is known of their environmental impact. Therefore, until they do biodegrade, natural fibres will present the same physical threat as plastic fibres. And, unlike plastic fibres, the interactions between natural fibres and common chemical pollutants and pathogens are not fully understood.
+### Fashion’s environmental footprint
+It is within this scientific context that fashion’s marketing of alternative fibre use is problematic. However well-intentioned, moves to find alternatives to plastic fibres pose real risks of exacerbating the unknown environmental impacts of non-plastic particles.
+To assert that all these problems can be resolved by buying “natural” simplifies the environmental crisis we face. To promote different fibre use without fully understanding its environmental ramifications suggests a disingenuous engagement with environmental action. It incites “superficial green” purchasing that exploits a culture of plastic anxiety. Their message is clear: buy differently, buy “better”, but don’t stop buying.
+Yet the “better” and “alternative” fashion products are not without complex social and environmental injustices. Cotton, for example, is widely grown in countries with little legislation protecting the environment and human health.
+The drying up of the Aral Sea in central Asia, formally the fourth largest lake in the world, is associated with the irrigation of cotton fields that dry up the rivers that feed it. This has decimated biodiversity and devastated the region’s fishing industry. The processing of natural fibres into garments is also a major source of chemical pollution, where factory wastewaters are discharged into freshwater systems, often with little or no treatment.
+Organic cotton and Woolmark wool are perhaps the most well-known natural fabrics being used. Their certified fibres represent a welcomed material change, introducing to the marketplace new fibres that have codified, improved production standards. However, they still contribute fibrous particles into the environment over their lifetime.
+More generally, fashion’s systemic low pay, deadly working conditions, and extreme environmental degradation demonstrate that too often our affordable fashion purchases come at a higher price to somebody and somewhere.
+### Slow down fast fashion
+It is clear then that a radical change to our purchasing habits is required to address fashion’s environmental crisis. A crisis that is not defined by plastic pollution alone.
+We must reassess and change our attitudes towards our clothing and reform the whole lifecycle of our garments. This means making differently, buying less and buying second hand. It also means owning for longer, repurposing, remaking and mending.
+Fashion’s role in the plastic pollution problem has contributed to emotive headlines, in which purchasing plastic-fibred clothing has become highly moralised. In buying plastic-fibred garments, consumers are framed complicit in poisoning the oceans and food supply. These limited discourses shift accountability onto the consumer to “buy natural”. However, they do little to equally challenge the environmental and social ills of these natural fibres and the retailers’ responsibilities to them.
+The increased availability of these “natural” fashion products therefore fails to fundamentally challenge the industry’s most polluting logic – fast, continual consumption and speedy routine discard. This only entrenches a purchasable, commodified form of environmental action – “buying natural”. It stops the more fundamental reassessment of fast fashion’s “business as usual”, that we must slow. [Image: The Conversation]
+Thomas Stanton, PhD researcher in the Geography and Department of Chemical and Environmental Engineering, *University of Nottingham* and Kieran Phelan, PhD Researcher in economic geography, *University of Nottingham*
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+When you write a paper, you are contributing to this "Great Conversation," and you also have to make these same moves. In an argumentative paper, you argue for your own perspective and support your main idea with evidence from other writers who agree with you. However, another important part of your job is to explain other points of view on the topic and respond to them with counterargument and/or concession.
+## Writing about multiple perspectives
+## Which perspectives should I include?
+Sometimes, if you are writing about a controversial topic with clear opposite sides, it will be easy to identify different perspectives. It's like a debate. Here's an example:
+- Thesis: The government should strengthen regulations on water pollution from factories.
+- Opposite perspective: Opponents of this plan argue that regulations are not an effective way to reduce pollution.
+But "multiple perspectives" doesn't always mean "opposite perspectives." The big questions we think deeply about often lead to more complicated discussions. If you have a more nuanced thesis, it might be harder to think of what the other perspectives are. Here's an example:
+- Thesis: Although labor conditions in sweatshops are clearly human rights violations that demand international action, boycotts are actually not the most effective strategy to improve the situation.
+- Exploring another perspective: It's true that labor conditions are terrible; workers, sometimes children, work long hours in dangerous factories for low pay.
+- Exploring another perspective: Admittedly, many human rights advocates have called for boycotts.
+- Exploring another perspective: Granted, boycotts have sometimes been an effective tool for reducing worker exploitation in other industries.
+As you research and draft your paper, ask yourself—and your sources—these questions:
+- Not everyone agrees with my idea.
+  - Who? Are they credible sources?
+  - Why? Is there anything valid about their position? Is it based on values that you (and probably your reader) reject?
+  - What evidence do they use? Is it solid? Does it actually support their position?
+  - Is their position logical? Did they use any logical fallacies?
+- Is there any factual evidence that seems to contradict my idea?
+- What is a problem or concern with my idea? What are some drawbacks?
+- What are the limits to my idea?
+- What is an exception to my idea?
+- What are some possible bad consequences that could result from my idea or plan?
+- Why will my idea or plan be hard to do?
+- If my idea or plan is so great, why isn't everyone already doing it?
+## How do multiple perspectives make an argument stronger?
+Wait—why would you want to talk about the positions of people who think you're wrong? Wouldn't that weaken your argument?
+Actually, no. Carefully explaining the other sides of the topic builds both *ethos* and *logos.* Imagine your reader reading your paper, taking in your reasons for why your thesis is true, and saying to themselves, "But what about this problem?" or "I heard that was a bad idea because..." You are communicating to your reader: "See? In case you don't believe me, I already thought about the other sides. Here's what my opponents say, and here's why I'm still right!"
+## Where do multiple perspectives go in a paper?
+In journalistic articles like "‘Plastic-free’ Fashion is Not as Clean or Green as it Seems," writers often jump back and forth between perspectives throughout the text. A customary U.S. college argumentative essay typically includes one or more separate body paragraphs dedicated to explaining and responding to perspectives besides your own. Depending on the logic of your ideas, the order of your body paragraphs might follow one of these patterns:
+- other perspectives come first, before your regular body paragraphs, to take on readers' possible doubts and objections and get them out of the way before explaining more about your reasons.
+- other perspectives come last, after you have made your main case and before your conclusion.
+- other perspectives go before or after the particular regular body paragraph they relate to.
+Your introduction should also touch on the existence of these other perspectives, and your thesis statement may also directly address them, but you do not need to list every specific perspective in the introduction.
+## What goes in this special kind of body paragraph?
+You start these paragraphs by stating another perspective. Then you explain that idea with specific detail (and often text evidence). Then you respond to that idea in a way that strengthens your overall argument. You may respond to the other positions with one of these two strategies, or a combination of both:
+- **counterargument**: the other position is wrong (this is also called refutation)
+- **concession**: the other position is a little bit true, but overall I'm still right
+The key to keeping it all clear is to use connecting words to show which side you are focusing on and when you are changing sides.
+Table 5.8.1 provides ideas and possible language to write a paragraph naming, explaining, and responding to other perspectives:
+Table 5.8.1: Language for concession and counterargument
+| **Part of the paragraph** | **What to write** | **Possible language** |
+| **Part 1** | **Topic sentence/point** that names the other perspective: | 1+ sentences | **Start with connecting words and, if logical, reporting words to make clear that you are switching to a perspective that is not your own opinion.** | State | an opposite idea | a question about, concern about, or problem with your idea | an exception to your idea | the inherency (if your idea/plan is so great, why isn’t everyone already doing it?) | If this is not your first concession/counterargument paragraph, make that clear with connecting words that add ideas (Another..., ...also..., In addition, ...) | However, | One objection to [my idea] is that. . . | Some argue that... | Opponents of [my idea] argue that. . . | Supporters of [opposite idea] note/ point out that... | Proponents of [opposite idea] believe. . . | Those against [my idea] disagree with [part of my idea] | Skeptics of [my idea] contend that... | Critics of [my idea] accuse [someone] of [verb]ing. . . | Not everyone agrees with/ that [my idea]. Some point out that... | Here’s another perspective: . . . | It’s true that. . . | Granted, . . . | Of course, . . . | Still, . . . | That said, . . . |
+| **Part 2** | **Evidence/specific information** | that supports the other perspective: | 2+ sentences | **Give evidence/specifics** of this other perspective: | why do they think this? | how many think this? | quote/paraphrase from someone who thinks this | give specific details about the point (e.g. if the problem is that your idea is expensive, how much money will it cost?) | **and explain** their point of view, being careful to sound fair and balanced. | For example, . . . | In fact, . . . | To illustrate, . . . | Indeed, . . . | According to . . . | They cite research showing that. . . | A study from the University of Chicago found that . . . | Because of this, many feel . . . | They indeed have a point that . . . | It’s understandable that people worry about . . . |
+| **Part 3** | **Response** that defends and explains your position: | 2+ sentences | **Start with connecting words and, if logical, reporting words to make clear that we are now back to your own position.** Explain why the other perspective | is not true | is biased | is using a logical fallacy | is true but not that important, not worth the cost, etc. | is true, but the evidence actually proves your side | or otherwise respond in a way that shows your position is still stronger. | However, . . . | Nevertheless, . . . | Still, . . . | Yet . . . | That said, . . . | This may be true, but. . . | Even if this is true, . . . | On the other hand, . . . | Despite this disadvantage/side effect/risk/problem . . . | Although X is a concern, overall/ultimately. . . | Just because X doesn’t mean Y | If X were true, Y wouldn’t verb (present/general) | If X were true, Y wouldn’t have verbed (past) |
+The models in Figure 5.8.2 are expressing two perspectives with their T-shirt slogans.
+[Image: 4 young adults pose, smiling, under a sign that says "London Fashion Week" on a city sidewalk. They all wear T-shirts reading" LOVE FASHION HATE SWEATSHOPS"]
+Figure : "Love Fashion Hate Sweatshops" by War on Want is licensed under CC BY-SA 2.0
+## Concession/counterargument in action
+Let's look at an example of a concession/counterargument paragraph in a student essay:
+Try this!
+Here is a concession/counterargument paragraph from the student essay. The overall thesis of the whole essay is this:
+Although some defend the fast fashion industry’s aesthetic and economic contributions, it has devastating impacts on labor rights and the environment, and needs serious regulations by all nations to stop the damage.
+Read the paragraph and look for the following elements:
+1. What other position do they explain and then fight back against?
+2. Where are the places where the writer shifts perspectives?
+3. Which connecting words signal the change?
+Which parts are counterarguments, and which are concessions?
+Despite the clear injustices of garment production, some argue that the fashion industry provides work to people with few better choices in developing countries. According to reporter Stephanie Vatz, companies began outsourcing clothing manufacturing jobs in the 1970s, and by 2013, only two percent of clothing was made in the U.S. The same lack of labor protections that allows terrible working conditions in developing countries also guarantees low labor costs that motivate U.S. companies to relocate their factory sources. Benjamin Powell, the director of the Free Market Institute, justifies sweatshop labor, insisting that this model is "part of the process that raises living standards and leads to better working conditions and development over time (qtd. in Ozdamar-Ertekin 3). This argument is compelling from a distance, but even if it may be true to some degree when we look at the history of economic development, it disregards the humanity of the garment workers. These people continue to work long hours in brutal conditions, generating huge profits for the factory and retail owners. Saying that their lives could be even worse without this exploitation is actually just an excuse for greed.
+For suggested answers, see 5.12: Analyzing Arguments Answer Key
+## **Licenses and attributions**
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+Student essay paragraph from "Deadly Fashion" authored by Maroua Abdelghani and Ruri Tamimoto. License: CC BY NC
+## **CC Licensed Content: Previously Published**
+"‘Plastic-free’ Fashion is Not as Clean or Green as it Seems" is republished from The Conversation, licensed under CC-BY-ND.
+This page titled 5.8: Writing Concession and Counterargument was last modified on Sun, 09 Mar 2025 17:17:26 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

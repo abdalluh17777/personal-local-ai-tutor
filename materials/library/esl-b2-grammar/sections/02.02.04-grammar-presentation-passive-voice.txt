@@ -1,0 +1,117 @@
+High-Intermediate Academic Grammar for ESL Students (Al Haider)
+6.4: Grammar Presentation-Passive Voice
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/02%3A_Unit_2._American_History/06%3A_Executive_Order_9066/6.04%3A_Grammar_Presentation-Passive_Voice
+License: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform
+
+English verbs can have active or passive voice. In a sentence with active voice, the subject is the first and is the performer of the verb. The direct object in an active voice sentence is after the verb and is the receiver of the action. Look below at the differences between active and passive voice structure.
+**Active voice:** Subject (performer) + verb + direct object (receiver).
+The boy ate the cookies.
+**Passive voice**: Direct object (receiver) + conjugation of be verb + past participle verb + by subject (performer).
+The cookies were eaten by the boy.
+Passive voice sentences have a **be** verb conjugated according to tense and a past participle. The performer can be deleted from the sentence—in other words, the performer or subject is not required.
+For more information on this topic, watch these videos: __Active and Passive Voice__ ; __Active and Passive Voice__ (2); __Active versus Passive Voice__ ; __How to use the Passive Voice-English Grammar Lesson__
+[Video: https://www.youtube.com/embed/O6L7fW3Q4qI]
+[Video: https://www.youtube.com/embed/AQNvhUrAn7o]
+[Video: https://www.youtube.com/embed/W1_IRU6zx9g]
+[Video: https://www.youtube.com/embed/nkAyggAM1q4]
+## 2.2.4.1. **Exercise 3-Active and Passive Voice Comprehension Check**
+Identify the following sentences as active or passive. Remember if the subject is “doing” the verb, then the sentence is active.
+1. The jury voted at the end of the trial.
+a. active
+b. passive
+2. Some jurors were told to leave at noon.
+a. active
+b. passive
+3. All the jurors were leaving the building when the reporters came in.
+a. active
+b. passive
+4. My sister Joan has been selected for jury two different times.
+a. active
+b. passive
+5. Were you given any information about that murder case?
+a. active
+b. passive
+6. Not every juror will be needed for the trial next week.
+a. active
+b. passive
+“Active and Passive Voice Comprehension Check” is derived from “__Writing for Success__” by Lynne Bost, Barbara Hall, Michelle Kassorla, Karen McKinney-Holley, Kirk Swenson, and Rebecca Weaver licensed under __CC BY__.
+## 2.2.4.2. Transitive and Intransitive Verbs
+Because passive voice requires a direct object, only transitive verbs can be used in passive sentences. Transitive verbs are verbs that have an object. Intransitive verbs do not have objects and cannot be made into passive sentences. Look at the examples below under transitive verbs. The objects of the active sentences (the first sentence in the numbered pairs) have been emphasized. Notice that the objects are first in the passive sentences that follow. Compare the transitive verbs to the intransitive verbs. Notice how the sentences under intransitive verbs do not have direct objects and, therefore, cannot be passive.
+## 2.2.4.2.1. Transitive Verbs
+1. I drink **coffee**. Coffee is drunk.
+2. Sarina played **the piano**. The piano was played by Sarina.
+3. They have done **their homework**. Their homework has been done.
+## 2.2.4.2.2. Intransitive Verbs
+1. I slept.
+2. The accident happened.
+3. The student arrived early.
+## 2.2.4.2.3. **Exercise 4-Transitive and Intransitive Verb Comprehension Check**
+Read the active sentences below. Select all the sentences that can be changed into passive voice. In other words, which sentences have a transitive verb (and direct object)?
+____ 1. Ning does his homework every day.
+____ 2. The child screams too much.
+____ 3. Frances often helps her neighbors.
+____ 4. Levar has left his wallet in the classroom.
+____ 5. She wrote my favorite poem.
+## 2.2.4.3. **Verb Tense and Voice**
+The be verb is the most common verb used to create passive sentences. It is conjugated according to the tense of the verb in an active sentence. Analyze the changes in the verbs below.
+| **Tense** | **Active** | **Passive** |
+| **simple present** | Patty tutors the student. | The student **is** tutored by Patty. |
+| **present progressive** | Patty is tutoring the student. | The student **is being** tutored by Patty. |
+| **present perfect** | Patty has tutored the student. | The student **has been** tutored by Patty. |
+| **simple past** | Patty tutored the student. | The student **was** tutored by Patty. |
+| **past progressive** | Patty was tutoring the student. | The student **was being** tutored by Patty. |
+| **past perfect** | Patty had tutored the student. | The student **had been** tutored by Patty. |
+| **simple future** | Patty will tutor the student. | The student **will be** tutored by Patty. |
+| **future progressive (be going to)** | Patty is going to tutor the student. | The student **is going to be** tutored by Patty. |
+| **future perfect** | Patty will have tutored the student. | The student **will have been** tutored by Patty. |
+Table 16 Verb Tense and Voice
+## 2.2.4.3.1. **Exercise 5-Verb Tense and Voice Comprehension Check**
+Complete the following passive sentences by using the verb tense from the active sentences. Your answer will only include the be verb. Use the chart above to help guide you.
+1. Maya writes the poem.
+The poem __________________________ written by Maya.
+2. Maya is writing the poem.
+The poem __________________________ written by Maya.
+3. Maya has written the poem.
+The poem __________________________ written by Maya.
+4. Maya wrote the poem.
+The poem __________________________ written by Maya.
+5. Maya was writing the poem.
+The poem __________________________ written by Maya.
+6. Maya had written the poem.
+The poem __________________________ written by Maya.
+7. Maya will write the poem.
+The poem __________________________ written by Maya.
+8. Maya is going to write the poem.
+The poem __________________________ written by Maya.
+9. Maya will have written the poem.
+The poem __________________________ written by Maya.
+## 2.2.4.4. Which voice should you use?
+1. When the verb or the direct object are **more important than the performer**, use passive voice.
+**Active:** People eat black-eyed peas for New Year’s Day.
+**Passive**: Black-eyed peas are eaten for New Year’s Day.
+**Active**: A college offered my son a scholarship.
+**Passive**: My son was offered a scholarship. OR A scholarship was offered to my son.
+2. 2. When the subject or performer is unknown, use passive voice.
+1. The bank was robbed last night.
+2. Thousands of innocent people were killed.
+## 2.2.4.5. Exercise 6-Active to Passive
+Change the active sentences to passive voice. Do not include the performer if it is unnecessary.
+Example
+Active sentence: “The US government “reserved” relatively small areas of land for Native Americans.”
+Passive sentence: Small areas of land were “reserved” for Native Americans by the US government.
+1. Active sentence: Maslow developed the theory.
+Passive sentence:
+2. 2. Active sentence: Someone made my car in Japan.
+Passive sentence:
+3. 3. Active sentence: People learn English around the world.
+Passive sentence:
+4. 4. Active sentence: Workers will complete the project next week.
+Passive sentence:
+5. 5. Active sentence: Students use computers to do homework.
+Passive sentence:
+6. Active sentence: Samuel F.B. Morse invented the telegraph.
+Passive sentence:
+7. Active sentence: The college has given three scholarships.
+Passive sentence:
+“Grammar Presentation-Passive Voice” is derived from “__ESL for High-Intermediate Students: The Way You Like It__” by Don Bissonette licensed under __CC BY-NC__
+This page titled 6.4: Grammar Presentation-Passive Voice was last modified on Sat, 01 Feb 2025 19:06:29 GMT and is shared under a CC BY 4.0 license and was authored, remixed, and/or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform.

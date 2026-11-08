@@ -1,0 +1,106 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.7: Finding and Refuting Logical Fallacies
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.07%3A_Finding_and_Refuting_Logical_Fallacies
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What are logical fallacies?
+Logical fallacies (sometimes called rhetorical fallacies) are errors in reasoning. They are like tricks or illusions of thought, and they’re often very sneakily used by politicians and the media to fool people. They are not always easy to spot and we often commit them accidentally. Sometimes an arguer will commit these fallacies on purpose with the intent of fooling or manipulating the audience. But more often, we make these mistakes accidentally, with the best of intentions. Spotting them in our own arguments and in the arguments of others is a superpower that can help you strengthen your analytical tool kit. Like the doctor with her microscope in Figure 5.7.1, we can closely examine the reasons and evidence writers are using to convince us to believe or do something, and decide if their logic is solid.
+[Image: Black and white photo of a smiling doctor with a microscope]
+Figure : "Doctor with microscope, 1999" by Seattle Municipal Archives is licensed under CC BY 2.0
+A fallacy is not just a false fact—it is a flawed structure of claim + reason + evidence that does not make sense together. In fact, a writer can say an idea that may be true, but use illogical support. Some fallacies are actually bad logic: they are a syllogism that is missing a piece. Some are actually just *pathos* or *ethos* being used in place of *logos*. This is tricky, because good argument writing is supposed to use *pathos* and *ethos* in addition to *logos*. Using these persuasive appeals is not in itself a flaw in logic. However, if your opponent’s argument is pretending to be logical, but is actually based only on *ethos* or *pathos*, you can refute their claims by pointing out that they are not supporting them with good logic.
+You can find many ways people have named, categorized, and analyzed long lists of possible mistakes in logic. Sometimes one flawed argument can be an example of more than one fallacy. It is not always clear how to name one flawed argument. That's OK! It is worthwhile to examine arguments and look for possible flaws, even if they don't all have a clear label.
+Here are 12 of the most common fallacies:
+## Fallacies that misuse appeals to *ethos*
+These fallacies happen when the writer focuses on who is the source of the idea. We are asked to believe the idea because we believe the source, not because there is solid evidence.
+**Appeal to false authority:** using the opinion of an authority figure, or institution of authority, in place of an actual argument, especially when the person or group is not an expert on the topic. Often the claimed expert (a) doesn't have enough background/credentials in the relevant field, (b) disagrees with most experts in the field, or (c) is biased, e.g., has a financial stake in the outcome.
+Examples:
+- Dr. X is an engineer, and he doesn’t believe in global warming. Therefore global warming is not real.
+- My favorite basketball player wears a certain brand of shoes, so I should, too.
+**Ad hominem:** (opposite of appeal to authority) attacking the person making an argument rather than the argument itself.
+Example: Of course that clothing company CEO advocates for organic cotton - she probably owns stock in a company that makes alternative pesticides.
+**Bandwagon fallacy/appeal to popularity**: using the fact that many people do or believe something to say that it is true/right. The name "bandwagon" comes from the idiom "jump on the bandwagon," perhaps from the tradition of children running after a wagon with musicians playing music at public events, such as the one in Figure 5.7.2. Note: this can be considered an appeal to ethos because it depends on our trust of other people. Some would also categorize this as using an appeal to *pathos*, because it uses our desire to belong to the crowd to get us to do or believe something.
+Example: Everyone wears a new outfit every weekend; it would be embarrassing to wear something twice.
+[Image: old black and white picture of a festively decorated bandwagon]
+Figure : "Band Wagon of the Parker & Watts Circus parade on State Street, Ann Arbor, July 8, 1939." by In Memoriam: Wystan is licensed under CC BY-SA 2.0
+**Appeal to tradition:** saying that something has always been done one way, so that’s the right way. Note: Some would also categorize this as using an appeal to *pathos*, because it uses our emotional attachment to customs or elders to get us to do or believe something.
+Example: College classes have always been taught mostly by lecture, so that’s the right way to teach.
+## Fallacies that misuse appeals to *pathos*
+These fallacies use appeals to fear, anger, pity, love, or the human desire to belong and have other people like us, in place of logic.
+**Appeal to emotion:** Trying to get an emotional response instead of making a valid argument. Note: using appeals to *pathos* is important in good writing, when used in a balanced way along with *ethos* and *logos*.
+Examples:
+- An advertisement shows a group of young adult models beaming with joy, playing with an adorable puppy and all wearing the same brand of jeans.
+- Without this additional insurance, you could find yourself broke and homeless.
+**Slippery slope:** making an unsupported or inadequately supported claim that one thing inevitably leads to another: If we allow A to happen, then Z will consequently happen too, therefore A should not happen. This may be considered a fallacy of *logos* as well as *pathos* but is placed in this section because it often is used to evoke the emotion of fear. The name comes from the idea of something sliding down a slippery hill, unable to stop.
+Example: We can’t legalize marijuana; if we do, then the next thing you know people will be strung out on heroin.
+## Fallacies that misuse *logos*
+**Circular reasoning/begging the question:** one of the premises is the same as the claim that you are trying to prove. It is common in situations where people have an assumption that is very ingrained, and therefore taken in their minds as a given.
+Example: This legislation that requires eliminating water pollution is impractical because we cannot possibly make the changes needed.
+**Anecdotal evidence/hasty generalization:** using personal experience or an isolated example instead of a valid argument, especially to dismiss statistics. An anecdote is a little story. Hasty means doing something too fast and not carefully.
+Example: My grandmother smoked for 80 years and never got cancer, so smoking is not really bad for you.
+**False cause/post hoc:** (a special type of anecdotal evidence/hasty generalization) Assuming that because two events are related, one is the cause of the other. Sometimes two events are related by coincidence; sometimes a third factor caused both of the events to happen. Superstitions are good examples of the post hoc fallacy. The term post hoc is from the Latin *post hoc ergo propter hoc:* after this, therefore because of this. This one is tricky because if one event caused another, they will also be correlated. But just because they are correlated does not prove that one caused the other.
+Examples:
+- Many residents of the town got sick after drinking soda at the festival, so the chemicals in the soda must have made them sick. (It could be a virus, or food poisoning, or another cause).
+- Figure 5.7.3 demonstrates a silly example of post hoc: obviously the number of letters in the winning word at a spelling bee did not cause spiders to kill people, or the other way around - it's just a coincidence that the two data sets correlate.
+[Image: Graph showing that number of people who die by spider bite each year changes at the same rate as the number of letters in the national spelling bee.]
+Figure : "Spurious Correlations - Spelling Bee Spiders" by Tyler Vigen via Wikimedia Commons is licensed under CC BY 4.0
+**False dilemma/false dichotomy:** The writer presents two choices as the only possibilities, when in fact more possibilities exist.
+Example: Politician: Either you agree with my decision to go to war, or you agree with our enemy.
+**False analogy:** The writer says that one situation is like another, when they may have something in common but really aren’t alike, to show that they should have the same solution or action. We sometimes use the idiom "comparing apples and oranges" (see figure 5.7.4) to describe this fallacy, especially when discussing statistics.
+Example: The government is like a business; businesses must prioritize making money, so the government should too.
+[Image: two images next to each other; close-up of red apples on the left and oranges on the right.]
+Figure : "incommensurable" by Robert Couse-Baker is licensed under CC BY 2.0
+**Straw man:** The writer misrepresents someone’s argument to make it easier to attack. They may choose only the opponent's weakest point, or even lie about what the opponent said, to make themselves look more reasonable. If you have ever been in an argument with a friend or relative and said, "...but I never said that!" then you have pointed out a straw man fallacy. The origin of this term is from a scarecrow (see figure 5.7.5): a traditional farming practice of setting up a human figure made out of dried grass to scare birds away from crops. Imagine that the writer is supposed to be showing a real fight between two people, but instead sets up a fake man made out of dried grass, then knocks it down.
+Example: The garment workers' union demanded a ridiculous pay raise for the factory workers. If the workers think they should be millionaires, then they need to buy their own factories.
+[Image: straw man used to scare birds in a field (scarecrow).]
+Figure : "Americana Scarecrow" by Steve Evans is licensed under CC BY 2.0
+## Identifying logical fallacies
+Let's try it out:
+Try this!
+Read each example. Which logical fallacy from the above list of 12 does it most closely demonstrate?
+1. That jacket is so popular that it's almost sold out; I need to get one right away!
+2. According to the CEO of the Chemical Manufacturing Association, phthalates are perfectly safe. Therefore, there is no need to keep this chemical out of the water.
+3. The clothing brand has packaged their shirts individually in plastic bags for 30 years, so that must be the proper way to do it.
+4. Why should we listen to a factory worker who doesn't even have a high school education? She doesn't know anything about economics.
+5. If we allow factory workers to get even a small raise, soon all the suppliers will go out of business, leading to a complete industry collapse and economic disaster.
+6. Teenagers value the latest fashions because the most recent clothing designs are important to them.
+7. Sweatshops were a stage of the development of the U.S. economy in the 1900s, so they are necessary for the development of the Cambodian economy now.
+8. My neighbor's cousin worked in a textile factory for a while, and she said it wasn't that bad. Therefore the claims of worker abuse are exaggerated.
+9. I wore my lucky socks the day I won the lottery. My socks helped me win the lottery.
+10. A recent study showed that organic cotton is not more durable than conventional cotton. Therefore there is no reason to spend the extra money growing cotton organically.
+11. Either you buy the latest fashions from one of the fast-fashion stores, or you spend thousands of dollars at high-end retail stores on the same looks.
+12. The garment workers' union is trying to destroy everything you have worked for with their unreasonable demands.
+For suggested answers, see 5.12: Answer Key - Analyzing Arguments
+## Explaining and responding to logical fallacies
+When you find a logical fallacy in an opponent's argument, you can use the following pattern to name, explain, and refute it. This pattern also works for responding to other kinds of counterarguments, even if they do not contain obvious logical fallacies that are easy to identify.
+- Sentence 1:
+  - Name your opponent/the source of the fallacy
+  - Use a special reporting expression to show you don’t believe them or doubt their logic
+  - paraphrase/summarize what they said. Usually, the paraphrase/summary will be in cause-effect form (they want us to do or believe x because y). You may have to think more deeply about what their argument really is, because if someone is using a logical fallacy, they usually don't explain their argument completely, or else it would be obvious that it doesn't make sense.
+- Sentence 2:
+  - Transition to your rebuttal with connecting words
+  - rename your opponent/the source of the fallacy
+  - use a special reporting verb phrase
+  - name the logical fallacy (or if there isn't a clear label for it, you can just say that their logic is flawed).
+- Sentence 3: explain the error
+Examples:
+- One critic of further smoking restrictions wants to convince us that tobacco use is not actually unhealthy, based on the fact that his grandmother smoked for 80 years and did not get cancer. Clearly, this author is engaging in the anecdotal evidence fallacy. Just because this one smoker escaped the harms of tobacco use doesn't mean that statistically, smoking is a safe practice.
+- The advertisers imply that if we buy their brand of jeans, we will experience the same joy and beauty as the group of young people with their puppy. On closer inspection, this marketing campaign is engaging in a manipulative appeal to emotion. They provide no evidence that their product is actually higher quality than any other brand.
+Table 5.7.1 provides useful language to help you write this kind of response.
+Table 5.7.1: Language for Responding to Logical Fallacies
+| Part of your sentence | suggested language patterns |
+| Sentence 1: source of the fallacy | The author/researchers etc. | The advertisers | Marketers of X | Some people | Those who agree with X | Those who disagree with X | People who think X | Proponents/advocates of X | Opponents/critics of X | Author's name |
+| special reporting verb phrase | imply(ies) that | seem(s) to imply that | seem(s) to think that | would have us believe that | want(s) us to believe that | wrongly suppose(s) that | claim(s) that | try(ies) to show that | want(s) to convince us that | insist(s) that |
+| paraphrase/summary of their argument | X caused Y. | Y because X. | because X, Y. | X, therefore Y. | based on X, Y. | X proves Y. | we must choose between X and Y. | we should/shouldn’t X, because Y might result. | X will lead to Y. | if we X, Y will happen. |
+| Sentence 2: transition to your rebuttal | Clearly, | However, | When we examine his/her/their logic, however, | The problem with this argument is that… | On closer inspection, |
+| rename the source (opponent) | he/she/they | the author/politician/advertiser etc. |
+| special verb | is/are using | is/are engaging in | falls into the trap of | is/are trying to trick us with |
+| name the fallacy/error | the __ fallacy | a manipulative appeal to __ | faulty/flawed reasoning/logic |
+| Sentence 3: explain the error | Just because X doesn’t mean Y. | There might be another factor that caused Y. | It might be true that X means Y, but this doesn’t prove it. | There is probably another explanation:Y. | X might indeed cause Y, but this evidence doesn’t prove it because… | There is no solid proof that if X, Y. | We need to show/prove/see more evidence that/substantiate the claim that Y. | In fact, there might be a better way to Y. | Of course, it may be true that X, but that doesn’t necessarily mean Y. | Although X and Y are correlated, this doesn’t necessarily mean that X causes Y. | He/she/they fail(s) to consider that… | He/she/they is/are exaggerating the effect/impact/significance of X. | While the individual example is compelling, it alone doesn’t prove Y. |
+## Licenses and attributions
+## CC Licensed Content: Original
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Some content adapted from __Evaluating Appeals to Ethos, Logos, and Pathos | English Composition I__ provided by Lumen Learning, licensed under CC-BY 4.0
+Some content adapted from __1.7: Week 7 - Rhetorical Fallacies__ in Book: Critical Thinking (Gurevich) on LibreTexts, licensed under CC-BY 4.0
+Some content adapted from Your Logical Fallacy Is, licensed under CC BY NC 4.0
+This page titled 5.7: Finding and Refuting Logical Fallacies was last modified on Sun, 09 Mar 2025 17:17:27 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

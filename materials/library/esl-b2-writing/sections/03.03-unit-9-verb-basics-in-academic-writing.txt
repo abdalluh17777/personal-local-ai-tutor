@@ -1,0 +1,272 @@
+Building Academic Writing Skills
+Unit 9 Verb Basics in Academic Writing
+Source: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-9verb-basics-in-academic-writing/
+License: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui
+
+# Unit 9 Verb Basics in Academic Writing
+**Learning Objectives**
+1. To understand what a verb is and why it is important
+2. To differentiate between “Be” verbs and “Do” verbs, action verbs and non-action verbs, helping verbs and main verbs, with their various uses though multiple examples and exercises
+3. To be aware of the twelve verb tenses and five basic verb forms
+# I. Pretest
+[Image: a cat and a dog]
+a cat and a dog
+The following ten sentences are about pets. Some verbs are bold-faced. Identify what type of verb each one is by selecting one of the two choices. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. Most pets **are** lovely.
+   Options: "Be" verb | "Do" verb
+   Answer: "Be" verb
+Q: 2. They **make** their owners happy.
+   Options: "Be" verb | "Do" verb
+   Answer: "Do" verb
+Q: 3. Many people **love** pets.
+   Options: action verb | non-action verb
+   Answer: non-action verb
+Q: 4. Many families **choose** one pet: a dog or a cat.
+   Options: action verb | non-action verb
+   Answer: action verb
+Q: 5. Some families **have** multiple pets.
+   Options: action verb | non-action verb
+   Answer: non-action verb
+Q: 6. Dogs **like** to walk outside, so they may keep their owners very busy.
+   Options: action verb | non-action verb
+   Answer: non-action verb
+Q: 7. Cats **are** also common pets.
+   Options: "Be" verb | "Do" verb
+   Answer: "Be" verb
+Q: 8. Cats **will** stay home and remain quiet most of the times.
+   Options: helping verb | main verb
+   Answer: helping verb
+Q: 9. Cats **do** not like to walk outside.
+   Options: helping verb | main verb
+   Answer: helping verb
+Q: 10. People should **take** good care of their pets.
+   Options: action verb | non-action verb
+   Answer: action verb
+# II. Definition of a Verb and Its Importance
+Each sentence in English must have a verb. **A verb** expresses an action or shows a state of existence[1].
+Why are verbs important? There are two reasons:
+1. They appear in every sentence in English.
+2. Errors in verbs cause serious misunderstanding[2].
+In order to express ideas clearly and accurately, you need to make sure:
+1. You have a basic understanding of different types of verbs. This is the purpose of this unit.
+2. A subject and its verb must match each other. For detailed information and practice, please refer to Unit 10 Subject-Verb Agreement. (*Open Unit 10 here.*)
+3. A verb tense and its verb form must match each other. There are detailed explanations and practice in verb tenses and forms from Unit 11 through Unit 14 in this book. *(Open Unit 11 Present Tenses, Unit 12 Past Tenses, Unit 13 Future Tenses, Unit 14 Mixed Tenses here.)*
+[Interactive exercise]
+♠♠ Click here to review verb use you have learned in Unit 7 Sentence Essentials.: In most sentences, the verb follows the subject. Most pets are lovely. Some families have multiple pets. A dog is running toward us. A compound verb consists of two or more verbs about the same subject. They keep their owners company and make them happy. Cats will stay home and remain quiet most of the times.
+*For detailed explanations and practice in sentence structure and punctuation, open Unit 7 here.*
+**Exercise 1.** Highlight the verbs in the following short paragraph about pet dogs. (To highlight, you position your computer curser on the verbs and right click.)
+[Interactive exercise]
+Task: .
+   Dogs are popular pets. Dogs [bark]. Dogs [run], [bark], and [protect] their owners. Some dogs [are] friendly, and some [are] ferocious. Most dogs [remain] royal to their owners. Most owners [walk] their dogs twice a day and [feed] them multiple times. To some people, it [sounds] like a lot of work!
+# III. “Be” Verbs and “Do” Verbs
+**“Be” verbs:** They look different depending on the subjects and the verb tenses. The most common ones are “am, is, are, was, were”. A “Be” verb is often followed by a noun, a pronoun, an adjective, a prepositional phrase, or an expression of age.
+1. My neighbor’s pet __is__ a rabbit. Her name __is__ Bonny. (followed by nouns)
+2. Bonny __is__ not mine. (a pronoun)
+3. Bonny’s tail __is__ short and cute. (adjectives)
+4. Bonny __is__ in a cage when my neighbor __is__ at work. (prepositional phrases)
+5. Bonny __was__ two months old when I first met her. (an age)
+**“Do” verbs:** There are many “Do” verbs: study, get, sleep, wear, have, like, think…
+Their forms also change based on the subjects and the verb tenses.
+1. Bonny __stays__ indoors most days.
+2. My neighbor __prepares__ special food for her.
+3. Sometimes I __see__ Bonnie in my neighbor’s backyard.
+4. I __played__ with her yesterday.
+5. I __hope__ that I can __play__ with her again soon.
+**A “Be” verb is NEVER followed by the base form of a “Do” verb.**
+1. Bonny __is stay__ indoors most days. X
+2. Bonny __stays__ indoors most days. √
+3. Most rabbits __are stay__ in a cage. X
+4. Most rabbits __stay__ in a cage. √
+5. I __was meet__ my neighbor’s pet rabbit for the first time last week. X
+6. I __met__ my neighbor’s pet rabbit for the first time last week. √
+# IV. Action and Non-Action Verbs
+**Action verbs:** They show the action of the subject. All action verbs are “Do” verbs.
+1. In the U.S., many pet owners __treat__ their pets as part of the family.
+2. Those pets __get__ special food and even regular medical checkups.
+3. Some of them __sleep__ in their owner’s bed.
+4. They __receive__ toys and often __wear__ festive[3] outfits[4] during holidays.
+5. Most pets __enjoy__ their good lives.
+**Non-action verbs:** They do not show actions; instead, they show emotional or mental states, five senses, possessions, and others. Non-action verbs are also called stative verbs or non-progressive verbs. “Be” verbs are non-action verbs in most cases.
+1. Pets __love__ their owners.
+2. Pets __understand__ how much they are loved.
+3. Some pets can __weigh__ over fifty pounds.
+4. Most pets __have__ animal doctors called vets.
+5. Pets __are__ our good friends.
+| **Common Non-Action Verbs** |
+| Emotional/mental state: | appreciate, believe, detest, dislike, fear, forget, hate, imagine, know, like, love, mean, mind, miss, need, prefer, remember, respect, understand, want … |
+| Five senses: | appear, feel, hear, look, see, seem, smell, taste … |
+| Possessions: | belong, contain, have, own, possess … |
+| Others: | cost, find… |
+Sometimes, the same verb can be both an action verb and a non-action verb, with different meanings and grammatical structures. Discuss the difference between the underlined verbs below.
+1. What do you __think__ of my kitten? It seems that she is always __thinking__ about playing hide and seek with me. (non-action, action)
+2. __Feel__ the fur of my kitten. It __feels__ so soft. (action, non-action)
+3. My kitten __measures__ twelve inches in length[5]. I __measure__ her every month to see how much she has grown. (non-action, action)
+4. I __see__ some red pots on the kitten’s skin. I am taking her to her vet. We are __seeing__ the vet at 3 pm this afternoon. (non-action, action)
+Non-action verbs can be used in different verb tenses except progressive tenses, but action verbs can be used in all tenses.
+1. The kitten has been napping for a long time. He looks (~~is looking~~) content[6] in his sleep.
+2. Samantha likes (~~is liking~~) kittens. She has (~~is having~~) two. Right now she is preparing their favorite snacks.
+**Exercise 2.** The following sentences are about color-blindness[7] of dogs. Some verbs are bold-faced. Highlight if each bold-faced verb is an action verb or a non-action verb. The first one is an example. When you finish the exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+[Image: a black dog with a yellow tennis ball in mouth]
+a black dog with a yellow tennis ball in mouth
+[Interactive exercise]
+Task: .
+   1. Dogs are color blind. It means that they cannot see certain colors or their differences. (action, non-action ) 2. This does not say that there are no colors in a dog’s world. ([action], non-action) 3. It means that some colors may look different to a dog. (action, [non-action]) (action, [non-action]) 4. For example, the red or green color appears grayish when a dog looks at it. (action, [non-action]) ([action], non-action) 5. However, yellow is still yellow to a dog. (action, [non-action]) 6. Some people think that the color yellow is most dogs’ favorite. (action, [non-action]) 7. These dogs may be very excited about a yellow ball, but they do not show excitement to a red ball. ([action], non-action) 8. Owners should choose their pet dog's favorite color. ([action], non-action)
+# V. Helping Verbs and Main Verbs
+**Helping verbs:** They are also called *auxiliary verbs*. These verbs “help” the **main verbs** to
+- show verb tense
+- make a negative sentence
+- ask a question
+- change the meaning or tone
+- change the voice (from active to passive or passive to active, not addressed in this course)
+Helping verbs must work with main verbs to form complete verbs. Common helping verbs include “do, does, did, have, had, had, will”.
+**helping verb + main verb = complete verb**
+1. Mohamod __has__ always __wanted__ to get his driver’s license. (helping verb “has” + main verb “wanted”)
+2. He __has prepared__ for this driver’s test for several months. (helping verb “has” + main verb “prepared”)
+3. He __does__ not __want__ to carpool with his friend every day. (helping verb “does” + main verb “want”)
+4. He hopes that he __will pass__ the road test. (helping verb “will” + main verb “pass”)
+5. __Should__ he __celebrate__ if he passes? (helping verb “should” + main verb “celebrate”)
+[Image: two people in a car]
+two people in a car
+**Modals:** Modals are a special type of helping verbs. They mainly show ability, possibility, obligation, advice, and many others. They are followed by the base form of the main verb.
+1. Every driver in the U.S. __must have__ a driver’s license. (modal/helping verb “must” + main verb “have”)
+2. __Should__ he or she __buy__ car insurance, too? (modal/helping verb “should” + main verb “buy”)
+3. Maintaining a car __can be__ expensive. (modal/helping verb “can” + main verb “be”)
+4. Life __could become__ difficult without a car. (modal/helping verb “could” + main verb “become”)
+*For detailed explanations and examples of modals, please refer to Unit 15 Modals. (Open Unit 15 here.)*
+**Exercise 3.** The following is a brief account of Jose and his car. Type the helping verb in each sentence in the appropriate boxe. The first sentence is an example. When you finish the entire exercise, you can retry or see all the answers.
+[Interactive exercise]
+Task: .
+   1. Does Jose have a car? Helping verb Does 2. Yes, but he does not use it every day. Helping verb [does] 4. Jose has had his car for two years. Helping verb [has] 5. He had relied on public transportation before he bought the car. Helping verb [had] 6. He could not go to many places at that time. Helping verb [could] 7. Now his car has provided him much convenience. Helping verb [has] 8. Jose will be happy to give you a ride. Helping verb [will] 9. According to him, friends should always help each other. Helping verb [should] 10. Understandably, he does not let anyone drive his car! Helping verb [does]
+# VI. Twelve Verb Tenses
+While verbs show actions or states of being, verb tenses indicate the **time** of those actions or states of being:
+- in the past, in the present, in the future, or from past to present
+- happened just once, happened repeatedly, or is still happening.
+There are twelve tenses in English:
+| **PAST** | **PRESENT** | **FUTURE** |
+| **SIMPLE** | I studied. | You studied. | He studied. | They studied. | I study. | You study. | He studies. | They study. | I will study. | I am going to study. | You will study. | You are going to study. | He will study. | He is going to study. | They will study. | They are going to study. |
+| **PROGRESSIVE** | I was studying. | You were studying. | He was studying. | They were studying. | I am studying. | You are studying | He is studying. | They are studying. | I will be studying. | I am going to be studying. | You will study. | You are going to study. | He will be studying. | He is going to be studying. | They will be studying. | They are going to be studying. |
+| **PERFECT** | I had studied. | You had studied. | He had studied. | They had studied. | I have studied. | You have studied. | He has studied. | They have studied. | I will have studied. | You will have studied. | He will have studied. | They will have studied. |
+| **PERFECT PROGRESSIVE** | I had been studying. | You had been studying. | He had been studying. | They had been studying. | I have been studying. | You have been studying. | He has been studying. | They have been studying. | I will have been studying. | You will have been studying. | He will have been studying. | They will have been studying. |
+In this course, you will be focusing on using eight of the above tenses in writing: simple present, present progressive, present perfect, present perfect progressive, simple past, past progressive, past perfect, and simple future tenses. You will learn the rest of the tenses in future courses.
+# VII. Five Basic Verb Forms
+In the above chart, the verb “study” appears in different forms – study, studies, am studying, had been studying, will be studying, and some others. These are called verb forms. Verbs have five basic forms:
+| **BASE** | **PRESENT** | **PRESENT PARTICIPLE** | **PAST** | **PAST PARTICIPLE** |
+| **Be** | am, is, are | being | was, were | been |
+| **Do** | do, does | doing | did | done |
+| **Have** | have, has | having | had | had |
+| **Study** | study, studies | studying | studied | studied |
+| **Move** | move, moves | moving | moved | moved |
+| **Speak** | speak, speaks | speaking | spoke | spoken |
+Always remember that a verb tense and its verb forms must match each other. There are detailed explanations and practice in verb tenses and forms from Unit 11 through Unit 14 in this book. *(Open Unit 11 Present Tenses, Unit 12 Past Tenses, Unit 13 Future Tenses, Unit 14 Mixed Tenses here.)*
+# VIII. Unit Review Practice
+**Exercise 4.** The following paragraph about leashing the dog is from a previous unit. Highlight “Be” for “Be verbs” and “Do” for “Do verbs”. The first one is an example. When you finish the exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+[Image: two dogs on leash]
+two dogs on leash
+[Interactive exercise]
+Task: .
+   Leash Your Dog! Unleashed dogs are ( "Be" verb, "Do" verb) dangerous to the enviornment, other living beings, and even to themselves. First of all, dogs do not have minds like humans'; therefore, they often do not know (Be, [Do]) what proper behavior is in public. When they are ([Be], Do) not on a leash, they can run (Be, [Do]) and step (Be, [Do]) on flowers and plants in the parks. They may also leave their waste there if their owners are unaware of it. What’s more, dogs can frighten (Be, [Do]) the pedestrians on the street. Some of them are ([Be], Do) afraid of dogs and may experience (Be, [Do]) intense fear when a dog jumps (Be, [Do]) at them. Dogs may also scare ( Be, [Do]) drivers. What if they lose control of their vehicles? Other animals like ducks and geese will also find the running and barking "strangers" threatening. Lastly, an unleased dog is ([Be], Do) a danger to himself or herself. There are ([Be], Do) many hidden holes on the roads and in the parks, and the dog can easily fall (Be, [Do]) into them and get hurt. Because dogs can also cause (Be, [Do]) traffic accidents, they may be injured as well. If there is ([Be], Do) construction nearby with heavy machinery and harmful chemicals, the consequences will be deadly to the dogs. For safety reasons, owners should always keep (Be, [Do]) their dogs on a leash in public.
+**Exercise 5.** The following is a story about two puppies in love. Some verbs are bold-faced. Select what the type of verb each one is. You will get instant feedback after each sentence. If you make a mistake, you may also retry or see the answer.
+[Image: a dog swimming]
+a dog swimming
+[Interactive exercise]
+Q: 1. A long time ago, a dog named Shiro **received** a nickname “a Puppy in Love”. The story **happened** on a small Japanese island Aka in the 1980s.
+   Options: "Do" verbs | "Be" verbs
+   Answer: "Do" verbs
+[Interactive exercise]
+Q: 2. Shiro **belonged** to Mr. and Mrs. Nakamura. He would disappear every few days. It usually happened in the morning, but he always came back at night.
+   Options: action verb | non-action verb
+   Answer: non-action verb
+[Interactive exercise]
+Q: 3. He **was** always wet when he returned. Mr. and Mrs. Nakamura **were** surprised and curious.
+   Options: "Be" verbs | "Do" verbs
+   Answer: "Be" verbs
+[Interactive exercise]
+Q: 4. Mr. Nakamura said, “I **will** find out.” One day, Mr. Nakamura followed Shiro to the beach and saw him run into the cold water.
+   Options: helping verb | main verb
+   Answer: helping verb
+[Interactive exercise]
+Q: 5. When Shiro **started** to swim, Mr. Nakamura **jumped** onto his little fishing boat and **followed** him.
+   Options: non-action verbs | action verbs
+   Answer: action verbs
+[Interactive exercise]
+Q: 6. Three hours later, Shiro **got** onto an island called Zamami and **walked** to a house.
+   Options: main verbs | helping verbs
+   Answer: main verbs
+[Interactive exercise]
+Q: 7. Another puppy was waiting for him. She **did** not leave until she saw him!
+   Options: helping verb | main verb
+   Answer: helping verb
+[Interactive exercise]
+Q: 8. It turned out that the Makamuras had lived in Zamami before they moved. The two puppies **had** become good friends then.
+   Options: helping verb | main verb
+   Answer: helping verb
+[Interactive exercise]
+Q: 9. After the Nakamuras moved, Shiro frequently **visited** his girlfriend puppy. In the evening, he **swam** back home to Aka.
+   Options: action verbs | non-action verbs
+   Answer: action verbs
+[Interactive exercise]
+Q: 10. When the public **heard** about the story, many people came to Aka and Zamami to **see** Shiro and his girlfriend puppy.
+   Options: action verbs | non-action verbs
+   Answer: non-action verbs
+[Interactive exercise]
+Q: 11. They wondered how long Shiro had to swim. They **were** very curious.
+   Options: "Be" verb | "Do" verb
+   Answer: "Be" verb
+[Interactive exercise]
+Q: 12. The ocean between the two islands **was** more than two miles long, and people **were** amazed to see the puppies in love!
+   Options: "Do" verbs | "Be" verbs
+   Answer: "Be" verbs
+**Exercise 6.** Take a paragraph you have written in this course. Exchange it with your partner’s.
+In your partner’s paragraph,
+1. single underline all the “Be” verbs.
+2. double underline all the helping verbs.
+3. circle all the non-action verbs.
+When you finish, return the paragraph to your partner. Discuss if you agree with each other on all the verbs.
+**NSNT Practice**
+[Image: a pen writing in a notebook]
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics to write a paragraph each. You may start with the NSNT approach and then rewrite it. Pay attention to the use of verbs. Be mindful of the verbs you are using: Are they main verbs or helping verbs? Action verbs or non-action verbs? “Be” verbs or “do” verbs? You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+[Image: a page in a dictionary]
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: existence -> noun, being there, being this way
+Card: misunderstanding -> noun, understand something in the wrong way
+Card: festive -> adjective, joyful, about holidays or festivals
+Card: outfit -> noun, clothing
+Card: length -> noun, the noun form of the adjective "long"
+Card: content -> adjective, happy and satisfied
+Card: restless -> adjective, upset, not calm
+Card: color-blindness -> noun, not able to see the differences in colors
+Card: rushed -> adjective, in a hurry
+Card: expand -> verb, get larger
+**Summary**
+1. A verb shows an action or a state of being and usually comes after the subject in a sentence.
+2. “Be” verbs include “am, is, are, was, were” and some others.
+3. There are many “Do” verbs such as “swim, study, eat, drive”.
+4. A “Be” verb is NEVER followed by the base form of a “Do” verb.
+5. An action verb shows the action of the subject.
+6. A non-action verb shows the state, condition, or possession of the subject. A non-action verb cannot be used in a progressive verb tense.
+7. Some verbs can be both action and non-action verbs, with a different meaning.
+8. A helping verb must be accompanied by a main verb in a sentence.
+9. There are twelve verb tenses and five basic verb forms. Each verb tense has its own verb forms. Verb tenses and verb forms must match each other in sentences.
+## Media Attributions
+- a cat and a dog © Photo by Anusha Barwa on Unsplash
+- a black dog with a yellow tennis ball in mouth © Photo by Tadeusz Lakota on Unsplash
+- two people in a car © Photo by Orkun Azap on Unsplash
+- two dogs on leash © Photo by Bundo Kim on Unsplash
+- a dog swimming © Photo by Marcia Soligo on Unsplash
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. existence: noun, being there, being this way ↵
+2. misunderstanding: noun, understand something in the wrong way ↵
+3. festive: adjective, joyful, about holidays or festivals ↵
+4. outfit: noun, clothing ↵
+5. length: noun, the noun form of the adjective "long" ↵
+6. content: adjective, happy and satisfied ↵
+7. color-blindness: noun, not able to see the differences in colors ↵

@@ -1,0 +1,88 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.3: Writing a Thesis Statement
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.03%3A_Writing_a_Thesis_Statement
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Why thesis statements are important
+A thesis statement is one sentence (or sometimes two sentences) that gives the main idea of your essay. If a friend asks us, "What are you trying to say in your essay?" the thesis should give the answer. It's like a sign that tells your readers where your essay is going. The essay itself explains, justifies, and elaborates on that thesis. Figure 2.3.1 shows a physical signpost.
+[Image: signpost that reads "path"]
+Figure : Signpost by Andrew Tarrant (CC BY NC; author via Flickr)
+Have you ever listened to or read something with a lot of examples and felt confused about the main point? That is what it is like to read an essay without a thesis statement. You get confused about how everything fits together. However, once you know the overall point a writer is trying to make you can understand how everything connects together.
+## Noticing organization
+Let's look at some sample passages and see which is easier to understand.
+Notice this!
+Which is easier to understand? Why?
+- I thought that students in the United States went to school with cheerleaders and football players like on television. On the other hand, when I met students in the US, they asked me if I rode a camel to school in Kuwait.
+- When I came to the United States, I realized that both my new classmates and I had stereotypes about each other based on limited information we had gotten in the media. I thought that students in the United States went to school with cheerleaders and football players like on television. On the other hand, when I met students in the US, they asked me if I rode a camel to school in Kuwait.
+Since the second passage contains a main idea sentence, most people will find it easier to understand.
+## Writing your thesis statement
+## Answering the prompt
+If your instructor gave you a question to respond to in your essay, the thesis will generally be the answer to that question. Other times, your assignment may be more broad and you will have to write a working thesis statement based on the ideas you have for the assignment. We call it a "working" thesis statement because you may change it again before the final draft.
+## Criteria for a strong thesis statement
+Whether you have a question to respond to or not, you will need to write your thesis statement carefully. Since your thesis statement is the "sign" that your readers will follow to understand your essay, you should take your time to carefully write and revise it. Here are some qualities of a strong thesis:
+- **Arguable:** This means that someone might disagree with it. When you are writing an essay for a college class you do not want to write something that everyone already knows and agrees with. That means that there is nothing new for you to add. In addition, your writing should not be an obvious fact.
+- **Specific:** You want your thesis statement to direct a precise argument in your paper. If it is too broad, the argument will be unclear and unfocused.
+- **Not just personal opinion:** You want your thesis to be arguable, but also want it to be something that you have enough reasons and examples that your readers will be persuaded by. If you just share a personal opinion, that will not persuade others.
+## Evaluating thesis statements
+Now, let's evaluate some thesis statements.
+Try this!
+Evaluate each thesis statement. Decide if each thesis statement is:
+- an effective thesis statement or
+- not arguable
+- not specific
+- just a personal opinion
+Some thesis statements have more than one problem.
+1. Stereotypes are bad.
+2. I think that we should overcome biases.
+3. There are benefits and drawbacks to going to another country and learning about a new culture.
+4. I don't like it when people make assumptions about me and what I can do.
+5. Overall, McRaney and her colleagues make an understandable and compelling argument for the existence of stereotype threat; the information they present is engaging, seems balanced, and helped me make sense of my own experiences.
+## Revising your thesis statement
+As you write, continue revising your thesis statements. Here are three things to focus on:
+## Check if it covers the ideas in the essay
+Your thesis will probably change as you write, so you will need to change it to reflect exactly what you have discussed in your essay. Working thesis statements often become stronger as we gather information and form new opinions and reasons for those opinions.
+## Make it more specific
+### Replace nonspecific words (ie people, everything, society, or life) with more precise words.
+- Working thesis: People should learn to recognize their biases.
+- Revised thesis: Teachers should be required to attend trainings each year to allow them to overcome their biases.
+The revised thesis is more specific and arguable.
+### Add key information
+We can ask ourselves questions about what readers will want to know.
+- Working thesis: Implicit biases lead to problems with healthcare.
+- Possible questions:
+  - What kinds of problems does unconscious bias cause?
+  - How important are these problems?
+  - What are the effects of this problem?
+- Revised thesis: Implicit bias is a major cause of inequalities in healthcare, leading to African American patients getting undertreated for illnesses and decreased life expectancy.
+### Include organization language
+A strong thesis will show your reader how the essay is organized. That will help readers to focus on and understand your argument. For example, if your essay is mainly focusing on arguing in favor of one solution to a problem, you should point that out to your readers. Table 2.2.1 presents some language that can be included in a thesis statement to signal how your essay will be organized.
+Table 2.3.1: Thesis statement language that can be used to signal different organization patterns
+| Organization feature in your essay | Signal words you can include in your thesis | Example thesis statement with signal word [in brackets] |
+| Concession | Although | While | Despite | In spite of | [In spite of] the clear problems with stereotypes, we cannot totally eliminate them from our thinking. | [Although] there are clear problems with stereotypes, it is impossible to totally eliminate them from our thinking. |
+| Solutions | we must | it is necessary to | can be overcome by | solve | solutions | Given that biases develop early in life, [it is necessary to] develop anti-bias programs for preschool children. | The problem of bias in children is serious, but it [can be partly overcome by] developing anti-bias programs for preschool children. |
+| Causes/effects | cause | effect | lead to | result in | Better education programs for police will [result in] fewer biases and improved safety for all members of the community. | A lack of explicit training about bias for police officers is a main [cause] of discriminatory police brutality. |
+## Improving thesis statements
+Now let's apply these techniques to some sample thesis statements.
+Try this!
+Here are some sample thesis statements. How can you improve them by making them more specific, adding key information, or including organization language?
+- Stereotypes are bad and keep people from seeing the real me.
+- Categorizing people is a natural function of the brain and identifying stereotypes reduces them.
+- Stereotypes are painful and lower a person’s self-esteem.
+- Education is the way to overcome biases.
+## Evaluating your own thesis statements
+Now let's apply this to your own writing:
+Apply this!
+Look at your own or a classmate's draft.
+1. Underline the thesis statement. If you can't find one, write a new thesis statement.
+2. Check the thesis statement to see if it is arguable, specific, and not just personal opinion.
+3. Try to improve the thesis statement:
+- check if it covers the whole essay
+- replace nonspecific words
+- ask key questions
+- include organization language
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Susie Naughton, Santa Barbara City College and Elizabeth Wadell, Laney College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+First 2 paragraphs of "Why Thesis Statements are Important" and the first 2 points under "Revising your thesis statement" are adapted from the page Developing a Thesis Statement in *How Arguments Work* (2nd ed) by Anna Mills. License: CC BY NC SA.
+This page titled 2.3: Writing a Thesis Statement was last modified on Sun, 09 Mar 2025 17:17:23 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

@@ -1,0 +1,203 @@
+Getting to Know You - An Intermediate Integrated-Skills Module for English Learners (Ferguson)
+1.6: Grammar: Past Tense Verbs
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.6%3A_Grammar%3A_Past_Tense_Verbs
+License: not declared; authored, remixed or curated by LibreTexts
+
+This lesson is available as a slide presentation.
+[Interactive exercise: https://docs.google.com/presentation/d/e/2PACX-1vSBCXbsU50iSTG5nua_iq5eCo9VgTdxCylM6Vos_ia8L-zrfTzX-6oFsKIGzUdsqVY6SriHYL_ie6sH/embed]
+## Simple Past and Past Continuous
+Compare these sentences. What are the verbs? How is the past tense formed in each sentence?
+- Cody Gibson studied photography in Oregon and Colorado.
+- Cody was studying photography when he decided to change his major.
+## Answers
+- In the first sentence, the verb is "studied," simple past regular verb.
+- In the second sentence, the verbs are "was studying" (past continuous) and "decided" (simple past)
+## Simple Past Form
+Regular verbs use base verb + -ed
+- EX: Decide--decided
+Irregular verbs do not follow one rule
+- EX: Find--found
+- EX: Eat--eaten
+## Past Tense Spelling for Regular Verbs (Adding -ed)
+- Most regular verbs add -ed to the infinitive form
+  - EX: Walk--walked
+- Regular verbs ending in -e just add -d
+  - EX: Like--liked
+  - EX: Receive--received
+- CVC Rule: Regular verbs ending in one stressed vowel + one consonant (except w, x, or y) double the consonant and add -ed
+  - EX: Plan--planned
+  - EX: Stop--stopped
+  - EX: Refer--referred
+  - EX: Control--controlled
+- Regular verbs ending in consonant + y change the y to i and add -ed
+  - EX: Carry--carried
+  - EX: Study--studied
+  - EX: Try--tried
+- Regular verbs ending in -c add -ked
+  - EX: Picnic--picnicked
+  - EX: Traffic--trafficked
+- Default: All other regular verbs add -ed
+  - Ending in one or more vowels (except final e)
+  - EX: Moo--mooed
+  - EX: Ski--skied
+  - Ending in two or more consonants
+  - EX: Depend--depended
+  - EX: Push--pushed
+  - EX: Start--started
+  - Ending in unstressed syllable and one consonant
+  - EX: Market--marketed
+  - EX: Number--numbered
+  - EX: Question--questioned
+  - Ending in two or more vowels + one consonant
+  - EX: Explain--explained
+  - EX: Rain--rained
+  - Ending in vowel + y
+  - EX: Enjoy--enjoyed
+  - EX: Play--played
+  - Ending in w or x
+  - EX: Show--showed
+  - EX: Tax--taxed
+## Ninety Common Irregular Verbs
+Be--was/were--been
+Beat--beat--beaten
+Become--became--become
+Begin--began--begun
+Blow--blew--blown
+Break--broke--broken
+Bring--brought--brought
+Build--built--built
+Burst--burst--burst
+Buy--bought--bought
+Catch--caught--caught
+Choose--chose--chosen
+Come--came--come
+Cost--cost--cost
+Cut--cut--cut
+Deal--dealt--dealt
+Do--did--done
+Drink--drank--drunk
+Drive--drove--driven
+Eat--ate--eaten
+Forgive--forgave--forgiven
+Freeze--froze--frozen
+Get--got--got/gotten
+Give--gave--given
+Go--went--gone
+Grow--grew--grown
+Have--had--had
+Fall--fell--fallen
+Feed--fed--fed
+Feel--felt--felt
+Fight--fought--fought
+Find--found--found
+Fly--flew--flown
+Forbid--forbade--forbidden
+Forget--forgot--forgotten
+Hear--heard--heard
+Hide--hid--hidden
+Hit--hit--hit
+Hold--held--held
+Hurt--hurt--hurt
+Keep--kept--kept
+Know--knew--known
+Lay--laid--laid
+Lead--led--led
+Leave--left--left
+Let--let--let
+Lie--lay--lain (be in horizontal position) ("lie" is regular when it means not to tell the truth)
+Lose--lost--lost
+Make--made--made
+Meet--met--met
+Pay--paid--paid
+Put--put--put
+Quit--quit--quit
+Read--read--read
+Ride--rode--ridden
+Ring--rang--rung
+Rise--rose--risen
+Run--ran--run
+Say--said--said
+See--saw--seen
+Seek--sought--sought
+Sell--sold--sold
+Send--sent--sent
+Shake--shook--shaken
+Shine--shone--shone
+Sing--sang--sung
+Sit--sat--sat
+Sleep--slept--slept
+Speak--spoke--spoken
+Spend--spent--spent
+Spring--sprang--sprung
+Stand--stood--stood
+Steal--stole--stolen
+Swim--swam--swum
+Swing--swung--swung
+Take--took--taken
+Teach--taught--taught
+Tear--tore--torn
+Tell--told--told
+Think--thought--thought
+Throw--threw--thrown
+Understand--understood--understood
+Wake--woke--woken
+Wear--wore--worn
+Win--won--won
+Write--wrote--written
+## More Irregular Verbs
+A complete list of irregular verbs may be found __here__.
+Suggested lists for learning irregular verbs may be found __here__.
+Irregular verb flashcards for practice may be found __here__.
+## Using Simple Past
+Simple past is used for any completed action(s) in the past. The action may be in the recent or distant past. It may be a single or repeated action.
+- When he was a child, Cody attended 17 different schools.
+- Last week, he got a job with his dream company.
+Which sentence talks about an action in the recent past? Which sentence talks about an action in the distant past? Which sentence talks about a repeated action? Which sentence talks about a single action?
+## Answers
+- The second sentence talks about an action in the recent past.
+- The first sentence talks about an action in the distant past.
+- The first sentence talks about a repeated action.
+- The second sentence talks about a single action.
+## Past Continuous Form
+Two ways to describe the form:
+- "Be" (past tense) + base verb + -ing
+- "Was/were" + present participle
+EX: While we were writing a thank you letter, she was sleeping.
+## Spelling Rules for Adding -ing to a Verb
+| No change | Most verbs: | Add -ing | Read--reading | Talk--talking | Say--saying | Want--wanting |
+| No change | Verbs that end in -y: | Add -ing | Study--studying | Carry--carrying | Play--playing |
+| Change | Verbs that end in -e: | Drop the -e and add -ing | Wake--waking | Make--making | Tape--taping |
+| Change | Verbs that end in -ie: | Change the -ie to -y | Die--dying | Lie--lying |
+| Change | Verbs that end in CVC (consonant, vowel, consonant), one syllable: | Double the last letter | Stop--stopping | Sit--sitting | Ban--banning |
+| Change | Verbs that end in CVC, two syllables: | If the stress is on the last syllable, double the last letter | Begin--beginning | Refer--referring | BUT | Listen--listening | Cancel--canceling |
+## Using Past Continuous
+There are two common uses for past continuous form.
+Use 1: An action in progress is interrupted by another event or time
+- EX: When you arrived, we were writing you a letter
+- EX: At 10:00 AM, she was walking around her neighborhood
+In the first sentence, which action takes longer? Which action interrupts? In the second sentence, what action was she doing when the clock said 10:00 AM?
+## Answers
+In the first sentence, it takes longer to write. Your arrival interrupted the writing. The interruption is in simple present, the longer action is in past continuous. In the second sentence, she was walking (past continuous) when the clock changed to 10:00 AM (simple past).
+Use 2: Two actions in progress at the same time.
+- EX: We were reading while the instructor was writing on the board.
+- EX: While she was walking around the neighborhood, she was getting fresh air and exercise.
+In the first sentence, which action took longer, reading or writing? In the second sentence, which action took longer, walking or getting?
+## Answers
+In the first sentence, reading and writing happened at the same time. We don't know which one took longer. In the second sentence, walking and getting fresh air happened at the same time. They both started and ended at the same time.
+## Videos
+Watch __this video__ to learn about the simple past tense.
+Watch __this video__ to learn about the difference between simple and continuous past.
+Watch __this video__ and __this video__ to learn more about the past continuous form.
+## Practice the Past Tenses
+An achievement is the act of reaching a goal. Examples of achievements include:
+- Completing a difficult class
+- Earning a degree
+- Getting a job
+- Finding an apartment
+- Saving enough money to buy a house or car
+- Raising a healthy family
+- Learning to cook a special dish
+Think of two more examples with your classmates.
+When we achieve a goal, we feel proud. Write a list of three achievements that make you feel proud.
+**Choose one achievement and write a paragraph about it. Describe all the steps you took to achieve your goal. What was difficult about achieving your goal?**
+1.6: Grammar: Past Tense Verbs is shared under a not declared license and was authored, remixed, and/or curated by LibreTexts.

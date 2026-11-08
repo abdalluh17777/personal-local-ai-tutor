@@ -1,0 +1,245 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+7.8: Verb Tenses
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/07%3A_Overview_of_English_Grammar/7.08%3A_Verb_Tenses
+License: CC BY-NC-SA; authored, remixed or curated by LibreTexts
+
+Learning Objectives
+1. Identify simple verb tenses.
+2. Recognize to be, to have, and to do verbs.
+3. Use perfect verb tenses.
+4. Apply progressive verb tenses.
+5. Define gerunds and infinitives.
+You must always use a verb in every sentence you write. Verbs are parts of speech that indicate actions or states of being. The most basic sentence structure is a subject followed by a verb.
+## Simple Verb Tenses
+Verb tenses tell the reader when the action takes place. The action could be in the past, present, or future.
+Table 
+| **Past** | **← Present →** | **Future** |
+| Yesterday I **jumped**. | Today I **jump**. | Tomorrow I **will jump**. |
+Simple present verbs are used in the following situations:
+1. When the action takes place now
+I drink the water greedily.
+2. When the action is something that happens regularly
+I always cross my fingers for good luck.
+3. When describing things that are generally true
+College tuition is very costly.
+Table : Regular Simple Present Tense Verbs
+| **Verb** | **I/You/We/They** | **He/She/It** |
+| ask | ask | asks |
+| bake | bake | bakes |
+| cook | cook | cooks |
+| cough | cough | coughs |
+| clap | clap | claps |
+| dance | dance | dances |
+| erase | erase | erases |
+| kiss | kiss | kisses |
+| push | push | pushes |
+| wash | wash | washes |
+When it is he, she, or it doing the present tense action, remember to add -s, or -es to the end of the verb or to change the y to -ies.
+Simple past verbs are used when the action has already taken place and is now finished:
+- I **washed** my uniform last night.
+- I **asked** for more pie.
+- I **coughed** loudly last night.
+Table : Regular Simple Past Tense Verbs
+| Verb | Past Tense |
+| ask | asked |
+| bake | baked |
+| cook | cooked |
+| cough | coughed |
+| clap | clapped |
+| dance | danced |
+| erase | erased |
+| kiss | kissed |
+| push | pushed |
+| wash | washed |
+When he, she, or it is doing the action in the past tense, remember to add -d or -ed to the end of regular verbs.
+Simple future verbs are used when the action has not yet taken place:
+- I **will work** late tomorrow.
+- I **will kiss** my boyfriend when I see him.
+- I **will erase** the board after class.
+Table : Regular Simple Future Tense Verbs
+| **Verb** | **Future Tense** |
+| ask | will ask |
+| bake | will bake |
+| cook | will cook |
+| cough | will cough |
+| clap | will clap |
+| dance | will dance |
+| erase | will erase |
+| kiss | will kiss |
+| push | will push |
+| wash | will wash |
+Going to can also be added to the main verb to make it future tense:
+- I am **going to** go to work tomorrow.
+Exercise :
+Complete the following sentences by selecting the correct form of the verb in simple present, simple past, or simple future tenses. Write the corrected sentence on your own sheet of paper.
+1. The Dust Bowl (is, was, will be) a name given to a period of very destructive dust storms that occurred in the United States during the 1930s.
+2. Historians today (consider, considered, will consider) The Dust Bowl to be one of the worst weather of events in American history.
+3. The Dust Bowl mostly (affects, affected, will affect) the states of Kansas, Colorado, Oklahoma, Texas, and New Mexico.
+4. Dust storms (continue, continued, will continue) to occur in these dry regions, but not to the devastating degree of the 1930s.
+5. The dust storms during The Dust Bowl (cause, caused, will cause) irreparable damage to farms and the environment for a period of several years.
+6. When early settlers (move, moved, will move) into this area, they (remove, removed, will remove) the natural prairie grasses in order to plant crops and graze their cattle.
+7. They did not (realize, realized, will realize) that the grasses kept the soil in place.
+8. There (is, was, will be) also a severe drought that (affects, affected, will affect) the region.
+9. The worst dust storm (happens, happened, will happen) on April 14, 1935, a day called Black Sunday.
+10. The Dust Bowl era finally came to end in 1939 when the rains (arrive, arrived, will arrive).
+11. Dust storms (continue, continued, will continue) to affect the region, but hopefully they will not be as destructive as the storms of the 1930s.
+Exercise :
+On a separate sheet of paper, complete the following sentences by adding the verb in the correct simple tense.
+1. Please do not (erase, erased, will erase) what I have written on the board.
+2. They (dance, danced, will dance) for hours after the party was over.
+3. Hong (wash, washed, will wash) his laundry after several weeks had passed.
+4. Yesterday Mom (ask, asked, will ask) me about my plans for college. 5. I (bake, baked, will bake) several dozen cookies for tomorrow’s bake sale.
+Exercise :
+Correct the verb tense mistakes in the following paragraph.
+Last summer, I walk around Walden Pond. Walden Pond is in Concord, Massachusetts. It is where the philosopher Henry David Thoreau will live during the mid-nineteenth century. During his time there, he wrote a book called Walden. Walden is a book of Thoreau’s reflections on the natural environment. It will be consider a classic in American literature. I did not know that Walden Pond is consider the birthplace of the environmental movement. It was very relaxing there. I will listen to birds, frogs, and crickets, not to mention the peaceful sound of the pond itself.
+## To Be, To Do, and To Have
+There are some irregular verbs in English that are formed in special ways. The most common of these are the verbs to be, to have, and to do.
+Table : Verb Forms of To Be, To Do, and To Have
+| **Base Form** | **Present Tense Form** | **Past Tense Form** | **Future Tense Form** |
+| be | am/is/are | was/were | will be |
+| do | do/does | did | will do |
+| have | have/has | had | will have |
+Tip
+Memorize the present tense forms of to be, to do, and to have. A song or rhythmic pattern will make them easier to memorize.
+Review these examples of to be, to do, and to have used in sentences.
+| **Past** | **← Present →** | **Future** |
+| **To Be** |
+| Yesterday I **was** angry. | Today I **am** not angry. | Tomorrow I **will be** angry. |
+| **To Do** |
+| I **did** my best yesterday. | I **do** my best every day. | Tomorrow I **will do** my best. |
+| **To Have** |
+| Yesterday I **had** ten dollars. | Today I **have** ten dollars. | Tomorrow I **will have** ten dollars. |
+Remember the following uses of to be, to have and to do:
+**To Be**
+- I → am/was/will be
+- you/we/they → are/were/will be
+- he/she/it → is/was/will be
+**To Have**
+- I/you/we/they → have/had/will have
+- he/she/it → has/had/will have
+**To Do**
+- I/you/we/they → do/did/will do
+- he/she/it → does/did/will do
+Tip
+Remember, if you have a compound subject like Marie and Jennifer, think of the subject as they to determine the correct verb form.
+- Maria and Luis (they) have a house on Bainbridge Island.
+Similarly, single names can be thought of as he, she, or it.
+- LeBron (he) has scored thirty points so far.
+Exercise :
+On a separate sheet of paper, complete the following sentences by circling the correct form of the verbs to be, to have, and to do in the three simple tenses.
+1. Stefano always (do, does, will do) his taxes the day before they are due.
+2. We (are, is, was) planning a surprise birthday party for my mother.
+3. Turtles (have, had, has) the most beautiful patterns on their shells.
+4. I always (do, did, will do) my homework before dinner, so I can eat in peace.
+5. You (is, are, was) so much smarter than you think!
+## Perfect Verb Tenses
+Up to this point, we have covered the three simple verb tenses—simple present, simple past, and simple future. Now we will add three more tenses, which are called perfect tenses. They are present perfect, past perfect, and future perfect. These are the three basic tenses of English. A past participle is often called the -ed form of a verb because it is formed by adding -d or -ed to the base form of regular verbs. Past participles can also end in -t or -en. Keep in mind, however, the past participle is also formed in various other ways for irregular verbs. The past participle can be used to form the present perfect tense.
+The present perfect tense has a connection with the past and the present.
+[Image: 7.8.1.png]
+Figure 
+Use the present perfect tense to describe a continuing situation and to describe an action that has just happened.
+- I **have worked** as a caretaker since June.
+This sentence tells us that the subject has worked as a caretaker in the past and is still working as a caretaker in the present.
+- Dmitri **has** just **received** an award from the Dean of Students.
+This sentence tells us that Dmitri has very recently received the award. The word just emphasizes that the action happened very recently.
+Study the following basic formula for the past perfect tense:
+**Subject + had or have + past participle**
+[Image: 7.8.2.png]
+Figure 
+- The bus **had left** by the time Theo **arrived** at the station.
+Notice that both actions occurred entirely in the past, but one action occurred before the other. At some time in the past, Theo arrived (simple past tense) at the station, but at some time before that, the bus had left (past perfect).
+Look at the following basic formula for the future perfect tense:
+**Subject + will have + past participle**
+[Image: 7.8.3.png]
+Figure 
+The future perfect tense describes an action from the past in the future, as if the past event has already occurred. Use the future perfect tense when you anticipate completing an event in the future, but you have not completed it yet.
+- You **will have forgotten** me after you **move** to London.
+Notice that both actions occur in the future, but one action will occur before the other. At some time in the future, the subject (you) will move (future tense) to London, and at some time after that, the subject will have forgotten (future perfect tense) the speaker, me.
+Exercise :
+On a separate sheet of paper, complete the following sentences by using the correct perfect verb tense for the verb in parentheses.
+1. I plan to start a compost bin because I ________ (to want) one for a long time now.
+2. My brother told me he ________ (to argue) with his friend about politics.
+3. By the time we reach the mountain top the sun ________ (to set).
+4. Beza ________ (to walk) several miles in the past three hours.
+5. His mother ________ (to offer) to pay him to work in her office.
+## Progressive Verb Tenses
+Progressive verb tenses describe a continuing or unfinished action, such as I am going, I was going, or I will be going.
+The present progressive tense describes an action or state of being that takes place in the present and that continues to take place.
+To make verbs in the present progressive tense, combine these two parts:
+Present tense form of to be + -ing (present participle)
+You should use the present progressive tense to describe a planned activity, to describe an activity that is recurring right now, and to describe an activity that is in progress, although not actually occurring at the time of speaking:
+- Preeti **is starting** school on Tuesday.
+This sentence describes a planned activity.
+- Janetta **is getting** her teeth cleaned right now.
+This sentence describes an activity that is occurring right now.
+- I **am studying** ballet at school.
+This sentence describes an activity that is in progress but not actually occurring at the time of speaking.
+The past progressive tense describes an action or state of being that took place in the past and that continues to take place.
+To make verbs in the past progressive tense, combine these two parts:
+**Past tense form of to be + -ing (present participle)**
+You should use the past progressive tense to describe a continuous action in the past, to describe a past activity in progress while another activity occurred, or to describe two past activities in progress at the same time:
+- Elena and I **were planning** a vacation.
+This sentence describes a continuous action in the past.
+- I **was helping** a customer when I smelled delicious fried chicken.
+This sentence describes a past activity in progress while another activity occurred.
+- While I **was finishing** my homework, my wife **was talking** on the phone.
+This sentence describes two past activities in progress at the same time.
+The future progressive tense describes an action or state of being that will take place in the future and that will continue to take place. The action will have started at that future moment, but it will not have finished at that moment.
+To make verbs in the future progressive tense, combine these parts:
+**Future tense form of to be + -ing (present participle)**
+Use the future progressive tense to describe an activity that will be in progress in the future:
+- Samantha and I will be dancing in the school play next week.
+- Tomorrow Anita will be reading two of her poems.
+Exercise :
+On a separate sheet of paper, revise the following sentences, written in simple tenses, using the progressive tenses indicated in parentheses.
+1. He prepared the food while I watched. (past progressive tense)
+2. Yusuf Mohammed will speak at the conference. (future progressive)
+3. Josie traveled to Egypt last July. (past progressive tense)
+4. My foot aches, so I know it will rain. (present progressive tense)
+5. Micah will talk a lot when I see him. (future progressive)
+6. I yawn a lot because I feel tired. (present progressive tense)
+Similar to the present perfect tense, the present perfect progressive tense is used to indicate an action that was begun in the past and continues into the present. However, the present perfect progressive is used when you want to stress that the action is ongoing.
+To make verbs in the present perfect progressive tense, combine the following parts: Present tense
+**form of to have + been + -ing (present participle)**
+- She **has been talking** for the last hour.
+This sentence indicates that she started talking in the past and is continuing to talk in the present.
+- I **have been feeling** tired lately.
+This sentence indicates that I started feeling tired in the past, and I continue to feel tired in the present. Instead of indicating time, as in the first sentence, the second sentence uses the adverb lately. You can also use the adverb recently when using the present perfect progressive tense.
+Similar to the past perfect tense, the past perfect progressive tense is used to indicate an action that was begun in the past and continued until another time in the past. The past perfect progressive does not continue into the present but stops at a designated moment in the past.
+To make verbs in the past perfect progressive tense, combine the following parts:
+**Past tense form of to have + been + -ing (present participle)**
+- The employees **had been talking** until their boss arrived.
+This sentence indicates that the employees were talking in the past and they stopped talking when their boss arrived, which also happened in the past.
+- I **had been working** all day. This sentence implies that I was working in the past.
+The action does not continue into the future, and the sentence implies that the subject stopped working for unstated reasons.
+The future perfect progressive tense is rarely used. It is used to indicate an action that will begin in the future and will continue until another time in the future.
+To make verbs in the future perfect progressive tense, combine the following parts:
+**Future tense form of to have + been + -ing (present participle)**
+- By the end of the meeting, I **will have been hearing** about mortgages and taxes for eight hours.
+This sentence indicates that in the future I will hear about mortgages and taxes for eight hours, but it has not happened yet. It also indicates the action of hearing will continue until the end of the meeting, something that is also in the future.
+## Maintaining Consistent Verb Tense
+Consistent verb tense means the same verb tense is used throughout a sentence or a paragraph. As you write and revise, it is important to use the same verb tense consistently and to avoid shifting from one tense to another unless there is a good reason for the tense shift. In the following box, see whether you notice the difference between a sentence with consistent tense and one with inconsistent tense.
+[Image: 7.8.4.png]
+Figure 
+Tip
+In some cases, clear communication will call for different tenses. Look at the following example:
+[Image: 7.8.5.png]
+Figure 
+If the time frame for each action or state is different, a tense shift is appropriate.
+Exercise :
+Edit the following paragraph by correcting the inconsistent verb tense. Copy the corrected paragraph onto your own sheet of paper.
+In the Middle Ages, most people lived in villages and work as agricultural laborers, or peasants. Every village has a “lord,” and the peasants worked on his land. Much of what they produce go to the lord and his family. What little food was leftover goes to support the peasants’ families. In return for their labor, the lord offers them protection. A peasant’s day usually began before sunrise and involves long hours of backbreaking work, which includes plowing the land, planting seeds, and cutting crops for harvesting. The working life of a peasant in the Middle Ages is usually demanding and exhausting.
+Writers at Work
+Read the following excerpt from an e-mail:
+[Image: 7.8.6.png]
+Figure 
+The inconsistent tense in the e-mail will very likely distract the reader from its overall point. Most likely, your coworkers will not correct your verb tenses or call attention to grammatical errors, but it is important to keep in mind that errors such as these do have a subtle negative impact in how you present yourself in public.
+Key Takeaways
+- Verb tenses tell the reader when the action takes place.
+- Actions could be in the past, present, or future.
+- There are some irregular verbs in English that are formed in special ways. The most common of these irregular verbs are the verbs to be, to have, and to do.
+- There are six main verb tenses in English: simple present, simple past, simple future, present perfect, past perfect, and future perfect.
+- It is important to maintain consistent verb tense in a text and insert time markers when you are changing tenses.
+Writing Application
+Write about a lively event that is either remembered or imagined. Ask yourself the following three questions: What happened during the event? What happened after the event? Looking back, what do you think of the event now? Answer each question in a separate paragraph to keep the present, past, and future tense verbs separate.
+7.8: Verb Tenses is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by LibreTexts.

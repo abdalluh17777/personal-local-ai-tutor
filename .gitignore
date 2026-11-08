@@ -1,0 +1,23 @@
+# --- Downloaded or built by the installer (scripts/setup.ps1) -----------------------------------------
+tools/
+cache/
+models/*
+!models/Modelfile.tutor
+.venv/
+workers/arabic_tts/.venv/
+
+# --- Personal data: your database, chats, memories and logs never leave your computer ----------------
+data/
+logs/
+
+# --- Python ------------------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# --- OS and editors ----------------------------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

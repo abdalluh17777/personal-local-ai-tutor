@@ -1,0 +1,48 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+2.10: Demonstrative Adjectives + Summary Nouns
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/02%3A_Organization_and_Cohesion/2.10%3A_Demonstrative_Pronouns__Summary_Nouns
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## Demonstrative adjectives + summary nouns
+We have looked at how demonstrative pronouns (especially "this") can increase cohesion by pointing backwards to earlier ideas. Let's look at another way that "this", "that",and "these" can be used to increase cohesion. Here, we will look at how they are demonstrative *adjectives* that describe nouns instead of pronouns that replace them. In this page, examples of demonstrative adjectives and summary nouns are in bold.
+## Discovering demonstrative adjectives and summary nouns
+Let's look at some published academic writing.
+Notice this!
+Here are some paragraphs from a published research paper by Kathleen N. Smith and Joy Gaston Gayles on implicit bias affects women who study engineering. It gives definitions of "implicit bias" and "sexual harassment". As you read, pay attention to the words in **[brackets]**.
+### Reading a published research paper: "Gendered Academic and Workplace Experiences of College Women in Engineering"
+Implicit bias refers to subconscious attitudes that inform how we they think and behave towards others (Greenwald and Banaji 1995; Greenwald and Krieger 2006). From an early age, people are exposed to stereotypes and preconceived judgments about various groups of people and, over time, **[these perspectives]** lead to unfair judgments. A major problem is that the information we learn about different groups of people is often inaccurate and/or incomplete (Tatum 1997). Moreover, our judgments and perceptions about people unlike ourselves shape how we behave towards people who are different from us (Greenwald and Banaji 1995; Heilman 2012).
+Sexual harassment refers to direct or indirect sexual conduct that is not welcomed. Unwanted sexual advances, physical contact, sex-based teasing, insults, and inappropriate comments create a hostile environment. Unfortunately, sexual harassment is widespread in science and engineering fields, with over half of women in **[these fields]** reporting incidences (Hewlett et al. 2014). Even with the high instance rate of sexual harassment reports, research shows that some women do not report sexual harassment when it happens (Hunter 2006). Instead, women tend to cope by ignoring sexual harassment or, worse, seeing it as a part of the job and not reporting it in order to maintain good working relationships with their colleagues (Chamberlain et al. 2008; McLaughlin et al. 2012; Stainback et al. 2011).
+While each form of bias is connected to different types of perceptions and behaviors, all have directly negative implications for women’s success and persistence in engineering fields. Research discussed below provides insight into how **[these concepts]** relate to women in engineering workplace and academic settings.
+The phrases indicated by brackets have two parts: the word **"these"** (a plural demonstrative adjectives for things that are close) followed by a **summary noun** ("perspectives", "fields", and "concepts"). Let's look at them in more detail and also discover what the summary nouns are referring to.
+- From an early age, people are exposed to *stereotypes and preconceived judgments about various groups of people* and, over time, **[these perspectives]** lead to unfair judgments.
+  - In the above sentence, "these perspectives" summarizes "stereotypes and preconceived judgments about various groups of people."
+- Unfortunately, sexual harassment is widespread in *science and engineering fields,* with over half of women in [**t**hese fields] reporting incidences (Hewlett et al. 2014).
+  - In the above sentence, "these fields" summarizes "science and engineering fields."
+- While *each form of bias* is connected to different types of perceptions and behaviors, all have directly negative implications for women’s success and persistence in engineering fields. Research discussed below provides insight into how **[these concepts]** relate to women in engineering workplace and academic settings.
+  - In the above pair of sentences, "these concepts" summarizes "each form of bias" in the previous sentence.
+  - "Each form of bias" referred to the two forms discussed earlier: implicit bias and sexual harassment.
+Here, the demonstrative noun points backwards to an idea mentioned earlier, and the noun takes a complex idea discussed earlier and summarizes into one little noun. This strategy increases cohesion by constantly reminding the reader of what happened before in a concise way.
+## Summary nouns in academic writing
+Using a demonstrative plus a summary noun is a very effective way of connecting complex ideas. Table 2.10.1 shows some common summary nouns you can use.
+Table 2.10.1: Common summary nouns and example sentences
+| demonstrative adjective + summary noun | example sentences |
+| this advantage | these advantages | People from the dominant culture may experience less harmful stereotypes. **This advantage** allows them to ignore the effects of stereotypes. |
+| this belief | these beliefs | Stereotypes are common, and **these beliefs** lead to real world harm. |
+| this cause | these causes | To some up, we learn stereotypes from the family and from the media. We should work to reduce **these causes** through education. |
+| this concept | these concepts | Implicit bias refers to unconscious ideas about groups of people. **This concept** can explain some of the challenges faced by women in the engineering field. |
+| this experience | these experiences | I realized that I had made a wrong judgement in both situations. **These experiences** led me to reflect on my own biases. |
+| this issue | these issues | Stereotypes can have negative impacts on people. **This issue** is even more concerning because some people experience multiple stereotypes. For example, Black women in engineering face stereotypes based on their race and their gender. |
+| this problem | these problems | Stereotypes are common. It would be difficult to eliminate **this problem**, but that does not mean we should not try. |
+| this situation | these situations | I first noticed the "single story" when I was an exchange student. As a result of **this situation**, I began to think more about how stereotypes affect us. |
+## Adding demonstrative adjectives + summary nouns for cohesion
+Let's work on increasing cohesion between sentences by adding a demonstrative adjective and a summary noun.
+Try this
+Increase the cohesion in this paragraph by adding a demonstrative adjective plus a summary noun from Table 2.6.3.1.
+One of the main reasons that stereotypes are hard to erase is that they are often due to implicit bias. Implicit biases are ones that we do not recognize we have, and that may even be against our own conscious ideas about groups. We learn ideas about groups early in life from our families, education, and the media. It is important to analyze how the media portrays different groups so that biases don't continue to spread.
+## Works Cited
+Smith, Kathleen N., and Joy Gaston Gayles. “‘Girl Power’: Gendered Academic and Workplace Experiences of College Women in Engineering.” *Social Sciences* 7.1 (2018): 11. *Crossref*. Web.
+## Licenses and Attributions
+Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Three paragraphs in "read this" are adapted from “Girl Power”: Gendered Academic and Workplace Experiences of College Women in Engineering" by Kathleen N. Smith and Joy Gasten Gales. License: CC BY.
+This page titled 2.10: Demonstrative Adjectives + Summary Nouns was last modified on Fri, 22 Aug 2025 18:54:42 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

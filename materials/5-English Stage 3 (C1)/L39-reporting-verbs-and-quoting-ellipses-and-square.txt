@@ -1,0 +1,201 @@
+Lesson 39 material: Reporting Verbs and Quoting: Ellipses and Square Brackets
+English Stage 3 (C1) · Unit 4: Research and Evidence
+
+=== 4.10: Language Toolkit ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.10%3A_Language_Toolkit
+
+## Reporting Verbs
+Also see 4.7: Introducing and Explaining Evidence for a list of reporting words organized by meaning.
+Different reporting words have special meanings that communicate what type of idea the source said and how it is related to other ideas. If we read that someone "argues...," we know that an opinion is coming. If we read that someone "reports...," we are ready for a fact. If we read that someone "acknowledges...," we are ready for a concession.
+## Reporting word grammar patterns
+Different reporting words also follow different grammar patterns. This resource divides them into five pattern types:
+- verb + a complete idea
+- verb + a noun phrase or certain similar structures
+- verb + either of the above patterns
+- verb + special collocations (certain words that always go with them)
+- according to (this one is so important, it gets its own category)
+### Verb + complete idea
+Many reporting words follow the first pattern: verb + that + subject + verb + complement (if any). In other words, you must use a noun clause to report the complete idea that the source said.
+- He asserts that bilingualism is valuable.
+- She warns that this law will have terrible consequences.
+With some reporting verbs, you can choose whether to use "that" after the verb. If “that” is in parentheses in the first column of Table 4.10.1, then you can leave it out. (For example, you can say: "Gonzalez says *that* bilingualism is gold" *or* you can say: Gonzalez says bilingualism is gold.") Using “that” when it is optional usually makes your sentence sound more formal. In Table 4.10.1, if “that” is *not* in parentheses, you should include it to follow academic writing customs.
+You can use any of the expressions listed here to report either indirect or direct quotations. To report a direct quote, omit *that*. You can put the reporting word before the quotation, embedded after the subject of the first sentence in the quotation, or after the quotation. Notice the patterns for capital letters and commas.
+Sometimes you will also see another punctuation pattern with a colon (:) after the reporting expression. You can use this when the introduction phrase is an independent clause with a subject and verb (and possibly object).
+- Nguyen proposes, "The city should adopt harm reduction approaches."
+- Nguyen proposes a different idea: "The city should adopt harm reduction approaches."
+In the second sentence, there is an independent clause ("Nguyen proposes a different idea") so you can introduce the quotation with just a colon.
+Table 4.10.1 provides reporting words that use the verb + complete idea pattern.
+Table 4.10.1: Reporting words that come before a complete idea
+| **reporting word(s)** | **special meaning (flavor of “says”)** | **example** |
+| **agrees** (that) + SVC | expresses the same opinion as someone else | Le agrees with Smith that drugs should be decriminalized. |
+| **argues** that + SVC | states that something is true, should be done, etc. | Le argues that drugs should be decriminalized. |
+| **asserts** (that) + SVC | states firmly that something is true | Le asserts that drugs should be decriminalized. |
+| **believes** (that) + SVC | is sure something is true (be careful with this one, because it’s more a statement of what the author thinks than what they say, and we can’t read their minds, only their words.) | Le believes that drugs should be decriminalized. |
+| **cautions** that + SVC | warns, tells about something bad that might happen | Le cautions that if drugs are not decriminalized, more violence will result. |
+| **claims** (that) + SVC | states that something is true, especially if there is little proof, if it is a new idea, or if there is controversy – if you use “claims” to report someone else’s opinion, you probably doubt that they are right | Opponents claim that drug use will increase with decriminalization. |
+| **concludes** that + SVC | decides that something is true after considering all the information | Le concludes that despite the risks, decriminalization of drugs is the best public health policy. |
+| **insists** (that) + SVC | says firmly and often that something is true, especially when other people think it may not be true | Le insists that decriminalization of drugs will not result in rampant abuse. |
+| **notes** that + SVC | notices or pays careful attention to something (often something that is important but not the main idea) | Le notes that the end of Prohibition did not result in greater alcohol abuse. |
+| **reports** that + SVC | gives information about events, facts, or what someone else said | Le reports that in Portugal, where drug use is not criminalized, overdose rates are lower. |
+| **says** (that) + SVC | expresses an idea, even in writing | Le says that many police departments are resistant to decriminalization. |
+| **speculates** that + SVC | guesses about the possible causes or effects of something without knowing all the facts or details (often used to make a prediction about the future) | Le speculates that the initial transition period might be difficult. |
+| **states** that + SVC | says, but more formal | Le states that decriminalization would benefit public health as well as reduce crime. |
+| **thinks** (that) + SVC | has an opinion (not the most accurate because of the same reason above with “believes.”) | Le thinks that decriminalization is the best approach. |
+### Verb + noun phrase, etc.
+Some follow a different pattern: verb + NP (NP = noun phrase: noun and things attached to it, but not a complete sentence). Note: some of these can be followed by a noun clause that starts with “how,” or “whether” but not a noun clause beginning with “that,” and many can use a gerund (verb-**ing**) in place of the noun phrase.
+- The author questions the motives behind English-only policies .
+- She criticizes the new law.
+- She asks *whether he is prepared.*
+- She questions *how well he prepared.*
+After the noun, to add more information, you can use connectors like “the fact that” or “with” or add an adj clause that wraps in another complete idea **while not making the noun into the subject of a sentence**:
+- The author examines the **flaws** *in a study that claims to link immunizations to autism*.
+- The author describes an **experiment** *that tested methods of memorization.*
+- The author discusses the **barriers** *for immigrants who cannot return to their prior professions.*
+- The author considers **problems** *with the current infrastructure for utilizing solar energy*.
+Table 4.10.2 provides reporting words that attach a noun phrase (or a noun clause starting with "how" or "whether")
+Table 4.10.2: Reporting Words that attach a noun phrase etc.
+| **reporting word(s)** | **special meaning (flavor of “says”)** | **example** |
+| **challenges** + NP | argues against; tests; refuses to believe | Ruiz challenges the assumption that decriminalization encourages drug use. |
+| **considers** + NP | thinks about carefully; discusses | Ruiz considers the health and legal aspects of decriminalization. |
+| **criticizes** + NP | says why something is bad or wrong | Ruiz criticizes the policy of imprisoning nonviolent drug offenders. |
+| **describes** + NP | says what something/someone is like by giving details, often specific or sensory details | Ruiz describes a clinic in Vancouver that provides clean needles to addicts. |
+| **discusses** + NP | talks about the different parts/sides of something | Ruiz discusses the health and legal aspects of decriminalization. |
+| **examines** + NP | studies closely; discusses | Ruiz examines the health and legal aspects of decriminalization. |
+| **investigates** + NP | tries to find out more about something; discusses | Ruiz investigates the health and legal aspects of decriminalization. |
+| **refers to** + NP | mentions or speaks about someone else or someone else’s text | Ruiz refers to a 2009 study of prison populations and drug convictions. |
+| **summarizes** + NP | makes a short statement giving only the main information and not the details of a plan, event, report etc. | Ruiz summarizes the policies of six nations that have successfully decriminalized drugs. |
+### Verb + complete idea or noun phrase, etc.
+Some reporting words, such as those in Table 4.10.3, can follow more than one pattern (you can say verb + that + SVC OR verb + NP):
+4.10.3: Reporting Words that attach either a complete idea or a noun phrase etc.
+| **reporting word(s)** | **special meaning (flavor of “says”)** | **example** |
+| **acknowledges** (**that)** + SVC | **acknowledges** + NP | admits or accepts that something is true, especially something that is unpleasant or that supports the opposite of the author’s argument | Kaur acknowledges that the new policy has some risks. | Kaur acknowledges some risks of the new policy. |
+| **adds that** + SVC | **adds** + NP | says another thing or adds to an existing conversation/argument | Kaur adds that rehabilitation programs are underfunded. | Kaur adds another benefit of decriminalization: there will be more money for rehabilitation programs. |
+| **admits** (**that)** + SVC | **admits** + NP | agrees unwillingly that something is true or that someone else is right about something | The authors admit that the study design isn’t perfect. | The authors admit mistakes in the study design. |
+| **comments that** + SVC | **comments on** + NP | adds their opinion to a subject, idea, or plan | Kaur comments that a new therapy has been more successful in treating addiction. | Kaur comments on a new therapy that has been more successful in treating addiction. |
+| **explains that** + SVC | **explains** + NP | tells about something in a way that makes it more clear | Kaur explains that the new therapy combines medical treatment with social support. | Kaur explains a new therapy that combines medical treatment with social support. |
+| **indicates that** + SVC | **indicates** + NP | points to (this is often used with something besides a person as the subject: the study indicates… evidence indicates…) | Recent figures indicate that over half of prison inmates are locked up for drug offenses. | Research indicates another possible solution to the problem. |
+| **maintains that** + SVC | **maintains** + NP | states firmly that something is true | Kaur maintains that decriminalization is the best strategy. | Kaur maintains her position that decriminalization is the best strategy. |
+| **mentions that** + SVC | **mentions** + NP | says something that is not a main idea, sometimes while talking about another topic | Kaur mentions that prescription drug abuse is another related problem that cannot be ignored. | Kaur mentions prescription drug abuse, another related problem that cannot be ignored. |
+| **points out that** + SVC | **points out** + NP | tells something that may not be obvious or that people might not know | Kim points out that crime has not increased in Colorado since marijuana was legalized. | Kim points out stable crime rates in states where marijuana has been legalized. |
+| **proposes that** + SVC | **proposes** + NP (often verb-ing) | tells an idea of what people should do | Kim proposes that the government should combine regulation with treatment. | Kim proposes a combination of regulation and treatment. |
+| **remembers that** + SVC | **remembers +** NP (often verb-ing) | remembers a story or event | Kim remembers that the guards seemed depressed. | Kim remembers visiting a high-security prison for the first time. |
+| **recalls that** + SVC | **recalls** + NP (often verb-ing) | remembers or tells the story of an event | Kim recalls that the guards seemed depressed. | Kim recalls meeting a guard who seemed depressed. |
+| **regrets that** + SVC | **regrets** + NP (often verb-ing) | wishes they hadn’t done something | The inmate regrets that she lost custody of her child. | The inmate regrets losing custody of her child. |
+| **suggests** (that) + SVC | **suggests** + NP (often verb-ing) | tells an idea of what people should do OR (more common in academic texts) indicates, points to, or supports an idea that is not 100% sure | Many recent studies suggest that drug addicts are not deterred by the threat of arrest. | Kim suggests that governments should decriminalize drug use. | Kim suggests decriminalizing drug use. |
+## Verb + special pattern
+Some reporting words follow different patterns, such as those in Table 4.10.4:
+Table 4.10.4: Reporting Words with Special Patterns
+| **reporting word(s)** | **special meaning (flavor of “says”)** | **example** |
+| **asks if/whether** + SVC | **asks about** + NP | **asks why** + SVC | has a question about something; stronger than *wonders* but more neutral than *questions* | Kim asks if spending more on prevention would be more effective. | Kim asks about the efficacy of prosecuting drug users. | Kim asks why current policies continue, despite evidence that they are not working. |
+| **questions** + NP | **questions if/whether** + SVC | argues against; tests; refuses to believe; expresses doubts (note how this is different from the regular conversational meaning) | Kim questions current policies. | Kim questions whether current policies are working. |
+| **recommends that** + SVC, *verb in base form* | **recommends** + NP (often verb-ing) | tells an idea of what people should do | Kim recommends that governments focus on treatment, not punishment. | Kim recommends focusing on treatment, not punishment. |
+| **writes that** + SVC | **writes about** + NP (often verb-ing) | neutral, just like "says" | Kim writes that the effects of criminalizing drugs are worse than the effects of drug abuse. | Kim writes about the effects of criminalization. |
+| **wonders if/whether** + SVC | **wonders about** + NP | **wonders why** + SVC | has a question about something; guesses; thinks that something may be true | Kim wonders if spending more on prevention would be more effective. | Kim wonders about the efficacy of prosecuting drug users. | Kim wonders why current policies continue, despite evidence that they are not working. |
+| **according to** + someone, SVC | this means they said, is totally neutral, and works as a prepositional phrase – do not also use another reporting expression for the same idea. | According to Kim, decriminalization is the first step toward solving the drug crisis. |
+### According to
+"According to" is not a verb, but a prepositional phrase. It means the same as "they said," is totally neutral, and is always followed by the person (or organization, or text, etc.) who said the thing.
+- According to Kim, decriminalization is the first step toward solving the drug crisis.
+- Decriminalization is the first step toward solving the drug crisis, according to Kim.
+- Harm reduction, according to a recent meta-analysis of over 70 studies, is the best strategy.
+Caution: do not also use a verb for the same job in the sentence.
+- No: According to Kim, he argues that decriminalization is the first step toward solving the drug crisis.
+- No: According to Kim argues that decriminalization is the first step toward solving the drug crisis.
+- Yes: According to Kim, decriminalization is the first step toward solving the drug crisis.
+- Yes: Kim argues that decriminalization is the first step toward solving the drug crisis.
+## Using ellipses and square brackets to make quotations more clear
+## Ellipses
+Sometimes when you quote from another text, you want to make your quotation shorter and simpler by leaving out some words or phrases. You can do this by using ellipses, which are three periods with a space between them (. . .).
+Let's look at an example:
+“Notably, far too many of the children with the greatest potential to become good bilinguals – the children of immigrants – lose fluency in their parents’ language. It’s estimated that by the third generation, immigrants have completely lost fluency in their heritage languages” (Snow).
+Some things in this sentence are repetitive, and you can leave them out. However, you must use ellipses to show that you have done this:
+“Notably, far too many . . . children of immigrants . . . lose fluency in their parents’ language. . . . By the third generation, immigrants have completely lost fluency in their heritage languages” (Snow).
+Be careful! When you use an ellipse, do not change the meaning of the original text. In the following quotation, too much text has been left out, and the meaning is not the same.
+"Notably, . . . children with the greatest potential . . . have completely lost fluency in their heritage languages” (Snow).
+Also, if you are using ellipses, check that *your own* sentence is grammatically correct and makes sense. In the following quotation, important grammar and function words have been left out and the sentence no longer makes sense.
+"Notably, far too many of the children with the greatest potential to become good bilinguals . . . fluency in their parents’ language. It’s estimated that . . . have completely lost fluency in their heritage languages” (Snow).
+## Square brackets
+Sometimes the grammar in a quotation from a source does not fit with the grammar in your own sentence. In this case you can use square brackets [like this] to show that something in the original text has been changed. For example, consider this quotation, which describes research that was done by psycholinguist Susan Ervin-Tripp:
+According to Vince, "In the 1960s, one of the pioneers of psycholinguistics, Susan Ervin-Tripp, tested Japanese–English bilingual women, asking them to finish sentences in each language. She found that the women ended the sentences very differently depending on which language was used."
+Although the quotation makes sense in a larger paragraph, it is not clear in the second sentence alone who "she" is, who "the women" are, and what "the sentences" are. If you wanted to use this sentence in your essay, you could use square brackets to clarify that information.
+According to Vince, psycholinguist Susan Ervin-Tripp "found that women [who were bilingual in English and Japanese] ended the sentences [which researchers gave them to complete] very differently depending on which language was used."
+Notice that "she" was also replaced by Ervin-Tripp's name. Because this is before the quotation marks, square brackets are not used. If you want to change a word at the beginning of the quotation, just start the quotation later.
+Be careful! Don’t change the meaning of the original text when you use brackets. In the following example, the words in brackets change the meaning into something different. This is not acceptable.
+According to Vince, "In the 1960s, one of the pioneers of psycholinguistics, Susan Ervin-Tripp, tested Japanese–English bilingual women, asking them [whether or not] to finish sentences in each language."
+## Checking your understanding of ellipses and square brackets
+Let's see if you can identify which examples of ellipses and square brackets are correct.
+Try this!
+Here are three quotations from the article "The True Failure of Foreign Language Instruction" by Catherine Snow. Decide if each example uses square brackets and/or ellipses correctly.
+1. In fact, "In [Snow's] view, it’s ironic that we have students walking up staircases at one end of their school building to attend Spanish foreign language classes while at the other end of the same building native Spanish speakers are being taught English and content in ways that lead to their loss of Spanish" (Snow).
+2. In fact, "it’s ironic that we have students walking up staircases at one end of their school building to attend Spanish foreign language classes . . . being taught English and content in ways that lead to their loss of Spanish" (Snow).
+3. Snow writes, "native Spanish speakers are being taught English and content in [order to] . . . lead to their loss of Spanish" (Snow).
+(To see the answer, check 4.12: Integrating Evidence Answer Key)
+## Works Cited
+Snow, Catherine. “The True Failure of Foreign Language Instruction.” *The Conversation*, 24 Mar. 2021.
+Vince, Gaia. "Why Being Bilingual Helps Keep Your Brain Fit." *Mosaic*, Aug. 2016, mosaicscience.com/bilingual-brains/.
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Anne Agard and Elizabeth Wadell, Laney College, and Gabriel Winer, Berkeley City College. License: CC BY NC.
+
+Links on this section's web page:
+- “The True Failure of Foreign Language Instruction.”: https://theconversation.com/the-true-failure-of-foreign-language-instruction-80352
+
+=== 4.11: Takeaways ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.11%3A_Takeaways
+
+## **Summary**
+In this chapter, you learned how to
+- use evidence to support claims
+- decide when you need a citation for evidence
+- work carefully from sources to join a "conversation" with published writers
+- introduce evidence with reporting words and context
+- avoid plagiarism
+- format a paper in MLA style
+## **Questions for reflection**
+- How does integrating evidence relate to "sampling" in music?
+- How do we use evidence from other sources in everyday life?
+- How does the U.S. academic style of using and citing evidence differ from other language cultures?
+- Look back at 4.2: Sample Student Research Essay - Heritage Languages and the other sample essays in this book. How well did the writers use, integrate, and cite their evidence from other sources? Can you find examples of especially effective use of evidence you might use as a model? Can you find examples of less effective use of evidence?
+## **Licenses and Attributions**
+## **CC Licensed Content: Original**
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+
+=== Answer key from the book: 4.12: Answer Key- Integrating Evidence ===
+## 4.3 Using Evidence to Support Claims
+## Using different types of evidence
+Here is a sample body paragraph. Evidence added is noted in square brackets and bold after the sentence containing evidence:
+Public schools should help immigrant children to maintain their heritage language. This is because without support, most immigrant children will lose their mastery of the home language by the time they are in high school (Mata-McMahon). **[Fact]** However, being bilingual carries significant advantages. According to Jennifer McMahon, University of Maryland professor, "Bilingual people tend to be better at connecting with others from different ethnic backgrounds and cultures. They are also better at solving problems". **[Quotation from an expert]** I have myself observed this with my friend's children. I have one friend from Peru whose son attended a bilingual private school and can read and write in both Spanish and English. Although he is only thirteen, he is very confident interacting with other people when he travels and is overall very comfortable in most social situations. **[Personal observation]** This opportunity should not be available just to children whose parents are able to afford special private schools. Instead, the United States should recognize that importance of cultivating the skills of all multilingual children to help them become leaders in an increasingly diverse society.
+## 4.4 Knowing When to Cite
+## Deciding if you should cite
+1. This is a statistic and a fact. This needs a citation. Here is the citation: (Tesch).
+2. This is anecdotal evidence: No citation is needed for this statement, but you cannot use it as the sole support for the point you are making. You must also include evidence from your research.
+3. This statement is obviously true, and does not require a citation.
+4. This may or may not be true. You need to cite evidence to support this statement. Here is the citation: (San Diego, Rumbaut and Cornelius qtd. in Tran 261)
+## 4.5 Choosing Appropriate Evidence
+## Finding evidence that supports your point
+Which quotation from this article provides the best support for the point you want to make?
+**Children of immigrants who continue to develop their fluency in their home languages while learning English have an economic advantage as adults.**
+1. "For all the research that supports childhood bilingualism, it is only recently that scholars have begun to understand bilingualism in adults’ professional lives."
+Not good evidence. This does mention professional lives, but the focus of the sentence is on people doing research about bilingualism, not on the actual effects of bilingualism on people's career success.
+2. "Historically notorious for their English monolingualism, a recent Gallup poll reports that in this nation of immigrants, only one in four American adults now reports being conversationally proficient in another language."
+Not good evidence. This gives facts about how many adults are monolingual, but does not talk about the consequences of keeping a second language. It is often tempting to pick a quote with a statistic, but make sure the statistic relates directly to your point.
+3. "Not only are bilingual young adults more likely to graduate high school and go to college, they are also more likely to get the job when they interview. Even when being bilingual is not a requirement, an interview study of California employers shows that employers prefer to both hire and retain bilinguals."
+Good evidence! This one directly supports your point, and adds something more specific beyond just repeating your point.
+4. "Research links bilingualism to greater intellectual focus, as well as a delay in the onset of dementia symptoms. Frequent use of multiple languages is also linked to development of greater empathy."
+Not good evidence. These are three wonderful advantages of bilingualism that you might use in a different part of your paper, but none of them specifically talks about career success.
+## 4.7: Introducing and Explaining Evidence
+## Choosing effective reporting verbs
+1. says: “If you look at modern hunter-gatherers, they are almost all multilingual,” **says** Thomas Bak.
+2. concludes: "From this [study], Ervin-Tripp **concludes** that human thought takes place within language mindsets, and that bilinguals have different mindsets for each language..." (concludes/insists/warns)
+3. explains: "When I did the same test again after completing the...task, I was significantly better at it, just as Athanasopoulos has predicted. 'Learning the new language improved your performance the second time around,” he **explains**. (denies/explains/argues)
+4. suggests: "The result of my test in Athanasopoulos’s lab **suggests** that just 45 minutes of trying to understand another language can improve cognitive function." (questions/maintains/suggests)
+5. tells: "Strowger **tells** me that the program has had many benefits in addition to their grades, including improving students’ engagement and enjoyment, increasing their awareness of other cultures so that they are equipped as global citizens, widening their horizons, and improving their job prospects."
+## 4.8 Avoiding plagiarism
+## Recognizing plagiarism
+Scenarios 1, 2, and 4 would likely be considered plagiarism. It’s important to check with your instructor if you have questions about what is acceptable in a specific situation.
+## Identifying paraphrasing and patchwriting
+This is patchwriting (and therefore plagiarism). Although the words have been changed, the sentence structure is very similar to the original.
+## 4.10: Language Toolkit
+## Check your understanding of ellipses and square brackets
+1. This is a correct use of square brackets.
+2. This is not correct. Too much of the original sentence has been taken out and it changes the meaning.
+3. This is not correct. The words that were added changed the meaning of the original.

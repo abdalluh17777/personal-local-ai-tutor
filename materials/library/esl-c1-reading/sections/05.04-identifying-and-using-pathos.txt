@@ -1,0 +1,50 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+5.4: Identifying and Using Pathos
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/05%3A_Analyzing_Arguments/5.04%3A_Identifying_and_Using_Pathos
+License: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+[Image: black and white heart-shaped print with a fingerprint pattern]
+Figure : **"**Fingerprint Heart Swirls Love UniqueId Pattern" by Max Pixel is licensed under CC-0 1.0
+## What is *pathos*?
+*The definition of empathy is “to see with the other person's eyes, to hear with another's ears, to feel with the heart of the Other." Albert Adler, 1930*
+Persuasive writing is more than an intellectual puzzle or a fight. Our goal as writers is also to build empathy—that through our words, our readers will “see our point of view” by feeling connected in their minds and hearts. We use appeals to pathos—emotion, senses, and story—to make these connections.
+As readers, we analyze appeals to pathos by looking for these roads to our hearts and figuring out if the writer is using them effectively and sincerely.
+Some of us imagine that we are rational and make decisions mostly based on logic. However, our emotions and values may guide us more than we think. In fact, studies that reveal our brains’ electrical activity show that reading stories can let us “mirror” the experiences of characters, and reading sensory imagery can make us “feel” the ideas.
+Neuroscientists have done many studies in which subjects read different texts while inside a functional magnetic resonance imaging (fMRI) brain scanning machine that records electrical activity in different brain regions. According to Annie Murphy Paul’s *New York Times* piece “Your Brain on Fiction,” neuroscientists have known for a long time that when we read any words, two main small areas of the brain light up with activity: Wernicke’s and Broca’s areas, the parts that interpret and produce language.
+Figure 5.4.2 highlights the two brain regions that show activity when reading facts:
+[Image: a gray diagram of the brain, showing activation in just 2 parts which are related to speech]
+Figure : "Motor and Sensory Regions of the Cerebral Cortex" by Bruce Blaus is licensed under CC-BY 3.0
+But what happens when instead of reading facts, we read stories that describe other peoples’ experiences and feelings? It turns out that the reader’s brain activity looks very different.
+## What does pathos do to a reader's brain?
+In a 2014 study, neuroscientists at Carnegie Mellon University had subjects read a section from *Harry Potter* while in an fMRI. When a character walked, the subject’s motor cortex lit up like they were walking, and when the characters talked to each other, more regions of the brain lit up besides the usual language parts - the parts we use in real life to think about other people’s motivations and recognize different faces. Several other studies cited by Paul used similar methods to show that when we read metaphors that use sensory images, our brains process them as if we were touching real textures or smelling real smells. She cites a team of researchers from Emory University who found that “metaphors like ‘The singer had a velvet voice’ and ‘He had leathery hands’ roused the sensory cortex, while phrases matched for meaning, like ‘The singer had a pleasing voice’ and ‘He had strong hands,’ did not.”
+Figure 5.4.3 shows the brain regions that show activity when reading stories and metaphors:
+[Image: diagram of the brain showing 11 distinct areas activated, including the visual, motor, and auditory cortex]
+Figure : "Motor and Sensory Regions of the Cerebral Cortex" by Bruce Blaus is licensed under CC-BY 3.0
+Besides our ability to "see" images described in words we read, we can "feel" other peoples’ emotions, too, as they are reflected by “mirror neurons” in our brains. According to a Dutch Science Foundation article, “Neuroimaging experiments show that we activate common circuits when observing sensations or emotions felt by others, and when experiencing these sensations and emotions ourselves,” our brains mirror other people’s pain, fear, and disgust as if we were feeling them ourselves.
+## How do writers use pathos?
+Persuasive writers, politicians, and advertisers all use this power of pathos to get us, their audience, to support their ideas and buy their products. You may have had a writing teacher ask you to “show, not tell” - to give details so that the reader can “see” the situation in their “mind’s eye.” This works in an argumentative essay as well as in a poem or novel. Advertisements, speeches, and editorials use pathos to make us feel angry, afraid, hungry, protective, and passionate.
+Even in very formal writing, such as academic books or journals, an author often will try to present an issue in such a way as to connect to the feelings or attitudes of their audience. When you evaluate pathos, you are asking whether a speech or essay arouses the audience’s interest and sympathy. You are looking for the elements of the essay or speech that might cause the audience to feel an emotional or sensory connection to the content.
+When writing the article in the exercise below, the author used a terrible workplace accident in Bangladesh (see figure 5.4.4) as an example to illustrate working conditions in textile factories.
+[Image: a person in front of a crowd with a pained expression holds up a small photo of a woman]
+Figure : A relative of one of the workers in a clothing factory at Rana Plaza, Bangladesh, holds up the picture of his missing family member, presumed dead. "Bangladesh-building" by Weronika is licensed under CC-BY 2.0.
+## Finding pathos
+Let's look at this text to find examples of pathos in use:
+Try this!
+Read this passage from Jimenez and Pulos' textbook on corporations and sweatshops. Look for obvious and not-so-obvious examples of pathos.
+### Reading from a textbook: “Corporate Social Responsibility and Sweatshops.”
+On April 24, 2013, at Rana Plaza on the outskirts of Dhaka, Bangladesh, a building containing apparel factories collapsed, trapping and killing over 1,100 employees. It was not only the worst industrial disaster in the history of the garment industry, it was also the world’s most fatal industrial building collapse. News reports soon emerged that the factory owners had ignored ominous warning signs, such as visible cracks in the wall, and had illegally added several stories to the top of the building, creating a weight the building could not bear. Many of the factories operating in the building were producing apparel for well-known Western brands, such as Walmart, Joe Fresh, and Mango.
+Rescue workers struggled for over a week to reach trapped survivors, while hospitals tended to the over 2,500 workers who had escaped, many with severe injuries. Survivors told heart-rending tales of having lost mothers and sisters who had worked in the same factories. The deaths of so many innocent workers created a firestorm of controversy in Bangladesh and around the world. Accusations and recriminations were leveled at corporations and government officials. A period of intense and profound soul-searching ensued for the global fashion companies that made substantial use of outsourced factory labor in Bangladesh. Within a few months, two major initiatives were announced, one American and one European, to increase safety and accountability in Bangladeshi factories.
+## Adding pathos
+Now let's apply this to your writing:
+Apply this!
+Take a piece of writing you are working on and read it over. It's not always appropriate to use pathos, depending on the subject and assignment (probably not in a science lab report), but if it is appropriate, look for places you can connect to your readers' senses, values, and emotions by adding
+- vivid, specific description and imagery
+- metaphors or similes to help your reader "see" what you are describing
+- short narrative examples
+## Work Cited
+Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textbooks, 2014. Licensed under CC BY-NC-SA 4.0.
+## Licenses and Attributions
+Authored by Gabriel Winer, Berkeley City College. License: CC BY NC.
+## **CC Licensed Content: Previously Published**
+Jimenez, Guillermo C., and Elizabeth Pulos. *Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy*. Open SUNY Textbooks, 2014. Licensed under CC BY-NC-SA 4.0.
+This page titled 5.4: Identifying and Using Pathos was last modified on Sun, 09 Mar 2025 17:17:26 GMT and is shared under a CC BY-NC 4.0 license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

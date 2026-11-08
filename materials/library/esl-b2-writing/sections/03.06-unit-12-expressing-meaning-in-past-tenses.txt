@@ -1,0 +1,213 @@
+Building Academic Writing Skills
+Unit 12 Expressing Meaning in Past Tenses
+Source: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-12-expressing-meaning-in-past-tenses/
+License: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui
+
+# Unit 12 Expressing Meaning in Past Tenses
+**Learning Objectives**
+1. To understand the verb forms and meanings of three past tenses – simple past, past progressive, and past perfect– through multiple examples
+2. To practice using the appropriate past tenses in a variety of writing situations
+# I. Pretest
+[Image: Great Fire of London]
+Great Fire of London
+In the following account about the Great Fire of London in 1666, the verbs are bold-faced. If the bold-faced verbs are correct, choose “correct’. If not, choose one of the other two answers. You will get instant feedback on your choice. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: There **was** lots of rats in London in the 17th century.
+   Options: correct | had | were
+   Answer: were
+Q: 2. The rats **brought** dirt and disease to the people. As a result, many people in London got sick, and thousands **were died**.
+   Options: bring, were die | brought, died | correct
+   Answer: brought, died
+Q: 3. Then something unexpected **happened**.
+   Options: correct | happening | was happened.
+   Answer: correct
+Q: 4. On September 2, 1666, while John Farynor, the King’s baker, **was sleeping** in a room above his baker’s shop, a man discovered that some wood **caught** fire and the kitchen was beginning to burn. He immediately woke up Mr. Farynor.
+   Options: correct | slept, caught | was sleeping, had caught
+   Answer: was sleeping, had caught
+Q: 5. A strong wind **blowing** then, and the fire quickly **moved** through the city. It became out of control.
+   Options: correct | was blowing, move | was blowing, moved
+   Answer: was blowing, moved
+Q: 6. King Charles **had led** the fight and **worked** for thirty hours without sleep.
+   Options: correct | lead, worked | led, worked
+   Answer: led, worked
+Q: 7. On September 5, the fire **was** finally under control.
+   Options: correct | is | were
+   Answer: correct
+Q: 8. The Great Fire of London **had** several important results.
+   Options: correct | has | was have
+   Answer: correct
+Q: 9. One good result **was** that it finally **stopped** the disease caused by the rats.
+   Options: correct | is, stopped | was, stopping
+   Answer: correct
+Q: 10. The fire **was** one of the most well-known disasters in the history of London, but it **did** something positive as well.
+   Options: correct | is, did | was, done
+   Answer: correct
+*Adapted from https://en.wikipedia.org/wiki/Great_Fire_of_London. Last accessed on September 21, 2021.*
+# II. Expressing Meaning in Simple Past
+[Interactive exercise]
+♠♠ Click here to review "Be" verbs and "Do" verbs from Unit 9 Verb Basics in Academic Writing: 1. A “be” verb is NEVER followed by the base form of a “do” verb. 2. In the simple past tense, there are only two “do” verbs: was, were. The rats were bring dirt and disease to the people The rats brought dirt and disease to the people. As a result, many people in London were get sick and thousands were die . X As a result, many people in London got sick and thousands died. The Great Fire of London a major disaster. (no verb) The Great Fire of London was a major disaster.
+*For explanations and examples of “Be” verbs and “Do” verbs, open Unit 9 here.*
+**Verb Forms in Simple Past**
+1. When “was” or “were” is the main verb, do not use a “do” verb. In the same way, when the main verb is a “do” verb, do not use “was” or “were”.
+- The Great Fire of London __was__ a serious disaster. It ~~was~~ __occurred__ in 1666.
+2. Add an “ed” to the end of a regular “do” verb.
+- It __destroyed__ a big part of London
+3. After “did” in a question and negative sentence, use the base form (without -ed) since you already have a helping verb “did”.
+- How long __did__ it __last__? It __lasted__ almost five days.
+- __Did__ it __kill__ many people? No, it __did not kill__ too many people. According to some reports, it __killed__ six people.
+4. “Used to + base verb” is common for past regular activities.
+- People in London __used to talk__ about this fire in great terror[1].
+*For a list of verbs with irregular past tense and past participle spelling, please refer to Appendix D Irregular Verbs. Open Appendix D here.*
+**Meaning, Common Expressions, and Examples in Simple Past**
+***Meaning #1***: activities or situations that started and completed at a specific time in the past
+***Common Time Words***: yesterday, last night, two days ago, in 2000 …
+***Examples:*** about the Great Chicago Fire
+Great Chicago Fire
+The Great Chicago Fire __occurred__ on October 8th through October 10th in 1871.
+2. It __killed__ approximately 300 people and __destroyed__ about 3.3 square miles of the city.
+3. It __damaged__ 17,500 buildings and __left__ more than 100,000 residents homeless.
+4. The fire __spread__ quickly because the firefighters __received__ the wrong information and __did not come__ to the right place to rescue[2].
+5. It __was__ the biggest fire in the history of Chicago.
+*Adapted from https://en.wikipedia.org/wiki/Great_Chicago_Fire. Last accessed on June 1, 2021.*
+***Meaning #2:*** past routines, past habits, past situations.
+***Common Time Words and Frequency Adverbs**:* always, constantly, frequently, usually, often, generally, sometimes, seldom, rarely, hardly ever, never, every day, each night, once a week, on Tuesdays …
+***Examples**:* about a family’s past fire prevention routines
+1. When I __was__ a child, my family __tried__ different ways to prevent house fires.
+2. My mother __used to make__ sure that the stove __was__ off before she __went__ to bed every night.
+3. My father __used to make__ sure that all the electronic wires __were__ in good working order.
+4. Sometimes, we __had__ to use candles.
+5. Why __did__ we __have__ to use candles? In those years, power outage[3] __happened__ very often.
+6. My parents __did not allow__ my younger sister to be near the flame, but they __let__ me because I __was__ old enough.
+**Exercise 1.** An account of the Great Chicago Fire continues below. Fill in the blanks with the correct simple past verbs. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+[Interactive exercise]
+Task: .
+   The Great Chicago Fire The fire started (start) at about 8:30 pm on October 8, 1871, in and around a small barn. The city government never [found] (find) out the exact cause for the fire, but many people [believed] (believe) that there [was] (be) a combination of different factors responsible for its quick spread: a long drought in the summer before, strong winds from the southwest, and the fast destruction of the water pumping system. Besides, wood [was] (be) the main construction material in most buildings in Chicago at that time and [could] (can) easily catch fire. On top of all, in 1871, the Chicago Fire Department [had] (have) only 185 firefighters with only 17 horse-drawn steam pumpers to protect the entire city. The Fire Department [acted] (act) quickly, but the firefighters [received] (receive) the wrong information and [went] (go) to the wrong place. These and some other reasons [caused] (cause) the fire to turn from a small barn fire into a major disaster in the history of Chicago. (Steam pumper fire engines were used roughly from 1840 to 1920 to pump water on city fires.)
+*Adapted from https://en.wikipedia.org/wiki/Great_Chicago_Fire. Last accessed on June 1, 2021.*
+# **III. Express Meaning in Past Progressive (No Non-Action Verbs)**
+**Verb Forms in Past Progressive: was/were + verb-ing**
+**Meaning, Common Expressions, and Examples in Past Progressive**
+***Meaning #1:*** An action was in progress at a specific time in the past.
+***Common Time Expressions:*** at this time yesterday, at 9 am this morning, at 4 pm last Tuesday, at that moment, at that time …
+***Examples***: about encountering[4] a car accident while driving
+1. At 9 am on a Monday last December, I __was driving__ to college.
+2. My friend Angela __was sitting__ in the passenger seat at that time.
+3. At the same time, we __were listening__ to the news on the radio. We __were not talking__ to each other.
+4. It __was snowing__ at that moment.
+***Meaning #2***: A long action was in progress when a short action happened.
+***Common Time Expressions**:* when, while (“when” with simple past for shorter action; “while”‘ with past progressive for longer action)
+***Examples***: about encountering a car accident while driving
+[Image: traffic sign slippery road]
+traffic sign slippery road
+1. I __was driving__ to our college when we heard on the radio that there was an accident just ahead of us .
+2. When we heard the news, Angela __was drinking__ her morning coffee in the car.
+3. While I __was driving__, we heard on the radio that there was an accident just ahead of us.
+4. We heard the news while Angela __was drinking__ her morning coffee in the car.
+***Meaning #3***: Two past actions were both in progress at the same time in the past.
+***Common Time Expressions**:* while
+***Examples***: about encountering a car accident while driving
+1. I __was driving__ while Angela __was drinking__ coffee.
+2. While __we were waiting__ in the car for the accident to be cleared, many other drivers __were also waiting__ patiently in their cars.
+3. While Angela and I __were chatting__ in the car, our classmates __were getting__ ready for the morning class at college.
+When you include “when” or “while” in your sentence, you are writing a complex sentence.
+[Interactive exercise]
+♠♠ Click here to review complex sentences from Unit 7 Sentence Essentials.: When you use sentences containing “when” and “while”, you are writing complex sentences. You have seen more complex sentences with other subordinating conjunctions in this and previous units. When you begin the sentence with a dependent clause, there should be a comma between the dependent and independent clauses. If an independent clause begins the sentences, there should be no comma between them. I was driving while Angela was drinking coffee. When we heard the news, Angela was drinking her morning coffee in the car.
+*For detailed explanations and examples of complex sentences, open Unit 7 here.*
+**Exercise 2.** Below is a story about a man and his donkeys. Fill in the blanks with the correct simple past and past progressive verbs. The first one is an example. When you complete the entire exercise, you can click “Check” for feedback. You may retry or see all the answers.
+[Image: three donkeys]
+three donkeys
+[Interactive exercise]
+Task: .
+   A Man and His Donkeys The story happened (happen) a long time ago. One day a man was walking to a market with his six donkeys. While he [was walking] (walk), he [became] (become) tired and [decided] (decide) to ride on one of his donkeys. He hopped on one and [continued] (continue) his way. While he [was riding] (ride), he [stopped] (stop) to count his donkeys. He [counted] (count) only five. He [was] (be) surprised and worried. He [got] (get) off to look for the sixth donkey. While he [was searching] (search) for the lost one, the rest of the donkeys [were waiting] (wait) obediently by the roadside. After twenty minutes, the man [gave] (give) up, [returned] (return) to his donkeys, and [counted] (count) them again. This time he counted six. He [thought] (think), “Maybe the sixth one [returned] (return) while I [was looking] (look) for it.” Again, he got on one of the donkeys and continued his way. He [was] (be) happy. Just then, a friend was passing by, and the man [told] (tell) his friend about his confusion, “I [started/had started] (start) out with six donkeys; then I [had] (have) only five, then six, and now five. I don’t know what is happening.” His friend [said] (say), “You actually have seven donkeys. I will count for you. One. Two. Three. Four. Five. You are sitting on the sixth. And you, foolish man, are the seventh!”
+# IV. Expressing Meaning in Past Perfect
+Good news – The past perfect tense is much easier than most people think!
+**Verb form in past perfect: had + past participle**
+[Image: gloved hands holding a globe with a face mask]
+gloved hands holding a globe with a face mask
+*For a list of verbs with irregular past tense and past participle spelling, please refer to Appendix D Irregular Verbs. Open Appendix D here.*
+**Meaning, Common Expressions, and Examples in Past Perfect**
+***Meaning***: an action or a situation that had completed or repeated before another past action or situation
+***Common Time Expressions**:* by then, by that time, by + a specific past time, by + a past time clause, when, until, as soon as, before, after …
+***Examples:*** About online learning experiences
+1. When the semester started in January 2021, many college students __had__ already __taken__ online classes for at least one semester.
+2. It was hard for new students because many of them __had never had__ an online course before.
+3. __Had__ all the professors __taught__ virtually before the Covid lockdown in March 2020? No, most of them __had not__.
+4. What remote class __had__ you __tried__ before coming to the U.S?
+**Exercise 3.** Write answers to the following questions with past perfect. Discuss the meaning of the questions and answers with your partner.
+***Example***:
+*What were three of the things you had done by the time you came to class today?*
+*Answer: I had eaten my breakfast, driven to Harper, and visited the college library.*
+1. When you began this semester, how many English classes had you taken?
+2. Before you arrived in the United States, had you ever spoken on the phone in English?
+3. Before you came to the United States, what food had you never tasted?
+4. Before you left for the United States, how many times had you been to the consulate in order to get your visa?
+# V. Unit Review Practice
+**Exercise 4.** In the following paragraph about learning English, some verbs are underlined. In these underlined verbs, find and correct ­­­­ten more errors in the use of verbs (not including the example). The first one is an example.
+A Positive Attitude
+I have a positive attitude toward English grammar. When I first came to America, things ***~~__are__~~ (were)*** different. I __have never studied__ English before, so I __am__ very confused about different verb forms and tenses. As time __goes__ by, my feeling toward the language __began__ to change. I __force__ myself to practice even though it __was__ hard. I __write__ a lot, and I __become__ more confident each time I __used__ the language. Now, although I __am__ more confident about grammar, I still __have__ many problems to overcome. I find that learning a new language takes a great deal of time and that I __had__ to be patient and disciplined in order to be good at it. Sometimes, I __was__ frustrated and impatient. For example, when I __try__ very hard to include wonderful details in my paragraph, my professor and classmates may not understand some of my sentences because of many grammar mistakes. However, most times I think positively about my learning experience. I __know__ that mistakes helped me learn. I __been practicing__ writing with correct grammar since the beginning of this semester. I __am__ sure that with my hard work, my skills in English __will get__ better and better.
+**Exercise 5.** The following paragraph is about a quiz and a joke. Some sentences are correct, but others have verb tense errors. Find ten more errors and correct them (not including the example). The first one is an example.
+A Quiz and a Joke
+In the reading class last week, we ***~~have~~ (had)*** a vocabulary quiz. There are 20 questions about idioms. While we were taking the quiz, one of the students start to laugh loudly. We all stop to see what was going on. That student still laughed. He had forgotten that he was taking a quiz and was supposed to be quiet. Fortunately, he stopped laughing after the teacher signaled to him. After class, we all gather around him to ask why. He told us that the quiz is so easy that it reminds him of something funny:
+[Image: a piece of cake on a plate]
+*a piece of cake on a plate*
+*Question: Why did the students eat their test?*
+*Answer: They ate it because their professor had told them it was a piece of cake[5]!*
+At the time of our quiz, he wished that the quiz would transform itself into a piece of cake because the quiz was easy for him. Upon hearing this, we were all laughing. A week had passed. I still laughed whenever I remember this incident.
+**Exercise 6.** There are fourteen more errors in the use of verb tenses in the following paragraph (not including the example). Find the errors and correct them. The first one is an example.
+Childhood Memories
+I ***~~am having~~ (have)*** so many wonderful memories of my childhood. When I was five years old, my family move to Florida. My parents told me that we live in Chicago before we moved. For the first two years in Florida, we lived in a small apartment. Then, when it is time for my brother and me to start school, my parents were buying our first house. For the first time, I had my own room and did not had to share with my brother. I was loving that room! My mother was liking to sew, and she made beautiful quilts and matching curtains for each room. Sunday was my favorite day because we went to the beach. We use to pack a big lunch from the food that Mom buy the day before. On the beach, we kids ran, laugh, and play games. Our parents sometimes ran with us, but other times they sitting in the lawn chairs and watching us. We often did not left the beach until dark. I will always member those fun years.
+**Exercise 7.** Choose one of the following topics to write a paragraph. Use appropriate verbs.
+1. Write a paragraph about your teenage years. What were you like? What did you like to do then? Was there anything that you had experienced in your early childhood to cause you to think or behave the way you did as a teenager?
+2. Write a letter to your spouse, child(ren), or parent(s) and reminisce[6] about your life together.
+3. Write about a celebrity[7]. What do you know about his or her life and career? If you can, include a photo of this person.
+**NSNT Practice**
+[Image: a pen writing in a notebook]
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that use past tenses. You may start with the NSNT approach and then rewrite your paragraphs. Pay attention to the use of past verbs. You are encouraged to share your paragraphs with your partners and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+[Image: a page in a dictionary]
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: terror -> noun, intense fear
+Card: rescue -> verb, save, put out the fire
+Card: power outage -> noun phrase, lost power, no electricity
+Card: encounter -> verb, meet, see
+Card: transition -> verb, change, move
+Card: unprecedented -> adjective, new, never happened before
+Card: curriculum -> noun, a class and its related information such as materials and requirements
+Card: a piece of cake -> noun phrase, something very easy
+Card: reminisce -> verb, remember past experiences or events
+Card: celebrity -> noun, a famous person
+**Summary**
+1. Always focus on your meaning/ideas while choosing verb tenses.
+2. Time words, verb forms, and verb tenses must match one another.
+3. “Was” or “were” and the base form of a “do” verb cannot be used side by side.
+4. Non-action verbs cannot be used in the past progressive tenses.
+5. The simple past tense is used in expressing
+- An activity or situation started and completed at a specific time in the past.
+- past routines, past habits, past situations.
+6. The past progressive tense is used in expressing
+- An action was in progress at a specific time in the past.
+- A long action was in progress when a short action occurred.
+- Two past actions were both in progress at the same time in the past.
+7. The past perfect tense is used in expressing
+- an action or a situation that had completed or repeated before another past action or situation.
+## Media Attributions
+- Great Fire of London © Photo by Rowan Freeman on Unsplash
+- Great Chicago Fire © Bethel University is licensed under a CC BY-NC (Attribution NonCommercial) license
+- traffic sign slippery road © Image by OpenClipart-Vectors from Pixabay
+- three donkeys © Photo by Francesco Frilli from Pexels
+- gloved hands holding a globe with a face mask © Photo by Anna Shvets from Pexels
+- a piece of cake on a plate © Photo by Karolina Grabowska from Pexels
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. terror: noun, intense fear ↵
+2. rescue: verb, save, put out the fire ↵
+3. power outage: noun phrase, lost power, no electricity ↵
+4. encounter: verb, meet, see ↵
+5. a piece of cake: noun phrase, something very easy ↵
+6. reminisce: verb, remember past experiences or events ↵
+7. celebrity: noun, a famous person ↵

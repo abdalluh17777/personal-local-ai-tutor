@@ -1,0 +1,130 @@
+Getting to Know You - An Intermediate Integrated-Skills Module for English Learners (Ferguson)
+1.7: Grammar: Forming Questions
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Getting_to_Know_You_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/01%3A_Chapter_1/1.7%3A_Grammar%3A_Forming_Questions
+License: not declared; authored, remixed or curated by LibreTexts
+
+This lesson is available as a slide presentation.
+[Interactive exercise: https://docs.google.com/presentation/d/e/2PACX-1vSRlbXRkdNjkw4viP0Eht5gEa5d9Z7zduwsIi8NiHVaMKW1BQucRR3q-gdQR9Gpvo_UyGGhHPjH-0sA/embed]
+## Forming Yes/No Questions with a Main Verb
+Compare these sentences...
+- In 2007, Felipe Valdez moved to the United States to pursue his education
+- Since 2007, he has completed his bachelor's degree
+- He is pursuing his career as an intern at NASA
+What are the verbs? What is the tense of each verb? What is the aspect of each verb? What are the auxiliaries for each verb? Remember, tense = past, present, future, aspect = simple, continuous, perfect, and auxiliary = be, have, do...
+## Answers
+- In the first sentence, the verb is "moved," the aspect is simple, the tense is past, and there is no auxiliary
+- In the second sentence, the verb is "had completed," the tense is present, the aspect is perfect, and the auxiliary is "have"
+- In the third sentence, the verb is "is pursuing," the tense is present, the aspect is continuous, and the auxiliary is "be"
+Compare these questions. Identify the auxiliary, main verb, and subject...
+- Did Felipe Valdez move to the U.S.?
+- Has he completed his bachelor's degree?
+- Is he pursuing his career?
+What order do the auxiliary, main verb, and subject follow? What form does each take? What is the rule for forming yes/no questions with a main verb?
+## Answers
+- In the first sentence, the auxiliary is "did," the main verb is "move," and the subject is "Felipe Valdez;" "move" is the base form, used with simple aspect
+- In the second sentence, the auxiliary is "has," the main verb is "completed," and the subject is "he;" "completed" is the past participle, used with perfect present
+- In the third sentence, the auxiliary is "is," the main verb is "pursuing," and the subject is "he;" "pursuing" is the present participle, used with continuous aspect
+The auxiliary, subject, and main verb follow this order: aux + subject + verb with aspect
+They take the following forms: aux has the tense and main verb has the aspect
+The rule for forming yes/no questions with a main verb is as follows: aux + subject + verb with aspect + complement
+## Forming Yes/No Questions with "Be"
+Compare these sentences...
+- Felipe Valdez attended University of California, Sacramento
+- He was an excellent student
+- He was studying mechanical engineering
+What is the verb in each sentence?
+## Answers
+- The verb is "attended"
+- The verb is "was"
+- The verb is "was studying"
+Compare these questions...
+- Did he attend UC Sacramento?
+- Is he an excellent student?
+- Was he studying mechanical engineering?
+What is the auxiliary verb in each? What is the main verb in each?
+## Answers
+- The auxiliary is "did," the main verb is "attend"
+- The main verb is "are" (be)
+- The auxiliary is "be," the main verb is "studying"
+Rule: When the main verb is "be," use "be" in the same position as the auxiliary; aux + subject + complement. When the main verb is not "be," use an auxiliary to create a question. Auxiliary verbs are "do," "be," and "have"...
+## Forming Information Questions with a Main Verb
+Compare these questions. How are they different?
+- Did Felipe Valdez move to the U.S.?
+- When did Felipe Valdez move to the U.S.?
+- Was he studying mechanical engineering?
+- Where was he studying mechanical engineering?
+Which questions ask for the answer "yes" or "no?" Which questions ask for more information? Do the auxiliary, subject, and verb follow the same order in information questions as they do in yes/no questions?
+## Answers
+The first sentence in each pair asks for the answer "yes" or "no." The second question in each pair asks for more information. Yes, the auxiliary, subject, and verb follow the same order in information questions as they do in yes/no questions
+## What is the Pattern for Information Questions?
+Wh + aux + subject + verb with aspect + complement. This pattern works for all tenses
+Check the pattern above on the questions below...
+- When was he studying mechanical engineering?
+- Where did he complete his bachelor's degree?
+- How did he design the space vehicle controls?
+- Why has he become an intern at NASA?
+## Questions About the Subject
+Questions about the subject follow a different pattern
+- Scientists have studied space for many years
+Compare the two questions. What is the answer to each question?
+- Who has studied space for many years?
+- What have scientists studied for many years?
+What is the question order in the first question? What is the question order in the second question?
+## Answers
+- The answer to the first question is "scientists"
+- The answer to the second question is "space"
+The question order in the first question is "who/what" + verb (with tense/aspect in third singular) + complement
+The question order in the second sentence is wh + auxiliary + subject + verb (with aspect)
+Here is another example...
+- The scientists warned the mayor about the meteor
+Compare these two questions. What is the answer to each question?
+- Who warned the mayor about the meteor?
+- Who did the scientists warn about the meteor?
+Which question is asking about the subject? What is the question word order in each question?
+## Answers
+- The answer to the first question is "scientists"
+- The answer to the second question is "the mayor"
+The first question is asking about the subject. The word order in the first question is "who/what" + verb (with tense/aspect in third singular) + complement and the word order in the second question is wh + auxiliary + subject + verb (with aspect)
+## Questions with a Noun Phrase in the Question Word
+Some questions have the subject or object in the question word. These include "how many ________," "how much ________," "what kind of ________," and "which ________"
+Compare these sentences...
+- How many students are attending UC Sacramento?
+- How many awards has Felipe won?
+Which question has a question word as the subject? Which question has a question word as an object? Does the verb always agree with the subject?
+## Answers
+The first question has a question word as the subject. The second question has a question word as an object. Yes, the verb always agrees with the subject
+## Key Takeaways
+- Auxiliary words are "do," "be," "have," and modals
+- Question words are "who," "what," "when," "where," "why," and "how"
+- Tenses are past, present, and future
+- Verb with aspects means:
+  - Continuous: verb + -ing (present participle)
+  - Simple: base form
+  - Perfect: past participle
+- Yes/no questions will use the order: aux + subject + verb with aspect
+- Information questions will use the order wh + auxiliary + subject + verb with aspect
+- Questions about the subject are the exception. They use:
+  - "Who/what" + verb with tense and aspect + complement
+## Videos and Other Resources
+Watch __this video__ and __this video__ for more information about forming questions in English...
+Still not sure about subject questions? Try __this video and written explanation__...
+## Practice Question Formation
+Write questions about the profile below...
+Leslie Reynolds began as a law enforcement ranger in Yosemite National Park. Then she went on to work at Grand Canyon and Shenandoah National Parks, serving these parks as an officer, medic, instructor, investigator, and even counselor. She has stepped up in many life-saving situations in her 21-year career; she has helped save hikers suffering from heat exhaustion in the Grand Canyon, injured climbers stuck and needing helicopter rescue, and victims of serious motor vehicle accidents. Because she understands that prevention and education is effective in saving lives, Reynolds helped develop the Preventative Search & Rescue (PSAR) programs at Yosemite and Shenandoah National Parks. She has also served as a member of the Critical Incident Stress Management Team, responding to numerous major traumatic events and helping team members cope with what they have been through and seen. As the current chief ranger at Cape Cod National Seashore, Reynolds continues to inspire the new generation of park rangers and lead through example.
+- Leslie Reynolds began her career at Yosemite National Park
+  - Where...
+- Leslie Reynolds worked as an officer, medic, instructor, investigator, and counselor
+  - How many jobs...
+- Leslie has helped save hikers, climbers, and accident victims
+  - Who...
+- Because she understands the importance of prevention and education, Leslie developed the PSAR programs
+  - Why...
+- Leslie has worked for the National Park Service for 21 years
+  - How long...
+## Answers
+- Where did Leslie Reynolds begin her career?
+- How many jobs did Leslie Reynolds do?
+- Who has Leslie helped save?
+- Why did Leslie develop the PSAR programs?
+- How long has Leslie worked for the National Park Service?
+1.7: Grammar: Forming Questions is shared under a not declared license and was authored, remixed, and/or curated by LibreTexts.

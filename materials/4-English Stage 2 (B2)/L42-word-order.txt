@@ -1,0 +1,317 @@
+Lesson 42 material: Word Order
+English Stage 2 (B2) · Unit 4: Words, Word Order and the Essay
+
+=== Unit 19 Word Orders ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-19word-orders/
+
+# Unit 19 Word Orders
+**Learning Objectives**
+1. To learn the word orders in basic sentences, time and location expressions, frequency words, adjectives, and embedded questions
+2. To understand and practice different word orders through multiple examples and a variety of writing situations
+# I. Pretest
+(Picture: a computer with lines of codes on a desk)
+a computer with lines of codes on a desk
+In the following ten sentences about the MOOCS, some parts are bold-faced and may contain mistakes in word order. If the bold-faced part is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. **MOOC stands** for Massive Open Online Course.
+   Options: correct | Stands MOOC
+   Answer: correct
+Q: 2. MOOCs cover **areas different** such as natural sciences, business, linguistics, computer science, engineering, and many more.
+   Options: correct | different areas
+   Answer: different areas
+Q: 3. Most **world-famous universities** offer MOOCs.
+   Options: correct | universities world-famous
+   Answer: correct
+Q: 4. **Always MOOCs are online**.
+   Options: correct | MOOCs are always online.
+   Answer: MOOCs are always online.
+Q: 5. Students spend **every week about two to three hours**.
+   Options: about two to three hours every week | correct
+   Answer: about two to three hours every week
+Q: 6. They can finish **some courses in four weeks**.
+   Options: correct | in four weeks some courses
+   Answer: correct
+Q: 7. According to one MOOC course on insects, one type of **red small ants** is called fire ants.
+   Options: correct | small red ants
+   Answer: small red ants
+Q: 8. Some people like to know how big are they.
+   Options: correct | how big they are
+   Answer: how big they are
+Q: 9. They also want to know **where can they find fire ants**.
+   Options: correct | where they can find fire ants
+   Answer: where they can find fire ants
+Q: 10. Fire ants **live usually** in Southeast and Southwest of the U.S.
+   Options: correct | usually live
+   Answer: usually live
+# II. Importance of Word Order
+Word order refers to the arrangement of words in a sentence. While the word order in some sentences can be flexible, there are certain rules to show the proper sequence of words. If such rules are not followed, the sentences may sound very strange.
+- Always MOOCs are online. **X**
+- MOOCs are always online. **√**
+- Students spend every week about two to three hours. **X**
+- Students spend about two to three hours every week. **√**
+# III. Basic Word/Sentence Orders
+You have studied basic sentence patterns in Unit 7 Sentence Essentials. For review, *open Unit 7 here*. Those patterns also show the basic word orders:
+**subject + verb + direct object**
+1. MOOC stands for Massive Open Online Course.
+2. MOOCs cover different areas such as natural sciences, business, linguistics, computer science, engineering, and many more.
+3. Many of them take three to ten weeks to complete.
+4. Many world-class universities offer MOOCs.
+**subject + verb + indirect object + direct object**
+1. My friends gave my sister and me some information on MOOCs yesterday.
+2. The information showed us the courses in computer science.
+**subject + linking verb + subject complement**
+1. MOOCs are open and free to everyone
+2. Some of them are at very low cost, below $100 each.
+3. MOOCs are self-paced[1].
+4. They have grown more and more popular.
+# IV. Order of Time and Location Words
+Time and location words can be placed in the beginning or end of a sentence. The general principle is to order them from a smaller unit to a larger one. If there are both time and location words in the same sentence, the location usually comes before time. Another option is to place one of them in the beginning and the other in the end of the sentence.
+1. __Next week__, my friend and I are starting a new MOOC course in Spanish.
+2. We are starting a new MOOC course in Spanish __next week__.
+3. The last time it was offered was in __January 2021__. *(month before year)*
+4. We are able to choose the course from __the Universitat Autònoma de Barcelona in Spain__ or __the Metropolitan Autonomous University in Mexico__. *(university before country)*
+5. We are starting our Spanish MOOC course from __the Metropolitan Autonomous University in Mexico next week.__ *(place before time)*
+6. Next week, we are starting our Spanish MOOC course from __the Metropolitan Autonomous University in Mexico.__ *(time expression in the beginning and location expression in the end)*
+# V. Order of Frequency Words
+Frequency words and expressions are common, but their positions in a sentence can be confusing. The following charts shows some general rules.
+| Frequency words | Beginning of Sentence | Middle of Sentence: | Before “do” verbs | After “be” verbs | Between helping verb and main verb | End of | Sentence |
+| Always | X | √ | X |
+| Usually | √ | √ | X |
+| Often | X | √ | √ |
+| Frequently | √ | √ | √ |
+| Sometimes | √ | √ | √ |
+| Occasionally | √ | √ | √ |
+| Seldom | √ * | √ | X |
+| Rarely | √ * | √ | X |
+| Never | √ * | √ | X |
+| Every day | √ | X | √ |
+| Every other week | √ | X | √ |
+| Once every three months | √ | X | √ |
+| Twice a year | √ | X | √ |
+**A helping verb is required before the subject.*
+**Yellow areas: The 1-word frequency words can be placed in the middle of a sentence – before a “do” verb, after a “be” verb, or between a helping verb and a main verb.**
+*For detailed explanations and examples of “do”, “be”, helping, and main verbs, please refer to Unit 9 Verb Basics in Academic Writing. Open Unit 9 here.*
+1. Students __always like__ to take interesting online classes.
+2. For working students, MOOCs __are often__ more convenient than in-person classes.
+3. Many students __had never taken__ an online class before the Covid19 pandemic.
+**With gray checkmarks√ : Frequency adverbs like “ frequently, sometimes, occasionally” can be placed in the beginning, in the middle, or at the end of a sentence.**
+1. Some working parents __frequently__ take MOOCs.
+2. __Sometimes__ MOOCs charge a small fee for students who want to have a certificate upon completion.
+3. Some of my friends take MOOCs __occasionally__.
+**Green areas: When “seldom, rarely, never” are used to begin a sentence, there should be a helping verb before the subject.**
+1. __Seldom do__ full time students take extra courses outside of their college because they are already very busy.
+2. __Rarely are__ parents and their adult children studying in the same college, but the trend is growing.
+3. __Never will__ there be a time when MOOCs disappear, I hope.
+**Purple areas: Most frequency expressions with 2+ words are usually placed in the beginning or at the end of a sentence, not in the middle of a sentence.**
+1. Some MOOCs are offered __several times a year__.
+2. __Every week__, students study for certain hours.
+3. For example, CS50’s Introduction to Artificial Intelligence with Python is offered free by Harvard University. It takes seven weeks to finish. Students will study __ten to thirty hours a week__. (*https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0. Last accessed on October 3, 2021.)*
+**Exercise 1.** The following sentences are about taking MOOCs. Some words are bold-faced. Mark “True” for the sentences with the correct word order and “False” for the sentences with the wrong word order. If you make a mistake, you can retry the sentence. The corrections for the wrong sentences are provided in **blue.**
+(Picture: computer screens showing "MOOC")
+computer screens showing “MOOC”
+[Interactive exercise]
+Q (true or false): 1. I took **a few years ago** several MOOC courses in sociology and psychology.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 2. They were offered **by universities in England and Australia.**
+   Answer: True
+[Interactive exercise]
+Q (true or false): 3. Always I chose the free classes.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 4. For each course, I **two times a week** studied in the evening for two hours.
+   Answer: False
+[Interactive exercise]
+Q (true or false): I usually read everything in the course, but I participated **seldom** in online discussions. There were too many posts from other students, and I simply gave up writing mine!
+   Answer: False
+[Interactive exercise]
+Q (true or false): 6. The quizzes and exams **often** consisted of multiple choice questions, so fortunately I did not need to write essays.
+   Answer: True
+[Interactive exercise]
+Q (true or false): 7. I **never** have taken a science course because I am not good at science.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 8. However, maybe I should try one **sometimes**. Who knows? I may come to like science.
+   Answer: True
+**Exercise 2.** Below are links to some MOOC courses offered through Coursera[2] by the University of Illinois at Urbana-Champaign, Yale University, and University of Michigan. Open the links to see the course information. Would you be interested in any of them now or in the near future?
+- Course #1: Writing and Editing: Structure and Organization
+*https://www.classcentral.com/course/writing-editing-structure-19554*
+- Course #2: Introduction to Classical Music
+*https://www.classcentral.com/course/introclassicalmusic-2987*
+- Course #3: Fundamentals[3] of Accounting
+*https://www.coursera.org/programs/coursera-for-illinois-gp2ja/browse?authProvider=illinois&productId=2zesAZFiEeaDSw63XnFBtQ&productType=course&query=accounting&showMiniModal=true*
+- Course #4: Cloud Computing[4] Concepts Part 1
+*https://www.coursera.org/programs/coursera-for-illinois-gp2ja/browse?authProvider=illinois&productId=op_vMOGiEeWr4g7T_DyXNw&productType=course&query=computer+science&showMiniModal=true*
+- Course #5: Essentials of Global Health
+*https://www.classcentral.com/course/essentials-global-health-7337*
+For more information, check MOOC.org.
+*(Links last accessed on July 20, 2021)*
+# VI. Order of Adjectives
+Adjectives describe nouns and are placed before nouns. Adjectives give more specific and interesting information such as shape, smell, taste, color, and other qualities. When using more than one adjective in succession[5], it is important to know which one comes first and which one comes next.
+1. The baby is sleeping in __a quiet, beautiful room__. X
+2. The baby is sleeping in __a beautiful, quiet room__. √
+3. He is covered with __a cotton, square blanket__. X
+4. He is covered with __a square, cotton blanket__. √
+Adjectives usually follow the order below:
+| **Determiner** | **Opinion** | **Size** | **Age** | **Shape** | **Color** | **Origin** | **Religion** | **Material** | **Purpose** | **Noun as Adjective** |
+| a/an/the | a lot of | a few | each/every | many/some | my/your | one, two… | several | … | useful | difficult | friendly | happy | … | big | short | small | tall | … | 1-year-old | old | teenaged | young | … | oval | round | square | circular[6] | … | blue | green | black | red | … | American | Colombian | Turkish | Ukrainian | … | Buddhistic | Catholic | Christian | Hindu | Jewish | Islamic | … | cotton | silk | silver | wooden | … | bowling (ball) | hiking (boots)[7] | paring (knife)[8] | picnic (table) | … | color (pencil) | grocery (store) | kitchen (sink) | office (building) | … |
+**Exercise 3.** Drop the given adjectives and nouns in the right order in each sentence about a baby and his room. You will get instant feedback on your choices. After each question, you may retry or see the answers.
+[Interactive exercise]
+Task: .
+   1. The baby has [curly], [black] [hair].
+[Interactive exercise]
+Task: .
+   2. There is a [rectangular],[metal][photo][frame] on the wall in the baby’s room.
+[Interactive exercise]
+Task: .
+   3. Against the opposite wall, there is an [elegant],[tall][dresser].
+[Interactive exercise]
+Task: .
+   4. Several [lovely],[brown],[stuffed][animals]are on the floor in the corner of the room.
+[Interactive exercise]
+Task: .
+   5. The baby's [sweet],[gray-haired][grandma] always likes to watch the baby and hum a lullaby as he sleeps.
+# VII. Order in Embedded Questions
+Sometimes there is a question inside a sentence or inside another question. That is why it is called an “embedded[9] question”. It is common to hear some people incorrectly say or ask:
+- We would like to know __where is the childcare center__.
+- Could you tell us __which room should my child go to__?
+In such “embedded questions”, the question part should not follow the usual question order. Instead, it should be:
+**question word + subject + verb**
+The correct way:
+- We would like to know __where the childcare center is__.
+- Could you tell us __which room my child should go to__?
+Study more examples:
+1. “What time is the childcare center open?” (direct question)
+2. Please tell me __what time the childcare center is open__. (embedded question)
+3. “Who is my child’s teacher?” (direct question)
+4. Do you know __who my child’s teacher is__? (embedded question)
+5. “How many children are there in one class?” (direct question)
+6. The teacher has not told us __how many children there are in one class__. (embedded question)
+7. “What time must we pick up our child?” (direct question)
+8. I want to be certain __what time we must pick up our child__. (embedded question)
+**Exercise 4.** Choose the correct word order in the following sentences with embedded questions about a day care center. You will receive instant feedback. You may retry the sentence or see the answer after you complete each question.
+(Picture: a kindergarten classroom)
+a kindergarten classroom
+[Interactive exercise]
+Q: 1. The parents are trying to find out __________.
+   Options: What time the parents can meet the teacher | what time can the parents meet the teacher
+   Answer: What time the parents can meet the teacher
+[Interactive exercise]
+Q: 2. The parents want to know __________.
+   Options: what volunteer work they can do there | what volunteer work can they do there
+   Answer: what volunteer work they can do there
+[Interactive exercise]
+Q: 3. The teacher is asking __________.
+   Options: what time the parents are available to help | what time are the parents available to help
+   Answer: what time the parents are available to help
+[Interactive exercise]
+Q: One of the teachers is trying to find out __________.
+   Options: why is little Mia absent. | why little Mia is absent.
+   Answer: why little Mia is absent.
+[Interactive exercise]
+Q: 5. The kids are wondering __________.
+   Options: when is their snack time | when their snack time is
+   Answer: when their snack time is
+# VIII. Unit Review Practice
+**Exercise 5.** Choose the correct word order for the following sentences about a pet dog. In the right order, drag the words or phrases to the boxes. You will receive instant feedback. After each question, you may retry or see the answers.
+***Example***:
+*friend, Teddy, dog, good, my, pet, is*
+*My pet dog Teddy is my good friend.*
+[Interactive exercise]
+Task: .
+   1. He is a [large], [brown] [German] [Shepherd].
+[Interactive exercise]
+Task: .
+   2. Teddy [always] wags his [beautiful],[long] tail when he sees me.
+[Interactive exercise]
+Task: .
+   3. He may be asking me [where] [his] [food] [is].
+[Interactive exercise]
+Task: .
+   4. He [is] [frequently] [hungry].
+[Interactive exercise]
+Task: .
+   I [usually] [feed] him [four times a day].
+[Interactive exercise]
+Task: .
+   [Every day] I tell Teddy [how] [I] [spend my day].
+[Interactive exercise]
+Task: .
+   I hope he [will] [always] [stay] [with] [me].
+**Exercise 6.** The following paragraph about two puppies in love is adapted from a previous unit. Arrange the given words in the right order and type them in the boxes. Type only one word in each box. You will get instant feedback on your answers. When you complete the entire exercise, you may retry or see all the answers.
+***The first sentence is an example:* **
+(Picture: a dog jumping from ocean)
+***a dog jumping from ocean***
+*The story happened on a **small Japanese***
+*(Japanese, small) island Aka in the 1980s.*
+[Interactive exercise]
+Task: .
+   Puppies in Love A long time ago, a dog named Shiro became famous and received a nickname “Puppy in Love”. The story happened on a small Japanese (Japanese, small) island Aka in the 1980s. Shiro belonged to Mr. and Mrs. Nakamura. He would disappear every few days. It [usually] [happened] (usually, happened) in the morning, but [he] [always] (always, he) came back at night. He [was] [always] (always, was) wet when he returned. Mr. and Mrs. Nakamura were surprised and curious. They wanted to find out where [Shiro] [went] (went, Shiro). One day, Mr. Nakamura followed Shiro to the beach and saw him run into the cold water. When Shiro started to swim, Mr. Nakamura jumped onto his [little] [fishing] (little, fishing) boat and followed him. Three hours later, Shiro got onto an island called Zamami and walked to a [beautiful] [wooden] (wooden, beautiful) house. He started to play with a [lovely] [small] (lovely, small) puppy there. The two puppies were in love! It turned out that the Makamuras had been living in Zamami before they moved. The two puppies had become good friends. After the Nakamuras moved, Shiro [frequently] [visited] (visited, frequently) his girlfriend puppy. In the evening, he swam back home to Aka. When Shiro’s story became public, many people came to Aka and Zamami to see them. They wondered how long [Shiro] [swam] (Shiro, swam). The ocean between the two islands was actually more than two miles long, and people were amazed to see the puppies in love!
+**Exercise 7.** Choose one of the following topics to write a paragraph. Include some adjectives and frequency words.
+1. Whom do you love the most? Describe him or her.
+2. What is the best gift you have received? Describe it.
+3. Which is your favorite room in your house or apartment? Describe it.
+4. What has been the most exciting scene you have seen? (for example, a parade[10], a party, a ceremony, etc.) Describe it.
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that you have not written about. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the word order. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: self-paced -> adjective, learning at one's own speed
+Card: Coursera -> noun, an online course provider that works with many universities https://en.wikipedia.org/wiki/Coursera
+Card: fundamentals -> noun, basics
+Card: cloud computing -> the delivery of computer services such as servers and storage https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/
+Card: in succession -> prepositional phrase, one after another
+Card: circular -> adjective, round, like a circle
+Card: hiking boots -> noun phrase, boots that people wear when they are hiking
+Card: paring knife -> noun phrase, a small knife for cutting, chopping, slicing, and other kitchen tasks
+Card: embedded -> adjective, located in the middle of something
+Card: parade -> noun, a large public procession to celebrate an important event, usually with music
+**Summary**
+1. Word order means the sequence of words in a sentence.
+2. The basic word/sentence orders are:
+- Subject + verb + direct object
+- Subject + verb + indirect object + direct object
+- Subject + link verb + subject complement
+3. When there are time words and location words,
+- They can be placed in the beginning or end of a sentence.
+- Arrange the time or location from a smaller unit to a larger unit.
+- Location words usually come before time words.
+3. Frequency adverbs and expressions may be placed:
+- in the beginning of a sentence
+- in the middle (before an action verb, after a “be” verb, or between a helping verb and a main verb)
+- at the end of a sentence
+4. With more than one adjective in succession, arrange them in proper order: determiner, opinion, size, age, shape, color, origin, religion, material, purpose, noun as adjective.
+5. An embedded question needs to follow the order: question word + subject + verb.
+## Media Attributions
+- a computer with lines of codes on a busy desk © Photo by Christopher Gower on Unsplash
+- computer screens showing “MOOC” © Ilonka Hebels is licensed under a CC BY-NC-SA (Attribution NonCommercial ShareAlike) license
+- a kindergarten classroom © Photo by Monica Sedra on Unsplash
+- a dog jumping from ocean © Photo by Blue Bird from Pexels
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. self-paced: adjective, learning at one's own speed ↵
+2. Coursera: noun, an online course provider that works with many universities. https://en.wikipedia.org/wiki/Coursera ↵
+3. fundamentals: noun, basics ↵
+4. cloud computering: the delivery of computer services such as servers and storage https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/ ↵
+5. in succession: prepositional phrase, one after another ↵
+6. circular: adjective, round, like a circle ↵
+7. hiking boots: noun phrase, boots that people wear when they are hiking ↵
+8. paring knife: noun phrase, a small knife for kitchen tasks like cutting, chopping, and slicing ↵
+9. embedded: adjective, located in the middle of something ↵
+10. parade: noun, a large public procession to celebrate an important event, usually with music ↵
+
+Links on this section's web page:
+- Web page (online-learning.harvard.edu): https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0
+- Web page (classcentral.com): https://www.classcentral.com/course/writing-editing-structure-19554
+- Web page (classcentral.com): https://www.classcentral.com/course/introclassicalmusic-2987
+- Web page (coursera.org): https://www.coursera.org/programs/coursera-for-illinois-gp2ja/browse?authProvider=illinois&productId=2zesAZFiEeaDSw63XnFBtQ&productType=course&query=accounting&showMiniModal=true
+- Web page (coursera.org): https://www.coursera.org/programs/coursera-for-illinois-gp2ja/browse?authProvider=illinois&productId=op_vMOGiEeWr4g7T_DyXNw&productType=course&query=computer+science&showMiniModal=true
+- Web page (classcentral.com): https://www.classcentral.com/course/essentials-global-health-7337

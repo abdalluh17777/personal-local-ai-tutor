@@ -1,0 +1,117 @@
+People and Places - An Intermediate Integrated-Skills Module for English Learners (Ferguson)
+3.5: Grammar: Comparative and Superlative Adjectives and Adverbs
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/People_and_Places_-_An_Intermediate_Integrated-Skills_Module_for_English_Learners_(Ferguson)/03%3A_Chapter_3/3.5%3A_Grammar%3A_Comparative_and_Superlative_Adjectives_and_Adverbs
+License: CC BY-NC-SA 4.0; authored, remixed or curated by Sara Ferguson
+
+This lesson includes slides for classroom presentation.
+[Interactive exercise: https://docs.google.com/presentation/d/e/2PACX-1vQzrATluCrsV3D_CzE7-0_MUPn8cfF4jTRgpspb_ei6iLonHte4hn3uEguL8WdQdcZ4cjZEyLcgJS7e/embed]
+## Comparative Adjectives
+Compare two nouns using a comparative adjective. Which two nouns are compared in these sentences? What is the comparative adjective?
+- San Diego, CA is larger than El Cajon, CA
+- Black Mountain is higher than Mount Helix
+## Answers
+- The two nouns are "San Diego, CA" and "El Cajon, CA" and the comparative adjective is "larger"
+- The two nouns are "Black Mountain" and "Mount Helix" and the comparative adjective is "higher"
+Did you notice what word follows the comparative adjective?
+## Answer
+Than
+## How Do We Make Comparative Adjectives?
+What do you notice about this list?
+- Larger
+- Higher
+- More diverse
+- Smaller
+- More populated
+- More difficult
+- Richer
+- Easier
+- More majestic
+- More historical
+- Deeper
+## Rules for Writing Comparative Adjectives
+- If the word is one syllable, add -er to the end of the word
+- If the word ends with -e, add -r
+- If the word is one syllable and ends with CVC (consonant-vowel-consonant), double the final consonant
+- If the word is two syllables, use "more" + adjective
+- If the word is two syllables and ends with -y, drop the -y and add -ier
+- Comparative adjectives are followed by "than"
+| One-syllable adjectives | Two-syllable adjectives ending with -y | Two-or-more-syllable adjectives | Irregular adjectives |
+| Larger | Easier | More diverse | Good = better |
+| Richer | Happier | More difficult | Far = further/farther |
+| Deeper | Hungrier | More majestic | Little = less |
+| Higher | Curlier | More populated | Many = more |
+| Smaller | Bad = worse |
+| Bigger |
+## Comparative Adverbs
+Read the sentences below and identify the comparative adverbs...
+- I like to go hiking, but I hike more slowly than my kids
+- African Americans moved to the north during the Great Migration because they could vote more freely there
+- If you want to sightsee in San Diego, take a car; cars travel faster than buses in San Diego
+- It takes longer to visit the zoo than to visit Balboa Park
+## Answers
+- The comparative adverb is "more slowly than"
+- The comparative adverb is "more freely"
+- The comparative adverb is "faster than"
+- The comparative adverb is "longer...than"
+## How Do We Make Comparative Adverbs?
+| One-syllable adverbs | Two-or-more-syllable adverbs (including -ly adverbs) |
+| Adverb + -er + "than" | "More" + adverb + "than" |
+## Practice Quizzes
+Check your understanding of comparative adjectives and adverbs. Take practice quizzes at the websites below...
+- __Comparative Adjectives__
+- __Comparative Adverbs__
+## Superlative Adjectives and Adverbs
+How are superlatives different from comparatives?
+Read the sentences below and identify the superlative adjectives and adverbs...
+- Cowles Mountain is the highest point in the city of San Diego
+- It is also the most popular mountain for hiking
+- On the other hand, Woodson Mountain is the best place to take a photo, because it has Potato Chip Rock
+- You can hike most easily at Torrey Pines State Beach
+## Answers
+- The superlative is "the highest"
+- The superlative is "the most popular"
+- The superlative is "the best"
+- The superlative is "most easily"
+## How Do We Make Superlative Adjectives and Adverbs?
+Examine the superlative forms below. How is the superlative formed?
+- The highest point
+- The most popular mountain
+- The best place
+- Take most easily
+| Adjectives with one syllable | Adjectives with two or more syllables | Adjectives ending with -y | Irregular adjectives and adverbs | Adverbs with one syllable | Adverbs with two or more syllables (including -ly) |
+| The highest | The lowest | The tallest | The strangest | The most popular | The most beautiful | The least challenging | The easiest | The earliest | The hungriest | The best | The worst | The least | The fewest | The farthest/furthest | The fastest | The longest | The latest | The most happily | The most quickly | The most seriously |
+Spelling when adding -er or -est to the end of an adjective or adverb...
+- For most adjectives/adverbs, just add -er or -est, e.g. darker, quicker, fastest
+- If the adjective/adverb ends with e, just add -r or -st, e.g. stranger, strangest
+- If the adjective ends with -y or -ly, drop the y and add -ier or -iest, e.g. uglier, ugliest
+- If the adverb ends with -ly, do not add -er or -est, use "more" or "most" instead
+- Use the CVC rule, one-syllable words with consonant-vowel-consonant pattern double the final consonant, e.g. hotter, hottest
+## Takeaways: Comparatives and Superlatives
+- Comparatives are used to compare two items; superlatives compare three or more items
+  - EX: Torrey Pines State Park is closer than Yosemite National Park (two parks, comparative form)
+  - EX: Of all the parks in Southern California, Torrey Pines is the best (many parks, superlative form)
+- Negative comparisons can be made by using "less" and "least" (instead of "more" and "most")
+  - EX: Torrey Pines State Park is less crowded than Yosemite National Park
+  - EX: Of all the parks in Southern California, Torrey Pines is the least crowded
+- Comparatives are formed with adjective/adverb + -er + "than" or with "more"/"less" + adjective/adverb + "than"
+  - Depends on the number of syllables and spelling of the word
+- Superlatives are formed with "the" + adjective/adverb + -est or with "the most"/"the least" + adjective/adverb
+  - Depends on the number of syllables and spelling of the word
+- Irregular adjectives and adverbs
+  - Good/well--better--the best
+  - Bad/badly--worse--the worst
+  - Little--less--least
+  - Much--more--most
+  - Far--farther/further--farthest/furthest
+  - Early--earlier--earliest
+  - "Early" is an adjective and adverb, the form is irregular for adverbs
+## Video
+Watch __this video__ for more explanation of comparatives and superlatives...
+## Practice
+Practice using comparatives and superlatives. Make recommendations to your classmates about the following places in your city or area. Your instructor might have you post your recommendations on a discussion board or pass them to your classmates for comment...
+- Compare two restaurants. Which one is better? Why?
+- Recommend the most exciting activity for a family with kids. Explain why...
+- What's the best place to see a movie in your city/area? Why?
+- What sights do you recommend a tourist see when they visit? Compare two or three...
+- Which city/area is the easiest for a new immigrant to move into? Why?
+This page titled 3.5: Grammar: Comparative and Superlative Adjectives and Adverbs was last modified on Mon, 11 Apr 2022 14:58:19 GMT and is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Sara Ferguson.

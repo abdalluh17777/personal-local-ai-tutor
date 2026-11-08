@@ -1,0 +1,83 @@
+College ESL Writers - Applied Grammar and Composing Strategies for Success (Hall and Wallace)
+1.3: Pronouns
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/College_ESL_Writers_-_Applied_Grammar_and_Composing_Strategies_for_Success_(Hall_and_Wallace)/01%3A_Writing_Basics_-_What_Makes_a_Good_Sentence/1.03%3A_Pronouns
+License: CC BY-NC-SA; authored, remixed or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials)
+
+Pronouns are very important to your writing and speaking. Without them, your language would be very boring. Pronouns also help a writer avoid repetition of words. Knowing just how pronouns work is an important aspect of clear and concise writing. Chapter 7 covers this in greater detail.
+## Pronoun Agreement
+A pronoun is a word that takes the place of (or refers back to) a noun or another pronoun. The word or words a pronoun refers to is called the antecedent of the pronoun.
+1. *Lani* complained that *she* was exhausted.
+  - *She* refers to *Lani*.
+  - *Lani* is the antecedent of *she*.
+2. *Hieu* left the party early, so I did not see *him* until Monday at work.
+  - *Him* refers to Hieu.
+  - *Hieu* is the antecedent of *him*.
+3. *Ansam and Sherry* have been best friends ever since *they* were freshman in high school.
+  - *They* refers to *Ansam and Sherry*.
+  - *Ansam and Sherry* is the antecedent of *they.*
+There are several types of pronoun agreement:
+**Agreement in number:** If the pronoun takes the place of or refers to a singular noun, the pronoun must also be singular. Likewise, if the pronoun refers to a plural noun, the pronoun must be plural.
+**Agreement in person:**
+Table 
+| Singular Pronouns | Plural Pronouns |
+| First Person | I | me | my (mine) | we | us | our (ours) |
+| Second Person | you | you | your (yours) | you | you | your (yours) |
+| Third Person | he, she, it | him, her, it | his, her, its | they | them | their (theirs) |
+## Indefinite Pronouns and Agreement
+Indefinite pronouns do not refer to a specific person or thing and are *usually singular*. Note that a pronoun that refers to an indefinite singular pronoun should also be singular. The following are some common indefinite pronouns:
+Table 
+| Common Indefinite Pronouns |
+| all | each one | few | nothing | several |
+| any | each other | many | one | some |
+| anybody | either | neither | one another | somebody |
+| anything | everybody | nobody | oneself | someone |
+| both | everyone | none | other | something |
+| each | everything | no one | others | anyone |
+[Image: 1.3.1.png]
+Example 
+## Collective Nouns
+One issue with collective nouns is that writers sometimes want to use a plural verb with them. However, even though they suggest more than one person, they are *usually considered singular*. Look over the following examples of common collective nouns:
+Table 
+| Common Collective Nouns |
+| audience | faculty | public | class | government | society | company |
+| band | family | school | committee | group | team | jury |
+[Image: 1.3.2.png]
+Example 
+## Subject and Object Pronouns
+Subject pronouns function as subjects in a sentence. Object pronouns function as the object of a verb or of a preposition.
+Table 
+| Singular Pronouns | Plural Pronouns |
+| Subject | Object | Subject | Object |
+| I | me | we | us |
+| you | you | you | you |
+| he, she, it | him, her, it | they | them |
+The following sentences show pronouns as subjects:
+1. *She* loves the Blue Ridge Mountains in the fall.
+2. Every summer, *they* picked up litter from national parks.
+The following sentences show pronouns as objects:
+1. Marie leaned over and kissed *him*.
+2. Barbara moved *it* to the corner.
+Tip
+Note that a pronoun can also be the object of a preposition:
+Near *them*, the children played.
+My mother stood between *us*.
+The pronouns *us* and *them* are objects of the prepositions *near* and *between*. They answer the questions *near* whom? And *between* whom?
+**Note** that object pronouns are never used in the subject position. One way to remember this rule is to remove the other subject in a compound subject, leave only the pronoun, and see whether the sentence makes sense. For example, *me visited the Grand Canyon last summer* sounds immediately incorrect.
+## Relative Pronouns
+A relative pronoun is a type of pronoun that helps connect details to the subject of the sentence and may often combine two shorter sentences. The relative pronouns are *who*,*whom*, *whose*, *which* or *that*. Chapter 2 discusses the use of relative pronouns in clauses.
+Tip
+Remember the following uses of relative pronouns:
+- *Who*, *whom*, and *whose* refer only to people.
+- *Which* refers to things.
+- *That* refers to people or things.
+Key Takeaways
+- A pronoun is used in place of a noun.
+- Pronouns and their antecedents need to agree in number and person.
+- There are several types of pronouns, including subject and object pronouns, possessive pronouns, and relative pronouns.
+- Most indefinite pronouns are singular.
+- Collective nouns are usually singular.
+- Object pronouns are the “who” and “what” that receives the action.
+- A possessive pronoun is a pronoun showing ownership.
+- Common pronoun errors include mixing up subject, object, and gender pronouns, and repeating the subject of a sentence with a pronoun.
+- Relative pronouns help combine two separate sentences.
+This page titled 1.3: Pronouns was last modified on Tue, 01 Sep 2020 19:28:01 GMT and is shared under a CC BY-NC-SA license and was authored, remixed, and/or curated by Barbara Hall and Elizabeth Wallace (GALILEO Open Learning Materials) .

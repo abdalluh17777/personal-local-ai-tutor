@@ -1,0 +1,281 @@
+Lesson 40 material: Pronouns
+English Stage 2 (B2) · Unit 4: Words, Word Order and the Essay
+
+=== Unit 17 Pronouns ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-17pronouns/
+
+# Unit 17 Pronouns
+**Learning Objectives**
+1. To learn personal, indefinite, and demonstrative pronouns
+2. To understand the common uses of pronouns as in subject, object, possessive, and reflexive forms
+3. To apply the noun-pronoun agreement rule and other uses of pronouns through multiple examples and a variety of writing situations
+# I. Pretest
+(Picture: people moving around on street)
+people moving around on street
+In the following ten sentences about the world population, some pronouns and their related verbs are bold-faced and may contain mistakes. If the bold-faced part in the sentence is correct, choose “correct”. If not, choose the other answer. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: People often move from one place to another. **This causes** the population to change.
+   Options: correct | Those cause
+   Answer: correct
+Q: 2. For example, when my uncle moved to the U.S. with **her** family a few years ago, five more people were added to the U.S. population.
+   Options: correct | his
+   Answer: his
+Q: 3. Many countries conduct a census every five to ten years. Everyone should report **their** information.
+   Options: correct | his or her
+   Answer: his or her
+Q: 4. Parents should submit their babies’ information because babies cannot do it by **himself**.
+   Options: correct | themselves
+   Answer: themselves
+Q: 5. There are other reasons for the population to change. Births and deaths are two of **them**.
+   Options: correct | they
+   Answer: correct
+Q: 6. The Worldometer is an organization located in the U.S. **They provide** real time numbers to everyone in the world.
+   Options: correct | It provides
+   Answer: It provides
+Q: 7. According to www.worldometers.info, there were 7,865,735,029 people in the world as of 2:45 pm on May 15, 2021. Ten minutes later, that number changed to 7,865,738,003. **That means** that there were nearly 3,000 more people in the world at 2:55 pm than ten minutes before.
+   Options: correct | He means
+   Answer: correct
+Q: 8. Some people might think that 3,000 was not a big number. **He** might expect a much larger number.
+   Options: correct | They
+   Answer: They
+Q: 9. 3,000 represents the total number of births minus the total number of deaths. **It does** not mean births only.
+   Options: correct | They do
+   Answer: correct
+Q: 10. In general, the world population has increased, and **they** will continue to increase in the near future.
+   Options: correct | it
+   Answer: it
+*Statistics from https://www.worldometers.info/world-population/. Last accessed on May 15, 2021.*
+# II. Personal Pronouns and Their Uses
+All pronouns are words to represent nouns. They can help avoid[1] repeating the same nouns and make the language more concise[2]. When you write a pronoun, you are using it to replace a noun in the previous sentence or previous part of the sentence.
+1. **The Worldometer** is an organization located in the U.S. __It__ provides real time statistics to everyone in the world.
+- “It” refers to “the Worldometer”.
+2. **Some people** might think that 3,000 was not significant. __They__ might be expecting a much larger number.
+- “They” refers to “some people”.
+There are different types of pronouns depending on their functions in sentences. Pronouns that refer to people are called **personal pronouns**: I, you, he, she, we, they, herself, etc. “It” also belongs to this group.
+| **Pronouns** | **Subject Pronouns** | **Object Pronouns** | **Reflexive Pronouns** |
+| **Singular** | I | You | He | She | It | Me | You | Him | Her | It | Myself | Yourself | Himself | Herself | Itself |
+| **Plural** | We | You | They | Us | You | Them | Ourselves | Yourselves | Themselves |
+| **Pronouns** | **Possessive Adjectives** | **(Although these are adjectives, they are related to pronouns.)** | **Possessive Pronouns** |
+| **Singular** | My | Your | His | Her | Its | Mine | Yours | His | Hers | (none) |
+| **Plural** | Our | Your | Their | Ours | Yours | Theirs |
+**A subject pronoun** is used as the subject of a sentence. In most cases, it is placed before a verb.
+1. There are many people in the world. __They__ live in different parts of the globe.
+2. __It__ is interesting to know that the population is growing faster in developing countries than in developed countries.
+**An object pronoun** is used as the object of a sentence or the object of a preposition. It is used after a verb or after a preposition.
+1. When my niece was born, my whole family celebrated the event. We celebrated __it__ with a big party.
+2. The baby was able to crawl[3] at three months old. We were very proud of __her__.
+**A reflexive pronoun** is used while referring back to the subject. It is also used with “by” to mean “independently” or “without help”.
+1. My niece was able to feed __herself__ at ten months old.
+2. Children like to try out new things by __themselves__.
+**A possessive adjective** is followed by a noun to show ownership.
+1. When my uncle came to the U.S. to work a few years ago, he brought __his__ whole family.
+2. My aunt was very happy with __her__ new life here.
+**A possessive pronoun** is used to replace the “possessive pronoun adjective + noun” already mentioned. It is also used in phrases like “a friend of mine” and “a coworker of hers”.
+1. Our company hires foreign workers, but Vishal’s company hires more. His company hires more foreign workers than __ours__. (ours = our company)
+2. The population in each country changes. Many years ago, there were more people in my country than in Nina’s. Now, __hers__ has more than __mine__. (hers = her country; mine = my country)
+3. My new co-worker is also a friend of __mine__. I am a friend of __his__.
+**Exercise 1 .** Read the following information about migrant workers. Some pronouns are boldfaced. Highlight the closest noun that each underlined pronoun refers to. Highlight only one noun for each pronoun. When you finish the entire exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+(Picture: three migrating birds)
+three migrating birds
+***The first sentence is an example:***
+*“They” refers to “people”.*
+[Interactive exercise]
+Task: Migrant Workers
+   When people go to another city or country to look for work, they become migrant workers. Most of them will not stay there permanently. Some [workers] bring their families with them , and most of them send money back home. The International Labor Organization estimated that in 2014 there were 232 million international migrant workers. Those [workers] were out of their home country for at least 12 months. The International Labor Organization is a United Nations agency. The [Organization] publishes reports on labor issues all over the world. According to one of its reports, 48% of all international migrant workers are [women], and their wages are useful to help support their family. By working, these [women] are helping themselves , their families, and the global economy. However, when [mothers] leave their city or country to work, the situation is hard on their children. Even though most mothers send [money] home, and it is used for food and clothing, the children may have to live in a relative’s home and may not receive proper care. Some of the [children] even have to live all by themselves . Therefore, there are negative psychological effects on these children.
+*Adapted from https://en.wikipedia.org/wiki/Migrant_worker#:~:text=A%20migrant%20worker%20is%20a,region%20in%20which%20they%20work.*
+*Last accessed on July May 20, 2021.*
+# III. Indefinite Pronouns and Their Uses
+Indefinite pronouns refer to people, things, or ideas in general and can be the subject or object of a sentence.
+| **for people** | everyone, everybody, anyone, anybody, someone, somebody, no one, nobody | Use these words the same way as “he” or “she”. |
+| **for things and ideas** | everything, anything, something, nothing | Use these words the same way as “it”. |
+Indefinite pronouns are singular. The easiest way to remember them is to think of them as he/she/it. Therefore, the verbs and other pronouns related to the indefinite pronouns must take the singular form as well.
+1. __Everyone__ is doing __his/her__ best for the family.
+2. __Everything__ is ready for the family reunion. __Everybody__ is excited to see __his/her__ family again.
+3. __No one__ needs to bring a gift for the reunion.
+Repeating “he or she”, “his or her”, or “himself or herself” can be awkward[4], especially when it is used multiple times in the same piece of writing. Therefore, it is very common to turn an indefinite pronoun or a noun to its plural form.
+1. All __people__ are doing __their__ best for the family.
+2. All __things__ are ready for the family union. All __members__ are excited to see __their__ family again.
+**Exercise 2.** Choose and highlight the correct form of pronoun for the blanks in sentences 1-3. Choose and highlight the correct form of verb for the blanks in sentences 4-6. When you finish the entire exercise, you can retry or see all the answers. (To highlight, you position your computer curser on the verbs and right click.)
+***Examples**:*
+*When a migrant worker works elsewhere, there are both positive and negative effects on __________ (**his/her** , their) family.*
+*A migrant worker often __________ (have, **has** ) to adjust to a new environment.*
+[Interactive exercise]
+Task: .
+   1. On the one hand, the worker can have an income and help the family. __________ ([He/She], They) sends money back home. 2. On the other hand, migrant workers usually have a hard life, especially in the beginning, because __________ (he/she, [they]) are far from home. 3. Everyone back home also misses __________ ([his/her], their) loved ones working far away. 4. If something __________ (happen, [happens]) to a migrant worker, the family is also affected. 5. Migrant workers __________ ([contribute], contributes) to the ups and downs in the population. 6. The population of a city includes everyone. Anyone in the city __________ ([is], are) included.
+# IV. Demonstrative Pronouns and Their Uses
+There are four **demonstrative pronouns**: this, that, these, those.
+| Demonstrative pronouns | Close by | Far away |
+| Singular | this | that |
+| Plural | these | those |
+1. __This__ is the money from Joe. It will help the family tremendously[5].
+2. Joe is working in construction in another city. __That__ is hard work for him.
+3. Last year, Joe was able to have a two-week vacation. He was very excited about __that__.
+4. Joe went on two short trips with his family. __Those__ were happy trips.
+“This” and “that” can also be used to mean the idea or situation just mentioned.
+1. Joe was coming home for a two-week vacation. __This__ made the whole family very excited.
+2. Joe had not been home for two years. __That__ was hard for the family.
+This = the idea or situation that Joe was coming home for a two-week vacation
+That = the idea or situation that Joe had not been home for two years
+**Exercise 3.** The demonstrative pronouns and their related verbs are bold-faced in the following sentences about census. Click “True” for correct sentences and “False” for the wrong ones. You will get instant feedback on your answer. If a sentence is wrong, you will also see the correct answer and explanation in **blue.**
+US Census 2020 paper
+[Interactive exercise]
+Q (true or false): 1. Some countries conduct a census every ten years. **These are** important for everyone.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 2. The census also shows population changes. It is important for a country to know **that** in order to have appropriate policies.
+   Answer: False
+[Interactive exercise]
+Q (true or false): 3. According to the 2020 US Census, there were over 331 million people in the U.S. **This** made the U.S. the third largest country in the world by population.
+   Answer: True
+[Interactive exercise]
+Q (true or false): 4. Today, there are about over 74.1 million people under age 18 and 56.4 million people age 65 and older. Ten years later, there will almost be as many old people as there are young ones. **These mean** that the U.S. is getting older.
+   Answer: False
+*Adapted from https://www.pbs.org/newshour/nation/3-ways-that-the-u-s-population-will-change-over-the-nextdecade#:~:text=The%20U.S.%20population%20today%2C%20at,just%20under%201.4%20billion%2C%20respectively. Last accessed on May 20, 2021.*
+# V. Noun-Pronoun Agreement
+Noun-pronoun agreement means that whenever a pronoun is used, it must match the noun it refers to in number and gender.
+**Agreement in number**: A singular pronoun must match a singular noun, and a plural pronoun must match a plural noun. In the following sentences, the underlined pronouns refer to the nouns in **bold**.
+1. When my niece was born, my whole family celebrated **the event**. We celebrated __it__ with a big party. (singular)
+2. There are **many people** in the world. __They__ live in different parts of the globe. (plural)
+**Agreement in gender**: A masculine pronoun should match a masculine noun, and a feminine pronoun should match a feminine noun. A gender-neutral pronoun should match a gender-neutral noun. In the following sentences, the underlined pronouns refer to the nouns in **bold**.
+1. When **my uncle** moved to the U.S. a few years ago, __he__ brought __his__ whole family. (masculine)
+2. **My niece** could walk steadily at age one. We were very proud of __her__. (feminine)
+3. **Many children** have to take care of __themselves__ at an early age. (gender-neutral)
+4. They love **the U.S**. for __its__ better educational and career opportunities. (gender-neutral)
+When you read the sentences you have already studied earlier in this unit, you will see that all the pronouns follow the noun-pronoun agreement rule.
+**Exercise 4**. Here is the paragraph from the pretest of this unit. This time, fill in the correct pronoun for each blank. When you finish the entire exercise, you can click “Check” for feedback. You may also retry or see all the answers.
+[Interactive exercise]
+Task: .
+   Population Changes People often move from one place to another. This causes the population to go up and down. For example, when my uncle moved to the U.S. with [his] family a few years ago, five more people were added to the U.S. population. Parents should submit their babies’ information because babies cannot do it by [themselves]. There are other reasons for the population to change. Births and deaths are two of [them]. The Worldometer is an organization located in the U.S. [It] provides real time statistics to everyone in the world. According to www.worldometers.info, there were 7,865,735,029 people in the world at 2:45 pm on May 15, 2021. Ten minutes later, that number increased to 7,865,738,003. [That/This] means there were nearly 3,000 more people in the world at 2:55 pm than ten minutes before. Some people might think that 3,000 was not too many. [They] might expect a much larger number. However, 3,000 represents the total number of births minus the total number of deaths. It does not mean births only. This number is just for reference because some births and deaths are not immediately reported. In general, the world population has increased, and [it] will continue to increase in the near future.
+# VI. Other Rules in Pronouns
+**1. When there is already a subject in the sentence, do not add a pronoun as part of the subject.**
+- ~~My neighbors they~~ migrated to the U.S. last year to work as data analysts.
+- __My neighbors__ migrated to the U.S. last year to work as data analysts.
+- ~~Sanjay he~~ is working in a trading company downtown.
+- __Sanjay__ is working in a trading company downtown.
+**2. Do not use “me and my…”.**
+- ~~Me and my cousin~~ live in the same city.
+- __My cousin and I__ live in the same city.
+- Our grandparents visit ~~me and my cousin~~ every year.
+- Our grandparents visit __my cousin and me__ every year.
+**3. Make the pronoun and the noun it refers to very clear. If the pronoun causes confusion, write the noun instead.**
+- Sanjay told Guang that ~~he was happy about his job~~. (Who is “he”, Sanjay or Guang?)
+- Sanjay told Guang, “I am happy about my job.”
+- Sanjay told Guang, “I am happy about your job.”
+- Sanjay was happy about his job, and he told Guang so.
+- Sanjay was happy about Guang’s job, and he told him so.
+**4. Change the pronouns used in the reported speech if needed to keep the meaning of the sentence logical.**
+- When I asked my friend about the 2020 Census results, he said that ~~you~~ should check them online.
+- When I asked my friend about the 2020 Census results, he said, “__You__ should check them online.”
+- When I asked my friend about the 2020 Census results, he said that __I__ should check them online.
+- My grandmother always reminds me that ~~you~~ must take good care of ~~yourself~~ in the new country.
+- My grandmother always reminds me, “__You__ must take good care of __yourself__ in the new country.”
+- My grandmother always reminds me that __I__ must take good care of __myself__ in the new country.
+**5. Do not be confused by the following:**
+they are = they’re ≠ their
+you are = you’re ≠ your
+it is = it’s ≠ its
+- The computer and medical fields provide a lot of employment. ~~Their~~ very popular among migrant workers.
+- The computer and medical fields provide lot of employment. __They are (They’re)__ very popular among migrant workers.
+- The job application has started. ~~Your~~ welcome to apply.
+- The job application has started. __You are (You’re)__ welcome to apply.
+- The new position is out of town. ~~Its~~ 100 miles away from home.
+- The new position is out of town. __It is (It’s)__ 100 miles away from home.
+- ~~It’s~~ location is not convenient, but ~~it’s~~ salary is good.
+- __Its__ location is not convenient, but __its__ salary is good.
+**Exercise 5**. The following paragraph is about census in other countries. There are six more errors in the use of pronouns (not including the example). Find them and correct them. The first one is an example.
+(Picture: people on boats in Bangkok, Thailand)
+people on boats in Bangkok, Thailand
+What about Other Countries?
+A census helps a country know how many people there are and how policies can be adjusted[6] to best serve **~~*it*~~ *(them)***. The U.S. it is not the only country that has a census every ten years. Other countries such as China and Thailand do the same. Some countries like Japan and Canada they have a census every five years. Whether in our native country Thailand or in the U.S., me and my family participate in the census every time it happens. My parents always say that you should not miss any census because the government will use it’s results to better manage the country. My parents are model citizens. Their always doing their best.
+# VII. Unit Review Practice
+**Exercise 6.** Read the following paragraph about foreign-born workers. Choose and highlight the most appropriate pronouns in the blanks. When you finish the entire exercise, you can retry or see all the answers.
+***The first sentence is an example:* **
+*When migrant workers go to another country instead of another city of __________ (they, **their**) own country, they are often called foreign-born workers.*
+[Interactive exercise]
+Task: .
+   Foreign-Born Workers When migrant workers go to another country instead of another city of __________ (they, their ) own country, they are often called foreign-born workers. The U.S. economy relies on many foreign-born workers. In 2019, there were about 28.4 million such workers in the U.S. __________ ([This], These) was a large number and represented 17.4% of the total workers in the country. Foreign-born workers include legal immigrants, refugees, students, and undocumented immigrants. A foreign-born worker was not born in the U.S., but __________ (they, [he/she]) is a resident and is working here. It is more likely for __________ (them, [him/her]) to have a job in service, construction, or maintenance than for a native-born worker. However, foreign-born workers __________ ([x], they) are less likely than native-born workers to be employed in some other areas such as management, professional, and sales. Regardless of __________ (they, them, [their]) occupations, foreign-born workers are making an increasingly important contribution to the U.S. economy.
+*Adapted from https://www.bls.gov/opub/ted/2020/foreign-born-workers-made-up-17-point-4-percent-of-labor-force-in-2019.htm, U.S. Bureau of Labor Statistics, May 29, 2020. Last accessed on June 1, 2021.*
+**Exercise 7.** Fill in the blanks with the most appropriate pronouns in the following paragraph about a going-away party. You will get instant feedback on your answers. At the end of the exercise, you may retry or see all the answers.
+***The first sentence is an example:***
+(Picture: a bunch of colorful balloons)
+***a bunch of colorful balloons***
+*The party for Yuko was fun. Yuko, Elena, and I met in our ESL class two years ago. Since then, __**we**__ have become good friends.*
+[Interactive exercise]
+Task: .
+   A Party for Yuko The party for Yuko was fun. Yuko, Elena, and I met in our ESL class two years ago. Since then, we have become good friends. Last week, Elena and I hosted a going-away party for Yuko. Yuko’s husband is going to be transferred to work as an engineer in the Middle East after working in the U.S. for four years. [They] are leaving next month. In the beginning, the party was a secret just between Elena and [me]. Then we informed our classmates. "[It] will be fun!” They said excitedly. We all wanted the party to be a surprise for Yoko and decided not to tell [her] ahead of time. [We] prepared balloons, flowers, snacks, drinks, and of course, a huge cake and a good-luck card. Elena baked the cake [herself]. Everyone signed [his or her] name on the card. The day finally arrived for the party. It took [us/everyone] quite some efforts to hide all the goodies. When I pretended to ask Yoko to help [me] with [my] homework after class at 3 pm, [she] agreed happily. When she came to the classroom at exactly 3 pm, [we/everyone] cheered! Yuko was surprised! We ate, hugged, and said our well wishes. Yoko was very touched and thanked [us/everyone] for being good friends. She said that [we/everyone] should keep in touch via Facebook and email. We certainly will!
+**Exercise 8.** Read the following paragraph about Americans teaching English overseas. There are six more errors in the use of pronouns (not including the example). Find them and correct them. The first one is an example.
+Teaching English Overseas[7]
+(Picture: a person with a toy plane on a world map)
+a person with a toy plane on a world map
+Many Americans go overseas to work. ***~~He~~ (They)*** can work in a U.S.-based company or in a company of the foreign country where their living. One of the most popular overseas jobs is teaching English as a foreign language (EFL). Native English speakers are very welcome because they not only teach English but also share different cultural perspectives[8]. Its also a great learning experience for the American teachers themselves. Of course, it will be extremely helpful if the EFL teachers can speak the local language. However, there are many opportunities for them to learn when their overseas. EFL teachers can teach in all types of settings – kindergartens, elementary schools, high schools, colleges and universities, and even companies. Depending on the country and type of setting, the qualifications and benefits may be different. For example, for most positions in elementary and high schools, an American teacher needs to have a bachelor’s degree, a teaching certificate or something similar, and some related work experience. It will be better if he or she has taught in another similar overseas program. Naturally, if someone accepts the job, they must have a passport and a working visa before leaving the U.S. The benefits usually include a reasonable salary, housing, and travel expenses. Some Americans apply for an overseas position directly by himself because the process might be more direct. Some others like to use an agency to help them as it can provide useful resources and tell them what to do. If anyone is interested in teaching overseas, they can find a lot of information online.
+**Exercise 9.** Choose one of the following topics to write a paragraph. Pay attention to the use of pronouns.
+1. What do you think of leaving home to work in a far-away city or country? What would be the advantages and disadvantages for you and your family?
+2. Does your native country conduct[9] a census regularly? If so, how often? How are the census results used?
+3. Have you ever participated in a census? If so, where was it? When was it? Were there any questions that you found interesting or surprising?
+4. The following is from U.S. and World Population Clock https://www.census.gov/popclock/. Is any of the information below surprising or interesting to you? Why do you think so?
+- At 3:30 pm on May 17, 2021
+- 332,339,884 people in the U.S.
+- One birth every 8 seconds.
+- One death every 12 seconds.
+- One net[10] international migrant every 670 seconds.
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that you have not written about. You may start with the NSNT approach. Then revise and edit your paragraphs. Pay attention to the use of word forms. You are encouraged to share your writing with your partner and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: avoid -> verb, keep away from
+Card: concise -> adjective, clear, without unnecessary words
+Card: crawl -> verb, move along with hands and legs
+Card: awkward -> adjective, unnatural, uncomfortable
+Card: tremendously -> adverb, very much
+Card: adjust -> verb, make changes based on needs
+Card: overseas -> adverb, across the ocean
+Card: perspective -> noun, an idea or a thought
+Card: conduct -> verb, have, perform, do
+Card: net -> adjective, related to the leftover after deductions
+**Summary**
+1. A pronoun refers to a noun.
+2. Subject pronoun – as the subject of a sentence, usually used before a verb.
+3. Object pronoun – as the object of a verb or a preposition, usually used after a verb or a preposition.
+4. Possessive adjective – to show who or what owns it, followed by a noun.
+5. Possessive pronoun – to replace the “possessive adjective + noun” already mentioned.
+6. Indefinite pronoun – to represent people, things, and ideas in general. All indefinite pronouns are singular and must take a singular form of the verb and the singular form of other related pronouns (he, she, it).
+7. Demonstrative pronoun – to point to a close-by or a far-away person, thing, or idea. There are four such pronouns: this, that, these, those.
+8. Pronoun rules include:
+- All pronouns must follow the noun-pronoun agreement rule; that is, they must match the noun they are referring to in number and gender.
+- Do not use a subject pronoun when there is already a subject of the sentence.
+- Do not use “me and my…”.
+- When the use of pronoun causes confusion, use a noun instead.
+- Change to appropriate pronouns in a reported speech.
+- they are = they’re ≠ their; you are = you are ≠ your; it is = it’s ≠ its
+## Media Attributions
+- people moving around on the street © Photo by Timon Studler on Unsplash
+- three birds migrating © Photo by Chris Briggs on Unsplash
+- US Census 2020 paper © Photo by Enayet Raheem on Unsplash
+- people on boats in Bangkok, Thailand © Photo by Frida Aguilar Estrada on Unsplash
+- a bunch of colorful balloons © Photo by Gaelle Marcel on Unsplash
+- a person with a toy plane on a world map © Photo by Andrea Piacquadio from Pexels
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. avoid: verb, keep away from ↵
+2. concise: adjective, clear, without unnecessary words ↵
+3. crawl: verb, move along with hands and legs ↵
+4. awkward: adjective, unnatural, uncomfortable ↵
+5. tremendously: adverb, very much ↵
+6. adjust: verb, make changes based on needs ↵
+7. overseas: adverb, across the ocean ↵
+8. perspective: noun, an idea or a thought ↵
+9. conduct: verb, have, perform, do ↵
+10. net: adjective, related to the leftover after deductions ↵
+
+Links on this section's web page:
+- Web page (worldometers.info): https://www.worldometers.info/world-population/
+- Web page (bls.gov): https://www.bls.gov/opub/ted/2020/foreign-born-workers-made-up-17-point-4-percent-of-labor-force-in-2019.htm
+- Web page (census.gov): https://www.census.gov/popclock/

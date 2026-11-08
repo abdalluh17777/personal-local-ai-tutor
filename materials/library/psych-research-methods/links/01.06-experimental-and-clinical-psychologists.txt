@@ -1,0 +1,9 @@
+http://digest.bps.org.uk/ | http://digest.bps.org.uk
+http://www.talkpsych.com/ | http://www.talkpsych.com
+http://brainblogger.com/ | http://brainblogger.com
+http://mindhacks.com/ | http://mindhacks.com
+http://www.spring.org.uk | http://www.spring.org.uk
+http://www.researchblogging.org | http://www.researchblogging.org
+http://www.div12.org/psychological-treatments | http://www.div12.org/psychological-treatments
+http://www.apa.org/about | http://www.apa.org/about
+source content | https://kpu.pressbooks.pub/psychmethods4e

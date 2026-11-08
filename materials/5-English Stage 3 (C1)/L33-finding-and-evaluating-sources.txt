@@ -1,0 +1,147 @@
+Lesson 33 material: Finding and Evaluating Sources
+English Stage 3 (C1) · Unit 4: Research and Evidence
+
+=== 3.6: Strategies for Finding Information ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.06%3A_Strategies_for_Finding_Information
+
+## Starting the search
+Now that Lily had an idea for a research topic, she wanted to start finding and gathering information for her topic. She started off by doing what a lot of other students do, Googling it, but she was quickly overwhelmed with her search results when she typed in the term “faculty of color in higher education”. There were over 400 million results! She saw articles from newspapers like *Forbes*, statistics from the National Center for Education Statistics, books being sold on Amazon, articles published by universities, and many more. She wasn’t sure how to choose which source she needed. Her professor also told the class they should use library databases for their research, but she didn’t know how to use them.
+Many of you will have shared the same feelings as Lily—being overwhelmed by the amount of information you can find on the internet. This section will discuss different types of sources you might find on the internet and in library databases. This section will also walk you through how to use library databases and give you tips and strategies for searching on the internet and in library databases more effectively.
+## Types of Sources
+Many of you may be familiar with books and newspaper or magazine articles, but there are many other sources of information that can be useful during a research project. Table 3.6.1 summarizes different sources. As you look over the table, think about how long it takes to create a post on social media vs the time it takes to write a scholarly article. Does the time it takes to create a source impact the quality of a source?
+Table 3.6.1 Possible sources and how they differ in terms of where they are found, how they are created, who they are written for, and who they are written by
+| **Source Type** | **Where to find it** | **Time to create** | **Review Process** | **Written by** | **Read by** |
+| Websites/blogs | Internet search | Minutes to years | none | anyone | General public |
+| Social media | Internet search | Seconds to days | none | anyone | General public |
+| Documentaries | Film streaming sites | years | none | filmmakers | General public |
+| Personal interviews | You do it | Minutes to days | none | anyone | General public |
+| Reports and government documents | .gov websites, organization websites | Months to years | No formal peer review process | Specialists in the subject (usually people with PhDs, graduate students, or professors) | varies |
+| News | Online, print, television, article databases | Minutes to days | No formal peer review, sometimes editorial review | journalists | General public |
+| Magazines | Online, print, article databases | Days to weeks | No formal peer review, sometimes editorial | journalists | General public |
+| Scholarly journal articles | Print, library article databases, journal website | One to a few years | Formal peer review process | Specialists in the subject (usually people with PhDs, graduate students, or professors) | Scholars, graduate students |
+| Books | Libraries, bookstores, ebook collections | years | Editorial but not peer review | Journalists, specialists, general people | General public or specialists |
+## How to Choose a Source
+There are many more types of sources than the ones listed on the chart, but given that there are so many different types of sources to choose from, how do you choose which kind to use?
+When you first start your research project, you want to learn background information about your topic, so you might read Wikipedia, newspaper articles, or encyclopedias. Scholarly journal articles are very specific so they would not be good for learning background information. Scholarly journal articles show the results of original research so they are useful if you want to prove an idea in your research project.
+## Internet Research
+The internet is a network that connects computers and servers all over the world—it contains billions of pages of information. People use search engines like Google, Baidu, Bing, and Yahoo to search for the information they need. While it is useful to have access to so much information, it can also be very overwhelming because most searches that you do will return millions of results. The results on the first page of a search are not usually the most credible sources.
+### Interactive Element
+This video shows you how Google searches work:
+Video: https://youtu.be/0eKVizvYSUQ
+Doing a web search can be useful for understanding your topic overall and finding key words to help you. You can use the "tools" link on Google to improve your search. For example, you can choose to limit your search to specific dates or countries.
+## Database Research
+The internet is very different from a library database. The information on the internet is free to access, but database access is not free—libraries pay tens of thousands of dollars to give students access to articles. The reason it costs so much is that database companies collect information from hundreds to thousands of different sources, including scholarly journals where it might cost you $25 to look at one article.Then database companies “tag” each article with the main keywords so that it’s easier for people to find them.
+There are general databases that contain information about different subjects, and subject-specific databases. It’s a good strategy to search through multiple databases because they often contain different information.
+Even though using a database is a good research strategy, there are some drawbacks. One drawback is that because it takes time to include articles in a database, a database might not have the most current information if a research topic is evolving in real time. Also, because a database includes scholarly articles, which can take a year or two to publish, very current events won’t be written about yet by scholars. Some research topics are not represented in databases—a database has many newspaper and scholarly articles, but if no journalist or scholar has written about a certain topic, it won’t be there.
+## Keywords
+When you type in your whole question, sentence, or phrase in a Google search, Google tries to guess what you mean. Library databases do not. Google's algorithm picks out the important words for you. It's difficult for library databases to remove the unimportant words you include in your search so you only use the important words, or keywords.
+Keywords are used in a search in library databases to find articles that are relevant to your research topic. Keywords describe the main concept of your research topic or research question. Select nouns that are important and leave out words that are adverbs, verbs, adjectives, and prepositions.
+Here is an example research question: How are students of color affected by professors of color?
+The main concepts or keywords are "students of color" and "professors of color". Avoid terms like affect/affected as search terms. For each main concept, list synonyms, related terms, or associated words. If you get a lot of results back, you can get more specific with your main concepts as well.
+- Synonyms for "students of color": minority students
+- Synonyms for "faculty of color": professors of color, minority faculty, minority professors
+- Narrower terms: African American students, community college students, women professors of color, etc.
+- Related terms: (if you want to search for different effects of having a professor of color, you can add concepts to your search such as "retention" or "educational achievement")
+When you use these words in a database, type each concept into its own search field. Figure 3.6.1 shows the search field of a common database with the phrases "students of color" and "professors of color" typed into the search fields.
+(Picture: EBSCO library database search fields)
+Figure: "Search box in the Academic Search Complete" by Jenny Yap is marked with CC BY NC 4.0.
+If you are not getting enough results from your search, use more general keywords. If you’re getting too many results, use more specific words. Databases also have filters that allow you to narrow the time period of articles, the type of article, language, geography, and more.
+It takes a lot of practice to get good at searching in databases. If you need more help, you can always contact a librarian at your school. They are experts in using databases.
+### Finding keywords and synonyms to help you with your search
+When you are doing research, it is important to use a variety of keywords. What can you do if you do not know a lot of synonyms for your term?
+- Use a thesaurus or dictionary such as Longman
+- Use Google to find a news or general website that discusses the topic. Make a note of synonyms or related terms.
+- Use subject term tags (see below for how to do this)
+Keeping a list of synonyms will help you with your search and with writing your paper.
+### Subject terms
+Another way to find good keywords is to look at the subject terms of an article. For example, when you click on an article’s title in a database it will often bring you to a page (called the record) that contains information about the article such as the author, where the article was published, and an abstract which is a one-page summary of the article. The record page also contains the article’s subject terms.
+A subject term is a standard word or phrase that describes the main ideas in an article. Each article in a database is assigned a few subject terms. It’s important to notice which subject terms the database is using because each database company might "tag" articles with different keywords for the same concept. For example, one database might use the keyword “stadium” while another might use “sports arena.” Figure 3.6.2 shows the subject terms of an article in the database. Notice that in this database, instead of using the word “professor” it uses the phrase “college teachers.” Other terms that are included are "African American teachers", "University faculty", and "African Americans".
+(Picture: Subject terms for a search about faculty of color)
+Figure: "Subject terms in a database" by Jenny Yap is marked with CC BY NC 4.0.
+## Identifying keywords and subject terms for your search
+Let's look at a table of keywords and subject terms.
+Notice this!
+How will table 3.6.2 help the researcher find better keywords for research? Are there any keywords here that surprised you?
+Table 3.6.2 Worksheet for identifying keywords and subject terms with example answers
+| strategy | Lily's answer |
+| My research question | Why is it important to have more minority faculty in colleges, and how can we improve this situation? |
+| Keywords | minority, faculty, college |
+| Synonyms from a dictionary | teachers (synonym for faculty); universities (synonym for college) |
+| Related terms from articles I read: | minority faculty or faculty of color or nonwhite faculty | professors or instructors or faculty | college or university or higher education |
+| Subject terms in the database | (faculty=college professors) | (minority=African American, Hispanic American, Asian American) |
+### Creating your own keyword and subject term worksheet
+Now that you have looked at a sample keyword and subject term research worksheet, try it with your own research topic.
+Apply this!
+Work alone or with a classmate. Write down this information to create your own worksheet.
+- My research question
+- Keywords
+- Synonyms from a dictionary
+- Related terms from articles I read
+- Subject terms from databases
+## Licenses and Attributions
+## CC Licensed Content: Original
+Authored by Jenny Yap, Berkeley City College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+Table 3.6.1 of possible sources was adapted from Carol Wither's Information Literacy: Basic Research Skills. License CC BY NC SA.
+
+=== 3.7: Evaluating Your Sources ===
+From "Reading, Writing, Research, and Reasoning: An Advanced ESL Text" by Gabriel Winer and Elizabeth Wadell, ASCCC Open Educational Resources Initiative (CC BY-NC 4.0). This section: CC BY-NC 4.0; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)). Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/03%3A_Research/3.07%3A_Evaluating_Your_Sources
+
+## Why you need to evaluate
+As you gather sources for your research, you may find that different sources give you different or opposing information. How can you know what information to trust? How will you decide which sources to use and which ones not to use?
+Keep in mind that the sources you find have all been put out there by groups, organizations, corporations, or individuals who have some motivation for getting this information to you. To be a good researcher, you need to learn how to assess the materials you find and determine their reliability—before deciding if you want to use them and, if so, how you want to use them. Figure 3.7.1 shows two students examining materials to determine reliability.
+(Picture: Two college students evaluating books)
+Figure: "Learning" by CollegeDegrees360 is marked with CC BY-SA 2.0.
+Whether you are examining material in books, journals, magazines, newspapers, or websites, you want to consider several issues before deciding if and how to use the material you have found.
+## Criteria for evaluating sources
+Table 3.7.1 gives a list of criteria to consider when you are deciding which sources to use, as well as some questions that can help you decide if your source meets the criteria.
+Table 3.7.1 Criteria to use in evaluating sources and questions to ask for each criteria
+| **Criteria** | **Description** | **Questions to Ask** |
+| **Authority/Credibility** | Determining the author for a source is important in deciding whether information is credible. The author should show some evidence of being knowledgeable, reliable and truthful. | Who is the author (person, company, or organization)? | Does the source provide any information that leads you to believe the author is an expert on the topic? | Can you describe the author's background (experience, education, knowledge)? | Does the author provide citations? Do you think they are reputable? |
+| **Accuracy** | The source should contain accurate and up-to-date information that can be verified by other sources. | Can facts or statistics be verified through another source? | Based on your knowledge, does the information seem accurate? Does it match the information found in other sources? | Are there spelling or grammatical errors? |
+| **Relevance** | It is important that the source meets the information needs and requirements of your research assignment. | Does the source cover your topic comprehensively or does it cover only one aspect? | To what extent does the source answer your research question? | Is the source considered popular or scholarly? | Is the terminology and language used easy to understand? |
+| **Currency/Date** | Some written works are ageless (e.g., classic literature) while others (e.g., technological news) become outdated quickly. It is important to determine if currency is pertinent to your research. | When was the source written and published? | Has the information been updated recently? | Is currency pertinent to your research? |
+| **Objectivity/Bias/Reliability** | Every author has an opinion. Recognizing this is instrumental in determining if the information presented is objective or biased. | What is the purpose or motive for the source (educational, commercial, entertainment, promotional, etc.)? | Who is the intended audience? | Is the author pretending to be objective, but really trying to persuade, promote or sell something? |
+| **Style/Functionality** | Style and functionality may be of lesser concern. However, if the source is not well-organized, its value is diminished. | Is the source well-written and organized? | To what extent is it professional looking? | If it is a website, can you navigate it easily? | If it is a website, are links broken? |
+## Practice evaluating sources
+Let's evaluate two sources using table 3.7.1. Both of these articles are about teachers or faculty of color. Figure 3.7.2 shows an African American teacher helping a student.
+(Picture: Black teacher helping a student)
+Figure: "Student and Teacher" by Wonderlane is marked with CC BY 2.0.
+Try this!
+Here are two articles related to teachers of color. Read the citation and abstract and use the criteria and questions in table 3.7.1 to evaluate each one. Then, answer this question: Would this be a good source for my research paper on whether colleges need more faculty of color?
+### Source 1: “The Limited Presence of African-American Teachers.”
+**Citation:** King, Sabrina Hope. “The Limited Presence of African-American Teachers.” *Review of Educational Research*, vol. 63, no. 2, [Sage Publications, Inc., American Educational Research Association], 1993, pp. 115–49, https://doi.org/10.2307/1170470.
+**Author:** Sabrina Hope King, Professor at the University of Illinois at Chicago
+**Abstract: "**The limited presence of talented African Americans in the teaching profession has been and continues to be a serious problem confronting the education profession and the African-American community in the United States. This review summarizes what is known from the research literature. It explores the reasons that African-American teachers are important as well as overall demographic, entry, and retention trends and the distinctive factors that influence the limited presence of African-American teachers. Finally, a suggested research agenda is presented."
+### Source 2: “Diversifying the Teaching Profession through High-Retention Pathways.”
+**Citation:** Carver-Thomas, Desiree. “Diversifying the Teaching Profession through High-Retention Pathways.” *Learning Policy Institute*, 19 Apr. 2018, https://learningpolicyinstitute.org/...ofession-brief.
+**Author:** Desiree Carver-Thomas, Researcher and Policy Analyst at the Learning Policy Institute. She is also a former teacher. The Learning Policy Institute "conducts and communicates independent, high-quality research to improve education policy and practice," according to its website. The website also lists who funded the research: "Research in this area of work is funded in part by the S. D. Bechtel, Jr. Foundation. Core operating support for the Learning Policy Institute is provided by the Ford Foundation, the William and Flora Hewlett Foundation, and the Sandler Foundation."
+**Abstract: "**Research illustrates the importance of greater teacher diversity because of the substantial benefits teachers of color provide to all students, and to students of color in particular. Studies also show that policies must focus more effectively on retention of teachers of color, if diversity in the teaching profession is to be sustained. While more teachers of color are being recruited than in years past, their turnover rates are high, in part due to inadequate preparation and mentoring, poor teaching conditions, and displacement from the high-need schools in which they teach. Increasing the number of teachers of color in the workforce requires building high-retention pathways into the field that offer high-quality preparation and financial supports, including service scholarships, loan forgiveness programs, teacher residencies, Grow Your Own programs, ongoing mentorship, and other policies and strategies that improve teacher licensure, hiring, professional growth, and teaching conditions for current and aspiring teachers of color."
+(For possible answers, check the 3.12: Answer Key - Research)
+Here is a Source Evaluation Checklist that you can download and use.
+## Works Cited
+Carver-Thomas, Desiree. “Diversifying the Teaching Profession through High-Retention Pathways.” *Learning Policy Institute*, 19 Apr. 2018.
+King, Sabrina Hope. “The Limited Presence of African-American Teachers.” *Review of Educational Research*, vol. 63, no. 2, [Sage Publications, Inc., American Educational Research Association], 1993, pp. 115–49.
+## Licenses and Attributions
+## CC Licensed Content: Original
+Activity Authored by Elizabeth Wadell, Laney College. License: CC BY NC.
+## CC Licensed Content: Previously Published
+"Why you need to evaluate" adapted from Purdue OWL's Evaluating Sources. License: CC BY.
+Table 3.7.1 adapted from the University of Texas at Arlington's Criteria for Evaluating Sources. License: CC BY NC.
+Abstract of “Diversifying the Teaching Profession through High-Retention Pathways" is from the Learning Policy Institute. License: CC BY NC.
+## All Rights Reserved
+Abstract of Sabrina Hope King's “The Limited Presence of African-American Teachers.”
+
+Attached file for this section: SourceEvaluationChecklist2019
+Page 1: Source Evaluation Checklist Name: Source Title: Source Type: (Print Book, Online Book, Ebook, Print Journal Article, Online Journal Article, Print Magazine Article, Online Magazine Article, Article from Database, Print Newspaper Article, Online Newspaper Article, Web Page, Television, Film or Music, Photograph, Thesis or Dissertation, Abstract, Book Review, Software, Blog Entry/Comment, Online Course/Discussion Board, Personal Letter or Email, Government Publication, Interview) Credibility Yes No   Is information about the author’s qualifications, such as education or profession, available on the source or through additional searching?   Does the source provide a reference list or bibliography showing where the information contained within the source came from?   Can you find information about whether or not the publisher is reputable? Relevance and Content Yes No   Is the subject matter of the source related to your topic?   Are you able to distinguish between fact and opinion in the source? Date Yes No   Can you tell when this source was published or revised?   Based on the date, will the facts and opinions in this source provide you with current information? Intended Audience Yes No   Does this source work well for your audience? For example, if you are writing for a formal, academic audience, is the source a scholarly publication from a journal or a reputable book? If you are writing for the general public, is the source more popular in nature? Purpose Yes No   Is the information in this source biased or limited to one point of view?   Overall, is this source suitable as a resource for your research purposes? If you answered “no” to one or more of these questions, you should take a closer look at your source. Getting one “no” does not mean you should not use your source, but it does mean you should really think about the overall quality of your service. *Checklist adapted from University of Massachusetts “Evaluating Sources Checklist”
+
+Links on this section's web page:
+- Web page (learningpolicyinstitute.org): https://learningpolicyinstitute.org/product/diversifying-teaching-profession-brief
+- Evaluating Sources: https://owl.excelsior.edu/research/evaluating-sources/
+- Criteria for Evaluating Sources: https://libguides.uta.edu/researchprocess/sources
+
+=== Answer key from the book: 3.12: Answer Key- Research ===
+## 3.7 Evaluating Your Sources
+## Evaluating some sources
+**Source 1:** Dr. King seems to be a highly credible source on this topic and her work was published in an academic journal on education. In addition, her article addresses benefits of having African American teachers as well as problems with keeping them. This is relevant to the topic. However, this was published in 1993. Although it would be a good source if you wanted to talk about teacher diversity now compared with the past, it would not be a strong source for discussing the experiences of African American teachers today. Furthermore, it is not about college teachers.
+**Source 2:** This is research conducted by an organization, not a university professor. The organization clearly states information about their goals, and lists their funders. The organization may not be unbiased, but it makes it clear who is funding the research. The research is relevant and fairly current. This may be a good source to use in a paper on whether it is important to have teachers of color in colleges.

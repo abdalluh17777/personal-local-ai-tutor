@@ -1,0 +1,243 @@
+Lesson 23 material: Grammar: Passive Voice
+English Stage 2 (B2) · Unit 2: Sentences and Paragraph Types · American History
+
+=== 6.4: Grammar Presentation-Passive Voice ===
+From "High-Intermediate Academic Grammar for ESL Students" by Rebecca Al Haider, Reedley College (CC BY 4.0). This section: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/02%3A_Unit_2._American_History/06%3A_Executive_Order_9066/6.04%3A_Grammar_Presentation-Passive_Voice
+
+English verbs can have active or passive voice. In a sentence with active voice, the subject is the first and is the performer of the verb. The direct object in an active voice sentence is after the verb and is the receiver of the action. Look below at the differences between active and passive voice structure.
+**Active voice:** Subject (performer) + verb + direct object (receiver).
+The boy ate the cookies.
+**Passive voice**: Direct object (receiver) + conjugation of be verb + past participle verb + by subject (performer).
+The cookies were eaten by the boy.
+Passive voice sentences have a **be** verb conjugated according to tense and a past participle. The performer can be deleted from the sentence—in other words, the performer or subject is not required.
+For more information on this topic, watch these videos: __Active and Passive Voice__ ; __Active and Passive Voice__ (2); __Active versus Passive Voice__ ; __How to use the Passive Voice-English Grammar Lesson__
+Video: https://youtu.be/O6L7fW3Q4qI
+Video: https://youtu.be/AQNvhUrAn7o
+Video: https://youtu.be/W1_IRU6zx9g
+Video: https://youtu.be/nkAyggAM1q4
+## 2.2.4.1. **Exercise 3-Active and Passive Voice Comprehension Check**
+Identify the following sentences as active or passive. Remember if the subject is “doing” the verb, then the sentence is active.
+1. The jury voted at the end of the trial.
+a. active
+b. passive
+2. Some jurors were told to leave at noon.
+a. active
+b. passive
+3. All the jurors were leaving the building when the reporters came in.
+a. active
+b. passive
+4. My sister Joan has been selected for jury two different times.
+a. active
+b. passive
+5. Were you given any information about that murder case?
+a. active
+b. passive
+6. Not every juror will be needed for the trial next week.
+a. active
+b. passive
+“Active and Passive Voice Comprehension Check” is derived from “__Writing for Success__” by Lynne Bost, Barbara Hall, Michelle Kassorla, Karen McKinney-Holley, Kirk Swenson, and Rebecca Weaver licensed under __CC BY__.
+## 2.2.4.2. Transitive and Intransitive Verbs
+Because passive voice requires a direct object, only transitive verbs can be used in passive sentences. Transitive verbs are verbs that have an object. Intransitive verbs do not have objects and cannot be made into passive sentences. Look at the examples below under transitive verbs. The objects of the active sentences (the first sentence in the numbered pairs) have been emphasized. Notice that the objects are first in the passive sentences that follow. Compare the transitive verbs to the intransitive verbs. Notice how the sentences under intransitive verbs do not have direct objects and, therefore, cannot be passive.
+## 2.2.4.2.1. Transitive Verbs
+1. I drink **coffee**. Coffee is drunk.
+2. Sarina played **the piano**. The piano was played by Sarina.
+3. They have done **their homework**. Their homework has been done.
+## 2.2.4.2.2. Intransitive Verbs
+1. I slept.
+2. The accident happened.
+3. The student arrived early.
+## 2.2.4.2.3. **Exercise 4-Transitive and Intransitive Verb Comprehension Check**
+Read the active sentences below. Select all the sentences that can be changed into passive voice. In other words, which sentences have a transitive verb (and direct object)?
+____ 1. Ning does his homework every day.
+____ 2. The child screams too much.
+____ 3. Frances often helps her neighbors.
+____ 4. Levar has left his wallet in the classroom.
+____ 5. She wrote my favorite poem.
+## 2.2.4.3. **Verb Tense and Voice**
+The be verb is the most common verb used to create passive sentences. It is conjugated according to the tense of the verb in an active sentence. Analyze the changes in the verbs below.
+| **Tense** | **Active** | **Passive** |
+| **simple present** | Patty tutors the student. | The student **is** tutored by Patty. |
+| **present progressive** | Patty is tutoring the student. | The student **is being** tutored by Patty. |
+| **present perfect** | Patty has tutored the student. | The student **has been** tutored by Patty. |
+| **simple past** | Patty tutored the student. | The student **was** tutored by Patty. |
+| **past progressive** | Patty was tutoring the student. | The student **was being** tutored by Patty. |
+| **past perfect** | Patty had tutored the student. | The student **had been** tutored by Patty. |
+| **simple future** | Patty will tutor the student. | The student **will be** tutored by Patty. |
+| **future progressive (be going to)** | Patty is going to tutor the student. | The student **is going to be** tutored by Patty. |
+| **future perfect** | Patty will have tutored the student. | The student **will have been** tutored by Patty. |
+Table 16 Verb Tense and Voice
+## 2.2.4.3.1. **Exercise 5-Verb Tense and Voice Comprehension Check**
+Complete the following passive sentences by using the verb tense from the active sentences. Your answer will only include the be verb. Use the chart above to help guide you.
+1. Maya writes the poem.
+The poem __________________________ written by Maya.
+2. Maya is writing the poem.
+The poem __________________________ written by Maya.
+3. Maya has written the poem.
+The poem __________________________ written by Maya.
+4. Maya wrote the poem.
+The poem __________________________ written by Maya.
+5. Maya was writing the poem.
+The poem __________________________ written by Maya.
+6. Maya had written the poem.
+The poem __________________________ written by Maya.
+7. Maya will write the poem.
+The poem __________________________ written by Maya.
+8. Maya is going to write the poem.
+The poem __________________________ written by Maya.
+9. Maya will have written the poem.
+The poem __________________________ written by Maya.
+## 2.2.4.4. Which voice should you use?
+1. When the verb or the direct object are **more important than the performer**, use passive voice.
+**Active:** People eat black-eyed peas for New Year’s Day.
+**Passive**: Black-eyed peas are eaten for New Year’s Day.
+**Active**: A college offered my son a scholarship.
+**Passive**: My son was offered a scholarship. OR A scholarship was offered to my son.
+2. 2. When the subject or performer is unknown, use passive voice.
+1. The bank was robbed last night.
+2. Thousands of innocent people were killed.
+## 2.2.4.5. Exercise 6-Active to Passive
+Change the active sentences to passive voice. Do not include the performer if it is unnecessary.
+Example
+Active sentence: “The US government “reserved” relatively small areas of land for Native Americans.”
+Passive sentence: Small areas of land were “reserved” for Native Americans by the US government.
+1. Active sentence: Maslow developed the theory.
+Passive sentence:
+2. 2. Active sentence: Someone made my car in Japan.
+Passive sentence:
+3. 3. Active sentence: People learn English around the world.
+Passive sentence:
+4. 4. Active sentence: Workers will complete the project next week.
+Passive sentence:
+5. 5. Active sentence: Students use computers to do homework.
+Passive sentence:
+6. Active sentence: Samuel F.B. Morse invented the telegraph.
+Passive sentence:
+7. Active sentence: The college has given three scholarships.
+Passive sentence:
+“Grammar Presentation-Passive Voice” is derived from “__ESL for High-Intermediate Students: The Way You Like It__” by Don Bissonette licensed under __CC BY-NC__
+
+Links on this section's web page:
+- Active and Passive Voice: https://youtu.be/O6L7fW3Q4qI
+- Active and Passive Voice: https://youtu.be/AQNvhUrAn7o
+- Active versus Passive Voice: https://youtu.be/W1_IRU6zx9g
+- How to use the Passive Voice-English Grammar Lesson: https://youtu.be/nkAyggAM1q4
+- ESL for High-Intermediate Students: The Way You Like It: https://docs.google.com/document/d/1E09eioDQntcobV9CpeXvg58UitGc_cGjk5f5bcvoIlA/edit
+
+=== 6.5: Applying Grammar to Reading ===
+From "High-Intermediate Academic Grammar for ESL Students" by Rebecca Al Haider, Reedley College (CC BY 4.0). This section: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/02%3A_Unit_2._American_History/06%3A_Executive_Order_9066/6.05%3A_Applying_Grammar_to_Reading
+
+## 2.2.5.1. **Exercise 7-Active or Passive**
+Passive voice is frequently found in academic textbooks. Recognizing passive voice can help readers understand who or what the receivers (direct objects) and performers (subjects) are. This chapter’s reading on Japanese Americans used passive voice. Reread the sentences looking for the receiver and performer. Label the sentences as either active or passive.
+1. The attack on Pearl Harbor also launched a rash of fear about national security, especially on the West Coast. (Paragraph 2)
+a. active
+b. passive
+2. In February 1942, just two months after Pearl Harbor, President Roosevelt, as commander-in-chief, issued Executive Order 9066. (Paragraph 2)
+a. active
+b. passive
+3. The eastern boundary of the military zone was an imaginary line along the rim of the Cascade Mountains. (Paragraph 3)
+a. active
+b. passive
+4. Within weeks, all persons of Japanese ancestry — whether citizens or enemy aliens, young or old, rich or poor — were ordered to assembly centers near their homes. (Paragraph 4)
+a. active
+b. passive
+5. Persons of Japanese ancestry in western Washington State were removed to the assembly center at the Puyallup Fairgrounds near Tacoma. (Paragraph 5)
+a. active
+b. passive
+6. In 1943 and 1944 the government assembled a combat unit of Japanese Americans for the European theater. (Paragraph 7)
+a. active
+b. passive
+7. One of the most stunning ironies in this episode of American civil liberties was articulated by an internee. (Paragraph 10)
+a. active
+b. passive
+## 2.2.5.2. **Exercise 8-Critical Reading**
+When history is told using the passive voice, at times important performers are hidden. The storyteller is focusing on the victim while protecting the image of the performer. Look at the examples below.
+1. George Floyd was killed.
+2. Native Americans were often relocated by force.
+Why is the passive voice used in these examples? Who are the performers, and why aren’t they mentioned? Look at the sentences from Chapter 4 and 5’s readings. Discuss with a partner why the performer has or has not been included. If the performer has not been included, speculate who the performer is.
+1. Over 4,000 Native Americans died from either starvation or disease while they were being relocated. (Life on Reservations, Paragraph 3)
+2. Persons of Japanese ancestry in western Washington State were removed to the assembly center at the Puyallup Fairgrounds near Tacoma. (Japanese Relocation During World War II, Paragraph 5)
+3. Persons who became troublesome were sent to a special camp at Tule Lake, California, where dissidents were housed. (Japanese Relocation During World War II, Paragraph 6)
+4. the Japanese American community of Tacoma, Washington, had been sent to three different centers. (Japanese Relocation During World War II, Paragraph 8)
+5. Mitsuye Endo is entitled to an unconditional release by the War Relocation Authority. (Japanese Relocation During World War II, Paragraph 9)
+
+=== 6.6: Communication Practice ===
+From "High-Intermediate Academic Grammar for ESL Students" by Rebecca Al Haider, Reedley College (CC BY 4.0). This section: CC BY 4.0; authored, remixed or curated by Rebecca Al Haider via source content that was edited to the style and standards of the LibreTexts platform. Original page: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/High-Intermediate_Academic_Grammar_for_ESL_Students_(Al_Haider)/02%3A_Unit_2._American_History/06%3A_Executive_Order_9066/6.06%3A_Communication_Practice
+
+## 2.2.6.1. **Exercise 9-Before and After**
+Look at the before and after pictures of a living room. What has been done? Write down five differences and share with your group members. Use the example to guide you.
+Example: The window shutters were removed.
+(Picture: Image 17 Living Room-Before)
+Image 17 Living Room-Before
+(Picture: Image 18 Living Room-After)
+Image 18 Living Room-After
+## 2.2.6.2. **Exercise 10-New Year Traditions (Listening Exercise)**
+Listen to __the new year’s traditions from around the world__. Complete the sentences using passive voice.
+Video: https://youtu.be/pxCswHrapP8
+1. Twelve grapes ________________ to bring good luck. The grapes symbolize the 12 months in the year.
+2. Negative energy ________________ when every corner of the home ________________ with a broom.
+3. Purple and gold decorations ________________ in the house to bring prosperity and health.
+4. New clothes especially red ones ________________ to attract prosperity and passion.
+5. Donations ________________ to those in need to make room for what the new year will bring.
+6. Money ________________ in shoes to show economic stability.
+7. Water ________________ out the window or door to let go of suffering, tears, or sorrow.
+## 2.2.6.3. **Exercise 11-My Favorite Celebration**
+Ask your group members about their favorite celebrations. Use the passive voice in the questions and answers. Use the examples and list of topics to guide you.
+Question: When is this event celebrated?
+Answer: Eid al-Fitr is celebrated after the month of Ramadan.
+Topics:
+food and drinks
+clothes
+activities
+decorations
+places
+
+Links on this section's web page:
+- the new year’s traditions from around the world: https://youtu.be/pxCswHrapP8
+
+=== Answer key from the book: 17.5: Chapter 5. Executive Order 9066 ===
+## 6.5.1. **Exercise 1-Listening Comprehension**
+1. c
+2. a
+3. d
+4. b
+## 6.5.2. **Exercise 2-Reading Comprehension**
+1. b
+2. d
+3. a
+4. c
+## 6.5.3. **Exercise 3-Active and Passive Voice Comprehension Check**
+1. a
+2. b
+3. a
+4. b
+5. b
+6. b
+## 6.5.4. **Exercise 4-Transitive and Intransitive Verb Comprehension Check**
+√ 1. Ning does his homework every day.
+√ 3. Frances often helps her neighbors.
+√ 4. Levar has left his wallet in the classroom.
+√ 5. She wrote my favorite poem.
+## 6.5.5. Exercise 6-Active to Passive
+1. The theory was developed by Maslow.
+2. My car was made in Japan.
+3. English is learned around the world.
+4. The project will be completed next week.
+5. Computers are used to do homework.
+6. The telegraph was invented by Samuel F. B. Morse.
+7. Three scholarships have been given.
+## 6.5.6. **Exercise 7-Active or Passive**
+1. a
+2. a
+3. a
+4. b
+5. b
+6. a
+7. b
+## 6.5.7. **Exercise 10-New Year Traditions (Listening Exercise)**
+1. are eaten
+2. is removed, is brushed
+3. are hung
+4. are worn
+5. are given
+6. is placed
+7. is thrown

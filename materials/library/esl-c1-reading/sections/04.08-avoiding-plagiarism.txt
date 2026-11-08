@@ -1,0 +1,70 @@
+Reading, Writing, Research, and Reasoning: An Advanced ESL Text
+4.8: Avoiding Plagiarism
+Source: https://human.libretexts.org/Bookshelves/Languages/English_as_a_Second_Language/Reading_Writing_Research_and_Reasoning%3A_An_Advanced_ESL_Text/04%3A_Integrating_Evidence/4.08%3A_Avoiding_Plagiarism
+License: not declared; authored, remixed or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI))
+
+## What is plagiarism?
+Plagiarism is a kind of academic dishonesty. Colleges and universities take plagiarism seriously; many discipline or even expel students who are found to be plagiarizing.
+Plagiarism happens when we use another person’s intellectual materials and don’t give them credit. We can even plagiarize from ourselves if we re-use our own work without acknowledging that it has appeared elsewhere.
+Many educators used to believe that students plagiarized either because they were lazy or because they just didn’t care about anything but getting that final piece of paper: the degree or certificate. Both of these reasons are still true sometimes, but today instructors know that plagiarism and cheating are often motivated by more complicated factors. For example, sometimes students just don’t realize that they are plagiarizing. However, unintentional plagiarism is still considered plagiarism, so it’s important to know how to avoid making this mistake.
+The attitudes about plagiarism in the United States may be new to you. In some cultures, to use the words of others is a sign of honor and respect. In your country, the ownership of words may not be as important as it is in the U.S., where high value is given to using your own words. As a result, some actions that are considered “plagiarism” in the U.S. may be acceptable in your country. Even though your instructors here may understand and respect your culture, they will probably judge your work by American standards so it is important to understand what counts as plagiarism in the United States.
+## Recognizing plagiarism
+Let's see if you can recognize if something is plagiarism.
+Try this!
+Which of the following scenarios show plagiarism? (Remember, even if it’s unintentional, it’s still plagiarism!)
+1. A student finds a great quotation to use in her essay but forgets to indicate where it’s from.
+2. Three students in a study group turn in the same answers for a set of exercises.
+3. Three students in a study group help each other understand the concepts in the unit, but they each turn in their own answers.
+4. A student doesn’t realize an important assignment is due in class the next day. Fortunately, they completed a similar assignment in a different class last semester, so they turn that one in instead.
+(To see answers, check 4.12: Integrating Evidence Answer Key)
+## Avoiding plagiarism
+So, how can you avoid plagiarism? Here are some strategies.
+1. Take notes carefully. If you add source material to your work, mark it or identify it in such a way that you will *know* it’s from a source. Cite the work immediately and add it to your Works Cited list.
+2. And, if you use someone else’s intellectual property, you must give them credit. If you bring their work into your assignment, you must mention them as the work’s owners using in-text citations.
+3. If you are unsure about whether or not something is acceptable, check with your instructor! For example, it may be acceptable (and even encouraged!) to use sources from your research in another class or to work with other students in class to get a handle on a complicated concept but, if you have any doubts, it’s important to check with your instructor.
+## Noticing where ideas come from
+Let's see if you can identify which ideas come from a student and which come from outside sources.
+Notice this!
+Read the following example paragraph. Can you tell which ideas are the student’s own and which are from outside sources? How can you tell?
+Being able to speak more than one language opens up more employment opportunities. With more and more immigrants coming into the country, more employers are looking for those who can better communicate with people who’s best language isn’t English. In an *NBC News* article, it was reported that in “2010, there were roughly 240,000 job postings aimed at bilingual workers. But by 2015, that figure swelled to about 630,000… bilingual workers were in demand for both low and high-skilled positions such as financial managers, editors, and industrial engineers” (Cusido). These figures show that there is a desire for those who are able to speak more than one language in a wide range of job markets and these opportunities will likely continue to increase in the future. While speaking multiple languages may not be the only criteria in getting a job, it definitely will help. As Marco Lopez, an executive at a Chicago marketing agency explains, applicants who are bilingual have advantages in being hired (qtd. in Cusido). This shows how simply maintaining connections to an immigrant family’s roots and origins can become a major benefit for the children of immigrants. Immigrant parents should be made aware of this benefit so they can foster language growth.
+In the example, it is easy to tell whose ideas belong to whom. This is because the paragraph contains clear citations. To properly cite outside sources in your writing, you must do the following:
+- Mention the source’s owner/creator in your written work at the point where the source is used. You can do this by including the author's name in a sentence or with a parenthetical citation—putting the author's last name in parentheses at the end of the sentence.
+- Create a list of all of the sources you used in your assignment; you’ll do this by arranging them in a Works Cited list at the end of your essay.
+## Paraphrasing vs. patchwriting
+You will often paraphrase or summarize other sources when you write an academic paper. Paraphrasing means to rewrite someone else’s idea in your own words and sentence structure. ​However, sometimes writers try to paraphrases but do not change the vocabulary and sentence structure enough. This is called "patchwriting." Patchwriting is considered plagiarism, even if the writer cites the source and did not intend to plagiarize.
+## Identifying paraphrasing and patchwriting
+Let's compare a paraphrase and patchwriting of a quotation.
+Notice this!
+Here is a quotation from an article:
+"Around the world, more than half of people—estimates vary from 60 to 75 per cent—speak at least two languages. Many countries have more than one official national languages—South Africa has 11. People are increasingly expected to speak, read and write at least one of a handful of “super” languages, such as English, Chinese, Hindi, Spanish or Arabic, as well. So to be monolingual, as many native English speakers are, is to be in the minority, and perhaps to be missing out" (Vince).
+Here is patchwriting:
+All over the world, over 50% of people speak at least two languages. Many nations have more than one official national language. For example, South Africa has 11. People increasingly need to speak, read and write at least one of a handful of common languages, such as Spanish, English, Chinese, Hindi, or Arabic, in addition. So people who speak one language, as many native English speakers do, means that you are in the minority and missing out (Vince).
+As you can see, some words have been replaced by synonyms. However, about half of the words are the same and the sentence structure is exactly the same. Here, words that are repeated from the original are in bold and square brackets:
+All over **[the world,]** over 50% of people speak multiple **[languages. Many]** nations **[have more than one official national language.]** For example, [**South Africa has 11. People increasingly]** need to [**speak, read and write at least one of a handful of]** common [**languages, such as Spanish, English, Chinese, Hindi, or Arabic,]** in addition. **[So]** people who speak one language, **[as many native English speakers]** do, means that you are **[in the minority and missing out]** (Vince).
+Here is a paraphrase of the same quotation. You will see that there are not only differences in vocabulary, but also in sentence structure.
+According to Gaia Vince, while English speakers often speak only one language, it is actually more common to be multilingual. Speakers of smaller languages often need to learn a major language like English, Spanish, or Chinese, and in addition some countries have multiple official languages.
+Now, let's see if you can decide if something is paraphrasing or patchwriting.
+Try this!
+Here is another quotation:
+"Multilingualism has been shown to have many social, psychological and lifestyle advantages. Moreover, researchers are finding a swathe of health benefits from speaking more than one language, including faster stroke recovery and delayed onset of dementia" (Vince).
+Is this an appropriate paraphrase, or is it a plagiarism?
+Speaking more than one language has many social, psychological, and lifestyle benefits. In addition, researchers find a lot of health benefits from being multilingual. Those include recovering from strokes and dementia developing later (Vince).
+(To see the answer, check 4.12: Integrating Evidence Answer Key)
+## Checking for plagiarism
+Now, let's apply this to your own writing.
+Apply this!
+Look at a draft of your writing or a classmate's writing that uses outside sources.
+- Is it clear whose ideas belong to whom?
+- Is each outside source in your assignment cited according to the guidelines given by your instructor? If you're not sure, ask your instructor.
+- Do you have a list of your Works Cited at the end of your assignment?
+## Works Cited
+Cusido, Carmen. “Report: Want the Job? Be Able to Say So in More than One Language.” *NBCNews.com*, NBCUniversal News Group, 13 Mar. 2017.
+Vince, Gaia. "Why Being Bilingual Helps Keep Your Brain Fit." *Mosaic*, Aug. 2016, mosaicscience.com/bilingual-brains/.
+## Licenses and Attributions
+Authored by Clara Zimmerman, Porterville College. License: CC BY.
+Body paragraph on jobs for multilingual speakers in "Noticing where ideas come from" is from "The Importance of Immigrant Children Maintaining Their Native Language," a research paper by Carolina Lozano. License: CC BY.
+## CC Licensed Content: Previously Published
+Adapted from "Learning About Plagiarism and Guidelines for Using Information" in Carol Burnell, Jaime Wood, Monique Babin, Susan Pesznecker, and Nicole Rosevear's __The Word on College Reading and Writing__. License CC BY NC.
+Paragraph on cultural differences in plagiarism in "What is Plagiarism" is adapted from Excelsior Owl's page "Plagiarism is Serious." License: CC BY.
+Sample sentences are from "Why Being Bilingual Helps Keep Your Brain Fit" published on Mosaic . License: CC BY.
+This page titled 4.8: Avoiding Plagiarism was last modified on Sun, 09 Mar 2025 17:17:24 GMT and is shared under a not declared license and was authored, remixed, and/or curated by Gabriel Winer and Elizabeth Wadell (ASCCC Open Educational Resources Initiative (OERI)) .

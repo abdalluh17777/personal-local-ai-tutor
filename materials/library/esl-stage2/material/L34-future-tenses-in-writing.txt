@@ -1,0 +1,215 @@
+Lesson 34 material: Future Tenses in Writing
+English Stage 2 (B2) · Unit 3: Verb Tenses and Narration · The Human Lifespan
+
+=== Unit 13 Expressing Meaning in Future Tenses ===
+From "Building Academic Writing Skills" by Lin Cui, Harper College (CC BY-NC-SA 4.0). This section: CC BY-NC-SA (Attribution NonCommercial ShareAlike); by Lin Cui. Original page: https://harpercollege.pressbooks.pub/academic-writing-skills/chapter/unit-13expressing-meaning-in-future-tenses/
+
+# Unit 13 Expressing Meaning in Future Tenses
+**Learning Objectives**
+1. To understand ways to express meaning in the future – with simple future, simple present, and present progressive tenses – through multiple examples
+2. To learn future time clauses
+3. To practice using the appropriate future tenses in a variety of writing situations
+# I. Pretest
+(Picture: a robot holding a computer)
+a robot holding a computer
+In the following ten sentences about artificial intelligence[1], some bold-faced verbs are correct in expressing future meaning, but some do not. If the bold-faced part in the sentence is correct, choose “correct”. If not, choose one of the other two answers. After you finish one sentence, you will get instant feedback on your answer before the next sentence. If you make mistakes, you can retry all the questions or see all the answers at the end of the pre-test.
+[Interactive exercise]
+Q: 1. A lot of changes **will take** place in the future with the help of artificial intelligence (AI).
+   Options: correct | going to take | take
+   Answer: correct
+Q: 2. Pople **will be apply** AI to more areas of life in the near future.
+   Options: are going apply | correct | will apply
+   Answer: will apply
+Q: 3. “Self driving” cars **transport** people from home to work soon.
+   Options: are going transport | correct | will transport
+   Answer: will transport
+Q: 4. More companies will use the AI technology to analyze complicated financial data.
+   Options: correct | use | will be use
+   Answer: correct
+Q: 5. AI **will also assist** in surgical procedures in the hospitals.
+   Options: are also assisting | correct | will also assists
+   Answer: correct
+Q: 6. Robots **are going to substitute** humans in performing many manufacturing jobs.
+   Options: are going substitude | correct | going to substitute
+   Answer: correct
+Q: 7. Instant advice for improvement **is going to available** to students based on their test performance.
+   Options: correct | going to be available | is going to be available
+   Answer: is going to be available
+Q: 8. More and more offices **going to use** the AI technology in booking and rescheduling.
+   Options: are going to use | correct | will be use
+   Answer: are going to use
+Q: 9. When AI **is going to replace** human jobs, some people will lose their job.
+   Options: correct | replaces | will replace
+   Answer: replaces
+Q: 10. These people will need to find another job before AI **will take** over their work.
+   Options: correct | is going to take | takes
+   Answer: takes
+# II. Expressing Meaning in Simple Future
+**Simple Future Tense verb forms:**
+- “Be” verbs: will be, am/is/are going to be
+- “Do” verbs: will + base “Do” verb, am/is/are going to + base “Do” verb
+*For explanations and examples of “Be” verbs and “Do” verbs, open Unit 9 here.*
+***Meaning***: activities or situations that will happen in the future
+***Common time expressions***: later today, tomorrow, next week, in 2035, soon, in the future, in the near future …
+***Examples:*** about future medical care
+1. There __will be__ an increased need for doctors in the remote[2] areas of the world.
+2. Medical advances __are going to help__ terminally ill patients[3].
+3. __Will__ there __be__ a cure for the common cold in the near future?
+4. When __will__ medical care __become__ free for everyone?
+5. Scientists and doctors __are going to discover__ more effective cures for cancers in the next few years.
+6. More patients __will enjoy__ personalized medical care ten years from now.
+7. The governments in many countries __will provide__ free medical care to all citizens soon.
+**“Am/Is/Are Going to + Base Verb” vs “Will + Base Verb”**
+| **Meaning** | **am/is/are going to + base verb** | **will + base verb** |
+| **Future prediction[4] (same)** | There is going to be an increased need for doctors in the remote areas of the world. | There will be an increased need for doctors in the remote areas of the world. |
+| **Future schedule (same)** | The new doctors are going to begin their medical practice next week. | The new doctors will begin their medical practice next week. |
+| **Prior plan** | The hospital is going to purchase[5] some new equipment with the donated money. | X |
+| **A future action based on strong evidence at present** | The patient is eating! He is going to recover! | X |
+| **Promise, desire, determination** | X | No matter how long the surgery will be, this patient will endure[6] it. |
+| **Decision made at the moment of speaking** | X | A: The patient is in pain. Who will get the doctor? | B. I will! |
+| **Invitation** | X | Will you join us in the new hospital opening ceremony tomorrow? |
+# III. Expressing Meaning in Simple Present
+*For verb forms in simple present please refer to Unit 11 Expressing Meaning in Present Tenses. Open Unit 11 here.*
+Simple present is often used for actions or events that are part of a fixed or an official schedule, such as plane, movie, and semester schedules. Common verbs with this use include “start, begin, end, finish, open, close, arrive, leave, land, take off…”
+1. The new Children’s Hospital __opens__ next month.
+2. Its affiliated Urgent Care Center __starts__ two months later.
+# IV. Expressing Meaning in Present Progressive (No Non-Action Verbs)
+*For verb forms in present progressive, please refer to Unit 11 Expressing Meaning in Present Tenses. Open Unit 11 here.*
+Present progressive is often used for actions that have already been planned for the future. They can include personal plans. Add a future time expression in the sentence. Common verbs with this use include “go, come, move, see, fly, move, play, meet, buy…”
+1. Dr. Marcus __is flying__ in from New York this afternoon to perform the heart surgery.
+2. She __is meeting__ the patient’s family afterwards.
+**Exercise 1.** Correct the future verb forms in the following sentences about future houses. The first one is an example.
+***Example:***
+What are homes going look like in one hundred years?
+Correction: What are homes going to look like in one hundred years?
+1. (Picture: possible future houses with multicolored roofs)
+possible future houses with multicolored roofs
+Some houses going to be in the outer space.
+2. Some houses going to float[7] in mid-air.
+3. Are some of them going to existing under the water?
+4. Most houses will still going to be on the ground.
+5. What will happens to the existing homes?
+6. A lecture about future homes starting at 9 am tomorrow.
+7. Many students are go to that lecture.
+**Exercise 2.** Choose a topic below and write a paragraph about the future. Use appropriate future verbs.
+1. Will there be a cure for all types of cancer in thirty years? Why do you think so?
+2. What will elderly care be like in year 2060?
+# V. Future Time Clauses
+A future time clause is a type of dependent clause. It must be used with an independent clause to make a complete complex sentence.
+*For detailed explanations and examples of complex sentences, please refer to Unit 7 Sentence Essentials. Open Unit 7 here.*
+**A future time clause:**
+**when/while/before/after/until/as soon as … + subject + main verb in simple present or present progressive tense**
+In a time clause, simple present or present progressive is used to mean future. Keep the future tense in the independent clause. In other words, when you look at a future time clause, you see a simple present or present progressive verb there, but it means future.
+(Picture: a Santa Claus and a child in mall)
+a Santa Claus and a child in mall
+Therefore, the look of the verb and its real time reference are different. Try to understand this difference as if you were looking at a Santa Claus. When children sit with him for photos in the mall, he looks like a Santa Claus. However, when he takes off the costume, the real person could be a neighbor or a friend, not a Santa Claus!
+1. When AI __replaces__ more and more human jobs in the future, many people __will los__e their job.
+2. One of my friends __will need__ to find another job before AI __takes__ over her work in three months.
+3. She will be meeting some business friends while she __is traveling__ next month.
+**Exercise 3.** Combine the following sentences to form complex sentences with the conjunctions given. Each new sentence will contain a future time clause.
+***Example**:*
+*People will retire. They will enjoy more leisure time. (when)*
+(Picture: a robot pet toy)
+a robot pet toy
+*When people retire, they will enjoy more leisure time.*
+1. They will save enough money. They will work hard. (after)
+2. They will retire. They will not be lonely. (when)
+3. They will enjoy many conveniences in daily retirement living. There will be more inventions. (when)
+4. For example, robot pets will keep them company. Robot pets will be available. (as soon as)
+5. Those pets will make the seniors[8] happy. They will “adopt” the robot pets. (when)
+6. The robot pets will even be by their bedside. The seniors will be sleeping. (while)
+# VI. Unit Review Practice
+**Exercise 4.** “Will” and “am/is/are going to” can both be used to make predictions about future. Make predictions about the following statements. Explain why you feel that way. Mark your choices with “yes” or “no” and then share your thoughts with your partner..
+Fifteen years later,
+1. There will be no more war in the world.
+1. (Picture: Santa Claus and a child in mall)
+Grey and Black Tunnel Overlooking White Cloudy and Blue Sky
+2. There is going to be a cure for the common cold.
+3. Every country is going to have free elections.
+4. Everyone in the U.S. is going to have affordable health insurance.
+5. The number of homeless people in Chicago is going to be reduced in half.
+6. Harper College will have on-campus housing.
+7. College tuition is going to be free for everyone.
+8. I will enjoy whatever hobby I do not have time for right now.
+9. I am going to have the kind of family I have always wanted (personality of my spouse, number of my children …)
+10. I will run into my professor in another country.
+**Exercise 5.** The following paragraph is about the AI technology in the future. Fill in the appropriate tenses with the given verbs. The first one is an example. When you finish the entire exercise, you can retry or see all the answers.
+[Interactive exercise]
+Task: .
+   Ways Artificial Intelligence Will Change Our Lives Artificial Intelligence (AI) has already transformed a lot of areas of our lives. It will continue (continue) to impact this world for years to come. In cyber security, computer experts [will know/are going to know] (know) how to prevent cyberattacks because AI [will automatically sort/is going to automatically sort] (automatically, sort) data into high-risk and low-risk information. The technology [will also help/is also going to help] (also, help) with national security effectively when AI-enabled sensors [provide] (provide) information in threat detection. In future agriculture, farming [will be/is going to be](be) much more efficient because AI [will be/is going to be] (be) able to inform the farmers of the best time to pick crops. In medicine, computer-aided interpretation of medical images and remote diagnosis [will aid/is going to aid] (aid) the doctors in timely treating patients in places where medical care is not readily available. In the area of workforce safety and health, employees [will get/are going to get] (get) relief from overwork and musculoskeletal injuries, etc. whenever AI [performs] (perform) the tasks. Even the job market [will benefit/is going to benefit] (benefit) from using such technology when AI-powered engines [simplify] (simplify) the complexity of job hunting and [match] (match) the most relevant positions. Education is another area. The educational devices [will meet/are going to meet] (meet) to the exact needs of each student and [will give/are going to give] (give) immediate feedback while AI [is operating/operates] (operate). The possibilities of AI technology are endless and [will surely bring/are surely going to bring] (surely, bring) revolutions to the ways we work, study, and live.
+*Adapted from https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence#Education. Last accessed­­­ on September 22, 2021.*
+**Exercise 6.** Correct the six more verb errors in the following paragraph about future online learning (not including the example).The first one is an example.
+Online Learning: A Growing Trend
+Online learning ***~~will be become~~ (will become*****)** more popular in colleges in the next few years. In-person classes will still be dominant on college campuses, but there are going be more and more virtual learning opportunities. While many students probably did not experience this mode of education in the past, they will be grow increasingly accustomed[9] to remote learning. It is possible that every student will has the experience of remote learning. When this will happen, more students will able to complete their study more easily. It is estimated that in five years all college students going to take at least one course online.
+**Exercise 7.** Choose two of the following topics to write a paragraph for each. Use appropriate tenses. Include at least two future time clauses in each paragraph.
+What will _________ become in ten years?
+- education
+- job search
+- family
+- health care
+- traveling
+- social media …
+What will your life be like in ten years? What will you do to achieve these accomplishments?
+- What will you do for a living?
+- What kind of family life will you have?
+- What hobbies will you enjoy?
+- What will your dream trip be like in the future?
+- What will you do to help your community? …
+How will the artificial intelligence (or another technology) help the humanity in 2035?
+- Will it do all the housework chores for families?
+- Will it do all the homework assignments for students?
+- Will it replace the employees in companies?
+- Will it send people to the outer space?
+- Will it eliminate diseases?
+- Will it better preserve the environment?
+- Will it promote world peace?
+- Will it improve international cooperation? …
+**NSNT Practice**
+(Picture: a pen writing in a notebook)
+a pen writing in a notebook
+Go to **The NSNT Free Writing Approach and Additional Weekly Prompts for Writing** in Appendix A. *(Open Appendix A here.)* Choose two topics that use future tenses. You may start with the NSNT approach and then rewrite your paragraphs. Pay attention to the use of future verbs. You are encouraged to share your paragraphs with your partners and help each other improve.
+[Interactive exercise]
+Writing task: You may write in your notebook or in the box below. (Warning: Once you leave this page, you will lose what you have written in the box.) .
+**Vocabulary Review**
+(Picture: a page in a dictionary)
+a page in a dictionary
+The words here have appeared in this unit. The best way to learn them is to guess the meaning of each word from the context. Then hover your computer mouse over the number beside each word to check its meaning and part of speech. These words are also listed in the footnote area at the end of each unit.
+Here, you can use the flashcards below to review these words.
+[Interactive exercise]
+Card: artificial intelligence -> noun phrase, a technology to make machines act like humans
+Card: substitute -> verb, replace
+Card: float -> verb, stay on the surface of water without sinking
+Card: remote -> adjective, far away
+Card: terminally ill patient -> noun phrase, a person who is very sick and has no chance of recovery
+Card: prediction -> noun, a guess
+Card: purchase -> verb, buy
+Card: endure -> verb, go through something difficult
+Card: senior -> senior: noun, an old person
+Card: accustomed -> adjective, adapted
+**Summary**
+1. Always focus on the meaning/ideas while choosing verb tenses.
+2. Time words, verb forms, and verb tenses must match one another.
+3. The verbs in the simple future tense appear as “will be”, “am/is/are going to be”, “will + base verb”, and “am/is/are going to + base verb”.
+4. The simple future tense is used in expressing activities or situations that will happen in the future.
+5. The simple present tense is used for actions or events with a fixed or an official schedule.
+6. The present progressive tense is used for actions or events that have already been planned for the future. They can include personal plans.
+7. In a future time clause, simple present or present progressive is used, and a future tense is used in the independent clause.
+## Media Attributions
+- a robot holding a computer © Photo by Alex Knight from Pexels
+- Santa Claus and a child in mall © Photo by cottonbro from Pexels
+- a robot pet toy © Photo by Kindel Media from Pexels
+- Grey and Black Tunnel Overlooking White Cloudy and Blue Sky © Pixabay
+- a pen writing in a notebook © Photo by Aaron Burden on Unsplash
+- a page in a dictionary © Pixabay
+1. artificial intelligence: noun phrase, a technology to make machines act like humans ↵
+2. remote: adjective, far away ↵
+3. terminally ill patient: noun phrase, a person who is very sick and has no chance of recovery ↵
+4. prediction: noun, a guess ↵
+5. purchase: verb, buy ↵
+6. endure: verb, go through something difficult ↵
+7. float: verb, stay on the surface of water without sinking ↵
+8. senior: noun, an old person ↵
+9. accustomed: adjective, adapted ↵
+
+Links on this section's web page:
+- Web page (en.wikipedia.org): https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence
